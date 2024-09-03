@@ -9,6 +9,23 @@
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 成都4台,http://cdn1.cditv.cn/cdtv4high/CDTV4High.flv/playlist.m3u8?wsSecret=8754269540ec869bebe58d6407910cdf&wsTime=66d6cac4
+成都综合,http://cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=db717c746acf2006d44fc33246dd5c36&wsTime=66d6ccd3
+成都经济,http://cdn1.cditv.cn/cdtv2high/CDTV2High.flv/playlist.m3u8?wsSecret=48a6f9f111a56e2df33f82b0664b6ac8&wsTime=66d6cd1b
+成都公共,http://cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?wsSecret=d24367d86cbcfabb0e9d4e1497084eea&wsTime=66d6cd7d
+成都生活,http://cdn1.cditv.cn/cdtv3high/CDTV3High.flv/playlist.m3u8?wsSecret=a1a8aeb0de8fe1c9acee1fb58006e18f&wsTime=66d6cdfb
+都江堰综合,https://quxian.pull.cditv.cn/live/dujiangyan.flv/playlist.m3u8?wsSecret=eea722b4e139a414d0e0650666890b01&wsTime=66d6ce63
+西双版纳综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+西双版纳文旅,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+湖南潇湘电影,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mcz05OTUyYWZmNWYzNzQwNTVmMjQ1NDcxZjQ0NTNlZTI4MiZlcz0xNzI1MzgyOTI3JnV1aWQ9ZTkzZDhiYjI0ZTUxODc0OTBjYWUyNzJhYjJlMDE5NWYtYWZiMjJhNmQmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZQ,,/HNDYMPP360.m3u8
+佛山影视,https://xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8?txSecret=62eab671a908742d31d8d21889c36dd7&txTime=66D6D1CE
+黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=3b10b4ffc89abaa3c8d5d9b13a9b5661&txTime=191b727bdf2
+福建电视剧,http://live3.fjtv.net/dsjpd/playlist.m3u8?_upt=515782e21725364429
+河南电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=2d4c799ba4e2adfd3042f1bcb125ab64&wsTime=1725369342
+浙江科教影视,https://ali-m-l.cztv.com/channels/lantian/channel004/540p.m3u8
+浙江影音娱乐,https://ali-m-l.cztv.com/channels/lantian/channel005/540p.m3u8
+甘肃文化影视,https://hlss.gstv.com.cn/49048r/w1l6d5.m3u8
+杭州影视,https://live3.hoolo.tv/hztv4/sd/live.m3u8?auth_key=1725362431-0-0-20926ffe81e62c8ab1da96914d424909
 
 上海,#genre#
 
