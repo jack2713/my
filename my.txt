@@ -1535,7 +1535,7 @@ PBS Kids,http://38.96.178.201/live/PBSKIDS/index.m3u8
 延边1台,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
 延边2台,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边2台,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
-黑龙江 (全网)
+黑龙江 (全网),#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225599/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225799/index.m3u8
@@ -2060,7 +2060,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 
-黑龙江移动 (全网)
+黑龙江移动 (全网),#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$5.5M_1080
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$4.0M_1080
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8$1.6M_720
