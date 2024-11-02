@@ -24,7 +24,7 @@ jobs:
     - name: Update
       run: |
         # 频道
-        rm -f IPTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O test.m3u
+        rm -f test.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O test.m3u
 
         # 节目单
         rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
