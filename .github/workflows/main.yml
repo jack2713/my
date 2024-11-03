@@ -1,38 +1,33 @@
-name: 'Daily Job'
+name: Update
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # UTC
   workflow_dispatch:
-    inputs:
-      environment:
-        description: 'Environment to deploy to'
-        required: true
-        default: 'production'
+  watch:
+    types: [started]
+  schedule:
+    - cron: 0,15,30,45 * * * *
+
+env:
+  TZ: Asia/Shanghai
 
 jobs:
-  run_job:
+  Update:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-      
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.10'
-        
-    - name: Install dependencies
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+
+    - name: Update
       run: |
-        python -m pip install --upgrade pip
-        pip install opencc-python-reimplemented
-        
-    - name: Run Python script
-      run: 
-      # 频道
+        # 频道
         rm -f IPTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O IPTV.m3u
-      
+
+        # 节目单
+        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+
     - name: Clean
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -45,5 +40,3 @@ jobs:
 
     - name: Push
       run: git push -f origin main
-    
-        
