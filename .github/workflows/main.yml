@@ -1,42 +1,66 @@
-name: Update
 
+name: Fetch and Organize Streams
+
+# 触发条件
 on:
-  workflow_dispatch:
-  watch:
-    types: [started]
   schedule:
-    - cron: 0,15,30,45 * * * *
+    # 每天 UTC 时间 00:00 和 12:00 运行
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 允许手动触发
 
-env:
-  TZ: Asia/Shanghai
+permissions:
+  contents: write  # 确保 GITHUB_TOKEN 具有写入权限
 
 jobs:
-  Update:
+  fetch_streams:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout
+    # 1. 检出项目仓库
+    - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: GetTime
-      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+    # 2. 设置 Python 环境
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
 
-    - name: Update
+    # 3. 安装依赖
+    - name: Install dependencies
       run: |
-        # 频道
-        rm -f IPTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O IPTV.m3u
+        python -m pip install --upgrade pip
+        pip install pandas requests
 
-        # 节目单
-        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
-
-    - name: Clean
+    # 4. 运行 Python 脚本
+    - name: Run script
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git checkout --orphan latest_branch
-        git add -A
-        git commit -am "$DATE"
-        git branch -D main
-        git branch -m main
+        python fetch_streams.py
 
-    - name: Push
-      run: git push -f origin main
+    # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
+    - name: List files in workspace
+      run: ls -la
+
+    # 6. 检查 Git 状态，确保文件已经被添加
+    - name: Git status
+      run: git status
+
+    # 7. 配置 Git 信息
+    - name: Configure Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
+    # 8. 提交并推送文件到项目仓库
+    - name: Commit and Push changes
+      run: |
+        git add $(pwd)/final_streams.txt  # 使用绝对路径确保路径正确
+        git commit -m "Update final_streams.txt with new streams" --allow-empty
+        git push origin HEAD:main  # 如果使用的是其他分支，请修改
+
+    # 9. 上传输出文件作为 GitHub Action 的工件 (artifact)
+    - name: Upload streams file
+      uses: actions/upload-artifact@v4
+      with:
+        name: final_streams
+        path: final_streams.txt
