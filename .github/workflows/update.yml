@@ -1,37 +1,41 @@
-name: Auto Update
 
+
+name: update
+
+# 触发条件
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 1,9,17 * * *'
-  push:
-    paths-ignore:
-      - .github
-      - .gitignore
-      - LICENSE
-      - logo.png
+    # 每天 UTC 时间 00:00 和 12:00 运行
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 允许手动触发
 
-env:
-  TZ: Asia/Shanghai
+permissions:
+  contents: write  # 确保 GITHUB_TOKEN 具有写入权限
 
 jobs:
-  Update:
-    strategy:
-      fail-fast: false
-      matrix:
-        include:
-          - os: ubuntu-latest
-            branch: master
-    runs-on: ${{ matrix.os }}
+  fetch_streams:
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+    # 1. 检出项目仓库
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: GetTime
-        run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST' | sed 's/ CST$//')" >> $GITHUB_ENV
+    # 2. 设置 Python 环境
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
 
-      - name: Update Files
-        run: |
+    # 3. 安装依赖
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas requests
+
+    # 4. 运行 Python 脚本
+    - name: Run script
+      run: |
           # 央视源
           rm -f CCTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CCTV.m3u
           sed -i -n '/央视频道/,+1p' CCTV.m3u
@@ -86,16 +90,31 @@ jobs:
           sed -i '/<channel id="中国教育一套">/,/<\/channel>/d; /<programme channel="中国教育一套".*>/,/<\/programme>/d' epg.xml
           
           rm -f epg.xml.gz && gzip -k epg.xml
-        
-      - name: Commit
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git checkout --orphan latest_branch
-          git add -A
-          git commit -am "${DATE} 更新."
-          git branch -D ${{ matrix.branch }}
-          git branch -m ${{ matrix.branch }}
 
-      - name: Push
-        run: git push -f origin HEAD:main
+    # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
+    - name: List files in workspace
+      run: ls -la
+
+    # 6. 检查 Git 状态，确保文件已经被添加
+    - name: Git status
+      run: git status
+
+    # 7. 配置 Git 信息
+    - name: Configure Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
+    # 8. 提交并推送文件到项目仓库
+    - name: Commit and Push changes
+      run: |
+        git add $(pwd)/final_streams.txt  # 使用绝对路径确保路径正确
+        git commit -m "Update final_streams.txt with new streams" --allow-empty
+        git push origin HEAD:main  # 如果使用的是其他分支，请修改
+
+    # 9. 上传输出文件作为 GitHub Action 的工件 (artifact)
+    - name: Upload streams file
+      uses: actions/upload-artifact@v4
+      with:
+        name: final_streams
+        path: final_streams.txt
