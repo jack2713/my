@@ -36,19 +36,16 @@ jobs:
     # 4. 运行 Python 脚本
     - name: Run script
       run: |
-          # 央视源
-          rm -f CCTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CCTV.m3u
-          sed -i -n '/央视频道/,+1p' CCTV.m3u
-          sed -i '/^\s*$/d' CCTV.m3u
+
           
           # 卫视源、地方频道、数字频道、港澳台
           rm -f CNTV.m3u && touch CNTV.m3u
+          wget https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u -O test2.m3u
           wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV1.m3u && sed -i -n '/卫视频道/,+1p' CNTV1.m3u
           wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV2.m3u && sed -i -n '/数字频道/,+1p' CNTV2.m3u
           wget https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u -O CNTV3.m3u && sed -i -n '/地方频道/,+1p' CNTV3.m3u
           wget https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u -O GAT.m3u && sed -i -n '/港澳台/,+1p' GAT.m3u
           wget https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u -O test1.m3u
-          wget https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u -O test2.m3u
           cat CNTV1.m3u >> CNTV.m3u
           cat CNTV3.m3u >> CNTV.m3u
           cat CNTV2.m3u >> CNTV.m3u
