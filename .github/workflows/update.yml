@@ -98,4 +98,4 @@ jobs:
           git branch -m ${{ matrix.branch }}
 
       - name: Push
-        run: git push -f origin ${{ matrix.branch }}
+        run: git push -f origin HEAD:main
