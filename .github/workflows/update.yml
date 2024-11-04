@@ -55,7 +55,6 @@ jobs:
           
           # 整合源
           rm -f iptv.m3u && touch iptv.m3u
-          cat CCTV.m3u > iptv.m3u
           cat CNTV.m3u >> iptv.m3u
           cat test1.m3u >> iptv.m3u
           cat test2.m3u >> iptv.m3u
@@ -64,7 +63,7 @@ jobs:
           sed -i 's|"https://raw.githubusercontent.com|"https://ghp.ci/https://raw.githubusercontent.com|g' iptv.m3u
           sed -i '/^\s*$/d' iptv.m3u
           
-          rm -f CCTV.m3u CNTV.m3u test1.m3u test2.m3u
+          rm -f CNTV.m3u test1.m3u test2.m3u
         
     # 5. 列出当前目录中的文件，确保 iptv.m3u 存在
     - name: List files in workspace
