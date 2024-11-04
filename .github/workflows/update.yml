@@ -47,12 +47,10 @@ jobs:
           wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV2.m3u && sed -i -n '/数字频道/,+1p' CNTV2.m3u
           wget https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u -O CNTV3.m3u && sed -i -n '/地方频道/,+1p' CNTV3.m3u
           wget https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u -O GAT.m3u && sed -i -n '/港澳台/,+1p' GAT.m3u
-          wget http://spread.tttttttttt.top/my.txt && sed -i -n '/地方卫视/,+1p' test.txt
           cat CNTV1.m3u >> CNTV.m3u
           cat CNTV3.m3u >> CNTV.m3u
           cat CNTV2.m3u >> CNTV.m3u
           cat GAT.m3u >> CNTV.m3u
-          cat test.txt >> CNTV.m3u
           rm -f CNTV1.m3u CNTV2.m3u CNTV3.m3u GAT.m3u
           sed -i '/^\s*$/d' CNTV.m3u
           
