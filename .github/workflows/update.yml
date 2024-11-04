@@ -62,20 +62,8 @@ jobs:
           sed -i '1i #EXTM3U x-tvg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' iptv.m3u
           sed -i 's|"https://raw.githubusercontent.com|"https://ghp.ci/https://raw.githubusercontent.com|g' iptv.m3u
           sed -i '/^\s*$/d' iptv.m3u
-
-          # 大人源
-          rm -f Adult.m3u && wget http://adultiptv.net/chs.m3u -O Adult.m3u
-          sed -i -n '/XXX/,+1p' Adult.m3u
-          sed -i 's/XXX/成人频道/' Adult.m3u
-          sed -i 's/AdultIPTV.net //g' Adult.m3u
-          sed -i '/^\s*$/d' Adult.m3u
           
-          rm -f iptv+.m3u && touch iptv+.m3u
-          cat iptv.m3u > iptv.m3u
-          cat Adult.m3u >> iptv.m3u
-          sed -i '/^\s*$/d' iptv.m3u
-          
-          rm -f Adult.m3u CCTV.m3u CNTV.m3u
+          rm -f CCTV.m3u CNTV.m3u
         
     # 5. 列出当前目录中的文件，确保 iptv.m3u 存在
     - name: List files in workspace
