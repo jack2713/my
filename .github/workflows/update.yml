@@ -96,7 +96,7 @@ jobs:
       run: |
         git add $(pwd)/iptv.m3u  # 使用绝对路径确保路径正确
         git commit -m "Update iptv.m3u with new streams" --allow-empty
-        git push origin HEAD:main  # 如果使用的是其他分支，请修改
+        git push -f origin HEAD:main  # 如果使用的是其他分支，请修改
 
     # 9. 上传输出文件作为 GitHub Action 的工件 (artifact)
     - name: Upload streams file
