@@ -27,14 +27,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Check Repository Owner
-        id: check_owner
-        run: |
-          if [ "${{ github.repository_owner }}" != "kilvn" ]; then
-            echo "Repository owner is not kilvn. Cancelling the job."
-            exit 1
-          fi
-
       - name: GetTime
         run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST' | sed 's/ CST$//')" >> $GITHUB_ENV
 
