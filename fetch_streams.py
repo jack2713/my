@@ -13,7 +13,6 @@ urls = [
     "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
     'https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u',
     "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u",
-    "http://spread.tttttttttt.top/my.txt",
 ]
 
 # 区分IPv4和IPv6的正则表达式
@@ -101,7 +100,7 @@ def save_to_txt(grouped_streams, filename="final_streams.txt"):
     print(f"保存文件的路径是: {filepath}")  # 输出文件保存路径
     ipv4_lines = []
     ipv6_lines = []
-    ohter_lines = []
+    iptv_lines = []
 
     for _, row in grouped_streams.iterrows():
         program_name = row['program_name']
@@ -113,15 +112,15 @@ def save_to_txt(grouped_streams, filename="final_streams.txt"):
             elif ipv6_pattern.match(url):
                 ipv6_lines.append(f"{program_name},{url}")
             else:
-                other_lines.append(f"{program_name},{url}")
+                iptv_lines.append(f"{program_name},{url}")
 
     with open(filepath, 'w', encoding='utf-8') as output_file:
         output_file.write("# IPv4 Streams\n")
         output_file.write("\n".join(ipv4_lines))
         output_file.write("\n\n# IPv6 Streams\n")
         output_file.write("\n".join(ipv6_lines))
-        output_file.write("\n\n# ohter Streams\n")
-        output_file.write("\n".join(other_lines))
+        output_file.write("\n\n# iptv Streams\n")
+        output_file.write("\n".join(iptv_lines))
 
     print(f"所有源已保存到 {filepath}")
 
