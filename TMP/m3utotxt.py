@@ -73,7 +73,7 @@ def fetch_m3u_channels_and_save(urls, output_file_path):
 if __name__ == "__main__":  
     # 定义多个M3U文件的URL  
     urls = [  
-        'https://tv.iill.top/m3u/Gather',  
+        'https://github.com/YanG-1989/m3u/blob/main/Gather.m3u',  
         'https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',  
     ]  
   
