@@ -6,13 +6,10 @@ import os
 # 多个网站 URL 列表
 urls = [
     "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
-    "http://175.178.251.183:6689/live.txt",
     "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
-    "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-    "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
-    "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-    'https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u',
-    "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u",
+    "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2livefomi243.txt",
+    "https://qu.ax/kBip.m3u",
+    "https://qu.ax/HtMB.txt",
 ]
 
 # 区分IPv4和IPv6的正则表达式
