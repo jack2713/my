@@ -1,12 +1,13 @@
 
 
+
 name: update
 
 # 触发条件
 on:
   schedule:
     # 每天 UTC 时间 00:00 和 12:00 运行
-    - cron: '0 0,12 * * *'
+    - cron: '0 0,11 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
@@ -36,36 +37,9 @@ jobs:
     # 4. 运行 Python 脚本
     - name: Run script
       run: |
+        python update.py
 
-          
-          # 卫视源、地方频道、数字频道、港澳台
-          rm -f CNTV.m3u && touch CNTV.m3u
-          wget https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u -O test2.m3u
-          wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV1.m3u && sed -i -n '/卫视频道/,+1p' CNTV1.m3u
-          wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV2.m3u && sed -i -n '/数字频道/,+1p' CNTV2.m3u
-          wget https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u -O CNTV3.m3u && sed -i -n '/地方频道/,+1p' CNTV3.m3u
-          wget https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u -O GAT.m3u && sed -i -n '/港澳台/,+1p' GAT.m3u
-          wget https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u -O test1.m3u
-          cat CNTV1.m3u >> CNTV.m3u
-          cat CNTV3.m3u >> CNTV.m3u
-          cat CNTV2.m3u >> CNTV.m3u
-          cat GAT.m3u >> CNTV.m3u
-          rm -f CNTV1.m3u CNTV2.m3u CNTV3.m3u GAT.m3u
-          sed -i '/^\s*$/d' CNTV.m3u
-          
-          # 整合源
-          rm -f iptv.m3u && touch iptv.m3u
-          cat CNTV.m3u >> iptv.m3u
-          cat test1.m3u >> iptv.m3u
-          cat test2.m3u >> iptv.m3u
-          sed -i '/#EXTM3U/d' iptv.m3u
-          sed -i '1i #EXTM3U x-tvg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' iptv.m3u
-          sed -i 's|"https://raw.githubusercontent.com|"https://ghp.ci/https://raw.githubusercontent.com|g' iptv.m3u
-          sed -i '/^\s*$/d' iptv.m3u
-          
-          rm -f CNTV.m3u test1.m3u test2.m3u
-        
-    # 5. 列出当前目录中的文件，确保 iptv.m3u 存在
+    # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
     - name: List files in workspace
       run: ls -la
 
@@ -82,13 +56,13 @@ jobs:
     # 8. 提交并推送文件到项目仓库
     - name: Commit and Push changes
       run: |
-        git add $(pwd)/iptv.m3u  # 使用绝对路径确保路径正确
-        git commit -m "Update iptv.m3u with new streams" --allow-empty
-        git push -f origin HEAD:main  # 如果使用的是其他分支，请修改
+        git add $(pwd)/my.txt  # 使用绝对路径确保路径正确
+        git commit -m "Update my with new streams" --allow-empty
+        git push origin HEAD:main  # 如果使用的是其他分支，请修改
 
     # 9. 上传输出文件作为 GitHub Action 的工件 (artifact)
     - name: Upload streams file
       uses: actions/upload-artifact@v4
       with:
-        name: iptv
-        path: iptv.m3u
+        name: my
+        path: my.txt
