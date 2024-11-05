@@ -54,7 +54,7 @@ if __name__ == "__main__":
     # 定义多个URL  
     urls = [  
         'http://rihou.cc:555/gggg.nzk',  
-        'https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',  
+        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',  
     ]  
   
     fetch_and_replace(urls)
