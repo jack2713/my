@@ -72,12 +72,12 @@ def parse_txt(content):
     streams = []
 
     for line in lines:
-        match = re.match(r"(.+?),\s*(http.+)", line)
-        if match:
-            program_name = match.group(1).strip()
-            stream_url = match.group(2).strip()
-            streams.append({"program_name": program_name, "stream_url": stream_url})
-
+        if (match := re.match(r"(.+?),\s*(http.+)", line)) or (match := re.match(r"(.+?),\s*(p3p.+)", line)):  
+            # 注意：这里使用了Python 3.8+的“海象运算符”(:=)，它允许在表达式内部进行赋值  
+            program_name = match.group(1).strip()  
+            stream_url = match.group(2).strip()  
+            streams.append({"program_name": program_name, "stream_url": stream_url})  
+  
     return streams
 
 def organize_streams(content):
