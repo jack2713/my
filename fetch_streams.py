@@ -112,7 +112,7 @@ def save_to_txt(grouped_streams, filename="final_streams.txt"):
                 ipv4_lines.append(f"{program_name},{url}")
             elif ipv6_pattern.match(url):
                 ipv6_lines.append(f"{program_name},{url}")
-            else
+            else:
                 other_lines.append(f"{program_name},{url}")
 
     with open(filepath, 'w', encoding='utf-8') as output_file:
