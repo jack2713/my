@@ -74,7 +74,7 @@ if __name__ == "__main__":
     ]  
   
     # 指定输出文件的名称  
-    output_file_path = "/TMP/TMP.txt"  
+    output_file_path = "TMP/TMP.txt"  
   
     # 调用函数从M3U URLs获取内容，提取频道信息，并保存到TXT文件  
     fetch_m3u_channels_and_save(urls, output_file_path)
