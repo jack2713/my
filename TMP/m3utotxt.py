@@ -2,11 +2,7 @@ import requests
 import os  
 import time  
 from collections import defaultdict  
-  
-# 检查目录是否存在,如果不存在则创建  
-if not os.path.exists('./TMP/'):  
-    os.makedirs('./TMP/')  
-  
+    
 # 合并后的函数，接受URL列表，下载M3U文件，提取并处理频道信息  
 def fetch_m3u_channels_and_save(urls, output_file_path):  
     all_channels = []  # 用于存储所有提取的频道信息  
@@ -78,7 +74,7 @@ if __name__ == "__main__":
     ]  
   
     # 指定输出文件的名称  
-    output_file_path = "./TMP/TMP.txt"  
+    output_file_path = "/TMP/TMP.txt"  
   
     # 调用函数从M3U URLs获取内容，提取频道信息，并保存到TXT文件  
     fetch_m3u_channels_and_save(urls, output_file_path)
