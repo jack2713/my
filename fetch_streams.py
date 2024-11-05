@@ -7,7 +7,7 @@ import os
 urls = [
     "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
     "http://175.178.251.183:6689/live.txt",
-    "http://tot.totalh.net/tttt.txt",
+    "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
     "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
     "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
     "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
@@ -101,6 +101,7 @@ def save_to_txt(grouped_streams, filename="final_streams.txt"):
     print(f"保存文件的路径是: {filepath}")  # 输出文件保存路径
     ipv4_lines = []
     ipv6_lines = []
+    ohter_lines = []
 
     for _, row in grouped_streams.iterrows():
         program_name = row['program_name']
@@ -111,12 +112,16 @@ def save_to_txt(grouped_streams, filename="final_streams.txt"):
                 ipv4_lines.append(f"{program_name},{url}")
             elif ipv6_pattern.match(url):
                 ipv6_lines.append(f"{program_name},{url}")
+                else
+                other_lines.append(f"{program_name},{url}")
 
     with open(filepath, 'w', encoding='utf-8') as output_file:
         output_file.write("# IPv4 Streams\n")
         output_file.write("\n".join(ipv4_lines))
         output_file.write("\n\n# IPv6 Streams\n")
         output_file.write("\n".join(ipv6_lines))
+        output_file.write("\n\n# ohter Streams\n")
+        output_file.write("\n".join(other_lines))
 
     print(f"所有源已保存到 {filepath}")
 
