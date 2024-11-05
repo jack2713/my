@@ -6,7 +6,7 @@ name: m3utotxt
 on:
   schedule:
     # 每天 UTC 时间 00:00 和 12:00 运行
-    - cron: '0 0,10 * * *'
+    - cron: '0 0 7,16 * * ? '
   workflow_dispatch: # 允许手动触发
 
 permissions:
