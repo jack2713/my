@@ -5,10 +5,8 @@ import os
 
 # 多个网站 URL 列表
 urls = [
-    "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
-    "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2livefomi243.txt",
-    "https://qu.ax/kBip.m3u",
-    "https://qu.ax/HtMB.txt",
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u",
+    "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
 ]
 
 # 区分IPv4和IPv6的正则表达式
