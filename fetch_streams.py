@@ -5,7 +5,6 @@ import os
 
 # 多个网站 URL 列表
 urls = [
-    "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
     "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
     "https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2livefomi243.txt",
     "https://qu.ax/kBip.m3u",
@@ -69,7 +68,7 @@ def parse_txt(content):
     streams = []
 
     for line in lines:
-        if (match := re.match(r"(.+?),\s*(http.+)", line)) or (match := re.match(r"(.+?),\s*(p3p.+)", line)):  
+        if (match := re.match(r"(.+?),\s*(http.+)", line)) or (match := re.match(r"(.+?),\s*(p3p.+)", line)) or (match := re.match(r"(.+?),\s*(P3p.+)", line)):  
             # 注意：这里使用了Python 3.8+的“海象运算符”(:=)，它允许在表达式内部进行赋值  
             program_name = match.group(1).strip()  
             stream_url = match.group(2).strip()  
