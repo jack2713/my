@@ -45,8 +45,11 @@ def fetch_and_replace(urls):
             print(f"An error occurred while requesting {url}: {e}")  
   
     # 保存到新文件（使用不同的文件名或添加时间戳）  
-    timestamp = time.strftime("%Y%m%d_%H%M%S")  
+    timestamp = time.strftime("%Y%m%d_%H%M%S") 
+    # 在文件最前面添加注意事项
+    notice = "注意事项,#genren# 仅供测试自用，如有侵权请通知\n" 
     with open(f'my.txt', 'w') as file:  
+      file.write(notice)
         for line in all_processed_lines:  
             file.write(line + '\n')  # 每个行之间添加一个换行符  
   
