@@ -1,5 +1,5 @@
 注意事项,#genre#
-20241106043545仅供测试自用如有侵权请通知,http://cfss.cc/cdn/dyu/11531165.m3u8
+20241106054417仅供测试自用如有侵权请通知,http://cfss.cc/cdn/dyu/11531165.m3u8
 MY,#genre#
 南充科教,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8
 南充新闻综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8
@@ -234,6 +234,24 @@ NBA咪咕贰4K,http://111.13.111.242/000000001000/3000000010000015686/index.m3u8
 熊猫功夫频视,http://data.3g.yy.com/live/hls/1507716299/1507716299
 大湾区音乐会,https://vod2-nflive.southcn.com/6c9b613dvodcq1500007626/690b5f141397757893540164754/playlisteof.m3u8
 央卫频道,#genre#
+CCTV-01咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv1
+CCTV-02咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv2
+CCTV-03咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv3
+CCTV-04咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv4
+CCTV-05咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv5
+CCTV-5+咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv5p
+CCTV-06咪咕,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV-06咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv6
+CCTV-07咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv7
+CCTV-08咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv8
+CCTV-09咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv9
+CCTV-10咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv10
+CCTV-11咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv11
+CCTV-12咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv12
+CCTV-13咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv13
+CCTV-14咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv14
+CCTV-15咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv15
+CCTV-17咪咕,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv17
 CCTV-01频道,http://ha.xushining.com:50000/udp/225.1.1.120:5002
 CCTV-02频道,http://ha.xushining.com:50000/udp/225.1.1.133:5002
 CCTV-03频道,http://ha.xushining.com:50000/udp/225.1.1.158:5002
@@ -621,6 +639,89 @@ CCTV-17频道,http://113.15.186.162:8181/tsfile/live/faacts/00191.m3u8
 经典电影频道,http://113.15.186.162:8181/tsfile/live/10081.m3u8
 中国教育频壹,http://113.15.186.162:8181/tsfile/live/10171.m3u8
 金鹰纪实频套,http://113.15.186.162:8181/tsfile/live/10161.m3u8
+央卫斯特,#genre#
+CCTV-01斯特,http://154.9.232.236/mlTW26688.php?id=cctv1
+CCTV-02斯特,http://154.9.232.236/mlTW26688.php?id=cctv2
+CCTV-03斯特,http://154.9.232.236/mlTW26688.php?id=cctv3
+CCTV-04斯特,http://154.9.232.236/mlTW26688.php?id=Cctv4
+CCTV-04斯特,http://154.9.232.236/mlTW26688.php?id=cctv4
+CCTV-05斯特,http://154.9.232.236/mlTW26688.php?id=cctv5
+CCTV 5+斯特,http://154.9.232.236/mlTW26688.php?id=cctv5plus
+CCTV-06斯特,http://154.9.232.236/mlTW26688.php?id=cctv6
+CCTV-07斯特,http://154.9.232.236/mlTW26688.php?id=cctv7
+CCTV-08斯特,http://154.9.232.236/mlTW26688.php?id=cctv8hd
+CCTV-09斯特,http://154.9.232.236/mlTW26688.php?id=cctv9hd
+CCTV-10斯特,http://154.9.232.236/mlTW26688.php?id=cctv10hd
+CCTV-11斯特,http://154.9.232.236/mlTW26688.php?id=cctv11
+CCTV-12斯特,http://154.9.232.236/mlTW26688.php?id=cctv12
+CCTV-13斯特,http://154.9.232.236/mlTW26688.php?id=cctv13
+CCTV-14斯特,http://154.9.232.236/mlTW26688.php?id=cctv14
+CCTV-15斯特,http://154.9.232.236/mlTW26688.php?id=cctv15
+CGTN英斯特,http://154.9.232.236/mlTW26688.php?id=CGTN
+北京卫视斯特,http://154.9.232.236/mlTW26688.php?id=beijing
+深圳卫视斯特,http://154.9.232.236/mlTW26688.php?id=shenzhen
+广西卫视斯特,http://154.9.232.236/mlTW26688.php?id=guangxi
+湖北卫视斯特,http://154.9.232.236/mlTW26688.php?id=hubei
+东南卫视斯特,http://154.9.232.236/mlTW26688.php?id=fujian
+广东珠江斯特,http://154.9.232.236/mlTW26688.php?id=zhujiang
+特区斯特,#genre#
+Plus综合斯特,http://154.9.232.236/mlTW26688.php?id=j2twn
+凤凰卫视斯特,http://154.9.232.236/mlTW26688.php?id=phoenixtvhd
+凤凰资讯斯特,http://154.9.232.236/mlTW26688.php?id=phoenixinfohd
+凤凰香港斯特,http://154.9.232.236/mlTW26688.php?id=hkphoenixtwn
+有线新闻斯特,http://154.9.232.236/mlTW26688.php?id=hoycaijingtwn
+无线新闻斯特,http://154.9.232.236/mlTW26688.php?id=inewstwn
+无线翡翠斯特,http://154.9.232.236/mlTW26688.php?id=jadetwn
+无线华丽斯特,http://154.9.232.236/mlTW26688.php?id=Wlt
+无线华丽斯特,http://154.9.232.236/mlTW26688.php?id=Tvbjade
+无线明珠斯特,http://154.9.232.236/mlTW26688.php?id=pearltwn
+无线娱乐斯特,http://154.9.232.236/mlTW26688.php?id=Tvbentertainment
+千禧经典斯特,http://154.9.232.236/mlTW26688.php?id=Tvbclassic
+VIUTV英斯特,http://154.9.232.236/mlTW26688.php?id=viusixtwn
+RTHK-31斯特,http://154.9.232.236/mlTW26688.php?id=rhk31twn
+RTHK-32斯特,http://154.9.232.236/mlTW26688.php?id=rhk32twn
+美亚电影斯特,http://154.9.232.236/mlTW26688.php?id=meiyamovietwn
+天映频道马特,http://154.9.232.236/mlTW26688.php?id=Celestialindo
+天映频道闽特,http://154.9.232.236/mlTW26688.php?id=Celestial
+天映经典斯特,http://154.9.232.236/mlTW26688.php?id=Celestial2
+龙华电影斯特,http://154.9.232.236/mlTW26688.php?id=xingweimovie
+龙祥电影斯特,http://154.9.232.236/mlTW26688.php?id=lungxiangtimetwn
+纬来电影斯特,http://154.9.232.236/mlTW26688.php?id=videolandmovie
+东森电影斯特,http://154.9.232.236/mlTW26688.php?id=ettvmovie
+Astr爱奇斯特,http://154.9.232.236/mlTW26688.php?id=Qiyi
+AstrQJ国斯特,http://154.9.232.236/mlTW26688.php?id=Quanjia
+Astr欢喜斯特,http://154.9.232.236/mlTW26688.php?id=Huahee
+闽南斯特,#genre#
+中天新闻斯特,http://154.9.232.236/mlTW26688.php?id=ctinews
+东森新闻斯特,http://154.9.232.236/mlTW26688.php?id=ettvnews
+Tvbs新闻斯特,http://154.9.232.236/mlTW26688.php?id=tvbsn
+寰宇新闻斯特,http://154.9.232.236/mlTW26688.php?id=huanyuxinwentwn
+非凡新闻斯特,http://154.9.232.236/mlTW26688.php?id=feifannewstwn
+民视新闻斯特,http://154.9.232.236/mlTW26688.php?id=ftvnewtaiwan
+公视闽南斯特,http://154.9.232.236/mlTW26688.php?id=ctvtaiwan
+民视闽南斯特,http://154.9.232.236/mlTW26688.php?id=ftvhdtaiwan
+台视闽南斯特,http://154.9.232.236/mlTW26688.php?id=ttvtaiwan
+台视综合斯特,http://154.9.232.236/mlTW26688.php?id=ttvzhonghe
+八大第一斯特,http://154.9.232.236/mlTW26688.php?id=badafirst
+八大综合斯特,http://154.9.232.236/mlTW26688.php?id=badazhonghe
+八大戏剧斯特,http://154.9.232.236/mlTW26688.php?id=badadrama
+中天综合斯特,http://154.9.232.236/mlTW26688.php?id=ctizhonghe
+中天娱乐斯特,http://154.9.232.236/mlTW26688.php?id=ctient
+东森综合斯特,http://154.9.232.236/mlTW26688.php?id=ettvzhonghe
+东森戏剧斯特,http://154.9.232.236/mlTW26688.php?id=ettvdrama
+东森洋片斯特,http://154.9.232.236/mlTW26688.php?id=ettvwestern
+东森财经斯特,http://154.9.232.236/mlTW26688.php?id=ettvcaijingtwn
+龙华戏剧斯特,http://154.9.232.236/mlTW26688.php?id=lunghuaxijutwn
+龙华偶像斯特,http://154.9.232.236/mlTW26688.php?id=lunghuaidoltwn
+龙华洋片斯特,http://154.9.232.236/mlTW26688.php?id=lunghuawesterntwn
+纬来日本斯特,http://154.9.232.236/mlTW26688.php?id=videolandjapan
+三立闽南斯特,http://154.9.232.236/mlTW26688.php?id=sanlitaiwan
+三立戏剧斯特,http://154.9.232.236/mlTW26688.php?id=sanlixijutwn
+三立综合斯特,http://154.9.232.236/mlTW26688.php?id=sanlizhonghe
+EYE-戏剧斯特,http://154.9.232.236/mlTW26688.php?id=eyetvxijutwn
+ELTa影剧斯特,http://154.9.232.236/mlTW26688.php?id=eltayingjutwn
+Tvbs欢乐斯特,http://154.9.232.236/mlTW26688.php?id=tvbshuanletwn
+寰宇财经斯特,http://154.9.232.236/mlTW26688.php?id=huanyutaiwantwn
 央卫肆贰,#genre#
 CCTV-01肆贰,p2p://142.54.189.229:3456/64df4e39000298bd058fb75f6f793316.ts
 CCTV-02肆贰,p2p://142.54.189.229:3456/64df4e67000820a105906c772cd32f49.ts
@@ -5918,7 +6019,6 @@ Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-20241106 09:14:14,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
 每日一首,http://em.21dtv.com/songs/60085678.mkv
 
 💓专享源🅰️,#genre#
