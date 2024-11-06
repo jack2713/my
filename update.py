@@ -62,6 +62,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',
+        'http://47.99.102.252/live.txt',
     ]  
   
     fetch_and_replace(urls)
