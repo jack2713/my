@@ -16,7 +16,6 @@ def fetch_and_replace(urls):
             # 计算请求耗时  
             elapsed_time = end_time - start_time  
             print(f"Request to {url} took {elapsed_time:.2f} seconds.")  
-            timestamp1 = time.strftime("%Y%m%d%") 
   
             # 检查响应状态码  
             if response.status_code == 200:  
@@ -24,7 +23,7 @@ def fetch_and_replace(urls):
   
                 # 处理每一行  
                 for line in content.splitlines():  
-                    if '更新时间' in line or timestamp1 in line or '关于' in line:
+                    if '更新时间' in line or time.strftime("%Y%m%d")  in line or '关于' in line:
                         continue
                     # 检查行是否包含#genre#并处理（删除下划线）  
                     if '#genre#' in line.lower() or '更新时间' not in line:  
