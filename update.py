@@ -50,7 +50,7 @@ def fetch_and_replace(urls):
     timestamp = time.strftime("%Y%m%d%H%M%S") 
     # 在文件最前面添加注意事项
     notice = "注意事项,#genre#\n"+timestamp+"仅供测试自用如有侵权请通知,http://cfss.cc/cdn/dyu/11531165.m3u8\n" 
-    with open(f'my.txt', 'w', 'encoding='UTF-8') as file:
+    with open(f'my.txt', 'w', encoding='UTF-8') as file:
         file.write(notice)  # 首先写入注意事项
         for line in all_processed_lines:  
             file.write(line + '\n')  # 每个行之间添加一个换行符  
