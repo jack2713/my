@@ -23,7 +23,7 @@ def fetch_and_replace(urls):
   
                 # 处理每一行  
                 for line in content.splitlines():  
-                    if '更新时间' in line or time.strftime("%Y%m%d")  in line or '关于' in line:
+                    if '更新时间' in line or time.strftime("%Y%m%d")  in line or '关于' in line or '解锁' in line or '公众号' in line or '软件库' in line:
                         continue
                     # 检查行是否包含#genre#并处理（删除下划线）  
                     if '#genre#' in line.lower() or '更新时间' not in line:  
@@ -63,6 +63,8 @@ if __name__ == "__main__":
         'http://rihou.cc:555/gggg.nzk',  
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt', 
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
+        'http://47.99.102.252/live.txt',
+        'http://kxrj.site:55/lib/kx2024.txt',
     ]  
   
     fetch_and_replace(urls)
