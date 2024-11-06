@@ -21,7 +21,8 @@ def fetch_and_replace(urls):
                     content = response.text
                 except UnicodeDecodeError:
                     # 使用chardet检测编码
-                    encoding = chardet.detect(response.content)['UTF-8']
+                    encoding = chardet.detect(response.content)['encoding']
+                    print(f"检测到的编码方式 {encoding}.")
                     content = response.content.decode(encoding)
 
                 for line in content.splitlines():
