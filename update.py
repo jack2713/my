@@ -24,7 +24,7 @@ def fetch_and_replace(urls):
                 # 处理每一行  
                 for line in content.splitlines():  
                     # 检查行是否包含#genre#并处理（删除下划线）  
-                    if '#genre#' in line.lower() and '更新时间' not in line:  
+                    if '#genre#' in line.lower() or '更新时间' not in line:  
                         processed_line = line.replace('_', '')  
                     else:  
                         processed_line = line  
