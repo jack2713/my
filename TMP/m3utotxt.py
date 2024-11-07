@@ -55,7 +55,8 @@ if __name__ == "__main__":
     # 定义多个M3U文件的URL  
     urls = [  
         'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',  # 注意：修正了URL，以直接获取文件内容  
-        'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',  # 注意：修正了URL，以直接获取文件内容  
+        'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',  # 注意：修正了URL，以直接获取文件内容
+        'https://qu.ax/kBip.m3u',
     ]  
   
     # 指定输出文件的名称  
