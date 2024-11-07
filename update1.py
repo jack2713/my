@@ -1,3 +1,5 @@
+
+
 import requests  
 import time  
   
@@ -18,13 +20,15 @@ def fetch_and_replace(urls):
   
             # 检查响应状态码  
             if response.status_code == 200:
-                response.encoding = 'utf-8' 
+                response.encoding = 'utf-8'
                 content = response.text  
   
                 # 处理每一行  
                 for line in content.splitlines():  
+                    if '更新时间' in line or time.strftime("%Y%m%d")  in line or '关于' in line or '解锁' in line or '公众号' in line or '软件库' in line:
+                        continue
                     # 检查行是否包含#genre#并处理（删除下划线）  
-                    if '#genre#' in line.lower():  
+                    if '#genre#' in line.lower() or '更新时间' not in line:  
                         processed_line = line.replace('_', '')  
                     else:  
                         processed_line = line  
@@ -45,8 +49,11 @@ def fetch_and_replace(urls):
             print(f"An error occurred while requesting {url}: {e}")  
   
     # 保存到新文件（使用不同的文件名或添加时间戳）  
-    timestamp = time.strftime("%Y%m%d_%H%M%S")  
-    with open(f'my02.txt', 'w') as file:  
+    timestamp = time.strftime("%Y%m%d%H%M%S") 
+    # 在文件最前面添加注意事项
+    notice = "注意事项,#genre#\n"+timestamp+"仅供测试自用如有侵权请通知,http://cfss.cc/cdn/dyu/11531165.m3u8\n" 
+    with open(f'my.txt', 'w', encoding='UTF-8') as file:
+        file.write(notice)  # 首先写入注意事项
         for line in all_processed_lines:  
             file.write(line + '\n')  # 每个行之间添加一个换行符  
   
