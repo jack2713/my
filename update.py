@@ -18,7 +18,8 @@ def fetch_and_replace(urls):
             print(f"Request to {url} took {elapsed_time:.2f} seconds.")  
   
             # 检查响应状态码  
-            if response.status_code == 200:  
+            if response.status_code == 200:
+                response.encoding = 'utf-8'
                 content = response.text  
   
                 # 处理每一行  
@@ -63,6 +64,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',
         'http://47.99.102.252/live.txt',
+        'http://kxrj.site:55/lib/kx2024.txt',
     ]  
   
     fetch_and_replace(urls)
