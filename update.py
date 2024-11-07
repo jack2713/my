@@ -27,8 +27,9 @@ def fetch_and_replace(urls):
                     if '更新时间' in line or time.strftime("%Y%m%d")  in line or '关于' in line or '解锁' in line or '公众号' in line or '软件库' in line:
                         continue
                     # 检查行是否包含#genre#并处理（删除下划线）  
-                    if '#genre#' in line.lower() or '更新时间' not in line:  
+                    if '#genre#' in line.lower() or  '??' in line or '更新时间' not in line:  
                         processed_line = line.replace('_', '')  
+                        processed_line = line.replace('??', '')
                     else:  
                         processed_line = line  
   
