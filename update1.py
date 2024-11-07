@@ -17,7 +17,8 @@ def fetch_and_replace(urls):
             print(f"Request to {url} took {elapsed_time:.2f} seconds.")  
   
             # 检查响应状态码  
-            if response.status_code == 200:  
+            if response.status_code == 200:
+                response.encoding = 'utf-8' 
                 content = response.text  
   
                 # 处理每一行  
