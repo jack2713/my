@@ -60,7 +60,7 @@ def fetch_and_replace(urls):
 if __name__ == "__main__":  
     # 定义多个URL  
     urls = [
-        'https://notabug.org/kan314/dd/src/main/直播X.txt',
+        'http://spread.tttttttttt.top/test.txt',
         'https://qu.ax/HtMB.txt',
         'https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt',  
         'https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2livefomi243.txt', 
