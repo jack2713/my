@@ -60,13 +60,14 @@ def fetch_and_replace(urls):
 if __name__ == "__main__":  
     # 定义多个URL  
     urls = [
-        'https://aktv.top/live.txt',
         'http://rihou.cc:555/gggg.nzk',
+        'http://rihou.cc:567/qtsd',
+        'https://aktv.top/live.txt',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',
         'http://47.99.102.252/live.txt',
-        'http://kxrj.site:55/lib/kx2024.txt',
+        'http://kxrj.site:55/lib/kx2024.txt',        
     ]  
   
     fetch_and_replace(urls)
