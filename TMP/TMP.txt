@@ -180,9 +180,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 睛彩篮球,http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
 睛彩青少,http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
-CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
+CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
+CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-2.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-4.m3u8
 爱上4K,https://vip.taoiptv.cn/source/itv.php?id=华数4K.m3u8&sign=4t5lg3
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 求索纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
