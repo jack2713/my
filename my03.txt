@@ -54,6 +54,7 @@ MY,#genre#
 杭州影视,https://live3.hoolo.tv/hztv4/playlist.m3u8?auth_key=1723272408-0-0-44b1db1d4adb33476608bfffa87dc6a2
 杭州影视,https://live3.hoolo.tv/hztv4/sd/live.m3u8?auth_key=1725362431-0-0-20926ffe81e62c8ab1da96914d424909
 MY国际频道,#genre#
+影片轮播,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 ABC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
