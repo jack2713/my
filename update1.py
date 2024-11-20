@@ -60,7 +60,7 @@ def fetch_and_replace(urls):
 if __name__ == "__main__":  
     # 定义多个URL  
     urls = [
-        'http://spread.tttttttttt.top/test.txt',
+        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/temp1.txt',
         'https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/monlingwu.txt',
         'https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/madou.txt',
         'https://raw.githubusercontent.com/sublime2025/IPTV/refs/heads/main/adult',
