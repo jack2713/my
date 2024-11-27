@@ -27,8 +27,8 @@ def fetch_and_replace(urls):
 
             # 检查响应状态码
             if response.status_code == 200:
-                response.encoding = 'utf-8'
-                content = response.text
+                # Use the response's encoding to decode content correctly
+                content = response.text  # Requests will automatically handle the encoding
 
                 # 处理每一行
                 for line in content.splitlines():
@@ -60,7 +60,9 @@ def fetch_and_replace(urls):
 
     # 在文件最前面添加注意事项
     notice = "注意事项,#genre#\n" + timestamp + "仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4\n"
-    with open(f'my.txt', 'w', encoding='UTF-8') as file:
+    
+    # Open the file with UTF-8 encoding to handle characters correctly
+    with open(f'my.txt', 'w', encoding='utf-8') as file:
         file.write(notice)  # 首先写入注意事项
         for line in all_processed_lines:
             file.write(line + '\n')  # 每个行之间添加一个换行符
