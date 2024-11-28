@@ -68,7 +68,8 @@ if __name__ == "__main__":
         'https://raw.gitcode.com/hjf520/00/raw/main/sirenzb.txt',
         'https://qu.ax/HtMB.txt',
         'https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt',  
-        'https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2livefomi243.txt', 
+        'https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2livefomi243.txt',
+        'https://raw.githubusercontent.com/alenin-zhang/IPTV/4e8e4812168164ea11acc0617b814a7948b632f5/av',
     ]  
   
     fetch_and_replace(urls)
