@@ -1,5 +1,5 @@
 
-name: Fetch and Organize Streams
+name: sync myb
 
 # 触发条件
 on:
@@ -54,7 +54,7 @@ jobs:
     # 8. 提交并推送文件到项目仓库
     - name: Commit and Push changes
       run: |
-        git add $(pwd)/final_streams.txt  # 使用绝对路径确保路径正确
+        git add $(pwd)/myq.txt  # 使用绝对路径确保路径正确
         git commit -m "Update final_streams.txt with new streams" --allow-empty
         git push origin HEAD:main  # 如果使用的是其他分支，请修改
 
