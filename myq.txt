@@ -1,5 +1,5 @@
 注意事项,#genre#
-20241201162338仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
+20241201202051仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
 MY,#genre#
 南充科教,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8
 南充新闻综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8
@@ -991,17 +991,6 @@ CCTV17,http://114.225.151.173:8800/rtp/239.49.1.7:6000
 运城1台高清,http://223.10.62.103:8084/udp/239.1.1.123:8123
 运城2台高清,http://223.10.62.103:8084/udp/239.1.1.124:8124
 盐湖频道高清,http://223.10.62.103:8084/udp/239.1.1.125:8125
-足球粤评,#genre#
-㋋㏡英超第13轮⚽📡,http://120.77.28.4:8648/douyu.php?id=11531165
-㍘⁰⁰曼城🆚利物浦,http://rihou.cc:555/mp4?id=lndjj.mp4
-🔊粤🎙️老黄讲波,https://pullhw.zhaoyangyang.cn/live/8742798.flv?authinfo=JimdxUFJc42Eh96FWaGLzda05q0KkwTnE7hLMZeTBIk%3D.3649566f507351463242384a75576336
-🔊粤🎙️英超讲波,https://pullhw.zhaoyangyang.cn/live/8742788.flv?authinfo=4oxFqHGgdysCEr6GffQbFoA3cv5H8dmA8dN%2FBCvgjQk%3D.38517867414b6e43516e575741526156
-🔊粤🎙️尼佬讲波,https://pullhw.zhaoyangyang.cn/live/8742828.flv?authinfo=8zTzN4P9bhuZOG0xYXQL90HtpzYcIgSWjUw2W6HfdTY%3D.6544447234766b30614f6c614b436355
-🔊粤🎙️冠希讲波,https://pullhw.zhaoyangyang.cn/live/8742780.flv?authinfo=dbbXLARiIsCdFohWqvBeFmuxbfkwvFAAVdnsHTOJMcE%3D.5541433544516d5054666e7531497676
-🔊国🎙️真实说球,https://pullhw.zhaoyangyang.cn/live/8742792.flv?authinfo=OLS4re1KRfPXsDrMPyAYZP1TQ7GmQ4nuasvtS3jGrvw%3D.74614f334e524331623378437451366e
-🔊国🎙️群口说球,https://pullhw.zhaoyangyang.cn/live/8742790.flv?authinfo=6LkLZj%2FkbYapPdO2tATumsxLMfypCYpYHlNfCrtDgE8%3D.7a787065336f654e526f354674674e68
-🔊国🎙️春秋咪咕,https://pullhw.zhaoyangyang.cn/live/8742878.flv?authinfo=3MjDKzWxxYRasSz7SkvmdqWEbGXqpIx1enf5s9a%2Bph8%3D.31734d3334717537486870304442636a
-🔊国🎙️绿色说球,https://pullhw.zhaoyangyang.cn/live/8742884.flv?authinfo=y2CJn0biDkvKh9xq95qSv9lCydB7Z0yWSpPz7SZGXZ8%3D.5a306b626170504a3473614d50456349
 NBA咪咕,#genre#
 抖姐舞看NBA,http://120.77.28.4:8648/douyu.php?id=11531165
 NBA咪咕播01,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId= 
@@ -2204,8 +2193,11 @@ HZTV-贰电信,http://183.7.107.140:8088/udp/239.77.1.233:5146
 河源综合频道,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 云浮综合频道,https://livestream.oeeee.com/slive/17806.m3u8
 云浮文旅频道,https://livestream.oeeee.com/slive/17807.m3u8
+足球粤评,#genre#
+㋋㏡⚽📡,http://120.77.28.4:8648/douyu.php?id=11531165
+⚽暂无🆚直播⚽,http://rihou.cc:555/mp4?id=lndjj.mp4
 篮球粤评,#genre#
-㋊㏻🏀📡,http://120.77.28.4:8648/douyu.php?id=11531165
+㋋㏡🏀📡,http://120.77.28.4:8648/douyu.php?id=11531165
 🏀暂无🆚直播🏀,http://rihou.cc:555/mp4?id=lndjj.mp4
 大地恩情,#genre#
 ⬇️80大地恩情⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
@@ -9633,6 +9625,15 @@ CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandongca
 东方财经,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandongcabletv.live.zte.com////CHANNEL00002025/index.m3u8?IASHttpSessionId=
 法治天地,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandongcabletv.live.zte.com////CHANNEL00002010/index.m3u8?IASHttpSessionId=
 第一财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
+浙江频道,#genre#
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 内蒙频道,#genre#
 内蒙古综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
