@@ -59,6 +59,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',  # 注意：修正了URL，以直接获取文件内容
         'https://qu.ax/kBip.m3u',
         'https://huangsuming.github.io/iptv/list/tvlist.txt',
+        'https://www.mytvsuper.com.mp/m3u/Live.m3u',
     ]  
   
     # 指定输出文件的名称  
