@@ -63,7 +63,6 @@ if __name__ == "__main__":
         'http://47.99.102.252/live.txt',
         'http://kxrj.site:55/lib/kx2024.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/dy.txt',
-        'https://4684.kstore.space/lib/live.txt',
     ]  
   
     fetch_and_replace(urls)
