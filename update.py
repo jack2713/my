@@ -68,6 +68,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
         'http://47.99.102.252/live.txt',
         'http://kxrj.site:55/lib/kx2024.txt',
+        'https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt',
     ]  
   
     fetch_and_replace(urls)
