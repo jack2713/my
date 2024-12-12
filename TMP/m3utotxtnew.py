@@ -54,7 +54,7 @@ for url in urls:
         all_channels_dict[channel["group_title"]].append(channel)
 
 # 输出到文件
-output_file_path = "/IPTV/tmp1.txt"
+output_file_path = "/TMP/tmp1.txt"
 with open(output_file_path, "w", encoding="utf-8") as output_file:
     prev_group_title = None
     for group_title, channels_in_group in all_channels_dict.items():
