@@ -54,12 +54,7 @@ def fetch_m3u_channels_and_save(urls, output_file_path):
 if __name__ == "__main__":  
     # 定义多个M3U文件的URL  
     urls = [  
-        'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
-        'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',  # 注意：修正了URL，以直接获取文件内容  
-        'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',  # 注意：修正了URL，以直接获取文件内容
-        'https://qu.ax/kBip.m3u',
-        'https://huangsuming.github.io/iptv/list/tvlist.txt',
-        'https://www.mytvsuper.com.mp/m3u/Live.m3u',
+        'https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u',
     ]  
   
     # 指定输出文件的名称  
