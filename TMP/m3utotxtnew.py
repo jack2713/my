@@ -26,20 +26,21 @@ for url in urls:
     channels = []
     group_title = ""
     channel_name = ""
-    tvg_logo = ""
     tvg_id = ""
+    tvg_logo = ""
 
     # 提取频道信息
     for i, line in enumerate(m3u_content.splitlines()):
         line = line.strip()
-        
+
         if line.startswith("#EXTINF:"):
             # 使用正则从 #EXTINF 行提取信息
-            match = re.match(r'#EXTINF:-1.*?group-title="([^"]+)".*?tvg-name="([^"]+)".*?tvg-logo="([^"]+)"', line)
+            match = re.match(r'#EXTINF:-1.*?group-title="([^"]+)".*?tvg-id="([^"]+)".*?tvg-name="([^"]+)".*?tvg-logo="([^"]+)"', line)
             if match:
                 group_title = match.group(1)  # 提取分组信息
-                channel_name = match.group(2)  # 提取频道名称
-                tvg_logo = match.group(3)     # 提取频道 Logo URL
+                tvg_id = match.group(2)       # 提取 tvg-id
+                channel_name = match.group(3) # 提取频道名称
+                tvg_logo = match.group(4)     # 提取频道 Logo URL
             else:
                 # 如果正则没有匹配，可以尝试其他方式提取信息
                 channel_info = line.split(",")
@@ -50,16 +51,18 @@ for url in urls:
         elif line.startswith("http"):
             # 处理流媒体 URL 行
             streaming_url = line
-            if channel_name and streaming_url:  # 确保频道名称和 URL 非空
+            if tvg_id and streaming_url:  # 确保 tvg-id 和 URL 非空
                 # 存储频道信息
                 channels.append({
-                    "channel_name": channel_name,
+                    "tvg_id": tvg_id,
                     "group_title": group_title,
+                    "channel_name": channel_name,
                     "tvg_logo": tvg_logo,
                     "streaming_url": streaming_url,
                     "line_index": i
                 })
             # 清空临时数据以便下一个频道
+            tvg_id = ""
             channel_name = ""
             group_title = ""
             tvg_logo = ""
@@ -85,13 +88,12 @@ with open(output_file_path, "w", encoding="utf-8") as output_file:
             prev_group_title = group_title
         
         for channel in sorted_channels_in_group:
-            channel_name = channel["channel_name"]
-            tvg_logo = channel["tvg_logo"]
+            tvg_id = channel["tvg_id"]
             streaming_url = channel["streaming_url"]
 
             # 防止输出格式为 ",http://xxx"
-            if channel_name and streaming_url:
-                # 输出为一行：频道名称和流媒体 URL，逗号分隔
-                output_file.write(f"{channel_name}, {streaming_url}\n")
+            if tvg_id and streaming_url:
+                # 输出为一行：tvg-id 和流媒体 URL，逗号分隔
+                output_file.write(f"{tvg_id}, {streaming_url}\n")
 
 print(f"提取完成,结果已保存到 {output_file_path}")
