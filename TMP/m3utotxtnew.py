@@ -3,8 +3,12 @@ import os
 from collections import defaultdict
 # 文件 URL 列表
 urls = [
-    "https://A.com/IPTV/main/IPTV1.m3u",
-    "https://A.com/IPTV/main/IPTV2.m3u",
+        'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
+        'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',  # 注意：修正了URL，以直接获取文件内容  
+        'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',  # 注意：修正了URL，以直接获取文件内容
+        'https://qu.ax/kBip.m3u',
+        'https://huangsuming.github.io/iptv/list/tvlist.txt',
+        'https://www.mytvsuper.com.mp/m3u/Live.m3u',
 ]
 
 # 初始化字典
