@@ -74,12 +74,16 @@ with open(output_file_path, "w", encoding="utf-8") as output_file:
     prev_group_title = None
     for group_title, channels_in_group in all_channels_dict.items():
         sorted_channels_in_group = sorted(channels_in_group, key=lambda x: x["line_index"])  # 确保每个分组内的频道也是排序的
+        
+        # 将 group-title 转换成你要求的格式
         if group_title != prev_group_title:
             if prev_group_title:
                 output_file.write("\n")  # 在每个分组后添加一个空行
             if group_title:
-                output_file.write(f"group-title: {group_title}\n")
+                # 修改分组标题的输出格式，例如：将 group-title 输出为 '央视频道,#genre#'
+                output_file.write(f"{group_title},#genre#\n")
             prev_group_title = group_title
+        
         for channel in sorted_channels_in_group:
             channel_name = channel["channel_name"]
             tvg_logo = channel["tvg_logo"]
