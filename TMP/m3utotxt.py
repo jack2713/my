@@ -55,7 +55,6 @@ if __name__ == "__main__":
     # 定义多个M3U文件的URL  
     urls = [  
         'https://raw.githubusercontent.com/torysuper/IPTV-P/refs/heads/Files/Adult.m3u',
-        'https://raw.githubusercontent.com/shiran588/m3u/f2dba5d6ece8293b382b56b89a213d08b17f461d/22.m3u',
     ]  
   
     # 指定输出文件的名称  
