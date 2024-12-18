@@ -5,7 +5,7 @@ import re
 
 # 文件 URL 列表
 urls = [
-    'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
+    'https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u',
     'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
     'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
     'https://qu.ax/kBip.m3u',
