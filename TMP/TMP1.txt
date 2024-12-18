@@ -660,6 +660,7 @@ ICS「IPV6」, http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000
 凤凰中文, http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯, http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港, http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰电影, http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 香港卫视, http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 亚洲卫视, https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 澳视澳门, http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
@@ -694,7 +695,7 @@ TVBJ2, http://bziyunshao.synology.me:8890/bysid/82
 中天亚洲台, http://livetv.skycf.eu.org/live.m3u8?c=3
 中视菁采, http://litv.zapi.us.kg/?id=4gtv-4gtv064
 美亚C+, http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-纬来体育, https://v4-23c02b34c3dbe65d9d98d5a86ddb7980.livehwc3.cn/hls.yjjcfw.com/live/vl.m3u8?sub_m3u8=true&hwTime=6753166A&user_session_id=c6cb6696de3a9f9d4ac217b68f1d0542&hwSecret=c71871a7360776c49083da21cb32033902b1a077018266f24106a16997ebba6a&edge_slice=true
+纬来精采, http://61.221.215.25:8800/hls/48/index.m3u8
 大爱1台, https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台, https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大立电视台, http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -706,7 +707,7 @@ TVBS欢乐台, http://litv.zapi.us.kg/?id=4gtv-4gtv068
 AMC电影台, http://61.221.215.25:8800/hls/43/index.m3u8
 CAT电影, http://litv.zapi.us.kg/?id=4gtv-4gtv076
 数位电影, http://litv.zapi.us.kg/?id=4gtv-4gtv011
-龙华电影, http://litv.zapi.us.kg/?id=litv-longturn03
+龙华电影, https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.m3u8
 靖天电影, http://litv.zapi.us.kg/?id=4gtv-4gtv061
 
 港澳台AKTV,#genre#
@@ -790,10 +791,10 @@ tvg-id="爱动漫", http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040
 甘肃少儿, https://hls.gstv.com.cn/49048r/922k96.m3u8
 宁夏少儿, https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 内蒙古少儿, https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-七龙珠, http://www.52sw.top:678/play/huya.php?id=11601966
+七龙珠, http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
 灌篮高手, http://jiaojirentv.top/2020/yy.php?id=1382735626
-哆啦A梦, http://120.77.28.4:8648/huya.php?id=11601963
-猫和老鼠, http://120.77.28.4:8648/huya.php?id=11352879
+哆啦A梦, http://huanqiuzhibo.cn/manifest/huya.php?id=11601963
+猫和老鼠, http://huanqiuzhibo.cn/manifest/huya.php?id=11352879
 
 IHOT频道,#genre#
 tvg-id="爱院线", http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
@@ -888,21 +889,21 @@ NewTV频道,#genre#
 咪咕直播45, http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
 电影轮播,#genre#
-周星驰电影, http://www.52sw.top:678/play/huya.php?id=11342412
-林正英电影, http://www.52sw.top:678/play/huya.php?id=11342421
-刘德华电影, http://rihou.cc:555/hy.php?id=11342424
-古天乐电影, http://rihou.cc:555/hy.php?id=29982675
+周星驰电影, http://huanqiuzhibo.cn/manifest/huya.php?id=11342412
+林正英电影, http://huanqiuzhibo.cn/manifest/huya.php?id=11342421
+刘德华电影, http://huanqiuzhibo.cn/manifest/huya.php?id=11342424
+古天乐电影, http://cdn.jdshipin.com:8880/huya.php?id=29982675
 成龙电影, http://jiaojirentv.top/2020/dy.php?id=3379942
-李连杰电影, http://rihou.cc:555/hy.php?id=11342390
-甄子丹电影, http://rihou.cc:555/hy.php?id=11352935
-狄仁杰系列, http://rihou.cc:555/hy.php?id=30080229
-沈腾电影, http://rihou.cc:555/hy.php?id=11601968
-黄渤电影, http://rihou.cc:555/hy.php?id=11352876
-强森电影, http://rihou.cc:555/hy.php?id=21059581
-王晶电影, http://rihou.cc:555/hy.php?id=11602058
-金庸武侠, http://rihou.cc:555/hy.php?id=11342435
-功夫电影, http://rihou.cc:555/hy.php?id=11352941
-贺岁电影, http://rihou.cc:555/hy.php?id=11601986
+李连杰电影, http://cdn.jdshipin.com:8880/huya.php?id=11342390
+甄子丹电影, http://cdn.jdshipin.com:8880/huya.php?id=11352935
+狄仁杰系列, http://cdn.jdshipin.com:8880/huya.php?id=30080229
+沈腾电影, http://cdn.jdshipin.com:8880/huya.php?id=11601968
+黄渤电影, http://cdn.jdshipin.com:8880/huya.php?id=11352876
+强森电影, http://cdn.jdshipin.com:8880/huya.php?id=21059581
+王晶电影, http://cdn.jdshipin.com:8880/huya.php?id=11602058
+金庸武侠, http://cdn.jdshipin.com:8880/huya.php?id=11342435
+功夫电影, http://cdn.jdshipin.com:8880/huya.php?id=11352941
+贺岁电影, http://cdn.jdshipin.com:8880/huya.php?id=11601986
 X战警电影, http://jiaojirentv.top/2020/dy.php?id=9651304
 欧美大片, http://jiaojirentv.top/2020/dy.php?id=2793084
 哈利波特全集, http://rihou.cc:555/dyy.php?id=1382745105
@@ -920,15 +921,17 @@ X战警电影, http://jiaojirentv.top/2020/dy.php?id=9651304
 龙门飞甲, http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 
 电视剧轮播,#genre#
-延禧攻略, http://www.52sw.top:678/play/huya.php?id=26355864
+延禧攻略, http://huanqiuzhibo.cn/manifest/huya.php?id=26355864
 琅琊榜, http://zby.xjqxz.top/lyb/live.m3u8
-新三国, http://www.52sw.top:678/play/huya.php?id=11352944
-新水浒传, http://www.52sw.top:678/play/huya.php?id=11342384
+新三国, http://huanqiuzhibo.cn/manifest/huya.php?id=11352944
+新三国（备用）, http://live.metshop.top/huya/11352944
+新水浒传, http://huanqiuzhibo.cn/manifest/huya.php?id=11342384
 少年包青天第一部, http://jiaojirentv.top/2020/yy.php?id=1356043677
+少年包青天（备用）, http://lunbo.freetv.top/yy/1356043677
 少年包青天第三部, http://jiaojirentv.top/2020/yy.php?id=1382736814
-神探狄仁杰第一部, http://www.52sw.top:678/play/huya.php?id=11352958
-神探狄仁杰第三部, http://www.52sw.top:678/play/huya.php?id=11342425
-爱情公寓, http://www.52sw.top:678/play/huya.php?id=11336726
+神探狄仁杰第一部, http://huanqiuzhibo.cn/manifest/huya.php?id=11352958
+神探狄仁杰第三部, http://huanqiuzhibo.cn/manifest/huya.php?id=11342425
+爱情公寓, http://huanqiuzhibo.cn/manifest/huya.php?id=11336726
 欢乐颂, http://jiaojirentv.top/2020/dy.php?id=3756989
 倚天屠龙记, http://huanqiuzhibo.cn/manifest/huya.php?id=11342403
 铁齿铜牙纪晓岚, http://huanqiuzhibo.cn/manifest/huya.php?id=11342396
@@ -965,19 +968,19 @@ X战警电影, http://jiaojirentv.top/2020/dy.php?id=9651304
 射雕英雄传, http://huanqiuzhibo.cn/manifest/huya.php?id=23824164
 倚天屠龙记, http://huanqiuzhibo.cn/manifest/huya.php?id=23734246
 笑傲江湖, http://huanqiuzhibo.cn/manifest/huya.php?id=23865142
-刑事侦缉档案, http://rihou.cc:555/hy.php?id=23734169
-法政先锋, http://rihou.cc:555/hy.php?id=23863804
-洗冤录, http://rihou.cc:555/hy.php?id=23903130
-陀枪师姐, http://rihou.cc:555/hy.php?id=23860039
-使徒行者, http://rihou.cc:555/hy.php?id=23734256
-鉴证实录, http://rihou.cc:555/hy.php?id=23903183
-金枝欲孽, http://rihou.cc:555/hy.php?id=23865036
-扫黄先锋, http://rihou.cc:555/hy.php?id=23903196
-创世纪, http://rihou.cc:555/hy.php?id=23749083
-妙手仁心, http://rihou.cc:555/hy.php?id=23829543
-大时代, http://rihou.cc:555/hy.php?id=23865161
-野蛮亲家, http://rihou.cc:555/hy.php?id=23863796
-笑看风云, http://rihou.cc:555/hy.php?id=23865058
+刑事侦缉档案, http://huanqiuzhibo.cn/manifest/huya.php?id=23734169
+法政先锋, http://huanqiuzhibo.cn/manifest/huya.php?id=23863804
+洗冤录, http://huanqiuzhibo.cn/manifest/huya.php?id=23903130
+陀枪师姐, http://huanqiuzhibo.cn/manifest/huya.php?id=23860039
+使徒行者, http://huanqiuzhibo.cn/manifest/huya.php?id=23734256
+鉴证实录, http://huanqiuzhibo.cn/manifest/huya.php?id=23903183
+金枝欲孽, http://huanqiuzhibo.cn/manifest/huya.php?id=23865036
+扫黄先锋, http://huanqiuzhibo.cn/manifest/huya.php?id=23903196
+创世纪, http://huanqiuzhibo.cn/manifest/huya.php?id=23749083
+妙手仁心, http://huanqiuzhibo.cn/manifest/huya.php?id=23829543
+大时代, http://huanqiuzhibo.cn/manifest/huya.php?id=23865161
+野蛮亲家, http://huanqiuzhibo.cn/manifest/huya.php?id=23863796
+笑看风云, http://huanqiuzhibo.cn/manifest/huya.php?id=23865058
 
 地方频道,#genre#
 BRTV新闻, http://114.246.102.14:4000/rtp/239.3.1.159:8000
@@ -6895,6 +6898,92 @@ tvg-id="ASTROQUANJIA", http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
 tvg-id="[ASTRO]712WARNERTV", http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 tvg-id="千禧经典台", https://www.mytvsuper.us.kg/astro/qianxi/qianxi.m3u8
 tvg-id="[ASTRO]712WARNERTV", https://www.mytvsuper.us.kg/astro/tianying/tianying.m3u8
+
+沐辰「源」,#genre#
+TNT, https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_1
+TNT, https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_1_BU
+TNT, https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_2
+TNT, https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_2_BU
+TNT, https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_3
+TNT, https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_3_BU
+TNT, https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_4
+TNT, https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_4_BU
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Football_BU
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Football_Live_TV
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Main_Event
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Main_Event_BU
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Premier_League
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Premier_League_BU
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Action_Live_TV
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Mix_Live_TV
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Arena_Live_TV
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_News_Live_TV
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Cricket_Live_TV
+Sky, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Tennis
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_F1_Live_TV
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Golf_Live_TV
+SKY, https://iptv.vip-tptv.xyz/beesport.php?id=Sky_Sports_Racing_Live_TV
+BEIN, https://iptv.vip-tptv.xyz/beesport.php?id=Bein_Sports_USA_Live_TV
+TENNIS, https://iptv.vip-tptv.xyz/beesport.php?id=Tennis_Channel_Live_TV
+LALIGA, https://iptv.vip-tptv.xyz/beesport.php?id=La_Liga_TV_Live_TV
+HBO, https://iptv.vip-tptv.xyz/beesport.php?id=HBO_Live_TV
+HBO, https://iptv.vip-tptv.xyz/beesport.php?id=HBO_2_Live_TV
+Discovery, https://iptv.vip-tptv.xyz/beesport.php?id=Discovery_Channel_Live_TV
+Discovery, https://iptv.vip-tptv.xyz/beesport.php?id=Discovery_Life_Live_TV
+Cinemax, https://iptv.vip-tptv.xyz/beesport.php?id=Cinemax_West_Live_TV
+Great, https://iptv.vip-tptv.xyz/beesport.php?id=UK_Great_Movies_Live_TV
+Sky, https://iptv.vip-tptv.xyz/beesport.php?id=UK_Sky_Cinema_Comedy_Live_TV
+Sky, https://iptv.vip-tptv.xyz/beesport.php?id=UK_Sky_Cinema_Family_Live_TV
+Cartoon, https://iptv.vip-tptv.xyz/beesport.php?id=UK_Cartoon_Network_Live_TV
+Virgin, https://iptv.vip-tptv.xyz/beesport.php?id=UK_Virgin_2
+Virgin, https://iptv.vip-tptv.xyz/beesport.php?id=UK_Virgin_3
+Virgin, https://iptv.vip-tptv.xyz/beesport.php?id=UK_Virgin_1
+DAZN, https://iptv.vip-tptv.xyz/beesport.php?id=DAZN_Live_TV
+Bein, https://iptv.vip-tptv.xyz/beesport.php?id=Bein_Sports_English_2_Live_TV
+SuperSport, https://iptv.vip-tptv.xyz/beesport.php?id=SuperSport_Premier_League_Live_TV
+SuperSport, https://iptv.vip-tptv.xyz/beesport.php?id=SuperSport_LaLiga_Live_TV
+SuperSport, https://iptv.vip-tptv.xyz/beesport.php?id=SuperSport_Action_Live_TV
+SuperSport, https://iptv.vip-tptv.xyz/beesport.php?id=SuperSport_Blitz_Live_TV
+SuperSport, https://iptv.vip-tptv.xyz/beesport.php?id=SuperSport_Cricket_Live_TV
+SuperSport, https://iptv.vip-tptv.xyz/beesport.php?id=SuperSport_Football_Live_TV
+SuperSport, https://iptv.vip-tptv.xyz/beesport.php?id=SuperSport_Golf_Live_TV
+SuperSport, https://iptv.vip-tptv.xyz/beesport.php?id=SuperSport_Rugby_Live_TV
+SuperSport, https://iptv.vip-tptv.xyz/beesport.php?id=SuperSport_Tennis_Live_TV
+Variety, https://iptv.vip-tptv.xyz/beesport.php?id=Variety_1_Live_TV
+Variety, https://iptv.vip-tptv.xyz/beesport.php?id=Variety_2_Live_TV
+Variety, https://iptv.vip-tptv.xyz/beesport.php?id=Variety_3_Live_TV
+Variety, https://iptv.vip-tptv.xyz/beesport.php?id=Variety_4_Live_TV
+Eurosport, https://iptv.vip-tptv.xyz/beesport.php?id=Eurosport_1_Live_TV
+Eurosport, https://iptv.vip-tptv.xyz/beesport.php?id=Eurosport_2_Live_TV
+Premier, https://iptv.vip-tptv.xyz/beesport.php?id=Premier_Sports_1
+Premier, https://iptv.vip-tptv.xyz/beesport.php?id=Premier_Sports_2
+Golf, https://iptv.vip-tptv.xyz/beesport.php?id=Golf_Channel_Live_TV
+MLB, https://iptv.vip-tptv.xyz/beesport.php?id=MLB_Network_Live_TV
+NBA, https://iptv.vip-tptv.xyz/beesport.php?id=NBA_TV_Live_TV
+NFL, https://iptv.vip-tptv.xyz/beesport.php?id=NFL_Network_Live_TV
+NFL, https://iptv.vip-tptv.xyz/beesport.php?id=NFL_REDZONE_Live_TV
+NHL, https://iptv.vip-tptv.xyz/beesport.php?id=NHL_Network_Live_TV
+WWE, https://iptv.vip-tptv.xyz/beesport.php?id=WWE_Live_TV
+Willow, https://iptv.vip-tptv.xyz/beesport.php?id=Willow_Cricket_Live_TV
+Willow, https://iptv.vip-tptv.xyz/beesport.php?id=Willow_Extra_Live_TV
+World, https://iptv.vip-tptv.xyz/beesport.php?id=World_Fishing_Network_Live_TV
+ESPN, https://iptv.vip-tptv.xyz/beesport.php?id=ESPN_Live_TV
+ESPN, https://iptv.vip-tptv.xyz/beesport.php?id=ESPN_2_Live_TV
+ESPN, https://iptv.vip-tptv.xyz/beesport.php?id=ESPN_News_Live_TV
+ESPN, https://iptv.vip-tptv.xyz/beesport.php?id=ESPN_U_Live_TV
+ITV, https://iptv.vip-tptv.xyz/beesport.php?id=ITV_1
+ITV, https://iptv.vip-tptv.xyz/beesport.php?id=ITV_2
+ITV, https://iptv.vip-tptv.xyz/beesport.php?id=ITV_3
+ITV, https://iptv.vip-tptv.xyz/beesport.php?id=ITV_4
+MUTV, https://iptv.vip-tptv.xyz/beesport.php?id=MUTV_Live_TV
+LFC, https://iptv.vip-tptv.xyz/beesport.php?id=LFC_TV_Live_TV
+FOX, https://iptv.vip-tptv.xyz/beesport.php?id=FOX_NEWS_Live_TV
+ACC, https://iptv.vip-tptv.xyz/beesport.php?id=ACC_Network_Live_TV
+Fight, https://iptv.vip-tptv.xyz/beesport.php?id=Fight_Network_Live_TV
+CBS, https://iptv.vip-tptv.xyz/beesport.php?id=CBS_Sports_Network_Live_TV
+CNBC, https://iptv.vip-tptv.xyz/beesport.php?id=CNBC_Live_TV
+Fox, https://iptv.vip-tptv.xyz/beesport.php?id=Fox_Sports_1_Live_TV
+Fox, https://iptv.vip-tptv.xyz/beesport.php?id=Fox_Sports_2_Live_TV
 
 AKTV「免梯」,#genre#
 tvg-id="翡翠台", http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
