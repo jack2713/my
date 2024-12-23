@@ -6924,19 +6924,22 @@ tvN, https://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 中天亚洲台, https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
 Judy「自用」,#genre#
-tvg-id="美亚电影台", https://tv.doube.eu.org/tv?pid=1
-tvg-id="天映", https://tv.doube.eu.org/tv?pid=2
-tvg-id="纬来电影台", https://tv.doube.eu.org/tv?pid=3
-tvg-id="东森电影台", https://tv.doube.eu.org/tv?pid=4
-tvg-id="东森洋片台", https://tv.doube.eu.org/tv?pid=5
-tvg-id="东森幼幼台", https://tv.doube.eu.org/tv?pid=8
-tvg-id="纬来日本台", https://tv.doube.eu.org/tv?pid=6
-tvg-id="纬来体育台", https://tv.doube.eu.org/tv?pid=7
+tvg-id="美亚电影台", http://209.141.54.128:7090/tv.php?id=1
+tvg-id="天映", http://209.141.54.128:7090/tv.php?id=2
+tvg-id="纬来电影台", http://209.141.54.128:7090/tv.php?id=3
+tvg-id="东森电影台", http://209.141.54.128:7090/tv.php?id=4
+tvg-id="东森洋片台", http://209.141.54.128:7090/tv.php?id=5
+tvg-id="纬来日本台", http://209.141.54.128:7090/tv.php?id=6
+tvg-id="纬来体育台", http://209.141.54.128:7090/tv.php?id=7
+tvg-id="东森幼幼台", http://209.141.54.128:7090/tv.php?id=8
+tvg-id="爱尔达影剧台", http://209.141.54.128:7090/tv.php?id=9
+tvg-id="ASTROQUANJIA", http://209.141.54.128:7090/tv.php?id=12
+tvg-id="AstroAEC", http://209.141.54.128:7090/tv.php?id=17
+tvg-id="ANIONE", http://209.141.54.128:7090/tv.php?id=18
+tvg-id="天映频道A", http://209.141.54.128:7090/tv.php?id=11
 tvg-id="广东体育", https://www.mytvsuper.us.kg/hami/guangdongtiyu/guangdongtiyu.m3u8
 tvg-id="TVB星河", http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 tvg-id="AstroAOD", http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
-tvg-id="AstroAEC", http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-tvg-id="ASTROQUANJIA", http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
 tvg-id="[ASTRO]712WARNERTV", http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 tvg-id="千禧经典台", https://www.mytvsuper.us.kg/astro/qianxi/qianxi.m3u8
 tvg-id="[ASTRO]712WARNERTV", https://www.mytvsuper.us.kg/astro/tianying/tianying.m3u8
