@@ -68,6 +68,7 @@ if __name__ == "__main__":
         'http://47.99.102.252/live.txt',
         'http://kxrj.site:55/lib/kx2024.txt',
         'https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt',
+        'http://盒子迷.top/ZB',
     ]  
   
     fetch_and_replace(urls)
