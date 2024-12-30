@@ -6922,6 +6922,8 @@ tvN, https://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 中天亚洲台, https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
 Judy「自用」,#genre#
+tvg-id="广东体育", https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
+tvg-id="TVB星河", https://iptv.vip-tptv.xyz/cao.php?id=tvb-xinghe
 tvg-id="凤凰卫视资讯台", https://iptv.vip-tptv.xyz/cao.php?id=phtv-info
 tvg-id="凤凰卫视中文台", https://iptv.vip-tptv.xyz/cao.php?id=phtv-cn
 tvg-id="凤凰卫视香港台", https://iptv.vip-tptv.xyz/cao.php?id=phtv-hk
@@ -6952,14 +6954,14 @@ tvg-id="now新闻台", https://iptv.vip-tptv.xyz/cao.php?id=now-news
 tvg-id="Now直播台", https://iptv.vip-tptv.xyz/cao.php?id=now-direct
 tvg-id="ANIONE", https://iptv.vip-tptv.xyz/tv.php?id=18
 tvg-id="天映频道A", https://iptv.vip-tptv.xyz/tv.php?id=11
-tvg-id="广东体育", https://www.mytvsuper.us.kg/hami/guangdongtiyu/guangdongtiyu.m3u8
+tvg-id="广东体育", https://www.livednow.us.kg/hami/guangdongtiyu/guangdongtiyu.m3u8
 tvg-id="TVB星河", https://iptv.vip-tptv.xyz/tv.php?id=14
 tvg-id="TVB星河", https://iptv.vip-tptv.xyz/tv.php?id=21
 tvg-id="TVB星河", http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 tvg-id="AstroAOD", http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
 tvg-id="[ASTRO]712WARNERTV", http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-tvg-id="千禧经典台", https://www.mytvsuper.us.kg/astro/qianxi/qianxi.m3u8
-tvg-id="[ASTRO]712WARNERTV", https://www.mytvsuper.us.kg/astro/tianying/tianying.m3u8
+tvg-id="千禧经典台", https://www.livednow.us.kg/astro/qianxi/qianxi.m3u8
+tvg-id="[ASTRO]712WARNERTV", https://www.livednow.us.kg/astro/tianying/tianying.m3u8
 
 沐辰视频「源」,#genre#
 TNT, https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_1
