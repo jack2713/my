@@ -7,7 +7,7 @@ name: update
 on:
   schedule:
     # 每天 UTC 时间 00:00 和 12:00 运行
-    - cron: '0 */4 * * *'
+    - cron: '0 */8 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
