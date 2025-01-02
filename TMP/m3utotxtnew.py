@@ -12,6 +12,7 @@ urls = [
     'https://qu.ax/kBip.m3u',
     'https://huangsuming.github.io/iptv/list/tvlist.txt',
     'https://www.mytvsuper.com.mp/m3u/Live.m3u',
+    'https://github.com/mavin521/syiptv/blob/main/live.m3u',
 ]
 
 # 初始化字典
