@@ -11,7 +11,6 @@ urls = [
     'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
     'https://qu.ax/kBip.m3u',
     'https://huangsuming.github.io/iptv/list/tvlist.txt',
-    'https://www.mytvsuper.com.mp/m3u/Live.m3u',
     'https://raw.githubusercontent.com/mavin521/syiptv/main/live.m3u',
 ]
 
