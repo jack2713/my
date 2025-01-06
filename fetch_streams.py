@@ -64,6 +64,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt',
         'https://live.zbds.top/tv/iptv6.txt',
         'https://live.zbds.top/tv/iptv4.txt',
+        'https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt',
     ]  
   
     fetch_and_replace(urls)
