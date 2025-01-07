@@ -7,7 +7,7 @@ ftp_password = 'Groupama2010'  # FTP 密码
 
 # 本地文件路径和远程文件路径
 local_file_path = 'myq.txt'  # 本地文件路径
-remote_file_path = 'myq.txt'  # 远程文件路径
+remote_file_path = '/htdocs/myq.txt'  # 远程文件路径
 
 # 连接到 FTP 服务器
 try:
