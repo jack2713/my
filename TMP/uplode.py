@@ -1,7 +1,7 @@
 import paramiko
 
 # SFTP 服务器信息
-sftp_host = 'ftpupload.net'  # SFTP 服务器地址
+sftp_host = 'ftp.tttttttttt.top'  # SFTP 服务器地址
 sftp_user = 'fr3t_37389457'     # SFTP 用户名
 sftp_password = 'Grouapam2010'  # SFTP 密码
 
