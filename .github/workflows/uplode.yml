@@ -1,6 +1,6 @@
 
 
-name: sync myb
+name: uplode
 
 # 触发条件
 on:
