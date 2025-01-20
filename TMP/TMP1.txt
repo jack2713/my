@@ -672,18 +672,8 @@ NewTV, http://itv.nctv.top:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
 贺岁电影, http://1.94.31.214:35455/huya/11601986
 X战警电影, http://zzy789.xyz/douyu1.php?id=9651304
 欧美大片, http://zzy789.xyz/douyu1.php?id=2793084
-倩女幽魂妖魔道, http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
-倩女幽魂人间道, http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
-倩女幽魂道道道, http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-人在囧途, https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
-人在囧途之泰囧, https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
-人在囧途之港囧, https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-拆弹专家1, https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-拆弹专家2, https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
-寒战, https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-我不是药神, https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
-让子弹飞, https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
-龙门飞甲, http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+可乐影院, http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+神乐影剧, http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 
 电视剧轮播,#genre#
 延禧攻略, http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
@@ -729,7 +719,7 @@ X战警电影, http://zzy789.xyz/douyu1.php?id=9651304
 玫瑰的故事, http://1.94.31.214:35455/huya/23865142
 梦中的那片海, http://1.94.31.214:35455/huya/26355765
 
-埋堆堆,#genre#
+埋堆堆频道,#genre#
 楚汉骄雄, http://1.94.31.214:35455/huya/29465854
 封神榜, http://1.94.31.214:35455/huya/29465849
 西游记1, http://1.94.31.214:35455/huya/23728660
@@ -755,6 +745,20 @@ X战警电影, http://zzy789.xyz/douyu1.php?id=9651304
 大时代, http://1.94.31.214:35455/huya/23865161
 野蛮亲家, http://1.94.31.214:35455/huya/23863796
 笑看风云, http://1.94.31.214:35455/huya/29465858
+
+点播电影,#genre#
+倩女幽魂妖魔道, http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+倩女幽魂人间道, http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+倩女幽魂道道道, http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+人在囧途, https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+人在囧途之泰囧, https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+人在囧途之港囧, https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+拆弹专家1, https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+拆弹专家2, https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+寒战, https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+我不是药神, https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+让子弹飞, https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+龙门飞甲, http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 
 地方频道,#genre#
 BRTV新闻, http://114.246.102.14:4000/rtp/239.3.1.159:8000
@@ -6650,19 +6654,19 @@ tvN, https://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 中天亚洲台, https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
 Potplayer, https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-CNN, https://kong.pp.ua/iptv/live1.php?channel=63b0ca7fb9e602304be0c0704ddaa3ec&expiry=1737347463&token=980e39d9aa3ad5cba25b233ef6f3f275
-CNN, https://kong.pp.ua/iptv/live1.php?channel=d80e2472921abac7d095b00a1070bb54&expiry=1737347463&token=4ae6762f672502b893d6d83a53e6491e
-CNN, https://kong.pp.ua/iptv/live1.php?channel=ce166a2ee35c2199de01d2878469d7e1&expiry=1737347463&token=043ada3c032ab326dab43382c21491ec
-CNN, https://kong.pp.ua/iptv/live1.php?channel=7a09a24be22b6a3ff2b23f682b56cf63&expiry=1737347463&token=46573c19922f4abbac64dda074619dab
-CNN, https://kong.pp.ua/iptv/live1.php?channel=411d38bc193a63761be3c1421a0794b6&expiry=1737347463&token=e547020015f5647e46c946ba5b2a2fbd
-CNN, https://kong.pp.ua/iptv/live1.php?channel=502dd1a4becfced8fef144b859d515e6&expiry=1737347463&token=3296c9adac99a673731c8ffda0e6d496
-CNN, https://kong.pp.ua/iptv/live1.php?channel=860bd1bfb7d96b4aa86d998f61535cff&expiry=1737347463&token=20554bb3ae9e52100a9cce7fcae92aff
-CNN, https://kong.pp.ua/iptv/live1.php?channel=49edf351b05a9649f90e966a0a56ae7c&expiry=1737347463&token=b5bc32331661f7561408811d5689da76
-CNN, https://kong.pp.ua/iptv/live1.php?channel=da153c007c5320555c5ccf98149ca898&expiry=1737347463&token=ce7f613bcec8201b50d158f63a7155d1
-CNN, https://kong.pp.ua/iptv/live1.php?channel=83ed186584e9c9da0667fdf720fe7cc4&expiry=1737347463&token=6f4e582b4a1f8a1f23548ce040ea2bc5
-CNN, https://kong.pp.ua/iptv/live1.php?channel=017106b624d98d8228306b0b1efe764a&expiry=1737347463&token=7bae97d48b6d35fdf45b3a0bc049e985
-CNN, https://kong.pp.ua/iptv/live1.php?channel=619e8548bfae6fda8ed3ddb8abb59da1&expiry=1737347463&token=0a44bd8c2d2ec4eb857e748c2f69874d
-CNN, https://kong.pp.ua/iptv/live1.php?channel=5ef639ca093d0b906a2fd9e72dbbdaa9&expiry=1737347463&token=418007bacd8236ab8e3e3de9eca8fda9
-CNN, https://kong.pp.ua/iptv/live1.php?channel=c54bc2117c932cf5981e2894320d2e10&expiry=1737347463&token=99df6a74f6b452addb1998ac42085c73
-CNN, https://kong.pp.ua/iptv/live1.php?channel=bdab341b17652d2d5ee568a9348693c5&expiry=1737347463&token=73975e7fefb27a6d6d669eb828123ba6
-CNN, https://kong.pp.ua/iptv/live1.php?channel=be8d112a4e435f0c9aa4dc981256403a&expiry=1737347463&token=e77958982214525417d8abfbede78465
+CNN, https://kong.pp.ua/iptv/live1.php?channel=63b0ca7fb9e602304be0c0704ddaa3ec&expiry=1737433863&token=6e238175fd68715e014d03083285c29e
+CNN, https://kong.pp.ua/iptv/live1.php?channel=d80e2472921abac7d095b00a1070bb54&expiry=1737433863&token=61081f43ebd948de7484121011b1e3e5
+CNN, https://kong.pp.ua/iptv/live1.php?channel=ce166a2ee35c2199de01d2878469d7e1&expiry=1737433863&token=16a9b3907da57be59eba84aa38239db0
+CNN, https://kong.pp.ua/iptv/live1.php?channel=7a09a24be22b6a3ff2b23f682b56cf63&expiry=1737433863&token=812f7fc4509b8e2d7304d8d5a8d840aa
+CNN, https://kong.pp.ua/iptv/live1.php?channel=411d38bc193a63761be3c1421a0794b6&expiry=1737433863&token=113e72484ec17b590e1865b4d3e2d53e
+CNN, https://kong.pp.ua/iptv/live1.php?channel=502dd1a4becfced8fef144b859d515e6&expiry=1737433863&token=6a3aed3192dc1b37c2e9a884b4cc2b79
+CNN, https://kong.pp.ua/iptv/live1.php?channel=860bd1bfb7d96b4aa86d998f61535cff&expiry=1737433863&token=c4bca0253205381b3932930c9b471c5a
+CNN, https://kong.pp.ua/iptv/live1.php?channel=49edf351b05a9649f90e966a0a56ae7c&expiry=1737433863&token=c84908498a7fa9fc8b1fc5ed7574eb6b
+CNN, https://kong.pp.ua/iptv/live1.php?channel=da153c007c5320555c5ccf98149ca898&expiry=1737433863&token=1ee92dbcd4b7d176be7663679333d902
+CNN, https://kong.pp.ua/iptv/live1.php?channel=83ed186584e9c9da0667fdf720fe7cc4&expiry=1737433863&token=8751b59ca1daf1881263f30950977859
+CNN, https://kong.pp.ua/iptv/live1.php?channel=017106b624d98d8228306b0b1efe764a&expiry=1737433863&token=5013e19c8afec479ed2d29f6bee3ea8a
+CNN, https://kong.pp.ua/iptv/live1.php?channel=619e8548bfae6fda8ed3ddb8abb59da1&expiry=1737433863&token=75663931ccdb60625b0621af657d6b38
+CNN, https://kong.pp.ua/iptv/live1.php?channel=5ef639ca093d0b906a2fd9e72dbbdaa9&expiry=1737433863&token=fef3d5ffa93fda487e3fc8d73698696d
+CNN, https://kong.pp.ua/iptv/live1.php?channel=c54bc2117c932cf5981e2894320d2e10&expiry=1737433863&token=99549c9b5be85a2ce43db68729879638
+CNN, https://kong.pp.ua/iptv/live1.php?channel=bdab341b17652d2d5ee568a9348693c5&expiry=1737433863&token=6d11bd475e21c2e301fe13efbb6b6642
+CNN, https://kong.pp.ua/iptv/live1.php?channel=be8d112a4e435f0c9aa4dc981256403a&expiry=1737433863&token=7fc0bc6c1dbd4561bb8c634b6948af65
