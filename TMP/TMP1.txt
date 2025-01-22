@@ -286,22 +286,22 @@ CETV-4, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guar
 睛彩青少, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 Potplayer, https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-CNN, https://kong.pp.ua/iptv/live1.php?channel=63b0ca7fb9e602304be0c0704ddaa3ec&expiry=1737520263&token=f8de35e351e7b56fa7d586ca15f358ed
-CNN, https://kong.pp.ua/iptv/live1.php?channel=d80e2472921abac7d095b00a1070bb54&expiry=1737520263&token=aeeb246e19aaccec6f4a0b231fae2a31
-CNN, https://kong.pp.ua/iptv/live1.php?channel=ce166a2ee35c2199de01d2878469d7e1&expiry=1737520263&token=d9c9a88a57e4ec6c111ddb9a7551c9d3
-CNN, https://kong.pp.ua/iptv/live1.php?channel=7a09a24be22b6a3ff2b23f682b56cf63&expiry=1737520263&token=4519a0d1a60107dbef1ed1e1e2b2a1a8
-CNN, https://kong.pp.ua/iptv/live1.php?channel=411d38bc193a63761be3c1421a0794b6&expiry=1737520263&token=2918e70af39b6bc46871c9a10da16b4b
-CNN, https://kong.pp.ua/iptv/live1.php?channel=502dd1a4becfced8fef144b859d515e6&expiry=1737520263&token=67d0f271c76830be020accc2796589d5
-CNN, https://kong.pp.ua/iptv/live1.php?channel=860bd1bfb7d96b4aa86d998f61535cff&expiry=1737520263&token=eae1c0642040d7b3cc34fe6f804f58a9
-CNN, https://kong.pp.ua/iptv/live1.php?channel=49edf351b05a9649f90e966a0a56ae7c&expiry=1737520263&token=f7e4f7ae6efbe8ee95dc2e66eb899eb6
-CNN, https://kong.pp.ua/iptv/live1.php?channel=da153c007c5320555c5ccf98149ca898&expiry=1737520263&token=ea536fab72ad40435346456b607cdc32
-CNN, https://kong.pp.ua/iptv/live1.php?channel=83ed186584e9c9da0667fdf720fe7cc4&expiry=1737520263&token=aac5294ac1aad53bf753ebb256f53280
-CNN, https://kong.pp.ua/iptv/live1.php?channel=017106b624d98d8228306b0b1efe764a&expiry=1737520263&token=b3a5243a69f87f8adbacc5adc14c0001
-CNN, https://kong.pp.ua/iptv/live1.php?channel=619e8548bfae6fda8ed3ddb8abb59da1&expiry=1737520263&token=f34e70f7f5ab7a1f67f1a3a412a412d4
-CNN, https://kong.pp.ua/iptv/live1.php?channel=5ef639ca093d0b906a2fd9e72dbbdaa9&expiry=1737520263&token=d37b7a750453ee59fe60531c4d3ef06c
-CNN, https://kong.pp.ua/iptv/live1.php?channel=c54bc2117c932cf5981e2894320d2e10&expiry=1737520263&token=95070a25df5560e9ed140df6aaa8ef8c
-CNN, https://kong.pp.ua/iptv/live1.php?channel=bdab341b17652d2d5ee568a9348693c5&expiry=1737520263&token=f1324cb2424e7bc0fab738169a539190
-CNN, https://kong.pp.ua/iptv/live1.php?channel=be8d112a4e435f0c9aa4dc981256403a&expiry=1737520263&token=5ee5c0fed435b09ba8bee60608b57894
+CNN, https://kong.pp.ua/iptv/live1.php?channel=63b0ca7fb9e602304be0c0704ddaa3ec&expiry=1737606663&token=77c352a1fb05b5ad5a91e14cf36cdb94
+CNN, https://kong.pp.ua/iptv/live1.php?channel=d80e2472921abac7d095b00a1070bb54&expiry=1737606663&token=2cbabf43cd92a85de429a42f67094476
+CNN, https://kong.pp.ua/iptv/live1.php?channel=ce166a2ee35c2199de01d2878469d7e1&expiry=1737606663&token=f59af0000704b03441893747af89e841
+CNN, https://kong.pp.ua/iptv/live1.php?channel=7a09a24be22b6a3ff2b23f682b56cf63&expiry=1737606663&token=1545ffadcd926d4cc57777f4d0fa177e
+CNN, https://kong.pp.ua/iptv/live1.php?channel=411d38bc193a63761be3c1421a0794b6&expiry=1737606663&token=2d5f4ca52205427d5083dd2667322f34
+CNN, https://kong.pp.ua/iptv/live1.php?channel=502dd1a4becfced8fef144b859d515e6&expiry=1737606663&token=4fc06c93deba955d913761aa1b725620
+CNN, https://kong.pp.ua/iptv/live1.php?channel=860bd1bfb7d96b4aa86d998f61535cff&expiry=1737606663&token=d1e6c3b072580c4d741442892b9fc979
+CNN, https://kong.pp.ua/iptv/live1.php?channel=49edf351b05a9649f90e966a0a56ae7c&expiry=1737606663&token=b87a6bfdb0f82bc96e155f2530c7ec5d
+CNN, https://kong.pp.ua/iptv/live1.php?channel=da153c007c5320555c5ccf98149ca898&expiry=1737606663&token=e320c220f03d8a6c85da52c034ef7c5b
+CNN, https://kong.pp.ua/iptv/live1.php?channel=83ed186584e9c9da0667fdf720fe7cc4&expiry=1737606663&token=8a9eef1ffb0fa43b933a233c488e34dd
+CNN, https://kong.pp.ua/iptv/live1.php?channel=017106b624d98d8228306b0b1efe764a&expiry=1737606663&token=d5e639c27ad293e8988c2d81f82f50db
+CNN, https://kong.pp.ua/iptv/live1.php?channel=619e8548bfae6fda8ed3ddb8abb59da1&expiry=1737606663&token=1299963f0bd2ce923269b4f36651c578
+CNN, https://kong.pp.ua/iptv/live1.php?channel=5ef639ca093d0b906a2fd9e72dbbdaa9&expiry=1737606663&token=11a599b7b8cdb4a6599957e06f794b10
+CNN, https://kong.pp.ua/iptv/live1.php?channel=c54bc2117c932cf5981e2894320d2e10&expiry=1737606663&token=10a2ae974a209b7d30bb8a0d7d384d2a
+CNN, https://kong.pp.ua/iptv/live1.php?channel=bdab341b17652d2d5ee568a9348693c5&expiry=1737606663&token=9b1781ef0c265ad09366c343d7bd682f
+CNN, https://kong.pp.ua/iptv/live1.php?channel=be8d112a4e435f0c9aa4dc981256403a&expiry=1737606663&token=0c2406502e891248c4c9bba3d0eb0f56
 中国教育1台, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
 中国教育2台, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 中国教育3台, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
@@ -543,9 +543,13 @@ CHC动作电影, http://148.135.93.213:81/live.php?id=CHC动作电影
 央卫备用2,#genre#
 CCTV-1, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-2, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-3, https://www.freetv.top/migu/624878271.m3u8?migutoken=380a18fe8dc81109270780918e605114ca218bcfa395aaa8682b605d1622439ffe7981dbd10f378c9c045f872d48dce39babcb012c7362dc8b21835e88fde6457bacaa4082c74879d64ad7aee4
 CCTV-4, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-5, https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903
 CCTV-5+, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-6, https://www.freetv.top/migu/624878396.m3u8?migutoken=8e4f91b7950497f8570c74e50003b7fa23f6565c16a6b361ff855d3a969ddf7ea3826b04d20d76b6eeb472f0cb8b86284614a835429165709ec8c3055f8e9a7879e9594a4309b5d50f59f8a535
 CCTV-7, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-8, https://www.freetv.top/migu/624878356.m3u8?migutoken=170b73b07e0cf0d307afea3545da5b9609d7c15461a2f4ac0f43634101df9baf391a446b91e5f84446b6a3b0934bb4730e2f3c4a32a565f904f22c8ff745a094d45dfd49c54f31b0b78156a080
 CCTV-9, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-10, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-11, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -556,6 +560,7 @@ CCTV-15, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?Gua
 CCTV-16, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-17, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 北京卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+湖南卫视, http://cc2022.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=2025
 江苏卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 浙江卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 东方卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -573,6 +578,7 @@ CCTV-17, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Gua
 四川卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广西卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 河北卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+河南卫视, http://cc2022.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=2025
 山西卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 陕西卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 青海卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -586,6 +592,7 @@ CCTV-17, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Gua
 海南卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 西藏卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 延边卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+兵团卫视, http://cc2022.ifengli.com:2000/live/btws-sd/1500.m3u8?innersid=2025
 康巴卫视, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CETV-1, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELlgU9sgTT7iMtFgKHFa-dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CETV-4, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -593,11 +600,20 @@ CETV-4, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guar
 山东教育, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227022/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EMkWp5fwJWRSC2qPwffoOzQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 优漫卡通, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227007/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhHDWGhkwx_zJcJUYE9TAaA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 哈哈炫动, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227025/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7RoPnbSvRPd3KyTpQ76WpA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+新闻综合咕咪, https://www.freetv.top/migu/651632657.m3u8?migutoken=b4a3e55048f55ec1c8fc5b509fbdf32f2dc5d255f5f218e79e84ca9a87fb9f2239927cb11b448f18285b50b81b4cd50a1354e9be5a3283375e85372798c3f3eb3ad60adf45eb5615f68eb4825f
+东方影视咪咕, https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c
+音乐频道咪咕, https://www.freetv.top/migu/707671890.m3u8?migutoken=b7e91ecde4b4bb0e6fb68bbce1020ef4bd8b340536892decdb0dcfdff3b0fb68c5415ca340e93c326717453d8b3a68c43b3ad7208455d756e5b1e65483fa59739b59575d612a7fbc7f66b7c77b
+体育频道咪咕, https://www.freetv.top/migu/626064707.m3u8?migutoken=dd34b681f2405008ed721a89f2437ed47a16c7e8f334d5deaa3de5c77237746dcf0b699c8f2f8d5ddae3703378aa238aa537ca0492f9dc794228966175238dbd5cac1cf598e30fc29274367eb4
+NBA经典咪咕, https://www.freetv.top/migu/788815380.m3u8?migutoken=5e8001267fdcffff8a754058ac5b1777ec55c24c40ba7eaad6192f34a0340554e8ce14f09165c95069f457527709c9212f9ca475563c490b6d2314131207f24e2d744ba2a4ddea685e4c46a734
+联赛经典咪咕, https://www.freetv.top/migu/780288994.m3u8?migutoken=317716802ea821174df4c72254d63a23bd44a83a0534b243d86582ff6a8ce8048fcfd7986109cd0f777ef21e9e2d267aeb60e953335dbc684196647bcb4da220c024242ebcbb6f31b8b27db834
+足球风云咪咕, https://www.freetv.top/migu/788816794.m3u8?migutoken=1286d3a7564921d5679138638e32e04a5ae9a2cd4e39233f95bbc30842b2513ee7f44369333eea6b3eb06d985aef5d0329db36c28c66d0087ff1b8162c3c8e248b8573ff49044253597eb04aec
+劲爆体育咪咕, https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
+魅力足球咪咕, https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b58b674fe32113222c6c9eab78bcdc2a9f31cf142a1d60536ea5a5ee039d3753e6bd98bef238d0ba7e3af9153e765e8b77e2a8c28451355b4a426d11c5c304f8
 
 港澳台频道,#genre#
-凤凰中文, http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-凤凰资讯, http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-凤凰香港, http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+凤凰中文, http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
+凤凰资讯, http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
+凤凰香港, http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰电影, http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 香港卫视, http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳视澳门, http://cdn.132.us.kg/live/asam/stream.m3u8
@@ -646,10 +662,7 @@ CAT电影, http://litv.zapi.us.kg/?id=4gtv-4gtv076
 数位电影, http://litv.zapi.us.kg/?id=4gtv-4gtv011
 龙华电影, http://37.27.111.214:8080/live/19/hls.m3u8
 靖天电影, http://litv.zapi.us.kg/?id=4gtv-4gtv061
-美亚电影台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 HOY, http://cdn.132.us.kg/live/hoy/stream.m3u8
-凤凰中文, http://cdn.132.us.kg/live/fhzw/stream.m3u8
-凤凰资讯, http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 
 港澳台AKTV,#genre#
 鳳凰中文, http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
