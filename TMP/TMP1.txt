@@ -286,22 +286,28 @@ CETV-4, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guar
 睛彩青少, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 Potplayer, https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-CNN, https://kong.pp.ua/iptv/live1.php?channel=63b0ca7fb9e602304be0c0704ddaa3ec&expiry=1737606663&token=77c352a1fb05b5ad5a91e14cf36cdb94
-CNN, https://kong.pp.ua/iptv/live1.php?channel=d80e2472921abac7d095b00a1070bb54&expiry=1737606663&token=2cbabf43cd92a85de429a42f67094476
-CNN, https://kong.pp.ua/iptv/live1.php?channel=ce166a2ee35c2199de01d2878469d7e1&expiry=1737606663&token=f59af0000704b03441893747af89e841
-CNN, https://kong.pp.ua/iptv/live1.php?channel=7a09a24be22b6a3ff2b23f682b56cf63&expiry=1737606663&token=1545ffadcd926d4cc57777f4d0fa177e
-CNN, https://kong.pp.ua/iptv/live1.php?channel=411d38bc193a63761be3c1421a0794b6&expiry=1737606663&token=2d5f4ca52205427d5083dd2667322f34
-CNN, https://kong.pp.ua/iptv/live1.php?channel=502dd1a4becfced8fef144b859d515e6&expiry=1737606663&token=4fc06c93deba955d913761aa1b725620
-CNN, https://kong.pp.ua/iptv/live1.php?channel=860bd1bfb7d96b4aa86d998f61535cff&expiry=1737606663&token=d1e6c3b072580c4d741442892b9fc979
-CNN, https://kong.pp.ua/iptv/live1.php?channel=49edf351b05a9649f90e966a0a56ae7c&expiry=1737606663&token=b87a6bfdb0f82bc96e155f2530c7ec5d
-CNN, https://kong.pp.ua/iptv/live1.php?channel=da153c007c5320555c5ccf98149ca898&expiry=1737606663&token=e320c220f03d8a6c85da52c034ef7c5b
-CNN, https://kong.pp.ua/iptv/live1.php?channel=83ed186584e9c9da0667fdf720fe7cc4&expiry=1737606663&token=8a9eef1ffb0fa43b933a233c488e34dd
-CNN, https://kong.pp.ua/iptv/live1.php?channel=017106b624d98d8228306b0b1efe764a&expiry=1737606663&token=d5e639c27ad293e8988c2d81f82f50db
-CNN, https://kong.pp.ua/iptv/live1.php?channel=619e8548bfae6fda8ed3ddb8abb59da1&expiry=1737606663&token=1299963f0bd2ce923269b4f36651c578
-CNN, https://kong.pp.ua/iptv/live1.php?channel=5ef639ca093d0b906a2fd9e72dbbdaa9&expiry=1737606663&token=11a599b7b8cdb4a6599957e06f794b10
-CNN, https://kong.pp.ua/iptv/live1.php?channel=c54bc2117c932cf5981e2894320d2e10&expiry=1737606663&token=10a2ae974a209b7d30bb8a0d7d384d2a
-CNN, https://kong.pp.ua/iptv/live1.php?channel=bdab341b17652d2d5ee568a9348693c5&expiry=1737606663&token=9b1781ef0c265ad09366c343d7bd682f
-CNN, https://kong.pp.ua/iptv/live1.php?channel=be8d112a4e435f0c9aa4dc981256403a&expiry=1737606663&token=0c2406502e891248c4c9bba3d0eb0f56
+UKSky, https://kong.pp.ua/iptv/live1.php?channel=ee0465b90756e4f14e15fdbb8e7de544&expiry=1737693063&token=9d9c77e1a621646d0539c07b3f89513c
+UKSky, https://kong.pp.ua/iptv/live1.php?channel=657f6b5ebf6e43ab1720bf84cd79732e&expiry=1737693063&token=42d0931ee09b11e8a39ae50d0f0c8ebd
+UK, https://kong.pp.ua/iptv/live1.php?channel=c4db05b45446f6bc58c6ad19f5aa6896&expiry=1737693063&token=2fb22bda6b39a0d0b74330911ae86f9a
+UK, https://kong.pp.ua/iptv/live1.php?channel=95b57164b14b4a412c4eb2f1e90976b5&expiry=1737693063&token=416dcbf3946d5badbe3d29343e24f1ab
+UKSky, https://kong.pp.ua/iptv/live1.php?channel=f1a0cf4b71828fdf9747c0e08fe73cab&expiry=1737693063&token=822f71dc812ee9581ba7a592a7886a8e
+UK, https://kong.pp.ua/iptv/live1.php?channel=3bc0e0ea3c31e249da4cd5a256d39133&expiry=1737693063&token=c1acdb6e1ec66eb20df8e3b8cc80963e
+UKSky, https://kong.pp.ua/iptv/live1.php?channel=f49a2aa8306ae93d025ad1dd85cec89a&expiry=1737693063&token=c947341cc587324486f71213e7d12524
+UK, https://kong.pp.ua/iptv/live1.php?channel=81e2bfd28a665802070d948f28218b8b&expiry=1737693063&token=1776cb0e2cd5bd10b7884bcb6cae87b8
+UK, https://kong.pp.ua/iptv/live1.php?channel=7b8f5a72b16e29bc3dfe159c86b5fecb&expiry=1737693063&token=3f8c2fbc1aa256482659d6acc4c6134d
+UK, https://kong.pp.ua/iptv/live1.php?channel=ecd97fad9a91dae622c95429879b2c83&expiry=1737693063&token=ad1a2f9d92733c1682098606d2705096
+UK, https://kong.pp.ua/iptv/live1.php?channel=19e621e91d0b6331df0419739cd5da95&expiry=1737693063&token=e390095e2adb9508bccc8cfadea71b9e
+UKSky, https://kong.pp.ua/iptv/live1.php?channel=d0bace8ff40dc8cb56d97e0a79c7c1cc&expiry=1737693063&token=cda2c4dee483e58ebe605d02ef2e9d82
+UKSky, https://kong.pp.ua/iptv/live1.php?channel=bd8f0e03a39e809314245b21d948a623&expiry=1737693063&token=2388534c9f2fff12ca7dbd6b8fb79f07
+UK, https://kong.pp.ua/iptv/live1.php?channel=6d3788d41aca2f0bf456045817f55f5b&expiry=1737693063&token=5069c1274cd2b2c5e204f30e0301903e
+UK, https://kong.pp.ua/iptv/live1.php?channel=ed90190a7476fc71b53fb6901b037098&expiry=1737693063&token=18e65172b5dfc016b830a66270fc2092
+UKSky, https://kong.pp.ua/iptv/live1.php?channel=bcbe8f73eaa7151ad42f146aa993b406&expiry=1737693063&token=a930f8dca88cac9e950a34c57e0bbd4a
+UK, https://kong.pp.ua/iptv/live1.php?channel=5d8dfc8954031ab287df84d60ef49f9c&expiry=1737693063&token=71918685bdfde4a5f0a7eccc9634c828
+UKSky, https://kong.pp.ua/iptv/live1.php?channel=409fbf40e410b49f19d6d1e6d9d90fcf&expiry=1737693063&token=1017a162ec16b5b41e1b2eefe6f19a69
+UK, https://kong.pp.ua/iptv/live1.php?channel=7fe10ef8d7bc3680f9b6c3856fedfbd3&expiry=1737693063&token=dbd7e34380fac8f2de79eabc673fc8b9
+UK, https://kong.pp.ua/iptv/live1.php?channel=43394eb4d6ea492b476c6c0164af54e1&expiry=1737693063&token=be8d4701b74017d9d79a5a6290fd39dd
+UK, https://kong.pp.ua/iptv/live1.php?channel=d9e52d6036c320fff415ecd77b1277cf&expiry=1737693063&token=e8f6f1629c8255b55a225e5588f0fe13
+UK, https://kong.pp.ua/iptv/live1.php?channel=513a81aa47b72dd5bc6ab7b8a341dfff&expiry=1737693063&token=c067b08253c812050a0181307287405d
 中国教育1台, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
 中国教育2台, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 中国教育3台, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
@@ -509,7 +515,7 @@ CHC动作电影, http://148.135.93.213:81/live.php?id=CHC动作电影
 浙江卫视, http://148.135.93.213:81/live.php?id=浙江卫视
 江苏卫视, http://148.135.93.213:81/live.php?id=江苏卫视
 陕西卫视, http://148.135.93.213:81/live.php?id=陕西卫视
-湖北卫视, http://cc2022.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=2025
+湖北卫视, http://148.135.93.213:81/live.php?id=湖北卫视
 内蒙古卫视, http://148.135.93.213:81/live.php?id=内蒙古卫视
 江西卫视, http://148.135.93.213:81/live.php?id=江西卫视
 广东卫视, http://148.135.93.213:81/live.php?id=广东卫视
@@ -523,7 +529,7 @@ CHC动作电影, http://148.135.93.213:81/live.php?id=CHC动作电影
 山西卫视, http://148.135.93.213:81/live.php?id=山西卫视
 广西卫视, http://148.135.93.213:81/live.php?id=广西卫视
 河北卫视, http://148.135.93.213:81/live.php?id=河北卫视
-河南卫视, http://cc2022.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=2025
+河南卫视, http://148.135.93.213:81/live.php?id=河南卫视
 深圳卫视, http://148.135.93.213:81/live.php?id=深圳卫视
 甘肃卫视, http://148.135.93.213:81/live.php?id=甘肃卫视
 贵州卫视, http://148.135.93.213:81/live.php?id=贵州卫视
@@ -531,6 +537,7 @@ CHC动作电影, http://148.135.93.213:81/live.php?id=CHC动作电影
 重庆卫视, http://148.135.93.213:81/live.php?id=重庆卫视
 黑龙江卫视, http://148.135.93.213:81/live.php?id=黑龙江卫视
 海南卫视, http://148.135.93.213:81/live.php?id=海南卫视
+大湾区卫视, http://148.135.93.213:81/live.php?id=大湾区卫视
 西藏卫视, http://148.135.93.213:81/live.php?id=西藏卫视
 云南卫视, http://cc2022.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=2025
 新疆卫视, http://cc2022.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=2025
@@ -752,9 +759,9 @@ tvg-id="爱动漫", http://[2409:8087:5e00:24::2d]:6610/000000001000/1/200000000
 宠物小精灵, http://1.94.31.214:35455/huya/23749096
 
 IHOT频道,#genre#
-iHOT, http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000032
-iHOT, http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000033
-iHOT, http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000034
+iHOT, http://nas.zyylover.homes:35455/itv/2000000004000000032.m3u8?cdn=hnbblive
+iHOT, http://nas.zyylover.homes:35455/itv/2000000004000000033.m3u8?cdn=hnbblive
+iHOT, http://nas.zyylover.homes:35455/itv/2000000004000000034.m3u8?cdn=hnbblive
 iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000035/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=YanG-1989
 iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000036/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=YanG-1989
 iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000038/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=YanG-1989
@@ -769,10 +776,10 @@ iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000059/ind
 iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000060/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=YanG-1989
 
 NewTV频道,#genre#
-NewTV, http://itv.nctv.top:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-NewTV, http://itv.nctv.top:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
-NewTV, http://itv.nctv.top:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-NewTV, http://itv.nctv.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+NewTV, http://nas.zyylover.homes:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+NewTV, http://nas.zyylover.homes:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
+NewTV, http://nas.zyylover.homes:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+NewTV, http://nas.zyylover.homes:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=YanG-1989
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=YanG-1989
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=YanG-1989
@@ -799,7 +806,7 @@ NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013730/in
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=YanG-1989
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
 NewTV, http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NewTV, http://itv.nctv.top:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+NewTV, http://nas.zyylover.homes:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
 
 百事通,#genre#
 星光影院, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288013/index.m3u8?channel-id=bestzb&Contentid=5000000011000288013&livemode=1&stbId=YanG-1989
