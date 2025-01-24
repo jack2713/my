@@ -56,14 +56,14 @@ if __name__ == "__main__":
     urls = [
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',
         'http://aktv.top/live.txt',
+        'https://live.zbds.top/tv/iptv6.txt',
+        'https://live.zbds.top/tv/iptv4.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'http://rihou.cc:555/gggg.nzk',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
         'http://47.99.102.252/live.txt',
         'http://kxrj.site:55/lib/kx2024.txt',
         'https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt',
-        'https://live.zbds.top/tv/iptv6.txt',
-        'https://live.zbds.top/tv/iptv4.txt',
         'https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt',
     ]  
   
