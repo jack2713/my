@@ -62,8 +62,8 @@ if __name__ == "__main__":
     urls = [
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',
         'http://aktv.top/live.txt',
-        'http://rihou.cc:555/gggg.nzk',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
+        'http://rihou.cc:555/gggg.nzk',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
         'http://47.99.102.252/live.txt',
         'http://kxrj.site:55/lib/kx2024.txt',
