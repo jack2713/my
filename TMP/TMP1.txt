@@ -706,9 +706,9 @@ iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000059/ind
 iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000060/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=YanG-1989
 
 NewTV频道,#genre#
-NewTV, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-NewTV, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EVGh4wVrIL86YabiEzt0u5Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=YanG-1989
+NewTV, http://110.42.45.89:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
+NewTV, http://110.42.45.89:35455/itv/1000000004000024993.m3u8?cdn=ystenlive
+NewTV, http://110.42.45.89:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=YanG-1989
