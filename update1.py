@@ -62,7 +62,6 @@ if __name__ == "__main__":
     urls = [
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/temp1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
-        'https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/yg.txt',
         'https://raw.githubusercontent.com/sublime2025/IPTV/refs/heads/main/adult',
         'https://qu.ax/HtMB.txt',
         'https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt',  
