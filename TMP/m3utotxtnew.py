@@ -38,22 +38,17 @@ for url in urls:
         
         if line.startswith("#EXTINF:"):
             # 使用正则从 #EXTINF 行提取信息
-            # 修改正则表达式以匹配最后一个逗号后的频道名
-            match = re.match(r'#EXTINF:-1.*?group-title="([^"]+)".*?tvg-name="([^"]+)".*?tvg-logo="([^"]*)".*,(.*)$', line)
+            # 修改正则表达式以捕获最后一个逗号后的频道名称
+            match = re.match(r'#EXTINF:-1.*?group-title="([^"]+)".*?tvg-name="([^"]*)".*?tvg-logo="([^"]*)".*,(.*)$', line)
             if match:
                 group_title = match.group(1)  # 提取分组信息
-                # 从最后一个逗号后提取频道名称
-                channel_name = match.group(4).strip()
+                # 这里不再使用 tvg-name，而是使用匹配到的最后一个逗号后的内容作为频道名称
+                channel_name = match.group(4).strip()  # 提取频道名称（最后一个逗号后的内容）
                 tvg_logo = match.group(3)     # 提取频道 Logo URL
             else:
-                # 如果正则没有匹配，可以尝试其他方式提取信息（这里保留原始逻辑作为备选）
-                channel_info = line.split(",")
-                if len(channel_info) > 1:
-                    # 这里原本的逻辑可能不适用于所有情况，因为频道名可能不在第二个位置
-                    # 我们已经通过正则表达式解决了这个问题，所以这里可以保留或删除
-                    # channel_name = channel_info[1].split(" ")[0]
-                group_title_items = [item.split("group-title=")[1].split('"')[1] for item in channel_info if "group-title=" in item]
-                group_title = group_title_items[0] if group_title_items else group_title
+                # 如果正则没有匹配（这种情况应该很少，因为我们已经针对常见格式进行了调整）
+                # 可以尝试其他方式提取信息，但这里为了简化，我们直接跳过不匹配的行
+                continue
         elif line.startswith("http"):
             # 处理流媒体 URL 行
             streaming_url = line
