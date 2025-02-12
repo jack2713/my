@@ -30,28 +30,40 @@ for url in urls:
     group_title = ""
     channel_name = ""
     tvg_logo = ""
-    tvg_id = ""
+    streaming_url = ""
 
     # 提取频道信息
-    for i, line in enumerate(m3u_content.splitlines()):
+    for line in m3u_content.splitlines():
         line = line.strip()
         
         if line.startswith("#EXTINF:"):
-            # 使用正则从 #EXTINF 行提取信息
-            match = re.match(r'#EXTINF:-1.*?group-title="([^"]+)".*?tvg-name="([^"]+)".*?tvg-logo="([^"]*)"', line)
+            # 尝试使用正则从 #EXTINF 行提取信息
+            match = re.match(r'#EXTINF:-1.*?group-title="([^"]+)".*?tvg-name="([^"]*)".*?tvg-logo="([^"]*)"', line)
             if match:
                 group_title = match.group(1)  # 提取分组信息
-                channel_name = match.group(2)  # 提取频道名称
+                tvg_name = match.group(2)     # 提取频道名称（可能为空）
                 tvg_logo = match.group(3)     # 提取频道 Logo URL
             else:
-                # 如果正则没有匹配，尝试从行的最后部分提取频道名称
-                channel_info = line.split(",", 1)  # 分割为两部分：属性和URL前的文本
-                channel_description = channel_info[0] if len(channel_info) > 1 else line
-                # 尝试找到最后一个逗号后的文本作为频道名称
-                channel_name = channel_description.rsplit(",", 1)[-1].strip()
-                # 尝试提取 group-title，如果存在的话
-                group_title_match = re.search(r'group-title="([^"]+)"', channel_description)
-                group_title = group_title_match.group(1) if group_title_match else ""
+                # 如果正则没有匹配，使用备用方法提取信息
+                channel_info = line.split(",")
+                group_title_items = [item.split("group-title=")[1].split('"')[1] for item in channel_info if "group-title=" in item]
+                group_title = group_title_items[0] if group_title_items else ""
+                
+                # 尝试从最后一个逗号后的部分获取频道名
+                if "tvg-name" in line:
+                    # 查找 tvg-name="..." 后面的内容，或者如果没有，就取最后一个逗号后的内容
+                    tvg_name_part = line.split("tvg-name=\"")[-1].split("\"")[0] if "tvg-name=\"" in line else line.split(",")[-1]
+                    # 去除可能的空格和引号
+                    tvg_name = tvg_name_part.strip().strip("\"")
+                else:
+                    tvg_name = line.split(",")[-1].strip().strip("\"")  # 直接取最后一个逗号后的内容
+
+            # 如果 tvg-name 为空或未定义，使用备用逻辑
+            if not tvg_name:
+                tvg_name = line.split(",")[-1].strip().strip("\"")  # 取最后一个逗号后的内容作为频道名
+
+            channel_name = tvg_name  # 使用提取或备用的频道名
+
         elif line.startswith("http"):
             # 处理流媒体 URL 行
             streaming_url = line
@@ -61,8 +73,7 @@ for url in urls:
                     "channel_name": channel_name,
                     "group_title": group_title,
                     "tvg_logo": tvg_logo,
-                    "streaming_url": streaming_url,
-                    "line_index": i
+                    "streaming_url": streaming_url
                 })
             # 清空临时数据以便下一个频道
             channel_name = ""
@@ -78,7 +89,7 @@ output_file_path = "TMP/TMP1.txt"
 with open(output_file_path, "w", encoding="utf-8") as output_file:
     prev_group_title = None
     for group_title, channels_in_group in all_channels_dict.items():
-        sorted_channels_in_group = sorted(channels_in_group, key=lambda x: x["line_index"])  # 确保每个分组内的频道也是排序的
+        sorted_channels_in_group = sorted(channels_in_group, key=lambda x: (x["group_title"], x["channel_name"]))  # 可以根据需要调整排序逻辑
         
         # 将 group-title 转换成你要求的格式
         if group_title != prev_group_title:
@@ -94,9 +105,8 @@ with open(output_file_path, "w", encoding="utf-8") as output_file:
             tvg_logo = channel["tvg_logo"]
             streaming_url = channel["streaming_url"]
 
-            # 防止输出格式为 ",http://xxx"
-            if channel_name and streaming_url:
-                # 输出为一行：频道名称和流媒体 URL，逗号分隔
-                output_file.write(f"{channel_name}, {streaming_url}\n")
+            # 输出为一行：频道名称和流媒体 URL，逗号分隔，可以加上 Logo URL（如果需要）
+            # output_file.write(f"{channel_name}, {streaming_url}, {tvg_logo}\n")  # 如果需要 Logo URL，可以取消注释这行
+            output_file.write(f"{channel_name}, {streaming_url}\n")
 
 print(f"提取完成,结果已保存到 {output_file_path}")
