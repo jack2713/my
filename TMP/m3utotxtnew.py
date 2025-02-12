@@ -4,7 +4,6 @@ from collections import defaultdict
 import re
 
 # 文件 URL 列表
-
 urls = [
     'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
     'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8',
@@ -39,16 +38,20 @@ for url in urls:
         
         if line.startswith("#EXTINF:"):
             # 使用正则从 #EXTINF 行提取信息
-            match = re.match(r'#EXTINF:-1.*?group-title="([^"]+)".*?tvg-name="([^"]+)".*?tvg-logo="([^"]+)"', line)
+            # 修改正则表达式以匹配最后一个逗号后的频道名
+            match = re.match(r'#EXTINF:-1.*?group-title="([^"]+)".*?tvg-name="([^"]+)".*?tvg-logo="([^"]*)".*,(.*)$', line)
             if match:
                 group_title = match.group(1)  # 提取分组信息
-                channel_name = match.group(2)  # 提取频道名称
+                # 从最后一个逗号后提取频道名称
+                channel_name = match.group(4).strip()
                 tvg_logo = match.group(3)     # 提取频道 Logo URL
             else:
-                # 如果正则没有匹配，可以尝试其他方式提取信息
+                # 如果正则没有匹配，可以尝试其他方式提取信息（这里保留原始逻辑作为备选）
                 channel_info = line.split(",")
                 if len(channel_info) > 1:
-                    channel_name = channel_info[1].split(" ")[0]
+                    # 这里原本的逻辑可能不适用于所有情况，因为频道名可能不在第二个位置
+                    # 我们已经通过正则表达式解决了这个问题，所以这里可以保留或删除
+                    # channel_name = channel_info[1].split(" ")[0]
                 group_title_items = [item.split("group-title=")[1].split('"')[1] for item in channel_info if "group-title=" in item]
                 group_title = group_title_items[0] if group_title_items else group_title
         elif line.startswith("http"):
