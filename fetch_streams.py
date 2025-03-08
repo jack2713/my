@@ -61,7 +61,7 @@ if __name__ == "__main__":
     # 定义多个URL
     urls = [
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',
-        'http://aktv.top/live.txt',
+        #'http://aktv.top/live.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/dy.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'http://rihou.cc:555/gggg.nzk',
