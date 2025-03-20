@@ -9,7 +9,7 @@ urls = [
     'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8',
     'https://raw.githubusercontent.com/big-mouth-cn/tv/refs/heads/main/iptv-ok.m3u',
     #'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
-    #'https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u',
+    'https://aktv.space/live.m3u',
     'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
     # 'https://qu.ax/kBip.m3u',
     'https://huangsuming.github.io/iptv/list/tvlist.txt',
