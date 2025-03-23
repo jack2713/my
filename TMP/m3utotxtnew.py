@@ -5,14 +5,14 @@ import re
 
 # 文件 URL 列表
 urls = [
-    'https://aktv.space/live.m3u',
     'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
-    'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8',
+    #'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8',
     'https://raw.githubusercontent.com/big-mouth-cn/tv/refs/heads/main/iptv-ok.m3u',
     #'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
+     'https://aktv.space/live.m3u',
     'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
     # 'https://qu.ax/kBip.m3u',
-    'https://huangsuming.github.io/iptv/list/tvlist.txt',
+    #'https://huangsuming.github.io/iptv/list/tvlist.txt',
     # 'https://raw.githubusercontent.com/mavin521/syiptv/main/live.m3u',
 ]
 
