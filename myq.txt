@@ -1,5 +1,5 @@
 注意事项,#genre#
-20250328082630仅供测试自用如有侵权请通知,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+20250328162457仅供测试自用如有侵权请通知,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
 MY,#genre#
 南充科教,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8
 南充新闻综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8
@@ -4752,16 +4752,6 @@ MovieSphere, https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 The, https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp, https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 足球粤评,#genre#
-㋂㏻中超联赛⚽📡,http://124.248.69.76:26781/douyu/11531165
-㍫⁰⁰青岛西岸🆚上海海港,http://rihou.cc:555/mp4?id=lndjj.mp4
-🔊粤🎙️11讲波,http://rihou.cc:555/mp4?id=lndjj.mp4
-🔊国🎙️11说球,http://rihou.cc:555/mp4?id=lndjj.mp4
-㍫³⁵武汉三镇🆚浙江俱乐,http://rihou.cc:555/mp4?id=lndjj.mp4
-🔊粤🎙️22讲波,http://rihou.cc:555/mp4?id=lndjj.mp4
-🔊国🎙️22说球,http://rihou.cc:555/mp4?id=lndjj.mp4
-㍬⁰⁰深圳鹏城🆚云南玉昆,http://rihou.cc:555/mp4?id=lndjj.mp4
-🔊粤🎙️33讲波,http://rihou.cc:555/mp4?id=lndjj.mp4
-🔊国🎙️33说球,http://rihou.cc:555/mp4?id=lndjj.mp4
 ㋂㏼中乙联赛⚽📡,http://124.248.69.76:26781/douyu/11531165
 ㍧³⁰广州蒲公英🆚深圳2028,http://rihou.cc:555/mp4?id=lndjj.mp4
 🔊粤🎙️44讲波,http://rihou.cc:555/mp4?id=lndjj.mp4
@@ -4930,13 +4920,14 @@ pₒₚc电影频标,http://103.38.82.107:28888/stream/tvb/popc/master.m3u8?u=tv
 凤凰中文频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文频高,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文频标,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯频高,http://ali.hlspull.yximgs.com/live/_duan_ju_bao_bao_bao_xiao_shi_hou_zuo_guo_ya___Phx_HD.flv
+凤凰资讯频高,http://ali.hlspull.yximgs.com/live/_______Phx_HD.flv
 凤凰资讯频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯频标,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港频高,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港频标,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
-中天新闻频高,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+中天新闻频高,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
+中天新闻频加,http://ali.hlspull.yximgs.com/live/_______CTI_2_HD.flv
 有线新闻频陆,p3p://108.181.32.169:58940/679f6990000efb87a0ac78c40d196e01
 有线综合频粤,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 有线综合频国,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -5081,6 +5072,88 @@ HBO电影频道,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/75/817/ch
 AXN电影频道,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 MoMo亲子台,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 东风卫视频道,http://122.117.71.103:8527/http/61.222.53.250:8081/hls/68/810/ch31.m3u8
+港闽频限,#genre#
+Plus综合频限,http://ali.hlspull.yximgs.com/live/aac5318b72c0a0b0ec3f09dca7e80ff1.flv
+凤凰中文频限,http://ali.hlspull.yximgs.com/live/113f633d374b06032cadf938c87df5a2.flv
+凤凰资讯频限,http://ali.hlspull.yximgs.com/live/c64953bc802571c4c26dd54fd696270a.flv
+凤凰香港频限,http://ali.hlspull.yximgs.com/live/c2c008748a3309fb1835787416bd8b93.flv
+星空卫视频限,http://ali.hlspull.yximgs.com/live/c42462adf032adc073721c616b177965.flv
+中天新闻频限,http://ali.hlspull.yximgs.com/live/48f9a4ffa061aa211b84dbd519798594.flv
+中天新闻频加,http://ali.hlspull.yximgs.com/live/8a773459b2ed51b3bc4e3fc0f51dc64e.flv
+有线新闻频限,http://ali.hlspull.yximgs.com/live/1bf48cdd2326ff0f8a009a4f1ce8b97d.flv
+无线新闻频限,http://ali.hlspull.yximgs.com/live/471955a640cc9a72eed076ff439fe973.flv
+Now新闻频限,http://ali.hlspull.yximgs.com/live/7d22e2b6d696b137f4c0fcf7f07ee4b2.flv
+无线翡翠频限,http://ali.hlspull.yximgs.com/live/0c67bb17b90a10e8cf8135785cd5acb1.flv
+无线明珠频限,http://ali.hlspull.yximgs.com/live/53e0860fa18baae396a24d8143765e50.flv
+无线星河频国,http://ali.hlspull.yximgs.com/live/9334bec545d5414110af3ae6849b6edb.flv
+无线娱乐频限,http://ali.hlspull.yximgs.com/live/f1a71a49504d426e38acb4b366d90f8e.flv
+黄金华剧频限,http://ali.hlspull.yximgs.com/live/5fe793a1ce30b98b2eee9a19ec833aec.flv
+有线综合频限,http://ali.hlspull.yximgs.com/live/0b9a04fb7aeecec50ea528c568f935e5.flv
+美亚电影频国,http://ali.hlspull.yximgs.com/live/2b76f3cf9388ec9f2221381f3f1237b9.flv
+美亚电影频粤,http://ali.hlspull.yximgs.com/live/91721eaf06e7e058ac14846ca7675cd0.flv
+澳门莲花频限,http://ali.hlspull.yximgs.com/live/227cb49cc1f4b02b8054b0ab8cb983c1.flv
+Now财经频限,http://ali.hlspull.yximgs.com/live/c1b756f7a45453da055d3314afaf8ea1.flv
+HBo高清频限,http://ali.hlspull.yximgs.com/live/eec599d751132b139cbbedccd31467d6.flv
+HBo强档频限,http://ali.hlspull.yximgs.com/live/0390c40ebffa51d7b9e220f71cc91748.flv
+HBo原创频限,http://ali.hlspull.yximgs.com/live/331fc4ed8bac167ca3d8c3f396aefd73.flv
+HBo家庭频限,http://ali.hlspull.yximgs.com/live/3bd872489cdd8a011a0bbc14c36aafe1.flv
+东森新闻频限,http://ali.hlspull.yximgs.com/live/b7dad8c1d49eb43b9e7540143d0eca14.flv
+寰宇新闻频限,http://ali.hlspull.yximgs.com/live/70d4af14f64323c18a2ebb39dc92e4c7.flv
+tvbs新闻频限,http://ali.hlspull.yximgs.com/live/f176ecb1e966662f9f74a348acd63909.flv
+三立新闻频限,http://ali.hlspull.yximgs.com/live/b101c6143db6089c5fb9357ab700ed51.flv
+三立新闻频加,http://ali.hlspull.yximgs.com/live/046b41c9ede5ca8c31b392dd1eeb4127.flv
+年代新闻频限,http://ali.hlspull.yximgs.com/live/2b1a36d26a51737b7eccccb96fcd4827.flv
+民视新闻频限,http://ali.hlspull.yximgs.com/live/6d3b9cf8852df6855f178f0d1b72ada5.flv
+中视新闻频限,http://ali.hlspull.yximgs.com/live/c2928a7d1175b48fefcbf17de14f4d55.flv
+中视新闻频限,http://ali.hlspull.yximgs.com/live/9638ff0c5e1d4553054b85e319605e1a.flv
+华视新闻频限,http://ali.hlspull.yximgs.com/live/b9d24b264aaf9479b1de3b8d01149329.flv
+台视新闻频限,http://ali.hlspull.yximgs.com/live/e1f0b21f142c3a62714943d5e19791a0.flv
+公视闽南频限,http://ali.hlspull.yximgs.com/live/5d0f05e7a2de9ec0f64b20705893a51b.flv
+民视闽南频限,http://ali.hlspull.yximgs.com/live/2bb05c8da64bdec5dfe0fa9e0eb72a69.flv
+台视闽南频限,http://ali.hlspull.yximgs.com/live/c557ab8594a5cddf9533be13e46f3f0e.flv
+民视第一频限,http://ali.hlspull.yximgs.com/live/7ebb1a9d63713e32087f930d6b909791.flv
+民视影剧频限,http://ali.hlspull.yximgs.com/live/23fb7ce346b312c84ab67fadfc4512b5.flv
+民视旅游频限,http://ali.hlspull.yximgs.com/live/a77eab941256b35b06e8d9fff8bec259.flv
+民视综艺频限,http://ali.hlspull.yximgs.com/live/813c1876f5abc463d2e8eb2d6ebbea5e.flv
+民视台湾频限,http://ali.hlspull.yximgs.com/live/5b0f2ef5969816e0c99937077b4c58f0.flv
+公视戏剧频限,http://ali.hlspull.yximgs.com/live/6fe71b71b5ef738e8a825f53f01a6bd4.flv
+台视综合频限,http://ali.hlspull.yximgs.com/live/9a9bee91530aa2f3697439fe4dc4862a.flv
+闽南戏剧频限,http://ali.hlspull.yximgs.com/live/a04672efd6d2e0c762fd91015ba83a05.flv
+中视经典频限,http://ali.hlspull.yximgs.com/live/7bd08a374840a3f336c9b15f22935f19.flv
+中视菁采频限,http://ali.hlspull.yximgs.com/live/ba741f30141328d000edf03aa9a63fbb.flv
+八大综合频限,http://ali.hlspull.yximgs.com/live/ed04d363ebe76b1f7d441466f7e7cc58.flv
+八大精彩频限,http://ali.hlspull.yximgs.com/live/8dba39da7193112d1470fd2bdc1ac065.flv
+三立都会频限,http://ali.hlspull.yximgs.com/live/5e4b7bfc29b5fa641f64203d4124d55f.flv
+三立综合频限,http://ali.hlspull.yximgs.com/live/a30bee81c301fc94a02e816adb255cfa.flv
+三立戏剧频限,http://ali.hlspull.yximgs.com/live/bdaeb318b6d086a64532a8aa98c877fe.flv
+三立闽南频限,http://ali.hlspull.yximgs.com/live/a2318f2fda4c8573a1b4dbacbde0b479.flv
+tvbs闽南频限,http://ali.hlspull.yximgs.com/live/af8d3c3c5352bfefe15e9afd90fd4e8b.flv
+tvbs欢乐频限,http://ali.hlspull.yximgs.com/live/f3f924e400ffb30c97e9eab79c074f5d.flv
+tvbs精采频限,http://ali.hlspull.yximgs.com/live/dcee456a682f2fc89065c2491f7b070e.flv
+EltA日韩频限,http://ali.hlspull.yximgs.com/live/a32ea417abd544cd5bbb72b90a3a40a9.flv
+EltA综合频限,http://ali.hlspull.yximgs.com/live/3b7f49cb9fad72140126c5da7c9d0c8b.flv
+EltA影剧频限,http://ali.hlspull.yximgs.com/live/762a88b799cf6038433e62e332ee96da.flv
+EltA娱乐频限,http://ali.hlspull.yximgs.com/live/000615057634c5c4212c08e482f636a9.flv
+华艺中文频限,http://ali.hlspull.yximgs.com/live/3e250df2d945917e3401dc709062b093.flv
+寰宇财经频限,http://ali.hlspull.yximgs.com/live/7f913249c4c2483fd494f4b3d4b5c921.flv
+寰宇闽南频限,http://ali.hlspull.yximgs.com/live/d3a8d303f5aca7519db1d6e0e20a28b6.flv
+龙华电影频限,http://ali.hlspull.yximgs.com/live/508505d8e43a52724138e7e6c7cdaada.flv
+龙华影剧频限,http://ali.hlspull.yximgs.com/live/8acada11e95fc1d3720334ca89975f11.flv
+龙华日韩频限,http://ali.hlspull.yximgs.com/live/49df3c9174b360cf1ebfe43a3d06f955.flv
+龙华经典频限,http://ali.hlspull.yximgs.com/live/eeb411cf82b3e039c96801ca4a060975.flv
+龙华偶像频限,http://ali.hlspull.yximgs.com/live/dfdaf92824823f293912312c45b60738.flv
+纬来精采频限,http://ali.hlspull.yximgs.com/live/779001815945a4ce9ae4db0636b82c3a.flv
+东森戏剧频限,http://ali.hlspull.yximgs.com/live/4ad97efebff2ce5e98a80f2467471a42.flv
+靖天综合频限,http://ali.hlspull.yximgs.com/live/c0838eb882ea54732fddd55d645d925e.flv
+靖天日本频限,http://ali.hlspull.yximgs.com/live/03457449b85d6ab6e2da43fc44e1ccce.flv
+靖天卡通频限,http://ali.hlspull.yximgs.com/live/a9ad08c48e9734841d5f98347f7bc6d3.flv
+靖天电影频限,http://ali.hlspull.yximgs.com/live/6de03c88ce32ff01ed7da61f37ffdb3e.flv
+靖天戏剧频限,http://ali.hlspull.yximgs.com/live/68be70604f7a10d2eed9b4c051e4a508.flv
+靖天育乐频限,http://ali.hlspull.yximgs.com/live/5fbaa27c43058e92030593e5a54b0ad8.flv
+靖天映画频限,http://ali.hlspull.yximgs.com/live/18227783a0f72c1183536c3aae42febe.flv
+靖天欢乐频限,http://ali.hlspull.yximgs.com/live/ad6acad53b5e7dc36a1f4f5eddfbc461.flv
+靖洋卡通频限,http://ali.hlspull.yximgs.com/live/4735cd4684718feb65de0d5d76edcb39.flv
+靖洋戏剧频限,http://ali.hlspull.yximgs.com/live/bb21f6e46fcff2f4ef4ed83d648d51f9.flv
 港闽频标,#genre#
 凤凰中文频标,http://103.38.82.107:28888/stream/tvb/null-15/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
 凤凰资讯频标,http://103.38.82.107:28888/stream/tvb/null-16/master.m3u8?u=tvvvv&p=07a351aa4f067de9da01c60251f2e09de5c8eff81a4436125f4c5fd94ec0bd85
@@ -5173,33 +5246,33 @@ NHK日本AKtv,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
 哪吒修复,#genre#
 ⬇️哪吒2魔童闹海⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
 哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
-哪吒1降世粤语,https://pan.mrgj.cc/m3u8/hcy/Fi0hJ7cbLpgkg1tsqnwZK75h3AhM4y68J/playlist.m3u8
+哪吒1降世粤语,http://154.201.71.148:222/m3u8/hcy/Fi0hJ7cbLpgkg1tsqnwZK75h3AhM4y68J/playlist.m3u8
 哪吒2闹海修复,https://c1.7bbffvip.com/video/nazhazhimotongnaohai/修复版/index.m3u8
-大圣1归来粤语,https://pan.mrgj.cc/m3u8/hcy/FivuW7vHv8T5eV-ooY8JGJJnXUij07_q-/playlist.m3u8
-灌篮高手_新粤,https://pan.mrgj.cc/m3u8/hcy/FgHR6jMrarKci_bW5THxP3pNYvkrP2qcn/playlist.m3u8
-波士BB1_粤语,https://pan.mrgj.cc/m3u8/hcy/FhBT3ciV-dNGBBGbgyqpGeJc4M7Qgfn9R/playlist.m3u8
-波士BB2_粤语,https://pan.mrgj.cc/m3u8/hcy/FtDia5eV4znlAXsQu6IFMOacUXiPgeMX5/playlist.m3u8
-荒失失奇兵粤1,https://pan.mrgj.cc/m3u8/hcy/Fot8mKEmD4bqEx1UzErRGSLHz4u5Mg-o6/playlist.m3u8
-荒失失企鹅粤2,https://pan.mrgj.cc/m3u8/hcy/1D11rsixBDo619420240831194033t8s/playlist.m3u8
-迷你兵团粤语1,https://pan.mrgj.cc/m3u8/hcy/FlIVZLRCIOktE4Y39cnhK5oepnesViDHL/playlist.m3u8
-迷你兵团粤语2,https://pan.mrgj.cc/m3u8/hcy/1D11rsixBDo618820240718225610aen/playlist.m3u8
-迷你兵团粤语3,https://pan.mrgj.cc/m3u8/hcy/FpBI4hQiTMdirfrtTCJVHz7c-_EMNkzpY/playlist.m3u8
-迷你兵团粤语4,https://pan.mrgj.cc/m3u8/hcy/1508sulM133514920240916155329zwy/playlist.m3u8
-光年正传_粤语,https://pan.mrgj.cc/m3u8/hcy/FnPsCgzAvPy53HtzDE4FA2I_XxkU1LzSu/playlist.m3u8
-反斗奇兵粤语1,https://pan.mrgj.cc/m3u8/hcy/Fq4im6sPCSW6rOHQmb6FKdLikYizGwkLu/playlist.m3u8
-反斗奇兵粤语2,https://pan.mrgj.cc/m3u8/hcy/FotEbu7F9ubj6mk4qVrtLXrH93320fbI4/playlist.m3u8
-反斗奇兵粤语3,https://pan.mrgj.cc/m3u8/hcy/FpRUwOux_uLUl_KklzDRDz7Y59Pzpf7M1/playlist.m3u8
-反斗奇兵粤语4,https://pan.mrgj.cc/m3u8/hcy/FgvzBHOuIrLi_g9ewLSlK95HQBdruiKc4/playlist.m3u8
-麦兜1麦兜故事,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406420241202233700lwa/playlist.m3u8
-麦兜2响当当粤,https://pan.mrgj.cc/m3u8/hcy/000npVGO1464062202412022337013k7/playlist.m3u8
-麦兜3菠萝油王,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406420241202233700lw9/playlist.m3u8
-麦兜4当伴我心,https://pan.mrgj.cc/m3u8/hcy/FgeMTrBtlah0hDmQ8F75HJ5LP12oeZWGd/playlist.m3u8
-麦兜5饭宝奇兵,https://pan.mrgj.cc/m3u8/hcy/FuHkXJTb_mFvFDyiWVX9CjatV0-Mz_5Pb/playlist.m3u8
-麦兜6我和妈妈,https://pan.mrgj.cc/m3u8/hcy/000npVGO1464061202412022337001gj/playlist.m3u8
-怪物史瑞克粤1,https://pan.mrgj.cc/m3u8/hcy/1D11rsixBDo61922024081319471481s/playlist.m3u8
-怪物史瑞克粤2,https://pan.mrgj.cc/m3u8/hcy/1D11rsixBDo61922024081319471481r/playlist.m3u8
-怪物史瑞克粤3,https://pan.mrgj.cc/m3u8/hcy/1D11rsixBDo619020240813194714u4l/playlist.m3u8
-怪物史瑞克粤4,https://pan.mrgj.cc/m3u8/hcy/1D11rsixBDo6188202408131947145wa/playlist.m3u8
+大圣1归来粤语,http://154.201.71.148:222/m3u8/hcy/FivuW7vHv8T5eV-ooY8JGJJnXUij07_q-/playlist.m3u8
+灌篮高手_新粤,http://154.201.71.148:222/m3u8/hcy/FgHR6jMrarKci_bW5THxP3pNYvkrP2qcn/playlist.m3u8
+波士BB1_粤语,http://154.201.71.148:222/m3u8/hcy/FhBT3ciV-dNGBBGbgyqpGeJc4M7Qgfn9R/playlist.m3u8
+波士BB2_粤语,http://154.201.71.148:222/m3u8/hcy/FtDia5eV4znlAXsQu6IFMOacUXiPgeMX5/playlist.m3u8
+荒失失奇兵粤1,http://154.201.71.148:222/m3u8/hcy/Fot8mKEmD4bqEx1UzErRGSLHz4u5Mg-o6/playlist.m3u8
+荒失失企鹅粤2,http://154.201.71.148:222/m3u8/hcy/1D11rsixBDo619420240831194033t8s/playlist.m3u8
+迷你兵团粤语1,http://154.201.71.148:222/m3u8/hcy/FlIVZLRCIOktE4Y39cnhK5oepnesViDHL/playlist.m3u8
+迷你兵团粤语2,http://154.201.71.148:222/m3u8/hcy/1D11rsixBDo618820240718225610aen/playlist.m3u8
+迷你兵团粤语3,http://154.201.71.148:222/m3u8/hcy/FpBI4hQiTMdirfrtTCJVHz7c-_EMNkzpY/playlist.m3u8
+迷你兵团粤语4,http://154.201.71.148:222/m3u8/hcy/1508sulM133514920240916155329zwy/playlist.m3u8
+光年正传_粤语,http://154.201.71.148:222/m3u8/hcy/FnPsCgzAvPy53HtzDE4FA2I_XxkU1LzSu/playlist.m3u8
+反斗奇兵粤语1,http://154.201.71.148:222/m3u8/hcy/Fq4im6sPCSW6rOHQmb6FKdLikYizGwkLu/playlist.m3u8
+反斗奇兵粤语2,http://154.201.71.148:222/m3u8/hcy/FotEbu7F9ubj6mk4qVrtLXrH93320fbI4/playlist.m3u8
+反斗奇兵粤语3,http://154.201.71.148:222/m3u8/hcy/FpRUwOux_uLUl_KklzDRDz7Y59Pzpf7M1/playlist.m3u8
+反斗奇兵粤语4,http://154.201.71.148:222/m3u8/hcy/FgvzBHOuIrLi_g9ewLSlK95HQBdruiKc4/playlist.m3u8
+麦兜1麦兜故事,http://154.201.71.148:222/m3u8/hcy/000npVGO146406420241202233700lwa/playlist.m3u8
+麦兜2响当当粤,http://154.201.71.148:222/m3u8/hcy/000npVGO1464062202412022337013k7/playlist.m3u8
+麦兜3菠萝油王,http://154.201.71.148:222/m3u8/hcy/000npVGO146406420241202233700lw9/playlist.m3u8
+麦兜4当伴我心,http://154.201.71.148:222/m3u8/hcy/FgeMTrBtlah0hDmQ8F75HJ5LP12oeZWGd/playlist.m3u8
+麦兜5饭宝奇兵,http://154.201.71.148:222/m3u8/hcy/FuHkXJTb_mFvFDyiWVX9CjatV0-Mz_5Pb/playlist.m3u8
+麦兜6我和妈妈,http://154.201.71.148:222/m3u8/hcy/000npVGO1464061202412022337001gj/playlist.m3u8
+怪物史瑞克粤1,http://154.201.71.148:222/m3u8/hcy/1D11rsixBDo61922024081319471481s/playlist.m3u8
+怪物史瑞克粤2,http://154.201.71.148:222/m3u8/hcy/1D11rsixBDo61922024081319471481r/playlist.m3u8
+怪物史瑞克粤3,http://154.201.71.148:222/m3u8/hcy/1D11rsixBDo619020240813194714u4l/playlist.m3u8
+怪物史瑞克粤4,http://154.201.71.148:222/m3u8/hcy/1D11rsixBDo6188202408131947145wa/playlist.m3u8
 美国队长4Ts中,https://cdn7.ryplay7.com/20250217/10692_fbe18652/index.m3u8
 峡谷2025HD中,https://cdn7.ryplay7.com/20250215/10678_9c49fdd1/index.m3u8
 死待与金刚狼H,https://svip.high21-playback.com/20241103/39766_5615a4fa/index.m3u8
@@ -5209,103 +5282,103 @@ NHK日本AKtv,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
 九龙城寨-HD粤,https://svipsvip.ffzy-online5.com/20240621/28900_f7dce56e/index.m3u8
 龙珠剧粤,#genre#
 ⬇️龙珠系列剧场粤语版⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
-龙珠剧场粤01,https://pan.mrgj.cc/m3u8/hcy/000npVGO14640802024121008520197m/playlist.m3u8
-龙珠剧场粤02,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406420241210085200ax4/playlist.m3u8
-龙珠剧场粤03,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406020241210085200a4a/playlist.m3u8
-龙珠剧场粤04,https://pan.mrgj.cc/m3u8/hcy/000npVGO14640802024121008520097j/playlist.m3u8
-龙珠特别粤01,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406220241210085202b4g/playlist.m3u8
-龙珠Z-特别02,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406420241210085201axg/playlist.m3u8
-龙珠Z-特别03,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406220241210101957rhz/playlist.m3u8
-龙珠Z-剧场01,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406420241210085200ax3/playlist.m3u8
-龙珠Z-剧场02,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406420241210085200ax5/playlist.m3u8
-龙珠Z-剧场03,https://pan.mrgj.cc/m3u8/hcy/000npVGO146407920241210085200dyd/playlist.m3u8
-龙珠Z-剧场04,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406320241210085200bzb/playlist.m3u8
-龙珠Z-剧场05,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406320241210085200bzd/playlist.m3u8
-龙珠Z-剧场06,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406020241210085159a48/playlist.m3u8
-龙珠Z-剧场07,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406120241210085159c6t/playlist.m3u8
-龙珠Z-剧场08,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406020241210085201a4h/playlist.m3u8
-龙珠Z-剧场09,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406420241210085202axk/playlist.m3u8
-龙珠Z-剧场10,https://pan.mrgj.cc/m3u8/hcy/000npVGO146407920241210085201dyk/playlist.m3u8
-龙珠Z-剧场11,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406120241210085201c77/playlist.m3u8
-龙珠Z-剧场12,https://pan.mrgj.cc/m3u8/hcy/000npVGO146407920241210085201dyk/playlist.m3u8
-龙珠Z-剧场13,https://pan.mrgj.cc/m3u8/hcy/000npVGO146407920241210085201dyj/playlist.m3u8
-龙珠超剧场粤,https://pan.mrgj.cc/m3u8/hcy/1508sulM133517520240606125330htj/playlist.m3u8
+龙珠剧场粤01,http://154.201.71.148:222/m3u8/hcy/000npVGO14640802024121008520197m/playlist.m3u8
+龙珠剧场粤02,http://154.201.71.148:222/m3u8/hcy/000npVGO146406420241210085200ax4/playlist.m3u8
+龙珠剧场粤03,http://154.201.71.148:222/m3u8/hcy/000npVGO146406020241210085200a4a/playlist.m3u8
+龙珠剧场粤04,http://154.201.71.148:222/m3u8/hcy/000npVGO14640802024121008520097j/playlist.m3u8
+龙珠特别粤01,http://154.201.71.148:222/m3u8/hcy/000npVGO146406220241210085202b4g/playlist.m3u8
+龙珠Z-特别02,http://154.201.71.148:222/m3u8/hcy/000npVGO146406420241210085201axg/playlist.m3u8
+龙珠Z-特别03,http://154.201.71.148:222/m3u8/hcy/000npVGO146406220241210101957rhz/playlist.m3u8
+龙珠Z-剧场01,http://154.201.71.148:222/m3u8/hcy/000npVGO146406420241210085200ax3/playlist.m3u8
+龙珠Z-剧场02,http://154.201.71.148:222/m3u8/hcy/000npVGO146406420241210085200ax5/playlist.m3u8
+龙珠Z-剧场03,http://154.201.71.148:222/m3u8/hcy/000npVGO146407920241210085200dyd/playlist.m3u8
+龙珠Z-剧场04,http://154.201.71.148:222/m3u8/hcy/000npVGO146406320241210085200bzb/playlist.m3u8
+龙珠Z-剧场05,http://154.201.71.148:222/m3u8/hcy/000npVGO146406320241210085200bzd/playlist.m3u8
+龙珠Z-剧场06,http://154.201.71.148:222/m3u8/hcy/000npVGO146406020241210085159a48/playlist.m3u8
+龙珠Z-剧场07,http://154.201.71.148:222/m3u8/hcy/000npVGO146406120241210085159c6t/playlist.m3u8
+龙珠Z-剧场08,http://154.201.71.148:222/m3u8/hcy/000npVGO146406020241210085201a4h/playlist.m3u8
+龙珠Z-剧场09,http://154.201.71.148:222/m3u8/hcy/000npVGO146406420241210085202axk/playlist.m3u8
+龙珠Z-剧场10,http://154.201.71.148:222/m3u8/hcy/000npVGO146407920241210085201dyk/playlist.m3u8
+龙珠Z-剧场11,http://154.201.71.148:222/m3u8/hcy/000npVGO146406120241210085201c77/playlist.m3u8
+龙珠Z-剧场12,http://154.201.71.148:222/m3u8/hcy/000npVGO146407920241210085201dyk/playlist.m3u8
+龙珠Z-剧场13,http://154.201.71.148:222/m3u8/hcy/000npVGO146407920241210085201dyj/playlist.m3u8
+龙珠超剧场粤,http://154.201.71.148:222/m3u8/hcy/1508sulM133517520240606125330htj/playlist.m3u8
 粤语动漫,#genre#
 ⬇️足球小将青年篇粤语版⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
-足球青年篇01,https://pan.mrgj.cc/m3u8/hcy/1508sulM1335150202409300918353vh/playlist.m3u8
-足球青年篇02,https://pan.mrgj.cc/m3u8/hcy/1508sulM1335176202410070003386sz/playlist.m3u8
-足球青年篇03,https://pan.mrgj.cc/m3u8/hcy/1508sulM133514920241014233602kzh/playlist.m3u8
-足球青年篇04,https://pan.mrgj.cc/m3u8/hcy/FjxT6yWIXV8aIRf0QESNKWZxhyqP7F17G/playlist.m3u8
-足球青年篇05,https://pan.mrgj.cc/m3u8/hcy/FipEdgIu22yUWkExlUCJBh5nkLeoSttIl/playlist.m3u8
-足球青年篇06,https://pan.mrgj.cc/m3u8/hcy/Fmzr3c_oVyFr58itXXchHfohPxxljFcFa/playlist.m3u8
-足球青年篇07,https://pan.mrgj.cc/m3u8/hcy/Fs0UJgijk04yQmjbO0mJHI6AwOeix5NqM/playlist.m3u8
-足球青年篇08,https://pan.mrgj.cc/m3u8/hcy/Fpmp_9Pb7KqN_QplhTkBCErUfT55v-yOj/playlist.m3u8
-足球青年篇09,https://pan.mrgj.cc/m3u8/hcy/FhwYC4EuIYZ5-B5RnO49AQZRzMorSiGie/playlist.m3u8
-足球青年篇10,https://pan.mrgj.cc/m3u8/hcy/Fnk9lZJ6P8rJalvcxN-JBLY1joaKbj_ky/playlist.m3u8
-足球青年篇11,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406020241209235138jxx/playlist.m3u8
-足球青年篇12,https://pan.mrgj.cc/m3u8/hcy/1508sulM133514920241218145048i4a/playlist.m3u8
-足球青年篇13,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406020241226201733dfw/playlist.m3u8
-足球青年篇14,https://pan.mrgj.cc/m3u8/hcy/000npVGO146407920241230124811lx8/playlist.m3u8
-足球青年篇15,https://pan.mrgj.cc/m3u8/hcy/Fn3WhSOFt5j4m5A2R_e9PTYxZZY7kbe2-/playlist.m3u8
-足球青年篇16,https://pan.mrgj.cc/m3u8/hcy/FkqB-ap969gaLJBvVhqpPD4GMuqyaev2G/playlist.m3u8
-足球青年篇17,https://pan.mrgj.cc/m3u8/hcy/FuZOIxEOUeuI90dTilkVPoKqswzq9lHPi/playlist.m3u8
-足球青年篇18,https://pan.mrgj.cc/m3u8/hcy/FgSp5gsgKhF6vdHcOufRPIZIVMnw2Co1e/playlist.m3u8
-足球青年篇19,https://pan.mrgj.cc/m3u8/hcy/Fib_cj-ZvPu8al9HGnK1PaZrK7OV_bzfv/playlist.m3u8
-足球青年篇20,https://pan.mrgj.cc/m3u8/hcy/Fi5JkPvZNoCvhtPxudqFFZpjnVFRvTakr/playlist.m3u8
-足球青年篇21,https://pan.mrgj.cc/m3u8/hcy/FqW7RKGJkB4wUYijaSFtNmLob4UL7ZA6M/playlist.m3u8
-足球青年篇22,https://pan.mrgj.cc/m3u8/hcy/Fkq4asQyXcJbuynt-qyZHF4SloChGl2OW/playlist.m3u8
-足球青年篇23,https://pan.mrgj.cc/m3u8/hcy/FkB2ydPHlujZB_jfvqr1JqIYWCO275ak2/playlist.m3u8
-足球青年篇24,https://pan.mrgj.cc/m3u8/hcy/Ft4xgpvpQf0IrMdTtyRdKt6GH2j-wUGxC/playlist.m3u8
+足球青年篇01,http://154.201.71.148:222/m3u8/hcy/1508sulM1335150202409300918353vh/playlist.m3u8
+足球青年篇02,http://154.201.71.148:222/m3u8/hcy/1508sulM1335176202410070003386sz/playlist.m3u8
+足球青年篇03,http://154.201.71.148:222/m3u8/hcy/1508sulM133514920241014233602kzh/playlist.m3u8
+足球青年篇04,http://154.201.71.148:222/m3u8/hcy/FjxT6yWIXV8aIRf0QESNKWZxhyqP7F17G/playlist.m3u8
+足球青年篇05,http://154.201.71.148:222/m3u8/hcy/FipEdgIu22yUWkExlUCJBh5nkLeoSttIl/playlist.m3u8
+足球青年篇06,http://154.201.71.148:222/m3u8/hcy/Fmzr3c_oVyFr58itXXchHfohPxxljFcFa/playlist.m3u8
+足球青年篇07,http://154.201.71.148:222/m3u8/hcy/Fs0UJgijk04yQmjbO0mJHI6AwOeix5NqM/playlist.m3u8
+足球青年篇08,http://154.201.71.148:222/m3u8/hcy/Fpmp_9Pb7KqN_QplhTkBCErUfT55v-yOj/playlist.m3u8
+足球青年篇09,http://154.201.71.148:222/m3u8/hcy/FhwYC4EuIYZ5-B5RnO49AQZRzMorSiGie/playlist.m3u8
+足球青年篇10,http://154.201.71.148:222/m3u8/hcy/Fnk9lZJ6P8rJalvcxN-JBLY1joaKbj_ky/playlist.m3u8
+足球青年篇11,http://154.201.71.148:222/m3u8/hcy/000npVGO146406020241209235138jxx/playlist.m3u8
+足球青年篇12,http://154.201.71.148:222/m3u8/hcy/1508sulM133514920241218145048i4a/playlist.m3u8
+足球青年篇13,http://154.201.71.148:222/m3u8/hcy/000npVGO146406020241226201733dfw/playlist.m3u8
+足球青年篇14,http://154.201.71.148:222/m3u8/hcy/000npVGO146407920241230124811lx8/playlist.m3u8
+足球青年篇15,http://154.201.71.148:222/m3u8/hcy/Fn3WhSOFt5j4m5A2R_e9PTYxZZY7kbe2-/playlist.m3u8
+足球青年篇16,http://154.201.71.148:222/m3u8/hcy/FkqB-ap969gaLJBvVhqpPD4GMuqyaev2G/playlist.m3u8
+足球青年篇17,http://154.201.71.148:222/m3u8/hcy/FuZOIxEOUeuI90dTilkVPoKqswzq9lHPi/playlist.m3u8
+足球青年篇18,http://154.201.71.148:222/m3u8/hcy/FgSp5gsgKhF6vdHcOufRPIZIVMnw2Co1e/playlist.m3u8
+足球青年篇19,http://154.201.71.148:222/m3u8/hcy/Fib_cj-ZvPu8al9HGnK1PaZrK7OV_bzfv/playlist.m3u8
+足球青年篇20,http://154.201.71.148:222/m3u8/hcy/Fi5JkPvZNoCvhtPxudqFFZpjnVFRvTakr/playlist.m3u8
+足球青年篇21,http://154.201.71.148:222/m3u8/hcy/FqW7RKGJkB4wUYijaSFtNmLob4UL7ZA6M/playlist.m3u8
+足球青年篇22,http://154.201.71.148:222/m3u8/hcy/Fkq4asQyXcJbuynt-qyZHF4SloChGl2OW/playlist.m3u8
+足球青年篇23,http://154.201.71.148:222/m3u8/hcy/FkB2ydPHlujZB_jfvqr1JqIYWCO275ak2/playlist.m3u8
+足球青年篇24,http://154.201.71.148:222/m3u8/hcy/Ft4xgpvpQf0IrMdTtyRdKt6GH2j-wUGxC/playlist.m3u8
 ⬇️奶龙与小七之大战暴暴龙粤语版⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
-奶龙与小七01,https://pan.mrgj.cc/m3u8/hcy/1508sulM133514920241220115351jz2/playlist.m3u8
-奶龙与小七02,https://pan.mrgj.cc/m3u8/hcy/1508sulM133517620241220115351cdh/playlist.m3u8
-奶龙与小七03,https://pan.mrgj.cc/m3u8/hcy/000npVGO146406120241230092607386/playlist.m3u8
-奶龙与小七04,https://pan.mrgj.cc/m3u8/hcy/000npVGO1464064202412300926077tb/playlist.m3u8
-奶龙与小七05,https://pan.mrgj.cc/m3u8/hcy/FiyidUv4YNu20AWC9MchOlphdrThnGD_t/playlist.m3u8
-奶龙与小七06,https://pan.mrgj.cc/m3u8/hcy/FhhRQB9BFwbZT6ns6y_xNJZVhYG1JRci2/playlist.m3u8
-奶龙与小七07,https://pan.mrgj.cc/m3u8/hcy/FmHYJjtbkLPXHMqpJV89H1osDOeRP5CX1/playlist.m3u8
-奶龙与小七08,https://pan.mrgj.cc/m3u8/hcy/FvicuRhEqipm_-Bs1431Enq1SHiyIKoOZ/playlist.m3u8
-奶龙与小七09,https://pan.mrgj.cc/m3u8/hcy/FrXecabj6fWxErZCaKytFGL4CrAMh-nRs/playlist.m3u8
-奶龙与小七10,https://pan.mrgj.cc/m3u8/hcy/Fk6RrSlSK8Fy8nQiriuxHd4DRWyDNivlc/playlist.m3u8
-奶龙与小七11,https://pan.mrgj.cc/m3u8/hcy/FsiBtREdOdVyCkbFuppFEdKFVXS7eTnxc/playlist.m3u8
-奶龙与小七12,https://pan.mrgj.cc/m3u8/hcy/FqdGD-w2VRHDmghU_N3tDfbqks5GUlU1w/playlist.m3u8
-奶龙与小七13,https://pan.mrgj.cc/m3u8/hcy/FnJ0-OiQPOPXT5xwVLSFFbI_oDlC9DzH1/playlist.m3u8
-奶龙与小七14,https://pan.mrgj.cc/m3u8/hcy/FjPm4vFM5MndTyMMp1YBP2p-MiNbKOTt3/playlist.m3u8
-奶龙与小七15,https://pan.mrgj.cc/m3u8/hcy/FsVp9kfYtY2bvDYmcUdNPaqIvTftvLWpm/playlist.m3u8
-奶龙与小七16,https://pan.mrgj.cc/m3u8/hcy/FmZyRLDTWUdJOyN66Y9xOiYrpoUat1ljS/playlist.m3u8
-奶龙与小七17,https://pan.mrgj.cc/m3u8/hcy/FstoNFWITHjhArlQFbUJLl6GvPX_7Exc4/playlist.m3u8
-奶龙与小七18,https://pan.mrgj.cc/m3u8/hcy/Fjki0E7dQV08OcsthjLVDPZ09hHkuUF5P/playlist.m3u8
-奶龙与小七19,https://pan.mrgj.cc/m3u8/hcy/Fp0JTJoJ0WLyZThFVvZVEI7Q3Y0wbdFG8/playlist.m3u8
-奶龙与小七20,https://pan.mrgj.cc/m3u8/hcy/Fte4B2ujKH9RO8eh22SpKOqabMbBxyhbU/playlist.m3u8
-奶龙与小七21,https://pan.mrgj.cc/m3u8/hcy/Fut5TXBZ0lrVs9oqvvalN76mrYzaPdJ-1/playlist.m3u8
-奶龙与小七22,https://pan.mrgj.cc/m3u8/hcy/Fh07vOQr8nY5L6H4c785OnZQ731OT_JSO/playlist.m3u8
+奶龙与小七01,http://154.201.71.148:222/m3u8/hcy/1508sulM133514920241220115351jz2/playlist.m3u8
+奶龙与小七02,http://154.201.71.148:222/m3u8/hcy/1508sulM133517620241220115351cdh/playlist.m3u8
+奶龙与小七03,http://154.201.71.148:222/m3u8/hcy/000npVGO146406120241230092607386/playlist.m3u8
+奶龙与小七04,http://154.201.71.148:222/m3u8/hcy/000npVGO1464064202412300926077tb/playlist.m3u8
+奶龙与小七05,http://154.201.71.148:222/m3u8/hcy/FiyidUv4YNu20AWC9MchOlphdrThnGD_t/playlist.m3u8
+奶龙与小七06,http://154.201.71.148:222/m3u8/hcy/FhhRQB9BFwbZT6ns6y_xNJZVhYG1JRci2/playlist.m3u8
+奶龙与小七07,http://154.201.71.148:222/m3u8/hcy/FmHYJjtbkLPXHMqpJV89H1osDOeRP5CX1/playlist.m3u8
+奶龙与小七08,http://154.201.71.148:222/m3u8/hcy/FvicuRhEqipm_-Bs1431Enq1SHiyIKoOZ/playlist.m3u8
+奶龙与小七09,http://154.201.71.148:222/m3u8/hcy/FrXecabj6fWxErZCaKytFGL4CrAMh-nRs/playlist.m3u8
+奶龙与小七10,http://154.201.71.148:222/m3u8/hcy/Fk6RrSlSK8Fy8nQiriuxHd4DRWyDNivlc/playlist.m3u8
+奶龙与小七11,http://154.201.71.148:222/m3u8/hcy/FsiBtREdOdVyCkbFuppFEdKFVXS7eTnxc/playlist.m3u8
+奶龙与小七12,http://154.201.71.148:222/m3u8/hcy/FqdGD-w2VRHDmghU_N3tDfbqks5GUlU1w/playlist.m3u8
+奶龙与小七13,http://154.201.71.148:222/m3u8/hcy/FnJ0-OiQPOPXT5xwVLSFFbI_oDlC9DzH1/playlist.m3u8
+奶龙与小七14,http://154.201.71.148:222/m3u8/hcy/FjPm4vFM5MndTyMMp1YBP2p-MiNbKOTt3/playlist.m3u8
+奶龙与小七15,http://154.201.71.148:222/m3u8/hcy/FsVp9kfYtY2bvDYmcUdNPaqIvTftvLWpm/playlist.m3u8
+奶龙与小七16,http://154.201.71.148:222/m3u8/hcy/FmZyRLDTWUdJOyN66Y9xOiYrpoUat1ljS/playlist.m3u8
+奶龙与小七17,http://154.201.71.148:222/m3u8/hcy/FstoNFWITHjhArlQFbUJLl6GvPX_7Exc4/playlist.m3u8
+奶龙与小七18,http://154.201.71.148:222/m3u8/hcy/Fjki0E7dQV08OcsthjLVDPZ09hHkuUF5P/playlist.m3u8
+奶龙与小七19,http://154.201.71.148:222/m3u8/hcy/Fp0JTJoJ0WLyZThFVvZVEI7Q3Y0wbdFG8/playlist.m3u8
+奶龙与小七20,http://154.201.71.148:222/m3u8/hcy/Fte4B2ujKH9RO8eh22SpKOqabMbBxyhbU/playlist.m3u8
+奶龙与小七21,http://154.201.71.148:222/m3u8/hcy/Fut5TXBZ0lrVs9oqvvalN76mrYzaPdJ-1/playlist.m3u8
+奶龙与小七22,http://154.201.71.148:222/m3u8/hcy/Fh07vOQr8nY5L6H4c785OnZQ731OT_JSO/playlist.m3u8
 ⬇️功夫熊猫之命运之掌粤语版⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
-功夫熊猫粤01,https://pan.mrgj.cc/m3u8/hcy/FujJde4Un2rb1PmD3bq5Hsqkemb2AJ9E2/playlist.m3u8
-功夫熊猫粤02,https://pan.mrgj.cc/m3u8/hcy/FpQB-51Rog7C2aTLXUR5JkLYsuiFRaIgw/playlist.m3u8
-功夫熊猫粤03,https://pan.mrgj.cc/m3u8/hcy/FlCjD9teLw1Yi3bLW4PJF6IcEBzDSi8jW/playlist.m3u8
-功夫熊猫粤04,https://pan.mrgj.cc/m3u8/hcy/FoE7kB54UsgbZb766j8pAN7NiIMGbFLmG/playlist.m3u8
-功夫熊猫粤05,https://pan.mrgj.cc/m3u8/hcy/FkIDlxvT09kpHh_jtE05CG4OsIQDx9P3K/playlist.m3u8
-功夫熊猫粤06,https://pan.mrgj.cc/m3u8/hcy/FlKiKrw553Qi8dwO0s_JID4eETmkLedaI/playlist.m3u8
-功夫熊猫粤07,https://pan.mrgj.cc/m3u8/hcy/FjOG--VKZRao-_MvOdUVH95_Nej9XmU4q/playlist.m3u8
-功夫熊猫粤08,https://pan.mrgj.cc/m3u8/hcy/Fvs8zwnIdS6Zh6BbhuI1OZa3j9wR3HUAm/playlist.m3u8
-功夫熊猫粤09,https://pan.mrgj.cc/m3u8/hcy/Fpsv03MLGa6D9c_SyVwJPw7XnMBrHxmAg/playlist.m3u8
-功夫熊猫粤10,https://pan.mrgj.cc/m3u8/hcy/FoalEfLDQcaLmEj2IKBdONrKFgLq10Hoi/playlist.m3u8
-功夫熊猫粤11,https://pan.mrgj.cc/m3u8/hcy/FpASopWr2T2gUtyngJ7NIBbcobGNv9kTo/playlist.m3u8
-功夫熊猫粤12,https://pan.mrgj.cc/m3u8/hcy/FjofSJtMqdth1mhjWilBAxp2rFuDWKn1Y/playlist.m3u8
-功夫熊猫粤13,https://pan.mrgj.cc/m3u8/hcy/FubMgP5jxhpLySqHdL7JCiqqf5Pmd8Y0S/playlist.m3u8
-功夫熊猫粤14,https://pan.mrgj.cc/m3u8/hcy/FguprFYsx-Aadpf6AADJCR5HGr9OOMfOG/playlist.m3u8
-功夫熊猫粤15,https://pan.mrgj.cc/m3u8/hcy/Fny7_4iGAI9Pg3MnurGtP_YwCOyQkgChT/playlist.m3u8
-功夫熊猫粤16,https://pan.mrgj.cc/m3u8/hcy/FpnT0h2EyplnM-dRIaoNM-rVYMEFkMq3Z/playlist.m3u8
-功夫熊猫粤17,https://pan.mrgj.cc/m3u8/hcy/FsH5l1yXxwnM341wzUq9ANaNSoREg8cnz/playlist.m3u8
-功夫熊猫粤18,https://pan.mrgj.cc/m3u8/hcy/FhtckDgxtGZZ5zCAwivlMG5X74MgJbRIW/playlist.m3u8
-功夫熊猫粤19,https://pan.mrgj.cc/m3u8/hcy/FndfhdYjXdrhmT9Kv4rxJwY77JbON1304/playlist.m3u8
-功夫熊猫粤20,https://pan.mrgj.cc/m3u8/hcy/FrwAr9rKcNTULe0A49ftCAbws7zC3nD61/playlist.m3u8
-功夫熊猫粤21,https://pan.mrgj.cc/m3u8/hcy/FnrmTWmqg2tCnk9tl50tG4Y2VV5xvoNFQ/playlist.m3u8
-功夫熊猫粤22,https://pan.mrgj.cc/m3u8/hcy/Fnw_RA7mWNSwBxoQrMsxCcowjFcW8lj6s/playlist.m3u8
-功夫熊猫粤23,https://pan.mrgj.cc/m3u8/hcy/Fvm-UYzeg6VIDKItaptNJY61DUKUyoOLS/playlist.m3u8
-功夫熊猫粤24,https://pan.mrgj.cc/m3u8/hcy/FrEXodydreQhKaQsHbZFFz79pLLEia3KI/playlist.m3u8
-功夫熊猫粤25,https://pan.mrgj.cc/m3u8/hcy/Fgc9kajFqKRqkUnapk9ZJdZLjoKw0aiKa/playlist.m3u8
-功夫熊猫粤26,https://pan.mrgj.cc/m3u8/hcy/Ftvs_xa4ZoBxy2PICa_hA9qXX-wOrGauc/playlist.m3u8
+功夫熊猫粤01,http://154.201.71.148:222/m3u8/hcy/FujJde4Un2rb1PmD3bq5Hsqkemb2AJ9E2/playlist.m3u8
+功夫熊猫粤02,http://154.201.71.148:222/m3u8/hcy/FpQB-51Rog7C2aTLXUR5JkLYsuiFRaIgw/playlist.m3u8
+功夫熊猫粤03,http://154.201.71.148:222/m3u8/hcy/FlCjD9teLw1Yi3bLW4PJF6IcEBzDSi8jW/playlist.m3u8
+功夫熊猫粤04,http://154.201.71.148:222/m3u8/hcy/FoE7kB54UsgbZb766j8pAN7NiIMGbFLmG/playlist.m3u8
+功夫熊猫粤05,http://154.201.71.148:222/m3u8/hcy/FkIDlxvT09kpHh_jtE05CG4OsIQDx9P3K/playlist.m3u8
+功夫熊猫粤06,http://154.201.71.148:222/m3u8/hcy/FlKiKrw553Qi8dwO0s_JID4eETmkLedaI/playlist.m3u8
+功夫熊猫粤07,http://154.201.71.148:222/m3u8/hcy/FjOG--VKZRao-_MvOdUVH95_Nej9XmU4q/playlist.m3u8
+功夫熊猫粤08,http://154.201.71.148:222/m3u8/hcy/Fvs8zwnIdS6Zh6BbhuI1OZa3j9wR3HUAm/playlist.m3u8
+功夫熊猫粤09,http://154.201.71.148:222/m3u8/hcy/Fpsv03MLGa6D9c_SyVwJPw7XnMBrHxmAg/playlist.m3u8
+功夫熊猫粤10,http://154.201.71.148:222/m3u8/hcy/FoalEfLDQcaLmEj2IKBdONrKFgLq10Hoi/playlist.m3u8
+功夫熊猫粤11,http://154.201.71.148:222/m3u8/hcy/FpASopWr2T2gUtyngJ7NIBbcobGNv9kTo/playlist.m3u8
+功夫熊猫粤12,http://154.201.71.148:222/m3u8/hcy/FjofSJtMqdth1mhjWilBAxp2rFuDWKn1Y/playlist.m3u8
+功夫熊猫粤13,http://154.201.71.148:222/m3u8/hcy/FubMgP5jxhpLySqHdL7JCiqqf5Pmd8Y0S/playlist.m3u8
+功夫熊猫粤14,http://154.201.71.148:222/m3u8/hcy/FguprFYsx-Aadpf6AADJCR5HGr9OOMfOG/playlist.m3u8
+功夫熊猫粤15,http://154.201.71.148:222/m3u8/hcy/Fny7_4iGAI9Pg3MnurGtP_YwCOyQkgChT/playlist.m3u8
+功夫熊猫粤16,http://154.201.71.148:222/m3u8/hcy/FpnT0h2EyplnM-dRIaoNM-rVYMEFkMq3Z/playlist.m3u8
+功夫熊猫粤17,http://154.201.71.148:222/m3u8/hcy/FsH5l1yXxwnM341wzUq9ANaNSoREg8cnz/playlist.m3u8
+功夫熊猫粤18,http://154.201.71.148:222/m3u8/hcy/FhtckDgxtGZZ5zCAwivlMG5X74MgJbRIW/playlist.m3u8
+功夫熊猫粤19,http://154.201.71.148:222/m3u8/hcy/FndfhdYjXdrhmT9Kv4rxJwY77JbON1304/playlist.m3u8
+功夫熊猫粤20,http://154.201.71.148:222/m3u8/hcy/FrwAr9rKcNTULe0A49ftCAbws7zC3nD61/playlist.m3u8
+功夫熊猫粤21,http://154.201.71.148:222/m3u8/hcy/FnrmTWmqg2tCnk9tl50tG4Y2VV5xvoNFQ/playlist.m3u8
+功夫熊猫粤22,http://154.201.71.148:222/m3u8/hcy/Fnw_RA7mWNSwBxoQrMsxCcowjFcW8lj6s/playlist.m3u8
+功夫熊猫粤23,http://154.201.71.148:222/m3u8/hcy/Fvm-UYzeg6VIDKItaptNJY61DUKUyoOLS/playlist.m3u8
+功夫熊猫粤24,http://154.201.71.148:222/m3u8/hcy/FrEXodydreQhKaQsHbZFFz79pLLEia3KI/playlist.m3u8
+功夫熊猫粤25,http://154.201.71.148:222/m3u8/hcy/Fgc9kajFqKRqkUnapk9ZJdZLjoKw0aiKa/playlist.m3u8
+功夫熊猫粤26,http://154.201.71.148:222/m3u8/hcy/Ftvs_xa4ZoBxy2PICa_hA9qXX-wOrGauc/playlist.m3u8
 新剧追更,#genre#
 ⬇️念无双⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
 念无双第01集,https://svip.high24-playback.com/20250327/22005_a91d27ba/index.m3u8
@@ -5314,12 +5387,15 @@ NHK日本AKtv,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
 念无双第04集,https://svip.high25-playback.com/20250327/22365_c45bb3a0/index.m3u8
 念无双第05集,https://svip.high26-playback.com/20250327/2570_69cf8f30/index.m3u8
 念无双第06集,https://svip.high26-playback.com/20250327/2569_c98dfff3/index.m3u8
+念无双第07集,http://160.202.226.85:88/DADCache/Ff/4b856c53ea373922e82024b53df6d62f.m3u8
+念无双第08集,http://160.202.226.85:88/DADCache/Ff/a8e9f8610537c0b325672a5025a813cc.m3u8
 ⬇️棋士⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
 棋士之第01集,https://svip.high26-playback.com/20250325/2413_2d86cfae/index.m3u8
 棋士之第02集,https://svip.high25-playback.com/20250325/22242_05662dcc/index.m3u8
 棋士之第03集,https://svip.high26-playback.com/20250325/2418_3bca5e68/index.m3u8
 棋士之第04集,https://svip.high26-playback.com/20250326/2494_b749feea/index.m3u8
 棋士之第05集,https://svip.high26-playback.com/20250326/2497_71b15dd6/index.m3u8
+棋士之第06集,https://svip.high26-playback.com/20250327/2585_a74570c7/index.m3u8
 ⬇️雁回时⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
 雁回时第01集,https://svip.yyzy-play.vip/20250318/29683_d3423388/index.m3u8
 雁回时第02集,https://svip.yyzy-play.vip/20250318/29687_af283b89/index.m3u8
@@ -5340,64 +5416,29 @@ NHK日本AKtv,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
 雁回时第17集,https://svip.high25-playback.com/20250326/22313_ca97e8f5/index.m3u8
 雁回时第18集,https://svip.high25-playback.com/20250327/22362_1054e6ab/index.m3u8
 雁回时第19集,https://svip.high25-playback.com/20250327/22368_791d03b2/index.m3u8
+雁回时第20集,http://160.202.226.85:88/DADCache/Ff/7e15d74dd79688fd7bd2eba0e4345d6c.m3u8
+雁回时第21集,http://160.202.226.85:88/DADCache/LZ/a96f430491de45a05edf97f996c0bf74.m3u8
 ⬇️大奉打更人粤语版⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
-大奉打更人01,https://pan.mrgj.cc/m3u8/hcy/FvDTGL7KYysySGg7Y6CpIE6o_fLb4mNnM/playlist.m3u8
-大奉打更人02,https://pan.mrgj.cc/m3u8/hcy/FjMitqgIIzveW4Ob2-E9CkJrDFzNICN33/playlist.m3u8
-大奉打更人03,https://pan.mrgj.cc/m3u8/hcy/FuN2TYzS2LNkCsykSwJtBNK7WKfp-tj_Z/playlist.m3u8
-大奉打更人04,https://pan.mrgj.cc/m3u8/hcy/FgL-7f3dZcAfMz6EuMvBEJ5a0AeY9WWMH/playlist.m3u8
-大奉打更人05,https://pan.mrgj.cc/m3u8/hcy/Fid4VHKGJOhzBh3nEsMpKhZ_Vr4XriSkc/playlist.m3u8
-大奉打更人06,https://pan.mrgj.cc/m3u8/hcy/FkcJjTeP99Hx7ySWirpFB94fJ2dSp_ed8/playlist.m3u8
-大奉打更人07,https://pan.mrgj.cc/m3u8/hcy/Fgw3IkCzGFXz-PTpui2FAepUGcglmxgZ8/playlist.m3u8
-大奉打更人08,https://pan.mrgj.cc/m3u8/hcy/FrZFAGI3cAL-6zIMDHGVKM7ua-oHH3BO_/playlist.m3u8
-大奉打更人09,https://pan.mrgj.cc/m3u8/hcy/FhQQ2mwiOJmaon96b3JpKZZMPjAJCjjVm/playlist.m3u8
-大奉打更人10,https://pan.mrgj.cc/m3u8/hcy/Fm_hXwQeVTo5RLjmpyBRFeI3z7VhNlV2O/playlist.m3u8
-大奉打更人11,https://pan.mrgj.cc/m3u8/hcy/FrSOSvW4wunoTAqBCUiVPdLsoKCQkMKl6/playlist.m3u8
-大奉打更人12,https://pan.mrgj.cc/m3u8/hcy/FggPKJ82zS2fOyF7lLFFGTZQIcL6Hs1hn/playlist.m3u8
-大奉打更人13,https://pan.mrgj.cc/m3u8/hcy/FuSCZMLYP4TQMT6af3QpPFa8rI6n8D_I0/playlist.m3u8
-大奉打更人14,https://pan.mrgj.cc/m3u8/hcy/FhBlDqBoVoc8IAeuQVOxK1pIS-TFQFbLP/playlist.m3u8
-大奉打更人15,https://pan.mrgj.cc/m3u8/hcy/Ft-U3s5uRV6qHrj6vs_lB76HujSrRkUSq/playlist.m3u8
-大奉打更人16,https://pan.mrgj.cc/m3u8/hcy/FmGNcjP-AzS1y4rSYNAhN2I5o5hW1gN4t/playlist.m3u8
-大奉打更人17,https://pan.mrgj.cc/m3u8/hcy/FnK7AE92KTihYIsdZLVhO9oqleoqXil0o/playlist.m3u8
-大奉打更人18,https://pan.mrgj.cc/m3u8/hcy/FjpupubsYNR0rWxRFAQlKlpiQEyDxGCYd/playlist.m3u8
-⬇️燃罪⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
-燃罪之第01集,https://svip.high24-playback.com/20250313/20204_939788fc/index.m3u8
-燃罪之第02集,https://svip.high24-playback.com/20250313/20203_35beb40a/index.m3u8
-燃罪之第03集,https://svip.high24-playback.com/20250313/20202_6ddf294f/index.m3u8
-燃罪之第04集,https://svip.high25-playback.com/20250313/21510_a7f73d5a/index.m3u8
-燃罪之第05集,https://svip.high25-playback.com/20250313/21509_7362ae2a/index.m3u8
-燃罪之第06集,https://svip.high25-playback.com/20250313/21508_1cd52a61/index.m3u8
-燃罪之第07集,https://svip.high24-playback.com/20250314/20316_ee8f1c15/index.m3u8
-燃罪之第08集,https://svip.high24-playback.com/20250314/20315_346574fd/index.m3u8
-燃罪之第09集,https://svip.high24-playback.com/20250315/20437_30fd1a70/index.m3u8
-燃罪之第10集,https://svip.high24-playback.com/20250315/20436_c00681a1/index.m3u8
-燃罪之第11集,https://svip.yyzy-play.vip/20250316/29187_af545641/index.m3u8
-燃罪之第12集,https://svip.yyzy-play.vip/20250316/29186_7d6cb39e/index.m3u8
-燃罪之第13集,https://svip.high25-playback.com/20250317/21754_037518d3/index.m3u8
-燃罪之第14集,https://svip.high25-playback.com/20250317/21753_9755dce0/index.m3u8
-燃罪之第15集,https://svip.high24-playback.com/20250318/20615_73d77dc3/index.m3u8
-燃罪之第16集,https://svip.high24-playback.com/20250318/20614_a012f020/index.m3u8
-燃罪之第17集,https://svip.high24-playback.com/20250319/20686_bf311535/index.m3u8
-燃罪之第18集,https://svip.high24-playback.com/20250319/20685_18fa2d4f/index.m3u8
-燃罪之第19集,https://svip.high24-playback.com/20250320/20825_06992534/index.m3u8
-燃罪之第20集,https://svip.high24-playback.com/20250320/20824_dca587a7/index.m3u8
-燃罪之第21集,https://svip.high25-playback.com/20250321/22024_610d0828/index.m3u8
-燃罪之第22集,https://svip.high25-playback.com/20250321/22023_56ae693d/index.m3u8
-燃罪之第23集,https://svip.high26-playback.com/20250322/2134_d35e2a3f/index.m3u8
-燃罪之第24集,https://svip.high26-playback.com/20250322/2133_78298d88/index.m3u8
-燃罪之第25集,https://svip.high26-playback.com/20250323/2224_3fe97b80/index.m3u8
-燃罪之第26集,https://svip.high26-playback.com/20250323/2223_440107ba/index.m3u8
-燃罪之第27集,https://svip.high26-playback.com/20250324/2275_f89b41b0/index.m3u8
-燃罪之第28集,https://svip.high26-playback.com/20250324/2274_65c7d830/index.m3u8
-燃罪之第29集,https://svip.high26-playback.com/20250325/2396_11dca4f3/index.m3u8
-燃罪之第30集,https://svip.high26-playback.com/20250325/2395_c5b2f0fa/index.m3u8
-燃罪之第31集,https://svip.high26-playback.com/20250326/2479_9480f4ba/index.m3u8
-燃罪之第32集,https://svip.high26-playback.com/20250326/2478_d03d7a8f/index.m3u8
-燃罪之第33集,https://svip.high26-playback.com/20250327/2566_a08f5a2c/index.m3u8
-燃罪之第34集,https://svip.high26-playback.com/20250327/2565_ecf49ea0/index.m3u8
-燃罪之第35集,https://svip.high26-playback.com/20250327/2568_91c75b7f/index.m3u8
-燃罪之第36集,https://svip.high26-playback.com/20250327/2567_d10bafb3/index.m3u8
-燃罪之第37集,https://svip.high25-playback.com/20250327/22364_5c56d364/index.m3u8
-燃罪之第38集,https://svip.high25-playback.com/20250327/22363_541e1f9e/index.m3u8
+大奉打更人01,http://154.201.71.148:222/m3u8/hcy/FvDTGL7KYysySGg7Y6CpIE6o_fLb4mNnM/playlist.m3u8
+大奉打更人02,http://154.201.71.148:222/m3u8/hcy/FjMitqgIIzveW4Ob2-E9CkJrDFzNICN33/playlist.m3u8
+大奉打更人03,http://154.201.71.148:222/m3u8/hcy/FuN2TYzS2LNkCsykSwJtBNK7WKfp-tj_Z/playlist.m3u8
+大奉打更人04,http://154.201.71.148:222/m3u8/hcy/FgL-7f3dZcAfMz6EuMvBEJ5a0AeY9WWMH/playlist.m3u8
+大奉打更人05,http://154.201.71.148:222/m3u8/hcy/Fid4VHKGJOhzBh3nEsMpKhZ_Vr4XriSkc/playlist.m3u8
+大奉打更人06,http://154.201.71.148:222/m3u8/hcy/FkcJjTeP99Hx7ySWirpFB94fJ2dSp_ed8/playlist.m3u8
+大奉打更人07,http://154.201.71.148:222/m3u8/hcy/Fgw3IkCzGFXz-PTpui2FAepUGcglmxgZ8/playlist.m3u8
+大奉打更人08,http://154.201.71.148:222/m3u8/hcy/FrZFAGI3cAL-6zIMDHGVKM7ua-oHH3BO_/playlist.m3u8
+大奉打更人09,http://154.201.71.148:222/m3u8/hcy/FhQQ2mwiOJmaon96b3JpKZZMPjAJCjjVm/playlist.m3u8
+大奉打更人10,http://154.201.71.148:222/m3u8/hcy/Fm_hXwQeVTo5RLjmpyBRFeI3z7VhNlV2O/playlist.m3u8
+大奉打更人11,http://154.201.71.148:222/m3u8/hcy/FrSOSvW4wunoTAqBCUiVPdLsoKCQkMKl6/playlist.m3u8
+大奉打更人12,http://154.201.71.148:222/m3u8/hcy/FggPKJ82zS2fOyF7lLFFGTZQIcL6Hs1hn/playlist.m3u8
+大奉打更人13,http://154.201.71.148:222/m3u8/hcy/FuSCZMLYP4TQMT6af3QpPFa8rI6n8D_I0/playlist.m3u8
+大奉打更人14,http://154.201.71.148:222/m3u8/hcy/FhBlDqBoVoc8IAeuQVOxK1pIS-TFQFbLP/playlist.m3u8
+大奉打更人15,http://154.201.71.148:222/m3u8/hcy/Ft-U3s5uRV6qHrj6vs_lB76HujSrRkUSq/playlist.m3u8
+大奉打更人16,http://154.201.71.148:222/m3u8/hcy/FmGNcjP-AzS1y4rSYNAhN2I5o5hW1gN4t/playlist.m3u8
+大奉打更人17,http://154.201.71.148:222/m3u8/hcy/FnK7AE92KTihYIsdZLVhO9oqleoqXil0o/playlist.m3u8
+大奉打更人18,http://154.201.71.148:222/m3u8/hcy/FjpupubsYNR0rWxRFAQlKlpiQEyDxGCYd/playlist.m3u8
+大奉打更人19,http://154.201.71.148:222/m3u8/hcy/FgYVgqmQvLLx0EGjEIydASJeO2jMuLz-8/playlist.m3u8
+大奉打更人20,http://154.201.71.148:222/m3u8/hcy/Fj4B_nL8JBBr1P1yi8PtFQZmLxQX1CRca/playlist.m3u8
 央卫甘肃,#genre#
 CCTV-01金昌,rtsp://180.95.143.19/PLTV/88888910/224/3221225567/10000100000000060000000000107347_0.smil
 CCTV-02金昌,rtsp://180.95.143.19/PLTV/88888910/224/3221225568/10000100000000060000000000107348_0.smil
