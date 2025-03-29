@@ -689,23 +689,16 @@ ELTV生活英語台, http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=c2b8d6341733400398
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=27118f401733505119
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=5faa6a1c1733891024
-江西卫视, https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173497016371440&token=f1ca6e2a5dc42e86eaef1cff167b1a2b
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=41cb69561734971653
-江西卫视, https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173505718139440&token=e7abc5b2966df5d13aa96df82529b02d
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=99e877cd1735060012
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=65e343e11735147846
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=a6a1f35e1735221343
-江西卫视, https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173530168323256&token=525574930472ec4745962e2221c03f09
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=795d3b521735295276
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=7d80b3d01735398823
-江西卫视, https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173555720043437&token=10de3d1044beca5ae4269eddcb00b897
-贵州卫视, https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=92b1550f23ef1e7c5facf2dffd8c7e45&txTime=67728093
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=26da81f31735561950
-江西卫视, https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173567242392439&token=773eadb264030a6e74a1748b03940b22
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1f8cf8e91735668520
 东方卫视, http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 重庆卫视, http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202501082337/app_2/_definst_/ls_2.stream/chunklist.m3u8
-江西卫视, https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173635238277351&token=5466ef69f86dde4a50543527a813a4fd
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=c4e9c2e81736356548
 重庆卫视, http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202501092234/app_2/_definst_/ls_2.stream/chunklist.m3u8
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=d5f593201736445379
@@ -855,7 +848,6 @@ ELTV生活英語台, http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
 「B站」英雄联盟•手游, https://live.iill.top/bilibili/23138275
 「B站」王者荣耀 𝟙, https://live.iill.top/bilibili/55
 「B站」王者荣耀 𝟚, https://live.iill.top/bilibili/21654762
-「虎牙」王者荣耀 𝟙, https://live.iill.top/huya/660002
 「虎牙」王者荣耀 𝟚, https://live.iill.top/huya/660164
 「斗鱼」王者荣耀 𝟙, https://live.iill.top/douyu/1863767
 「斗鱼」王者荣耀 𝟚, https://live.iill.top/douyu/1984839
@@ -884,6 +876,7 @@ ELTV生活英語台, http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
 「斗鱼」第五人格 , https://live.iill.top/douyu/3226194
 「虎牙」逆战, https://live.iill.top/huya/nsl2021
 「B站」无畏契约 , https://live.iill.top/bilibili/22908869
+「虎牙」无畏契约 , https://live.iill.top/huya/660679
 「斗鱼」无畏契约 , https://live.iill.top/douyu/4585645
 「斗鱼」原神, https://live.iill.top/douyu/10853239
 「B站」QQ飞车•手游, https://live.iill.top/bilibili/21743919
@@ -913,6 +906,7 @@ B站热门赛事, http://dns.yiandrive.com:15907/bilibili/10
 埋堆堆 𝟙𝟙, https://live.iill.top/huya/23903183
 埋堆堆 𝟙𝟚, https://live.iill.top/huya/23903196
 埋堆堆 𝟙𝟛, https://live.iill.top/huya/23728674
+埋堆堆 𝟙𝟜, https://live.iill.top/huya/23865036
 埋堆堆 𝟙𝟝, https://live.iill.top/huya/23829543
 埋堆堆 𝟙𝟞, https://live.iill.top/huya/23865161
 埋堆堆 𝟙𝟟, https://live.iill.top/huya/23865058
@@ -935,7 +929,6 @@ B站热门赛事, http://dns.yiandrive.com:15907/bilibili/10
 电影•2「解说」, https://live.iill.top/huya/24983280
 电影•3「解说」, https://live.iill.top/huya/24396428
 动漫•1「解说」, https://live.iill.top/huya/19757963
-恐怖电影「解说」, https://live.iill.top/huya/23419131
 漫威「解说」, https://live.iill.top/huya/17089779
 美剧「解说」, https://live.iill.top/huya/20488841
 七龙珠「解说」, https://live.iill.top/huya/25650806
@@ -1009,6 +1002,7 @@ B站热门赛事, http://dns.yiandrive.com:15907/bilibili/10
 狄仁杰系列, http://1.94.31.214:35455/huya/30080229
 沈腾电影, http://1.94.31.214:35455/huya/11601968
 黄渤电影, http://1.94.31.214:35455/huya/11352876
+王晶电影, http://1.94.31.214:35455/huya/11602058
 金庸武侠, http://1.94.31.214:35455/huya/11342435
 功夫电影, http://1.94.31.214:35455/huya/11352941
 贺岁电影, http://1.94.31.214:35455/huya/11601986
@@ -1039,6 +1033,7 @@ B站热门赛事, http://dns.yiandrive.com:15907/bilibili/10
 刑事侦缉档案, http://huanqiuzhibo.cn/manifest/huya.php?id=23734169
 法政先锋, http://huanqiuzhibo.cn/manifest/huya.php?id=23863804
 陀枪师姐, http://huanqiuzhibo.cn/manifest/huya.php?id=23860039
+鉴证实录, http://huanqiuzhibo.cn/manifest/huya.php?id=23903183
 金枝欲孽, http://huanqiuzhibo.cn/manifest/huya.php?id=23865036
 扫黄先锋, http://huanqiuzhibo.cn/manifest/huya.php?id=23903196
 妙手仁心, http://huanqiuzhibo.cn/manifest/huya.php?id=23829543
@@ -1172,10 +1167,8 @@ BesTV青春动漫, http://wouu.net:9977/udp/239.93.0.146:5140
 鬼吹灯之龙岭迷窟, http://huanqiuzhibo.cn/manifest/huya.php?id=29465863
 鬼吹灯之云南虫谷, http://huanqiuzhibo.cn/manifest/huya.php?id=11352898
 笑傲江湖, http://huanqiuzhibo.cn/manifest/huya.php?id=26355790
-神雕侠侣, http://huanqiuzhibo.cn/manifest/huya.php?id=11352964
 雪豹, http://huanqiuzhibo.cn/manifest/huya.php?id=29580970
 陈情令, http://huanqiuzhibo.cn/manifest/huya.php?id=29465862
-庆余年, http://huanqiuzhibo.cn/manifest/huya.php?id=11352960
 延禧攻略, http://huanqiuzhibo.cn/manifest/huya.php?id=26355864
 新三国, http://huanqiuzhibo.cn/manifest/huya.php?id=11352944
 新三国（备用）, http://live.metshop.top/huya/11352944
@@ -1197,6 +1190,7 @@ BesTV青春动漫, http://wouu.net:9977/udp/239.93.0.146:5140
 鬼吹灯之精绝古城, http://live.metshop.top/huya/11352871
 鬼吹灯之怒晴湘西, http://live.metshop.top/huya/11602075
 鬼吹灯之龙岭迷窟, http://live.metshop.top/huya/29465863
+鬼吹灯之云南虫谷, http://live.metshop.top/huya/11352898
 笑傲江湖, http://live.metshop.top/huya/26355790
 神雕侠侣, http://live.metshop.top/huya/11352964
 雪豹, http://live.metshop.top/huya/29580970
@@ -1240,13 +1234,13 @@ BesTV青春动漫, http://wouu.net:9977/udp/239.93.0.146:5140
 鬼吹灯之云南虫谷, http://1.94.31.214:35455/huya/11352898
 乌龙闯情关, http://1.94.31.214:35455/huya/26355767
 家有儿女, http://1.94.31.214:35455/huya/30335591
+永夜星河, http://1.94.31.214:35455/huya/23734169
 柳舟计, http://1.94.31.214:35455/huya/23860039
 玫瑰的故事, http://1.94.31.214:35455/huya/23865142
 梦中的那片海, http://1.94.31.214:35455/huya/26355765
 大秦赋, http://1.94.31.214:35455/huya/23903130
 唐诡之西行, http://1.94.31.214:35455/huya/26355763
 西游记, http://1.94.31.214:35455/huya/26355861
-三国演义, http://1.94.31.214:35455/huya/11602081
 雪豹, http://1.94.31.214:35455/huya/29731435
 狂飙, http://1.94.31.214:35455/huya/30357165
 
