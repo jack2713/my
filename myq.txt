@@ -1,5 +1,5 @@
 注意事项,#genre#
-20250415025840仅供测试自用如有侵权请通知,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+20250415082818仅供测试自用如有侵权请通知,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
 MY,#genre#
 南充科教,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8
 南充新闻综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8
@@ -2579,8 +2579,10 @@ MO亲子影视,tvbus://6PSqnnaRjTEpxBwMinQgxWh59xKiuBhQirD2RQyprsgF3e26rv8ZFPKhD
 广东体育频高,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育频高,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育频高,https://tv.cdn.com.mp/live/gdty/stream.m3u8
+中天新闻频高,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
 中天新闻频高,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
 中天新闻频高,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+中天新闻频加,http://ali.hlspull.yximgs.com/live/_______CTI_2_HD.flv
 中天新闻频加,https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8
 有线新闻频粤,http://live4play.uk/livehttpplay?channel_id=20191
 无线新闻频粤,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
@@ -3525,7 +3527,6 @@ Discover斯特,http://eu.huohuoaa.tech:1025/Smart.php?id=discoverytwn_twn
 值得爱第17集,https://svip.high25-playback.com/20250411/23463_87150760/index.m3u8
 值得爱第18集,https://svip.high24-playback.com/20250412/24586_e1c03a94/index.m3u8
 值得爱第19集,https://vvip.high26-playback.com/20250414/4134_a6a767bb/index.m3u8
-值得爱第20集,https://wjm.kemfsj.com/564ecfb58cb8fe900fc8ce520933eb07/20250414204343/decry/vd/20250414/OWQwYWM0NmU0ZT/192533/1920_1080/aac/h264/hls/decrypt/index.m3u8
 ⬇️大奉打更人粤语版⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
 大奉打更人01,http://mrgjlocal.pgrm.cc/m3u8/hcy/FvDTGL7KYysySGg7Y6CpIE6o_fLb4mNnM/playlist.m3u8
 大奉打更人02,http://mrgjlocal.pgrm.cc/m3u8/hcy/FjMitqgIIzveW4Ob2-E9CkJrDFzNICN33/playlist.m3u8
@@ -3557,6 +3558,7 @@ Discover斯特,http://eu.huohuoaa.tech:1025/Smart.php?id=discoverytwn_twn
 大奉打更人28,http://mrgjlocal.pgrm.cc/m3u8/hcy/1508sulM1335151202504091754077r1/playlist.m3u8
 大奉打更人29,http://mrgjlocal.pgrm.cc/m3u8/hcy/1508sulM1335150202504100936446qc/playlist.m3u8
 大奉打更人30,http://mrgjlocal.pgrm.cc/m3u8/hcy/1508sulM133514920250411092209omv/playlist.m3u8
+大奉打更人31,http://mrgjlocal.pgrm.cc/m3u8/hcy/1508sulM133514820250412074331u5y/playlist.m3u8
 央卫北京,#genre#
 CCTV-01高清,http://800686.xyz:35455/gaoma/cctv1.m3u8
 CCTV-02高清,http://800686.xyz:35455/gaoma/cctv2.m3u8
