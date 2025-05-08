@@ -328,10 +328,10 @@ CCTV-9, https://www.nettvpro.xyz/player/videojs.php?url=http://117.161.12.116/li
 CCTV-4, https://www.nettvpro.xyz/player/videojs.php?url=http://117.161.12.116/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV-5, https://ldcctvwbcdcnc.v.wscdns.com/ldcctvwbcd/cdrmldcctv5plus_1_720P/playlist.m3u8?wsApp=HLS
 CCTV-5, https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1_td.m3u8
-风云足球, http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4877&tk=2894ccdba8fc
 CGNT 记录频道, https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGNT 新闻频道, https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CCTV2, http://[2409:8087:1a01:df::406f]:80/wh7f454c46tw1241164675_1575082505/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&RTS=1713968070&from=4&hms_devid=692&prioritypopid=4&online=1713968070&vqe=3
+风云足球, http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5, https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5, https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV16, http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
@@ -396,15 +396,13 @@ cctv4k, http://www.lizhinas.top:1009/rtp/239.252.220.244:5140
 1993年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
 1994年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
 1995年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+1997年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
 1998年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
 1999年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-2004年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-2005年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
 2008年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
 2011年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-2012年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-2013年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
 2015年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+2016年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
 2017年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
 2020年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 2021年春晚, https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
@@ -673,6 +671,7 @@ viuTV, http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 重庆卫视, http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202505042322/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视, http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202505052301/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视, http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202505062206/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视, http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202505071945/app_2/_definst_/ls_2.stream/chunklist.m3u8
 
 游戏,#genre#
 「B站」CS 2, https://live.iill.top/bilibili/21622811
@@ -688,6 +687,7 @@ viuTV, http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 「虎牙」王者荣耀 𝟚, https://live.iill.top/huya/660164
 「斗鱼」王者荣耀 𝟙, https://live.iill.top/douyu/1863767
 「斗鱼」王者荣耀 𝟚, https://live.iill.top/douyu/1984839
+「B站」绝地求生, https://live.iill.top/bilibili/98
 「虎牙」绝地求生 𝟙, https://live.iill.top/huya/660004
 「虎牙」绝地求生 𝟚, https://live.iill.top/huya/660005
 「斗鱼」绝地求生, https://live.iill.top/douyu/100
@@ -712,6 +712,7 @@ viuTV, http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 「斗鱼」第五人格 , https://live.iill.top/douyu/3226194
 「虎牙」逆战, https://live.iill.top/huya/nsl2021
 「B站」无畏契约 , https://live.iill.top/bilibili/22908869
+「虎牙」无畏契约 , https://live.iill.top/huya/660679
 「斗鱼」无畏契约 , https://live.iill.top/douyu/4585645
 「斗鱼」原神, https://live.iill.top/douyu/10853239
 「B站」QQ飞车•手游, https://live.iill.top/bilibili/21743919
@@ -767,6 +768,7 @@ viuTV, http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 美剧「解说」, https://live.iill.top/huya/20488841
 七龙珠「解说」, https://live.iill.top/huya/25650806
 止戈电影「解说」, https://live.iill.top/huya/19863777
+挨饿德•1「其他」, https://live.iill.top/huya/20985858
 挨饿德•2「其他」, https://live.iill.top/huya/17693860
 互扇巴掌大赛「其他」, https://live.iill.top/huya/20072873
 荒野求生「其他」, https://live.iill.top/huya/593667
@@ -792,6 +794,7 @@ viuTV, http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 让子弹飞, https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 龙门飞甲, http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 周星驰电影, http://huanqiuzhibo.cn/manifest/huya.php?id=11342412
+林正英电影, http://huanqiuzhibo.cn/manifest/huya.php?id=11342421
 刘德华电影, http://huanqiuzhibo.cn/manifest/huya.php?id=11342424
 古天乐电影, http://huanqiuzhibo.cn/manifest/huya.php?id=29982675
 李连杰电影, http://huanqiuzhibo.cn/manifest/huya.php?id=11342390
@@ -803,6 +806,18 @@ viuTV, http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 王晶电影, http://huanqiuzhibo.cn/manifest/huya.php?id=11602058
 功夫电影, http://huanqiuzhibo.cn/manifest/huya.php?id=11352941
 贺岁电影, http://huanqiuzhibo.cn/manifest/huya.php?id=11601986
+刘德华电影, http://cdn.jdshipin.com:8880/huya.php?id=11342424
+古天乐电影, http://cdn.jdshipin.com:8880/huya.php?id=29982675
+李连杰电影, http://cdn.jdshipin.com:8880/huya.php?id=11342390
+甄子丹电影, http://cdn.jdshipin.com:8880/huya.php?id=11352935
+狄仁杰系列, http://cdn.jdshipin.com:8880/huya.php?id=30080229
+沈腾电影, http://cdn.jdshipin.com:8880/huya.php?id=11601968
+黄渤电影, http://cdn.jdshipin.com:8880/huya.php?id=11352876
+强森电影, http://cdn.jdshipin.com:8880/huya.php?id=21059581
+王晶电影, http://cdn.jdshipin.com:8880/huya.php?id=11602058
+金庸武侠, http://cdn.jdshipin.com:8880/huya.php?id=11342435
+功夫电影, http://cdn.jdshipin.com:8880/huya.php?id=11352941
+贺岁电影, http://cdn.jdshipin.com:8880/huya.php?id=11601986
 刘德华电影, http://www.52sw.top:678/play/huya.php?id=11342424
 古天乐电影, http://www.52sw.top:678/play/huya.php?id=29982675
 李连杰电影, http://www.52sw.top:678/play/huya.php?id=11342390
@@ -861,6 +876,31 @@ CHC家庭影院, https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
 CHC动作电影, https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 新视觉, http://120.76.248.139/live/bfgd/4200000249.m3u8
 CHC影迷电影, http://58.19.38.162:9901/tsfile/live/0119_1.m3u8
+楚汉骄雄, http://cdn.jdshipin.com:8880/huya.php?id=23740156
+封神榜, http://cdn.jdshipin.com:8880/huya.php?id=23749096
+西游记1, http://cdn.jdshipin.com:8880/huya.php?id=23728660
+西游记2, http://cdn.jdshipin.com:8880/huya.php?id=23735126
+天龙八部, http://cdn.jdshipin.com:8880/huya.php?id=23903123
+鹿鼎记, http://cdn.jdshipin.com:8880/huya.php?id=23865080
+寻秦记, http://cdn.jdshipin.com:8880/huya.php?id=23864973
+大唐双龙传, http://cdn.jdshipin.com:8880/huya.php?id=23728674
+神雕侠侣, http://cdn.jdshipin.com:8880/huya.php?id=23865171
+射雕英雄传, http://cdn.jdshipin.com:8880/huya.php?id=23824164
+倚天屠龙记, http://cdn.jdshipin.com:8880/huya.php?id=23734246
+笑傲江湖, http://cdn.jdshipin.com:8880/huya.php?id=23865142
+刑事侦缉档案, http://cdn.jdshipin.com:8880/huya.php?id=23734169
+法政先锋, http://cdn.jdshipin.com:8880/huya.php?id=23863804
+洗冤录, http://cdn.jdshipin.com:8880/huya.php?id=23903130
+陀枪师姐, http://cdn.jdshipin.com:8880/huya.php?id=23860039
+使徒行者, http://cdn.jdshipin.com:8880/huya.php?id=23734256
+鉴证实录, http://cdn.jdshipin.com:8880/huya.php?id=23903183
+金枝欲孽, http://cdn.jdshipin.com:8880/huya.php?id=23865036
+扫黄先锋, http://cdn.jdshipin.com:8880/huya.php?id=23903196
+创世纪, http://cdn.jdshipin.com:8880/huya.php?id=23749083
+妙手仁心, http://cdn.jdshipin.com:8880/huya.php?id=23829543
+大时代, http://cdn.jdshipin.com:8880/huya.php?id=23865161
+野蛮亲家, http://cdn.jdshipin.com:8880/huya.php?id=23863796
+笑看风云, http://cdn.jdshipin.com:8880/huya.php?id=23865058
 爱上4K, http://wouu.net:9977/udp/239.93.0.97:5140
 楚汉骄雄, http://www.52sw.top:678/play/huya.php?id=23740156
 封神榜, http://www.52sw.top:678/play/huya.php?id=23749096
@@ -895,6 +935,7 @@ CHC影迷电影, http://58.19.38.162:9901/tsfile/live/0119_1.m3u8
 鹿鼎记, http://live.iill.top/huya.php?id=23865080
 寻秦记, http://live.iill.top/huya.php?id=23864973
 大唐双龙传, http://live.iill.top/huya.php?id=23728674
+神雕侠侣, http://live.iill.top/huya.php?id=23865171
 射雕英雄传, http://live.iill.top/huya.php?id=23824164
 倚天屠龙记, http://live.iill.top/huya.php?id=23734246
 笑傲江湖, http://live.iill.top/huya.php?id=23865142
@@ -922,6 +963,8 @@ BesTV青春动漫, http://wouu.net:9977/udp/239.93.0.146:5140
 七龙珠, http://www.52sw.top:678/play/huya.php?id=11601966
 哆啦A梦, http://huanqiuzhibo.cn/manifest/huya.php?id=11601963
 猫和老鼠, http://huanqiuzhibo.cn/manifest/huya.php?id=11352879
+哆啦A梦, http://cdn.jdshipin.com:8880/huya.php?id=11601963
+猫和老鼠, http://cdn.jdshipin.com:8880/huya.php?id=11352879
 哆啦A梦, http://www.52sw.top:678/play/huya.php?id=11601963
 猫和老鼠, http://www.52sw.top:678/play/huya.php?id=11352879
 哆啦A梦, http://live.iill.top/huya.php?id=11601963
@@ -931,7 +974,10 @@ BesTV青春动漫, http://wouu.net:9977/udp/239.93.0.146:5140
 电视剧,#genre#
 西游记后传, http://jiaojirentv.top/2020/yy.php?id=1353392400
 延禧攻略, http://www.52sw.top:678/play/huya.php?id=26355864
+新水浒传, http://cdn.jdshipin.com:8880/huya.php?id=11342384
+雪豹, http://cdn.jdshipin.com:8880/huya.php?id=29580970
 庆余年（备用）, http://www.52sw.top:678/play/huya.php?id=11352960
+庆余年（备用2）, http://cdn.jdshipin.com:8880/huya.php?id=11352960
 新三国, http://www.52sw.top:678/play/huya.php?id=11352944
 新水浒传, http://www.52sw.top:678/play/huya.php?id=11342384
 神探狄仁杰第一部, http://www.52sw.top:678/play/huya.php?id=11352958
@@ -944,8 +990,8 @@ BesTV青春动漫, http://wouu.net:9977/udp/239.93.0.146:5140
 康熙王朝, http://huanqiuzhibo.cn/manifest/huya.php?id=11352940
 鬼吹灯之精绝古城, http://huanqiuzhibo.cn/manifest/huya.php?id=11352871
 鬼吹灯之怒晴湘西, http://huanqiuzhibo.cn/manifest/huya.php?id=11602075
-鬼吹灯之龙岭迷窟, http://huanqiuzhibo.cn/manifest/huya.php?id=29465863
 鬼吹灯之云南虫谷, http://huanqiuzhibo.cn/manifest/huya.php?id=11352898
+笑傲江湖, http://huanqiuzhibo.cn/manifest/huya.php?id=26355790
 雪豹, http://huanqiuzhibo.cn/manifest/huya.php?id=29580970
 陈情令, http://huanqiuzhibo.cn/manifest/huya.php?id=29465862
 庆余年, http://huanqiuzhibo.cn/manifest/huya.php?id=11352960
@@ -955,10 +1001,18 @@ BesTV青春动漫, http://wouu.net:9977/udp/239.93.0.146:5140
 新水浒传, http://huanqiuzhibo.cn/manifest/huya.php?id=11342384
 三国演义, http://live.metshop.top/huya/11602081
 神探狄仁杰第一部, http://huanqiuzhibo.cn/manifest/huya.php?id=11352958
+神探狄仁杰第三部, http://huanqiuzhibo.cn/manifest/huya.php?id=11342425
 爱情公寓, http://huanqiuzhibo.cn/manifest/huya.php?id=11336726
+延禧攻略, http://live.metshop.top/huya/26355864
 新水浒传, http://live.metshop.top/huya/11342384
 神探狄仁杰第一部, http://live.metshop.top/huya/11352958
 神探狄仁杰第三部, http://live.metshop.top/huya/11342425
+爱情公寓, http://live.metshop.top/huya/11336726
+倚天屠龙记, http://live.metshop.top/huya/11342403
+铁齿铜牙纪晓岚, http://live.metshop.top/huya/11342396
+亮剑, http://live.metshop.top/huya/30080238
+士兵突击, http://live.metshop.top/huya/11342430
+康熙王朝, http://live.metshop.top/huya/11352940
 鬼吹灯之精绝古城, http://live.metshop.top/huya/11352871
 鬼吹灯之怒晴湘西, http://live.metshop.top/huya/11602075
 鬼吹灯之龙岭迷窟, http://live.metshop.top/huya/29465863
@@ -967,6 +1021,17 @@ BesTV青春动漫, http://wouu.net:9977/udp/239.93.0.146:5140
 神雕侠侣, http://live.metshop.top/huya/11352964
 雪豹, http://live.metshop.top/huya/29580970
 陈情令, http://live.metshop.top/huya/29465862
+士兵突击, http://cdn.jdshipin.com:8880/huya.php?id=11342430
+笑傲江湖, http://cdn.jdshipin.com:8880/huya.php?id=26355790
+神雕侠侣, http://cdn.jdshipin.com:8880/huya.php?id=11352964
+倚天屠龙记, http://cdn.jdshipin.com:8880/huya.php?id=11342403
+铁齿铜牙纪晓岚, http://cdn.jdshipin.com:8880/huya.php?id=11342396
+康熙王朝, http://cdn.jdshipin.com:8880/huya.php?id=11352940
+陈情令, http://cdn.jdshipin.com:8880/huya.php?id=29465862
+鬼吹灯之精绝古城, http://cdn.jdshipin.com:8880/huya.php?id=11352871
+鬼吹灯之怒晴湘西, http://cdn.jdshipin.com:8880/huya.php?id=11602075
+鬼吹灯之龙岭迷窟, http://cdn.jdshipin.com:8880/huya.php?id=29465863
+鬼吹灯之云南虫谷, http://cdn.jdshipin.com:8880/huya.php?id=11352898
 雪豹, http://www.52sw.top:678/play/huya.php?id=29580970
 士兵突击, http://www.52sw.top:678/play/huya.php?id=11342430
 笑傲江湖, http://www.52sw.top:678/play/huya.php?id=26355790
@@ -978,6 +1043,7 @@ BesTV青春动漫, http://wouu.net:9977/udp/239.93.0.146:5140
 鬼吹灯之怒晴湘西, http://www.52sw.top:678/play/huya.php?id=11602075
 鬼吹灯之龙岭迷窟, http://www.52sw.top:678/play/huya.php?id=29465863
 鬼吹灯之云南虫谷, http://www.52sw.top:678/play/huya.php?id=11352898
+西游记续集, http://zzy789.xyz/douyu1.php?id=3113309
 家有儿女, http://www.52sw.top:678/play/huya.php?id=30335591
 雪豹, http://live.iill.top/huya.php?id=29580970
 士兵突击, http://live.iill.top/huya.php?id=11342430
@@ -1001,6 +1067,7 @@ Fox LiveNow, https://jmp2.uk/sam-USBA300024TN.m3u8
 CBC News, https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 ABC News Live, https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 WionNews, https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+NBC, https://jmp2.uk/sam-GBBB1500004LG.m3u8
 AlJazeera, http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Arirang, https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Bloomberg, https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
