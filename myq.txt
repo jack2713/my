@@ -1,5 +1,5 @@
 注意事项,#genre#
-20250527082836仅供测试自用如有侵权请通知,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+20250527162736仅供测试自用如有侵权请通知,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
 MY,#genre#
 南充科教,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8
 南充新闻综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8
@@ -2903,12 +2903,10 @@ NBA粤评,#genre#
 08:00步行者[2🆚1]尼克斯,http://dd.rihou.cc:555/mp4
 粤🔊旁述1,http://dd.rihou.cc:555/mp4
 国🔊纬来评述1,rtmp://9hv9.mine.nu/sat/tv721
-国🔊ELta评述1,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=ELTA体育1
 05-29NBA西区决赛🏀📡,http://dd.rihou.cc:555/mp4?id=lndjll.mp4
 08:30森林狼[1🆚3]雷霆,http://dd.rihou.cc:555/mp4
 粤🔊旁述,http://dd.rihou.cc:555/mp4
 国🔊纬来评述,rtmp://9hv9.mine.nu/sat/tv721
-国🔊ELta评述,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=ELTA体育1
 赛事咪咕,#genre#
 抖姐舞陪你看,http://dd.rihou.cc:555/mp4?id=lndjll.mp4
 赛事睛彩竞技,http://222.67.166.153:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
@@ -3068,13 +3066,22 @@ NBA体育标测,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=NBATV
 广东体育频高,https://cdn2.163189.xyz/live/gdty/stream.m3u8
 粤语戏曲频标,http://tl.061833.xyz/tl/null-15
 粤语长片频标,http://tl.061833.xyz/tl/null-10
-凤凰中文限效,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=凤凰中文台
-凤凰资讯限效,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=凤凰资讯台
-凤凰香港限效,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=凤凰香港台
+中天新闻频高,https://ali.hlspull.yximgs.com/live/562cb791f1a9879889dc0b290bff616e.flv
+中天新闻加高,https://ali.hlspull.yximgs.com/live/b38a9c594dbc51c53e272c35ec51010d.flv
+寰宇新闻频高,https://ali.hlspull.yximgs.com/live/0BgA2YVDvct191IhTVH9dIUCTLEO8tMC.flv
+寰宇新闻闽高,https://ali.hlspull.yximgs.com/live/WFdTo4wHwQOQKrasP5uXK6f2PKXljtXd.flv
+Now新闻频标,https://ali.hlspull.yximgs.com/live/23c220f35d3a2e8a365d1a4718dd84fa.flv
+Now英超粤标,https://ali.hlspull.yximgs.com/live/238d960303cf83c433b173d268fd7e24.flv
+Now爆谷频标,https://ali.hlspull.yximgs.com/live/3534a21a7ef9d008e3829c23153636d6.flv
+Now星影频标,https://ali.hlspull.yximgs.com/live/a1e80479e3dcf7d8a5fbd914e5ad693d.flv
+凤凰卫视频标,http://xtvantsc.xyz/Smartv.php?id=phoenixtv_hd
+凤凰资讯频标,http://xtvantsc.xyz/Smartv.php?id=phoenixinfo_hd
+凤凰香港频标,http://xtvantsc.xyz/Smartv.php?id=hkphoenix_twn
+中天新闻频标,http://xtvantsc.xyz/Smartv.php?id=ctinews
+有线新闻频高,http://xtvantsc.xyz/Smartv.php?id=hoycaijing_twn
+无线新闻频高,http://xtvantsc.xyz/Smartv.php?id=inews_twn
+无线翡翠频标,http://xtvantsc.xyz/Smartv.php?id=jade_twn
 中天新闻限效,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8
-中天新闻限效,http://150.138.77.132:10037/xxw/Smartv.php?id=ctinews
-中天新闻限效,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=中天新闻
-无线翡翠限效,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=翡翠台
 东森电影限效,https://ali.hlspull.yximgs.com/live/11q2w3e4r5t6y7u8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3ed.flv
 龙祥电影限效,https://ali.hlspull.yximgs.com/live/14r5t6y7u8i9o0p1q2w3e4r5t6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8.flv
 Plus综合限效,http://push-rtmp-hs-spe-f5.douyincdn.com/live/2w3e4r5t6y7u8i9o0p1q2w3e4r5t6y7u8i9o0p1qaz2wsx3edc.flv
@@ -3381,8 +3388,6 @@ Fashionbox高,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=FashionBo
 韵华若锦之11,https://cdn.yzzy28-play.com/20250523/678_9fe8593a/index.m3u8
 韵华若锦之12,https://cdn.yzzy28-play.com/20250524/845_b86e8d03/index.m3u8
 韵华若锦之13,https://cdn.yzzy28-play.com/20250525/935_e820a45f/index.m3u8
-韵华若锦之16,
-韵华若锦之17,
 ⬇️藏海传⬇️,http://dd.rihou.cc:555/mp4
 藏海传第01集,https://cdn.yzzy28-play.com/20250518/267_eda80a3d/index.m3u8
 藏海传第02集,https://cdn.yzzy28-play.com/20250518/268_8f121ce0/index.m3u8
@@ -3402,8 +3407,6 @@ Fashionbox高,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=FashionBo
 藏海传第16集,https://cdn.yzzy27-play.com/20250525/4252_7bfa3268/index.m3u8
 藏海传第17集,https://cdn.yzzy28-play.com/20250525/936_90794e3b/index.m3u8
 藏海传第18集,https://cdn.yzzy28-play.com/20250525/937_b7892fb3/index.m3u8
-藏海传第21集,
-藏海传第22集,
 ⬇️折腰⬇️,http://dd.rihou.cc:555/mp4
 折腰之第01集,https://cdn.yzzy27-play.com/20250513/3159_99ef04eb/index.m3u8
 折腰之第02集,https://cdn.yzzy27-play.com/20250513/3162_d60678e8/index.m3u8
@@ -3434,8 +3437,6 @@ Fashionbox高,http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_OLaWb.php?id=FashionBo
 折腰之第27集,https://cdn.yzzy27-play.com/20250526/4306_b035d656/index.m3u8
 折腰之第28集,https://cdn.yzzy28-play.com/20250526/1039_27ed0fb9/index.m3u8
 折腰之第29集,https://cdn.yzzy28-play.com/20250526/1048_7cce53cf/index.m3u8
-折腰之第30集,
-折腰之第31集,
 央卫高码,#genre#
 CCTV-01高码,http://tv.076262.xyz:35455/bptv/10000100000000050000000003864351.m3u8
 CCTV-01高码,http://tv.076262.xyz:35455/bptv/10000100000000050000000003248324.m3u8
@@ -3617,30 +3618,6 @@ CCTV-17高码,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-17HD/index.m3u8
 北京纪实高码,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-JSKJ-HD/index.m3u8
 东方财经高码,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DFCJ-HD/index.m3u8
 央卫斯特,#genre#
-CCTV-01斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv1
-CCTV-02斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv2
-CCTV-03斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv3
-CCTV-04斯特,http://lzoq.serv00.net/daili/Smartv.php?id=Cctv4
-CCTV-04斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv4
-CCTV-05斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv5
-CCTV 5+斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv5plus
-CCTV-06斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv6
-CCTV-07斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv7
-CCTV-08斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv8hd
-CCTV-09斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv9hd
-CCTV-10斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv10hd
-CCTV-11斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv11
-CCTV-12斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv12
-CCTV-13斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv13
-CCTV-14斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv14
-CCTV-15斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cctv15
-CGTN_英斯特,http://lzoq.serv00.net/daili/Smartv.php?id=CGTN
-北京卫视斯特,http://lzoq.serv00.net/daili/Smartv.php?id=beijing
-深圳卫视斯特,http://lzoq.serv00.net/daili/Smartv.php?id=shenzhen
-广西卫视斯特,http://lzoq.serv00.net/daili/Smartv.php?id=guangxi
-湖北卫视斯特,http://lzoq.serv00.net/daili/Smartv.php?id=hubei
-东南卫视斯特,http://lzoq.serv00.net/daili/Smartv.php?id=fujian
-广东珠江斯特,http://lzoq.serv00.net/daili/Smartv.php?id=zhujiang
 CCTV-01斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=cctv1
 CCTV-02斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=cctv2
 CCTV-03斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=cctv3
@@ -3665,55 +3642,7 @@ CGTN_英斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=CGTN
 湖北卫视斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=hubei
 东南卫视斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=fujian
 广东珠江斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=zhujiang
-CCTV-01斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-CCTV-02斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-CCTV-03斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-CCTV-04斯特,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
-CCTV-04斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-CCTV-05斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-CCTV 5+斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-CCTV-06斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-CCTV-07斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-CCTV-08斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-CCTV-09斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
-CCTV-10斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-CCTV-11斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-CCTV-12斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-CCTV-13斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-CCTV-14斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-CCTV-15斯特,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
-CGTN_英斯特,https://smart.pendy.dpdns.org/Smart.php?id=CGTN
-北京卫视斯特,https://smart.pendy.dpdns.org/Smart.php?id=beijing
-深圳卫视斯特,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
-广西卫视斯特,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
-湖北卫视斯特,https://smart.pendy.dpdns.org/Smart.php?id=hubei
-东南卫视斯特,https://smart.pendy.dpdns.org/Smart.php?id=fujian
-广东珠江斯特,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 特区斯特,#genre#
-凤凰卫视斯特,http://lzoq.serv00.net/daili/Smartv.php?id=phoenixtv_hd
-凤凰资讯斯特,http://lzoq.serv00.net/daili/Smartv.php?id=phoenixinfo_hd
-凤凰香港斯特,http://lzoq.serv00.net/daili/Smartv.php?id=hkphoenix_twn
-中天新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ctinews
-有线新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=hoycaijing_twn
-无线新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=inews_twn
-无线翡翠斯特,http://lzoq.serv00.net/daili/Smartv.php?id=jade_twn
-无线华丽斯特,http://lzoq.serv00.net/daili/Smartv.php?id=Wlt
-无线华丽斯特,http://lzoq.serv00.net/daili/Smartv.php?id=Tvbjade
-无线明珠斯特,http://lzoq.serv00.net/daili/Smartv.php?id=pearl_twn
-无线娱乐斯特,http://lzoq.serv00.net/daili/Smartv.php?id=Tvbentertainment
-千禧经典斯特,http://lzoq.serv00.net/daili/Smartv.php?id=Tvbclassic
-VIUTV英斯特,http://lzoq.serv00.net/daili/Smartv.php?id=viusix_twn
-RTHK-31斯特,http://lzoq.serv00.net/daili/Smartv.php?id=rhk31_twn
-RTHK-32斯特,http://lzoq.serv00.net/daili/Smartv.php?id=rhk32_twn
-美亚电影斯特,http://lzoq.serv00.net/daili/Smartv.php?id=meiyamovie_twn
-天映频道闽特,http://lzoq.serv00.net/daili/Smartv.php?id=Celestial
-天映频道闽特,http://lzoq.serv00.net/daili/Smartv.php?id=ctv18_twn
-龙华电影斯特,http://lzoq.serv00.net/daili/Smartv.php?id=xingwei_movie
-龙祥电影斯特,http://lzoq.serv00.net/daili/Smartv.php?id=lungxiangtime_twn
-纬来电影斯特,http://lzoq.serv00.net/daili/Smartv.php?id=videolandmovie
-Astr爱奇斯特,http://lzoq.serv00.net/daili/Smartv.php?id=Qiyi
-AstrQJ国斯特,http://lzoq.serv00.net/daili/Smartv.php?id=Quanjia
-Astr欢喜斯特,http://lzoq.serv00.net/daili/Smartv.php?id=Huahee
 凤凰卫视斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=phoenixtv_hd
 凤凰资讯斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=phoenixinfo_hd
 凤凰香港斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=hkphoenix_twn
@@ -3738,118 +3667,7 @@ RTHK-32斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=rhk32_twn
 Astr爱奇斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=Qiyi
 AstrQJ国斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=Quanjia
 Astr欢喜斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=Huahee
-凤凰卫视斯特,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
-凤凰资讯斯特,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-凤凰香港斯特,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-中天新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-有线新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
-无线新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
-无线翡翠斯特,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
-无线华丽斯特,https://smart.pendy.dpdns.org/Smart.php?id=Wlt
-无线华丽斯特,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
-无线明珠斯特,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
-无线娱乐斯特,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
-千禧经典斯特,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
-VIUTV英斯特,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
-RTHK-31斯特,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
-RTHK-32斯特,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
-美亚电影斯特,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-天映频道闽特,https://smart.pendy.dpdns.org/Smart.php?id=Celestial
-天映频道闽特,https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
-龙华电影斯特,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-龙祥电影斯特,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-纬来电影斯特,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-Astr爱奇斯特,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
-AstrQJ国斯特,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
-Astr欢喜斯特,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
 闽南斯特,#genre#
-中天新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ctinews
-东森新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ettvnews
-寰宇新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=huanyuxinwen_twn
-tvbs新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=tvbs_n
-年代新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=niandainews_twn
-民视新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ftvnew_taiwan
-中视新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=zhongshinews_twn
-台视新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ttvnews_twn
-非凡新闻斯特,http://lzoq.serv00.net/daili/Smartv.php?id=feifannews_twn
-民视闽南斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ftvhd_taiwan
-中视闽南斯特,http://lzoq.serv00.net/daili/Smartv.php?id=zhongshihd_twn
-华视闽南斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ctshd_twn
-台视闽南斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ttv_taiwan
-tvbs闽南斯特,http://lzoq.serv00.net/daili/Smartv.php?id=tvbs
-tvbs欢乐斯特,http://lzoq.serv00.net/daili/Smartv.php?id=tvbshuanle_twn
-民视第一斯特,http://lzoq.serv00.net/daili/Smartv.php?id=lunghuajingdian_twn
-民视台湾斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ftvtaiwan_twn
-中视经典斯特,http://lzoq.serv00.net/daili/Smartv.php?id=zhongshi_twn
-公视台语斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ctv2_twn
-台视综合斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ttvzhonghe
-中天娱乐斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ctient
-中天综合斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ctizhonghe
-中天亚洲斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ctiasia_twn
-八大第一斯特,http://lzoq.serv00.net/daili/Smartv.php?id=badafirst
-八大综合斯特,http://lzoq.serv00.net/daili/Smartv.php?id=badazhonghe
-八大戏剧斯特,http://lzoq.serv00.net/daili/Smartv.php?id=badadrama
-八大娱乐斯特,http://lzoq.serv00.net/daili/Smartv.php?id=badaentertain
-东森综合斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ettvzhonghe
-东森戏剧斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ettvdrama
-东森洋片斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ettvwestern
-东森电影斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ettvmovie
-东森幼幼斯特,http://lzoq.serv00.net/daili/Smartv.php?id=yoyo_twn
-东森超视斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ettvsuper
-东森财经斯特,http://lzoq.serv00.net/daili/Smartv.php?id=ettvcaijing_twn
-寰宇财经斯特,http://lzoq.serv00.net/daili/Smartv.php?id=huanyutaiwan_twn
-华艺综合斯特,http://lzoq.serv00.net/daili/Smartv.php?id=weishichinese_twn
-阿里郎综斯特,http://lzoq.serv00.net/daili/Smartv.php?id=arirang_twn
-AXN电影斯特,http://lzoq.serv00.net/daili/Smartv.php?id=axn_twn
-CInemax斯特,http://lzoq.serv00.net/daili/Smartv.php?id=cinemax_twn
-HBo高清斯特,http://lzoq.serv00.net/daili/Smartv.php?id=hbohd_twn
-HBo家庭斯特,http://lzoq.serv00.net/daili/Smartv.php?id=fyi_twn
-好莱电影斯特,http://lzoq.serv00.net/daili/Smartv.php?id=hollywoodmovies_twn
-龙祥电影斯特,http://lzoq.serv00.net/daili/Smartv.php?id=lungxiangtime_twn
-龙华经典斯特,http://lzoq.serv00.net/daili/Smartv.php?id=lunghuajingdian_twn
-龙华戏剧斯特,http://lzoq.serv00.net/daili/Smartv.php?id=lunghuaxiju_twn
-龙华电影斯特,http://lzoq.serv00.net/daili/Smartv.php?id=xingwei_movie
-龙华偶像斯特,http://lzoq.serv00.net/daili/Smartv.php?id=lunghuaidol_twn
-龙华洋片斯特,http://lzoq.serv00.net/daili/Smartv.php?id=lunghuawestern_twn
-纬来电影斯特,http://lzoq.serv00.net/daili/Smartv.php?id=videolandmovie
-纬来日本斯特,http://lzoq.serv00.net/daili/Smartv.php?id=videolandjapan
-纬来体育斯特,http://lzoq.serv00.net/daili/Smartv.php?id=videolandsport
-纬来综合斯特,http://lzoq.serv00.net/daili/Smartv.php?id=videolandzonghe
-纬来育乐斯特,http://lzoq.serv00.net/daili/Smartv.php?id=videolandyule
-纬来精彩斯特,http://lzoq.serv00.net/daili/Smartv.php?id=videolandspecial_twn
-靖天国际斯特,http://lzoq.serv00.net/daili/Smartv.php?id=jingtianintl_twn
-靖天卡通斯特,http://lzoq.serv00.net/daili/Smartv.php?id=jingtiancartoon_twn
-大爱壹台斯特,http://lzoq.serv00.net/daili/Smartv.php?id=daai_twn
-大爱贰台斯特,http://lzoq.serv00.net/daili/Smartv.php?id=daai2_twn
-好消息贰斯特,http://lzoq.serv00.net/daili/Smartv.php?id=good2_twn
-三立闽南斯特,http://lzoq.serv00.net/daili/Smartv.php?id=sanlitaiwan
-三立戏剧斯特,http://lzoq.serv00.net/daili/Smartv.php?id=sanlixiju_twn
-三立综合斯特,http://lzoq.serv00.net/daili/Smartv.php?id=sanlizhonghe
-三立都会斯特,http://lzoq.serv00.net/daili/Smartv.php?id=sanlidouhui
-ELta影剧斯特,http://lzoq.serv00.net/daili/Smartv.php?id=eltayingju_twn
-ELta综合斯特,http://lzoq.serv00.net/daili/Smartv.php?id=eltazonghe_twn
-ELTA体1斯特,http://lzoq.serv00.net/daili/Smartv.php?id=eltasport_twn
-ELTA体2斯特,http://lzoq.serv00.net/daili/Smartv.php?id=eltasport2_twn
-ELTA体3斯特,http://lzoq.serv00.net/daili/Smartv.php?id=eltasport3_twn
-Eleven一斯特,http://lzoq.serv00.net/daili/Smartv.php?id=golfchannel_twn
-博斯无限斯特,http://lzoq.serv00.net/daili/Smartv.php?id=bosiunlimited_twn
-博斯网球斯特,http://lzoq.serv00.net/daili/Smartv.php?id=bositennis_twn
-博斯运动壹特,http://lzoq.serv00.net/daili/Smartv.php?id=bosisport1_twn
-博斯运动贰特,http://lzoq.serv00.net/daili/Smartv.php?id=bosisport2_twn
-博斯高球壹特,http://lzoq.serv00.net/daili/Smartv.php?id=bosigolf1_twn
-博斯高球贰特,http://lzoq.serv00.net/daili/Smartv.php?id=bosigolf2_twn
-探索亚洲斯特,http://lzoq.serv00.net/daili/Smartv.php?id=discoverytwn_twn
-国家地理斯特,http://lzoq.serv00.net/daili/Smartv.php?id=natgeohd_twn
-野生动物斯特,http://lzoq.serv00.net/daili/Smartv.php?id=natgeowild_twn
-动物星球斯特,http://lzoq.serv00.net/daili/Smartv.php?id=animalplanet_twn
-美食星球斯特,http://lzoq.serv00.net/daili/Smartv.php?id=foodplanet_twn
-亚洲美食斯特,http://lzoq.serv00.net/daili/Smartv.php?id=afc_twn
-亚洲旅游斯特,http://lzoq.serv00.net/daili/Smartv.php?id=asiatravel_twn
-亚洲TLC斯特,http://lzoq.serv00.net/daili/Smartv.php?id=tlc_twn
-EYE-旅游斯特,http://lzoq.serv00.net/daili/Smartv.php?id=eyetvtravel_twn
-EYE-戏剧斯特,http://lzoq.serv00.net/daili/Smartv.php?id=eyetvxiju_twn
-MTv高清斯特,http://lzoq.serv00.net/daili/Smartv.php?id=mtvhd_twn
-Discover斯特,http://lzoq.serv00.net/daili/Smartv.php?id=discoverytwn_twn
 中天新闻斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=ctinews
 东森新闻斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=ettvnews
 寰宇新闻斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=huanyuxinwen_twn
@@ -3937,93 +3755,6 @@ EYE-旅游斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=eyetvtravel_twn
 EYE-戏剧斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=eyetvxiju_twn
 MTv高清斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=mtvhd_twn
 Discover斯特,http://150.138.77.132:10037/xxw/Smartv.php?id=discoverytwn_twn
-中天新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-东森新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-寰宇新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
-tvbs新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-年代新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-民视新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-中视新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-台视新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-非凡新闻斯特,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-民视闽南斯特,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-中视闽南斯特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-华视闽南斯特,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-台视闽南斯特,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-tvbs闽南斯特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-tvbs欢乐斯特,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-民视第一斯特,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-民视台湾斯特,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-中视经典斯特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshi_twn
-公视台语斯特,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-台视综合斯特,https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-中天娱乐斯特,https://smart.pendy.dpdns.org/Smart.php?id=ctient
-中天综合斯特,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-中天亚洲斯特,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-八大第一斯特,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-八大综合斯特,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-八大戏剧斯特,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-八大娱乐斯特,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-东森综合斯特,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-东森戏剧斯特,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
-东森洋片斯特,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-东森电影斯特,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-东森幼幼斯特,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
-东森超视斯特,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-东森财经斯特,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-寰宇财经斯特,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-华艺综合斯特,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-阿里郎综斯特,https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn
-AXN电影斯特,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-CInemax斯特,https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
-HBo高清斯特,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
-HBo家庭斯特,https://smart.pendy.dpdns.org/Smart.php?id=fyi_twn
-好莱电影斯特,https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
-龙祥电影斯特,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-龙华经典斯特,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-龙华戏剧斯特,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
-龙华电影斯特,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-龙华偶像斯特,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
-龙华洋片斯特,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
-纬来电影斯特,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-纬来日本斯特,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-纬来体育斯特,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-纬来综合斯特,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-纬来育乐斯特,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-纬来精彩斯特,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-靖天国际斯特,https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
-靖天卡通斯特,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
-大爱壹台斯特,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-大爱贰台斯特,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-好消息贰斯特,https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
-三立闽南斯特,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-三立戏剧斯特,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-三立综合斯特,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-三立都会斯特,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-ELta影剧斯特,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-ELta综合斯特,https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-ELTA体1斯特,https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
-ELTA体2斯特,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-ELTA体3斯特,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-Eleven一斯特,https://smart.pendy.dpdns.org/Smart.php?id=golfchannel_twn
-博斯无限斯特,https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
-博斯网球斯特,https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
-博斯运动壹特,https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-博斯运动贰特,https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
-博斯高球壹特,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf1_twn
-博斯高球贰特,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
-探索亚洲斯特,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
-国家地理斯特,https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
-野生动物斯特,https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
-动物星球斯特,https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
-美食星球斯特,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-亚洲美食斯特,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
-亚洲旅游斯特,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
-亚洲TLC斯特,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
-EYE-旅游斯特,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-EYE-戏剧斯特,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-MTv高清斯特,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
-Discover斯特,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 特区频道,#genre#
 广东珠江频高,https://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东体育频高,https://cdn2.163189.xyz/live/gdty/stream.m3u8
@@ -4391,8 +4122,8 @@ Plus即时频道,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 千禧经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 Astr剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-RTHK-31频陆,p3p://108.181.32.169:21872/64101f330006ab429853d45f7940453b
-RTHK-32频陆,p3p://108.181.32.169:21872/641020b00001b8599859a360613572d7
+RTHK-31频陆,p3p://108.181.32.169:54829/64101f330006ab429853d45f7940453b
+RTHK-32频陆,p3p://108.181.32.169:54829/641020b00001b8599859a360613572d7
 RTHK-33频道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34频道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
