@@ -15,6 +15,7 @@ urls = [
     # 'https://qu.ax/kBip.m3u',
     #'https://huangsuming.github.io/iptv/list/tvlist.txt',
     # 'https://raw.githubusercontent.com/mavin521/syiptv/main/live.m3u',
+    'https://live.hacks.tools/iptv/categories/movies.m3u',
 ]
 
 # 初始化字典
