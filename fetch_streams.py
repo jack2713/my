@@ -62,7 +62,7 @@ if __name__ == "__main__":
     urls = [
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',        
         #'http://aktv.top/live.txt',
-        #'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/dy.txt',
+        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/dy.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'http://rihou.cc:555/gggg.nzk',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',
