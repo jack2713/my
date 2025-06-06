@@ -1,6 +1,7 @@
 MY,#genre#
-南充科教,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8
-南充新闻综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8
+南充综合,http://ncrmpull.cnncw.cn/live/8f7b908601931000dd6ee79a00000000/playlist.m3u8?wsSecret=371a8108a7826e6dd8a0d9fe5f90272c&wsTime=2019657600
+南充科教,http://ncrmpull.cnncw.cn/live/8f7f8d3101931000ffbe3ba700000000/playlist.m3u8?wsSecret=0148edb88bca6b49e86cc6ef96fb3ac3&wsTime=2019657600
+邻水,http://pgpull.lspuge.cn/live/7414eab70192100000f07f6e00000000/playlist.m3u8?wsSecret=c5783264bdce73bb146d16e12f78d120&wsTime=2019657600
 攀枝花公共,http://live.pzhkai.com/wlshtl/sd/live.m3u8
 攀枝花综合,http://live.pzhkai.com/xwzhtl/sd/live.m3u8
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
@@ -30,7 +31,7 @@ MY,#genre#
 双流综合频道,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 南部新闻综合,http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
-营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川乡村频道,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
@@ -115,7 +116,7 @@ MY,#genre#
 泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
-营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 叙州综合频道,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
 什邡新闻频道,http://live.sfrmt.com:85/live/zhpd.m3u8
 马尔康综合频道,http://live.zmmek.com:90/live/zhxw.m3u8
