@@ -1,8 +1,12 @@
 注意事项,#genre#
-20250606083235仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
+20250606163226仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
 MY,#genre#
-南充科教,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8
-南充新闻综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8
+南充综合,http://ncrmpull.cnncw.cn/live/8f7b908601931000dd6ee79a00000000/playlist.m3u8?wsSecret=371a8108a7826e6dd8a0d9fe5f90272c&wsTime=2019657600
+南充科教,http://ncrmpull.cnncw.cn/live/8f7f8d3101931000ffbe3ba700000000/playlist.m3u8?wsSecret=0148edb88bca6b49e86cc6ef96fb3ac3&wsTime=2019657600
+仪陇,https://live.yilongnews.com/live/ylzhpd.m3u8?auth_key=1741134122-0-0-fbf8d764c05b0a2547234f0f9f64e4b6
+邻水,http://pgpull.lspuge.cn/live/7414eab70192100000f07f6e00000000/playlist.m3u8?wsSecret=c5783264bdce73bb146d16e12f78d120&wsTime=2019657600
+西双版纳,http://m3u8channel.xsbnrtv.cn/nmip-media/channellive/channel106885/playlist.m3u8
+丽江,https://hwapi.yntv.net/ew265l/ke88o9.m3u8
 攀枝花公共,http://live.pzhkai.com/wlshtl/sd/live.m3u8
 攀枝花综合,http://live.pzhkai.com/xwzhtl/sd/live.m3u8
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
@@ -32,7 +36,7 @@ MY,#genre#
 双流综合频道,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 南部新闻综合,http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
-营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川乡村频道,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
@@ -73,6 +77,7 @@ MY,#genre#
 雅安新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 广安新闻综合,https://live1.gatv.com.cn:90/live/XWZH.m3u8
 广安文旅乡村,https://live1.gatv.com.cn:90/live/GGPD.m3u8
+南充科教,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8
 南充新闻,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8
 广元文化生活,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 彭山综合,http://m3u8tv.psrm.net/nmip-media/channellive/channel100740/playlist.m3u8
@@ -113,6 +118,7 @@ MY,#genre#
 什邡新闻频道,http://live.sfrmt.com:85/live/zhpd.m3u8
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
 自贡综合频道,http://110.189.153.160:1001/zhpd.flv
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 康定新闻综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 三台电视二套,http://125.65.94.91:12353/live
 科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
