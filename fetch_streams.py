@@ -23,7 +23,7 @@ def fetch_and_replace(urls):
                 # 处理每一行
                 for line in content.splitlines():
                     # 过滤掉不需要的行
-                    if '更新时间' in line or time.strftime("%Y%m%d") in line or '关于' in line or '解锁' in line or '公众号' in line or '软件库' in line:
+                    if '更新时间' in line or time.strftime("%Y%m%d") in line or '关于' in line or '解锁' in line or '公众号' in line or '软件库' in line or '#EXTINF:' in line:
                         continue
 
                     # 检查行是否包含#genre#，并根据条件处理下划线和'??'
