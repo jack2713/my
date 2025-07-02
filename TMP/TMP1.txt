@@ -1258,6 +1258,8 @@ tvN, https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
 鳳凰衛視中文台, https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 鳳凰衛視資訊台, https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 鳳凰衛視香港台, https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+Japan, https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+日テレNEWS, https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
 天映电影, https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 東森洋片, https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
 東森電影, https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
@@ -1265,9 +1267,9 @@ tvN, https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
 CNA, https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
 KPOP+, https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
 朝鲜恩情台, https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
-Japan, https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-日テレNEWS, https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
 8TV, https://s1.m16tv.cfd/astro/8tv/AKTV.m3u8
+Astro, https://s1.m16tv.cfd/astro/CH-0/AKTV.m3u8
+Astro, https://s1.m16tv.cfd/astro2/astrosportsplus/AKTV.m3u8
 My, https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
 TVBS, https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 台視, https://s1.m16tv.cfd/taiwan/CH-4/AKTV.m3u8
@@ -1299,6 +1301,8 @@ tvN, https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8
 鳳凰衛視中文台, https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 鳳凰衛視資訊台, https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 鳳凰衛視香港台, https://s2.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+Japan, https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+日テレNEWS, https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
 天映电影, https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 東森洋片, https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
 東森電影, https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
@@ -1306,9 +1310,9 @@ tvN, https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8
 CNA, https://s2.m16tv.cfd/aktv3/cna/AKTV.m3u8
 KPOP+, https://s2.m16tv.cfd/aktv3/kpop/AKTV.m3u8
 朝鲜恩情台, https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
-Japan, https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-日テレNEWS, https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
 8TV, https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
+Astro, https://s2.m16tv.cfd/astro/CH-0/AKTV.m3u8
+Astro, https://s2.m16tv.cfd/astro2/astrosportsplus/AKTV.m3u8
 My, https://s2.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
 TVBS, https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 台視, https://s2.m16tv.cfd/taiwan/CH-4/AKTV.m3u8
