@@ -1235,6 +1235,7 @@ TVBS, https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
 民視第一台, https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
 龍華日韓台, https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
 TVB, https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
+test01, https://s1.tvm4a1.cfd/test/test01/AKTV.m3u8
 TVBS新聞, https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
 中天新闻台, https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
 東森新聞, https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
