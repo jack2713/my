@@ -7,7 +7,7 @@ import re
 urls = [
     'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
     #'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8',
-    'https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u',
+    #'https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u',
     'https://raw.githubusercontent.com/big-mouth-cn/tv/refs/heads/main/iptv-ok.m3u',
     #'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
      'https://aktv.space/live.m3u',
@@ -16,6 +16,7 @@ urls = [
     #'https://huangsuming.github.io/iptv/list/tvlist.txt',
     # 'https://raw.githubusercontent.com/mavin521/syiptv/main/live.m3u',
     'https://live.hacks.tools/iptv/categories/movies.m3u',
+    'https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u',
 ]
 
 # 初始化字典
