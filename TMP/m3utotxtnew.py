@@ -5,7 +5,7 @@ import re
 
 # 文件 URL 列表
 urls = [
-    #'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
+    'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
     #'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8',
     #'https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u',
     'https://raw.githubusercontent.com/big-mouth-cn/tv/refs/heads/main/iptv-ok.m3u',
