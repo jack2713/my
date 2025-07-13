@@ -66,6 +66,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'http://rihou.cc:555/gggg.nzk',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',
+        'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',
         'https://live.hacks.tools/tv/iptv4.txt',
        # 'http://47.99.102.252/live.txt',
         #'http://kxrj.site:55/lib/kx2024.txt',
