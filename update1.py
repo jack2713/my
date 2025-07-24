@@ -63,7 +63,7 @@ if __name__ == "__main__":
         #'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/temp1.txt',
         #'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
         'https://raw.githubusercontent.com/sublime2025/IPTV/refs/heads/main/adult',
-        'https://qu.ax/HtMB.txt',
+        #'https://qu.ax/HtMB.txt',
         'https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt',  
         'https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2livefomi243.txt',
         'https://raw.githubusercontent.com/alenin-zhang/IPTV/4e8e4812168164ea11acc0617b814a7948b632f5/av',
