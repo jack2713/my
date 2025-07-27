@@ -16,8 +16,7 @@ urls = [
     #'https://huangsuming.github.io/iptv/list/tvlist.txt',
     # 'https://raw.githubusercontent.com/mavin521/syiptv/main/live.m3u',
     'https://live.hacks.tools/iptv/categories/movies.m3u',
-    'https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u',
-    'https://raw.githubusercontent.com/kilvn/iptv/refs/heads/master/iptv%2B.m3u'
+    'https://raw.githubusercontent.com/kilvn/iptv/refs/heads/master/iptv%2B.m3u',
 ]
 
 # 初始化字典
