@@ -71,8 +71,8 @@ for url in urls:
                     if not group_title or group_title.lower() in ["null", "none"]:
                         group_title = "其他"
                     
-                    # 过滤成人内容
-                    if "成人" not in group_title:
+                    # 过滤内容
+                    if "成人" or "直播中国" not in group_title:
                         all_channels_dict[group_title].append({
                             "channel_name": channel_name,
                             "tvg_logo": tvg_logo,
