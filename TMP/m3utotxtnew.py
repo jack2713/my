@@ -43,7 +43,7 @@ for url in urls:
                 
                 # 尝试从EXTINF行提取信息
                 # 处理带引号的属性
-                attr_matches = re.findall(r'(\w+)=(".*?"|\S+)', line)
+                attr_matches = re.findall(r'(\S+)=(".*?"|\S+)', line)
                 attrs = {k: v.strip('"') for k, v in attr_matches}
                 
                 if 'group-title' in attrs:
@@ -59,20 +59,18 @@ for url in urls:
                     if len(parts) > 1:
                         channel_name = parts[-1].strip()
                 
-                # 处理可能存在的空格分隔的情况
-                if not group_title and 'group-title' in line:
-                    group_match = re.search(r'group-title=([^\s]+)', line)
-                    if group_match:
-                        group_title = group_match.group(1).strip('"')
-                
                 # 处理下一个行（应该是URL）
                 if i + 1 < len(lines):
                     next_line = lines[i+1].strip()
-                    if next_line.startswith('http'):
+                    if next_line.startswith(('http', 'rtmp', 'rtsp')):
                         streaming_url = next_line
                         i += 1  # 跳过URL行
                 
                 if channel_name and streaming_url:
+                    # 如果group_title为空，则归类到"其他"
+                    if not group_title:
+                        group_title = "其他"
+                    
                     channels.append({
                         "channel_name": channel_name,
                         "group_title": group_title,
@@ -90,24 +88,33 @@ for url in urls:
         print(f"处理URL {url} 时出错: {e}")
         continue
 
+# 过滤掉含有"成人"字样的分组
+filtered_groups = {
+    group: channels 
+    for group, channels in all_channels_dict.items() 
+    if group and "成人" not in group
+}
+
 # 输出到文件
 output_file_path = "TMP/TMP1.txt"
 os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 with open(output_file_path, "w", encoding="utf-8") as output_file:
-    prev_group_title = None
-    for group_title, channels_in_group in sorted(all_channels_dict.items()):
-        # 按行号排序频道
-        sorted_channels_in_group = sorted(channels_in_group, key=lambda x: x["line_index"])
-        
-        # 写入分组标题
-        if group_title != prev_group_title:
-            if prev_group_title is not None:
-                output_file.write("\n")  # 分组间空行
-            output_file.write(f"{group_title},#genre#\n")
-            prev_group_title = group_title
-        
-        # 写入频道信息
-        for channel in sorted_channels_in_group:
+    # 先处理"其他"分组
+    if "其他" in filtered_groups:
+        output_file.write("其他,#genre#\n")
+        for channel in sorted(filtered_groups["其他"], key=lambda x: x["line_index"]):
             output_file.write(f"{channel['channel_name']},{channel['streaming_url']}\n")
+        output_file.write("\n")
+    
+    # 处理其他分组（按字母顺序排序）
+    for group_title in sorted([g for g in filtered_groups.keys() if g != "其他"]):
+        channels_in_group = filtered_groups[group_title]
+        if not channels_in_group:
+            continue
+            
+        output_file.write(f"{group_title},#genre#\n")
+        for channel in sorted(channels_in_group, key=lambda x: x["line_index"]):
+            output_file.write(f"{channel['channel_name']},{channel['streaming_url']}\n")
+        output_file.write("\n")
 
 print(f"提取完成,结果已保存到 {output_file_path}")
