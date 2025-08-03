@@ -60,7 +60,7 @@ def fetch_and_replace(urls):
 if __name__ == "__main__":  
     # 定义多个URL  
     urls = [
-        #'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/temp1.txt',
+        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/temp1.txt',
          'https://raw.githubusercontent.com/zyxusan/IPTV/refs/heads/main/%E5%BD%A9%E8%99%B9%E9%9B%BB%E5%BD%B1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
         'https://raw.githubusercontent.com/dlgt7/TVbox-interface/ddd11b8e92de6c5e162498c8dbad3d7f46e57974/1234.txt',
