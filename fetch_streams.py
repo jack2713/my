@@ -69,6 +69,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',
         'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',
         'https://live.hacks.tools/tv/iptv4.txt',
+        'http://106.53.99.30/2025.txt',
        # 'http://47.99.102.252/live.txt',
         #'http://kxrj.site:55/lib/kx2024.txt',
         # 'https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt',
