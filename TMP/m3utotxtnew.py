@@ -13,6 +13,7 @@ urls = [
     'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/douyuyqk.m3u',
     'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/huyayqk.m3u',
     'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u',
+    'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/yylunbo.m3u',
     #'https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u',
 ]
 
