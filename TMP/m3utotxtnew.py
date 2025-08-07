@@ -10,6 +10,8 @@ urls = [
     'https://live.hacks.tools/iptv/categories/movies.m3u',
     'https://raw.githubusercontent.com/kilvn/iptv/refs/heads/master/iptv%2B.m3u',
     'https://iptv.catvod.com/tv.m3u',
+    'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/douyuyqk.m3u',
+    'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/huyayqk.m3u',
     #'https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u',
 ]
 
