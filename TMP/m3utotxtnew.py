@@ -83,7 +83,7 @@ for url in urls:
                         group_title = "其他"
                     
                     # 如果URL包含联通标识，则在分组名称后添加"-联通"
-                    if "http://sc.rrs.169ol.com/PLTV" in streaming_url:
+                    if "http://sc.rrs.169ol.com" in streaming_url:
                         group_title = f"{group_title}-联通"
                     
                     # 过滤内容
