@@ -1,7 +1,7 @@
 import requests
 import os
 import re
-from collections import defaultdict
+from collections import defaultdict, OrderedDict
 
 # 文件 URL 列表
 urls = [
@@ -41,8 +41,9 @@ def extract_channel_name(extinf_line):
     # 如果都失败，返回"未命名频道"
     return "未命名频道"
 
-# 初始化字典
-all_channels_dict = defaultdict(list)
+# 使用OrderedDict保持分组顺序
+all_channels_dict = OrderedDict()
+group_order = []
 
 for url in urls:
     try:
@@ -83,11 +84,17 @@ for url in urls:
                     
                     # 过滤内容
                     if "成人" not in group_title and "直播中国" not in group_title:
+                        # 记录分组出现的顺序
+                        if group_title not in all_channels_dict:
+                            all_channels_dict[group_title] = []
+                            group_order.append(group_title)
+                        
                         all_channels_dict[group_title].append({
                             "channel_name": channel_name,
                             "tvg_logo": tvg_logo,
                             "streaming_url": streaming_url,
-                            "line_index": i
+                            "line_index": i,
+                            "source_url": url  # 记录来源URL
                         })
             i += 1
     except Exception as e:
@@ -98,20 +105,15 @@ output_file_path = "TMP/TMP1.txt"
 os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
 with open(output_file_path, "w", encoding="utf-8") as output_file:
-    # 先处理"其他"分组
-    if "其他" in all_channels_dict:
-        output_file.write("其他,#genre#\n")
-        for channel in sorted(all_channels_dict["其他"], key=lambda x: x["line_index"]):
-            output_file.write(f"{channel['channel_name']},{channel['streaming_url']}\n")
-        output_file.write("\n")
-    
-    # 处理其他分组（按字母顺序排序）
-    for group_title in sorted([g for g in all_channels_dict.keys() if g != "其他"]):
-        channels = all_channels_dict[group_title]
-        if channels:
-            output_file.write(f"{group_title},#genre#\n")
-            for channel in sorted(channels, key=lambda x: x["line_index"]):
-                output_file.write(f"{channel['channel_name']},{channel['streaming_url']}\n")
-            output_file.write("\n")
+    # 按照分组在源文件中出现的顺序输出
+    for group_title in group_order:
+        if group_title in all_channels_dict:
+            channels = all_channels_dict[group_title]
+            if channels:
+                output_file.write(f"{group_title},#genre#\n")
+                # 按照频道在源文件中的顺序输出
+                for channel in sorted(channels, key=lambda x: (x['source_url'], x['line_index'])):
+                    output_file.write(f"{channel['channel_name']},{channel['streaming_url']}\n")
+                output_file.write("\n")
 
 print(f"提取完成,结果已保存到 {output_file_path}")
