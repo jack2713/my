@@ -87,7 +87,7 @@ for url in urls:
                         group_title = f"{group_title}-联通"
                     
                     # 过滤内容
-                    if "成人" not in group_title and "直播中国" not in group_title:
+                    if "成人" not in group_title and "直播中国" not in group_title and "列表更新" not in group_title:
                         # 记录分组出现的顺序
                         if group_title not in all_channels_dict:
                             all_channels_dict[group_title] = []
