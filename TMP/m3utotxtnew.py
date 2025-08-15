@@ -5,13 +5,20 @@ from collections import defaultdict, OrderedDict
 
 # 文件 URL 列表
 urls = [
-    'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
+   'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
+    #'https://raw.githubusercontent.com/big-mouth-cn/tv/refs/heads/main/iptv-ok.m3u',
     'https://live.hacks.tools/iptv/categories/movies.m3u',
+    #'https://raw.githubusercontent.com/kilvn/iptv/refs/heads/master/iptv%2B.m3u',
     'https://iptv.catvod.com/tv.m3u',
     'https://sub.ottiptv.cc/iptv.m3u',
     'https://sub.ottiptv.cc/douyuyqk.m3u',
     'https://sub.ottiptv.cc/huyayqk.m3u',
     'https://sub.ottiptv.cc/yylunbo.m3u',
+    #'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/douyuyqk.m3u',
+    #'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/huyayqk.m3u',
+    #'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u',
+    #'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/yylunbo.m3u',
+    #'https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u',
 ]
 
 def extract_channel_name(extinf_line):
