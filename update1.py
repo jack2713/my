@@ -60,6 +60,7 @@ def fetch_and_replace(urls):
 if __name__ == "__main__":  
     # 定义多个URL  
     urls = [
+         'https://raw.githubusercontent.com/mijaduniyahiladungi32/Testtt/1ca08a0f7153c7e7d986c1272f5e286d664ac281/av',
         #'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/temp1.txt',
          'https://raw.githubusercontent.com/zyxusan/IPTV/refs/heads/main/%E5%BD%A9%E8%99%B9%E9%9B%BB%E5%BD%B1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
