@@ -1,4 +1,4 @@
-央视频道,#genre#
+央视频道-联通,#genre#
 CCTV1,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
 CCTV2,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227477/index.m3u8
 CCTV3,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227435/index.m3u8
@@ -15,13 +15,15 @@ CCTV12,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227377/index.m3u8
 CCTV13,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227926/index.m3u8
 CCTV14,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227379/index.m3u8
 CCTV15,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227933/index.m3u8
-CCTV16,http://113.234.120.63:777/hls/16/index.m3u8
 CCTV17,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
 CETV1,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227339/index.m3u8
 CGTN,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227391/index.m3u8
 中国交通,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227499/index.m3u8
 
-卫视频道,#genre#
+央视频道,#genre#
+CCTV16,http://113.234.120.63:777/hls/16/index.m3u8
+
+卫视频道-联通,#genre#
 CETV2,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227940/index.m3u8
 CETV4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227337/index.m3u8
 四川卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227417/index.m3u8
@@ -58,30 +60,32 @@ CETV4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227337/index.m3u8
 宁夏卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227119/index.m3u8
 新疆卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227117/index.m3u8
 内蒙古卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227181/index.m3u8
-海南卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227917/index.m3u8
 西藏卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227131/index.m3u8
 安多卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227121/index.m3u8
 兵团卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227934/index.m3u8
 延边卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227961/index.m3u8
 
-重庆频道,#genre#
+卫视频道,#genre#
+海南卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227917/index.m3u8
+
+重庆频道-联通,#genre#
 汽摩频道,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227968/index.m3u8
 
-上海频道,#genre#
+上海频道-联通,#genre#
 欢笑剧场4K,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227970/index.m3u8
 纪实人文,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227349/index.m3u8
 
-湖南频道,#genre#
+湖南频道-联通,#genre#
 金鹰纪实,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227371/index.m3u8
 金鹰卡通,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227149/index.m3u8
 
-北京频道,#genre#
+北京频道-联通,#genre#
 卡酷动画,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227189/index.m3u8
 
 江苏频道,#genre#
 财富天下,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227921/index.m3u8
 
-四川频道,#genre#
+四川频道-联通,#genre#
 四川经济,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227415/index.m3u8
 四川文化旅游,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227413/index.m3u8
 四川新闻,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227411/index.m3u8
@@ -91,7 +95,6 @@ CETV4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227337/index.m3u8
 四川乡村,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227403/index.m3u8
 峨眉电影,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227942/index.m3u8
 麻辣体育,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227811/index.m3u8
-成都新闻综合,http://119.4.91.10:80/PLTV/88888888/224/3221227495/1.m3u8
 成都经济资讯,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227949/index.m3u8
 成都都市生活,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227950/index.m3u8
 成都影视文艺,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227951/index.m3u8
@@ -117,6 +120,9 @@ CETV4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227337/index.m3u8
 甘孜综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227549/index.m3u8
 阿坝新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227561/index.m3u8
 凉山新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227551/index.m3u8
+
+四川频道,#genre#
+成都新闻综合,http://119.4.91.10:80/PLTV/88888888/224/3221227495/1.m3u8
 
 4K频道,#genre#
 4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
