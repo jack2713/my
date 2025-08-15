@@ -60,13 +60,11 @@ CETV4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227337/index.m3u8
 宁夏卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227119/index.m3u8
 新疆卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227117/index.m3u8
 内蒙古卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227181/index.m3u8
+海南卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227917/index.m3u8
 西藏卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227131/index.m3u8
 安多卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227121/index.m3u8
 兵团卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227934/index.m3u8
 延边卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227961/index.m3u8
-
-卫视频道,#genre#
-海南卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227917/index.m3u8
 
 重庆频道-联通,#genre#
 汽摩频道,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227968/index.m3u8
@@ -82,7 +80,7 @@ CETV4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227337/index.m3u8
 北京频道-联通,#genre#
 卡酷动画,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227189/index.m3u8
 
-江苏频道,#genre#
+江苏频道-联通,#genre#
 财富天下,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227921/index.m3u8
 
 四川频道-联通,#genre#
