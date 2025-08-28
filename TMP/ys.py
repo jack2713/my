@@ -3,7 +3,7 @@ import re
 import os
 
 def download_and_extract_content_regex():
-    url = "http://xx.com/a.txt"
+    url = "https://raw.githubusercontent.com/jack2713/my/refs/heads/main/myq.txt"
     output_file = "TMP/ys.txt"
     
     # 确保输出目录存在
