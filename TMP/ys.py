@@ -163,9 +163,3 @@ if __name__ == "__main__":
                "BXTV,#genre#","央视,#genre#","卫视,#genre#","地方,#genre#",
                "影视,#genre#","一起看,#genre#","春晚,#genre#"
               ]
-    
-    # extract_sections_from_url(url, output_path, markers)
-    
-    # 方式2: 从本地文件提取
-    local_file = "a.txt"
-    extract_sections_from_file(local_file, output_path, markers)
