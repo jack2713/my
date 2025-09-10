@@ -1,5 +1,6 @@
 import requests
 import os
+import fnmatch
 
 def extract_segments(url, target_segments, output_file):
     """
@@ -7,7 +8,7 @@ def extract_segments(url, target_segments, output_file):
     
     Args:
         url: 源文件的URL地址
-        target_segments: 要提取的段落的列表，如 ["注意事项,#genre#", "MY,#genre#"]
+        target_segments: 要提取的段落的列表，支持通配符*，如 ["*地区,#genre#", "MY,#genre#"]
         output_file: 输出文件路径
     """
     try:
@@ -33,8 +34,14 @@ def extract_segments(url, target_segments, output_file):
                 
             # 检查是否为分段标记
             if line.endswith(',#genre#'):
-                # 如果是目标分段，开始记录
-                if line in target_segments:
+                # 检查是否匹配任何目标分段（支持通配符）
+                matched = False
+                for pattern in target_segments:
+                    if fnmatch.fnmatch(line, pattern):
+                        matched = True
+                        break
+                
+                if matched:
                     in_target_segment = True
                     current_segment = line
                     extracted_content.append(line)
@@ -60,12 +67,11 @@ def extract_segments(url, target_segments, output_file):
 
 if __name__ == "__main__":
     # 配置参数
-    url = "https://raw.githubusercontent.com/jack2713/my/refs/heads/main/myq.txt"  # 替换为实际的URL
+    url = "http://be.is-best.net/i/8/7408578.txt"  # 替换为实际的URL
     target_segments = [
-            "注意事项,#genre#", "MY,#genre#", "广电,#genre#", "电影频道,#genre#",
-            "自制明星,#genre#", "自制影院,#genre#", "自制剧场,#genre#",
-            "BXTV,#genre#", "央视,#genre#", "卫视,#genre#", "地方,#genre#",
-            "影视,#genre#", "一起看,#genre#", "春晚,#genre#"
+        "*地区,#genre#",  # 匹配所有地区
+        "央视,#genre#", "卫视,#genre#", "地方,#genre#",
+        "影视,#genre#", "一起看,#genre#", "春晚,#genre#"
     ]
     output_file = "TMP/ys.txt"
     
