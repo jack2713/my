@@ -24,7 +24,7 @@ def create_session_with_retry(retries=3, backoff_factor=0.3):
     session.mount("https://", adapter)
     return session
 
-def extract_segments(url, target_segments, output_file, max_retries=3):
+def extract_segments(url, target_segments, output_file, max_retries=3, filter_patterns=None):
     """
     从URL获取文本内容，提取特定段落到输出文件
     
@@ -33,7 +33,12 @@ def extract_segments(url, target_segments, output_file, max_retries=3):
         target_segments: 要提取的段落的列表，支持通配符*，如 ["*地区,#genre#", "MY,#genre#"]
         output_file: 输出文件路径
         max_retries: 最大重试次数
+        filter_patterns: 需要过滤的字符串列表，包含这些字符串的行将被移除
     """
+    # 设置默认过滤模式
+    if filter_patterns is None:
+        filter_patterns = ["chinamobile.com"]
+    
     retry_count = 0
     
     while retry_count <= max_retries:
@@ -64,6 +69,7 @@ def extract_segments(url, target_segments, output_file, max_retries=3):
             in_target_segment = False
             current_segment = None
             matched_segments = set()
+            filtered_count = 0
             
             print("正在分析内容并匹配目标段落...")
             
@@ -85,6 +91,7 @@ def extract_segments(url, target_segments, output_file, max_retries=3):
                     if matched:
                         in_target_segment = True
                         current_segment = line
+                        # 分段标记本身不过滤
                         extracted_content.append(line)
                         print(f"找到匹配段落: {line}")
                     # 如果遇到其他分段标记且当前正在记录目标分段，则停止
@@ -92,17 +99,27 @@ def extract_segments(url, target_segments, output_file, max_retries=3):
                         in_target_segment = False
                         current_segment = None
                 
-                # 如果在目标分段中，记录内容
+                # 如果在目标分段中，记录内容（过滤指定模式）
                 elif in_target_segment:
-                    extracted_content.append(line)
+                    # 检查是否包含需要过滤的字符串
+                    should_filter = any(pattern in line for pattern in filter_patterns)
+                    
+                    if not should_filter:
+                        extracted_content.append(line)
+                    else:
+                        filtered_count += 1
+                        if filtered_count <= 10:  # 只显示前10个过滤记录，避免输出过多
+                            print(f"过滤掉包含过滤模式的行: {line[:50]}...")
             
             # 写入输出文件
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(extracted_content))
                 
             print(f"成功提取 {len(extracted_content)} 行内容到 {output_file}")
+            print(f"过滤掉 {filtered_count} 行包含指定模式的内容")
+            
             if matched_segments:
-                print(f"匹配到的段落: {', '.join(matched_segments)}")
+                print(f"匹配到的段落: {', '.join(sorted(matched_segments))}")
             else:
                 print("警告: 没有找到任何匹配的段落")
             
@@ -134,13 +151,22 @@ if __name__ == "__main__":
     url = "http://be.is-best.net/i/8/7408578.txt"  # 替换为实际的URL
     target_segments = [
         "*地区,#genre#",  # 匹配所有地区
-        "地方,#genre#",
+        "央视,#genre#", "卫视,#genre#", "地方,#genre#",
         "影视,#genre#", "一起看,#genre#", "春晚,#genre#"
     ]
     output_file = "TMP/ys.txt"
     
+    # 需要过滤的模式列表
+    filter_patterns = ["chinamobile.com"]
+    
     # 执行提取
-    success = extract_segments(url, target_segments, output_file, max_retries=3)
+    success = extract_segments(
+        url=url,
+        target_segments=target_segments,
+        output_file=output_file,
+        max_retries=3,
+        filter_patterns=filter_patterns
+    )
     
     if not success:
         print("程序执行失败，请检查网络连接或URL是否正确")
