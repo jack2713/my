@@ -64,4 +64,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: ys
-        path: TMP/TMP1.txt
+        path: TMP/ys.txt
