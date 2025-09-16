@@ -212,7 +212,7 @@ def main():
         "央视,#genre#", "卫视,#genre#", "地方,#genre#",
         "影视,#genre#", "一起看,#genre#", "春晚,#genre#"
     ]
-    output_file = "TMP/ys.txt"
+    output_file = "https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/ys.txt"
     
     # 需要过滤的模式列表
     filter_patterns = ["chinamobile.com"]
