@@ -104,10 +104,12 @@ def extract_segments(url, target_segments, output_file, max_retries=3, filter_pa
                         current_segment = line
                         extracted_content.append(line)
                         print(f"找到匹配段落: {line}")
-                    elif in_target_segment:
-                        in_target_segment = False
-                        current_segment = None
-                        print(f"离开段落，遇到新分段: {line}")
+                    else:
+                        # 遇到新的不匹配的分段，退出当前分段
+                        if in_target_segment:
+                            in_target_segment = False
+                            current_segment = None
+                            print(f"离开段落，遇到新分段: {line}")
                 
                 # 如果在目标分段中，记录内容
                 elif in_target_segment:
@@ -121,11 +123,20 @@ def extract_segments(url, target_segments, output_file, max_retries=3, filter_pa
                         if filtered_count <= 5:
                             print(f"过滤掉: {line[:60]}...")
             
-            # 写入输出文件
+            # 写入输出文件 - 这是关键修复部分
             if extracted_content:
                 try:
-                    with open(output_file, 'w', encoding='utf-8') as f:
+                    # 使用临时文件先写入，然后重命名，确保原子性操作
+                    temp_file = output_file + ".tmp"
+                    
+                    with open(temp_file, 'w', encoding='utf-8') as f:
                         f.write('\n'.join(extracted_content))
+                    
+                    # 替换原文件（如果存在）
+                    if os.path.exists(output_file):
+                        os.replace(temp_file, output_file)
+                    else:
+                        os.rename(temp_file, output_file)
                     
                     print(f"成功写入 {len(extracted_content)} 行到 {output_file}")
                     print(f"处理了 {total_lines_processed} 行原始数据")
@@ -142,11 +153,14 @@ def extract_segments(url, target_segments, output_file, max_retries=3, filter_pa
                         print(f"输出文件已创建，大小: {file_size} 字节")
                         
                         # 显示文件前几行作为验证
-                        with open(output_file, 'r', encoding='utf-8') as f:
-                            first_lines = f.readlines()[:3]
-                        print("文件前3行内容:")
-                        for i, line in enumerate(first_lines, 1):
-                            print(f"  {i}: {line.strip()}")
+                        try:
+                            with open(output_file, 'r', encoding='utf-8') as f:
+                                first_lines = f.readlines()[:3]
+                            print("文件前3行内容:")
+                            for i, line in enumerate(first_lines, 1):
+                                print(f"  {i}: {line.strip()}")
+                        except UnicodeDecodeError:
+                            print("注意: 文件包含非UTF-8字符，无法显示预览")
                     else:
                         print("错误: 文件未成功创建")
                         return False
@@ -155,6 +169,15 @@ def extract_segments(url, target_segments, output_file, max_retries=3, filter_pa
                     
                 except IOError as e:
                     print(f"文件写入错误: {e}")
+                    # 清理临时文件
+                    if os.path.exists(temp_file):
+                        os.remove(temp_file)
+                    return False
+                except Exception as e:
+                    print(f"文件操作异常: {e}")
+                    # 清理临时文件
+                    if os.path.exists(temp_file):
+                        os.remove(temp_file)
                     return False
             else:
                 print("没有提取到任何内容")
@@ -212,7 +235,7 @@ def main():
         "央视,#genre#", "卫视,#genre#", "地方,#genre#",
         "影视,#genre#", "一起看,#genre#", "春晚,#genre#"
     ]
-    output_file = "https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/ys.txt"
+    output_file = "TMP/ys.txt"
     
     # 需要过滤的模式列表
     filter_patterns = ["chinamobile.com"]
@@ -224,6 +247,17 @@ def main():
     # 检查当前工作目录
     current_dir = os.getcwd()
     print(f"当前工作目录: {current_dir}")
+    
+    # 检查输出目录是否存在且有写入权限
+    output_dir = os.path.dirname(output_file)
+    if output_dir and not os.path.exists(output_dir):
+        try:
+            os.makedirs(output_dir, exist_ok=True)
+            print(f"已创建输出目录: {output_dir}")
+        except OSError as e:
+            print(f"创建目录失败: {e}")
+            print("程序终止")
+            return
     
     # 执行提取
     success = extract_segments(
