@@ -5,6 +5,7 @@ from collections import defaultdict, OrderedDict
 
 # 文件 URL 列表
 urls = [
+   'https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt',
    'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
     #'https://raw.githubusercontent.com/big-mouth-cn/tv/refs/heads/main/iptv-ok.m3u',
     'https://live.hacks.tools/iptv/categories/movies.m3u',
