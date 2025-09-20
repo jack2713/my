@@ -516,7 +516,6 @@ CHC家庭影院,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E
 兴文台,http://live2.rxip.sc96655.com/live/xwt_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
 阿坝州TV,http://live2.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
 电影频道,#genre#
-乌克兰影,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 欧美大片,http://www.douzhicloud.site:35455/douyu/2793084
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
@@ -527,44 +526,6 @@ CHC家庭影院,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E
 追剧少女,http://110.40.33.162:99/zbtv/aikan.php?id=zjsv
 热播剧,http://110.40.33.162:99/zbtv/aikan.php?id=rbj
 高清大片,http://110.40.33.162:99/zbtv/aikan.php?id=gqdp
-电影频道|HBO_HD,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohd_twn
-电影频道|HBO_HITS,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohit_twn
-电影频道|Hollywood Movies,https://pixman.mytvsuper.com.mp/Smart.php?id=hollywoodmovies_twn
-电影频道|CCTV-6,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv6
-电影频道|CINEMAX,https://pixman.mytvsuper.com.mp/Smart.php?id=cinemax_twn
-电影频道|Cinemax,https://pixman.mytvsuper.com.mp/Smart.php?id=Cinemax
-电影频道|AXN Taiwan,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn
-电影频道|大爱2台,https://pixman.mytvsuper.com.mp/Smart.php?id=daai2_twn
-电影频道|东森电影 ETTV Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
-电影频道|东森洋片 ETTV Western,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvwestern
-电影频道|龙华洋片 Lunghua Western,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuawestern_twn
-电影频道|Animax,https://pixman.mytvsuper.com.mp/Smart.php?id=Animax
-电影频道|龙详时代,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
-电影频道|Movies Now HD,https://pixman.mytvsuper.com.mp/Smart.php?id=moviesnow_raj
-电影频道|Star Movies HD,https://pixman.mytvsuper.com.mp/Smart.php?id=starmovies_raj
-电影频道|卫视中文台 Star Movies Chinese,https://pixman.mytvsuper.com.mp/Smart.php?id=weishichinese_twn
-电影频道|HBO Family,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbofamily
-电影频道|Hits,https://pixman.mytvsuper.com.mp/Smart.php?id=Hits
-电影频道|Warner TV,https://pixman.mytvsuper.com.mp/Smart.php?id=WarnerTV
-电影频道|卫视电影台,https://pixman.mytvsuper.com.mp/Smart.php?id=weishimovie_twn
-电影频道|HBO HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbo
-电影频道|美亚电影,https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
-电影频道|HBO Signature,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbosignature
-电影频道|HBO Hits,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbohitshd
-电影频道|星卫电影,https://pixman.mytvsuper.com.mp/Smart.php?id=xingwei_movie
-电影频道|SCM,https://pixman.mytvsuper.com.mp/Smart.php?id=Weishimovie
-电影频道|Dreamworks,https://pixman.mytvsuper.com.mp/Smart.php?id=Dreamworks
-电影频道|Thrill,https://pixman.mytvsuper.com.mp/Smart.php?id=Thrill
-电影频道|Hits Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=Hitsmovie
-电影频道|One,https://pixman.mytvsuper.com.mp/Smart.php?id=One
-电影频道|tvN Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvnmovie
-电影频道|Celestial Classic,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestial2
-电影频道|Celestial Movies HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestialindo
-电影频道|Axn HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Axn
-电影频道|Paramount Network,https://pixman.mytvsuper.com.mp/Smart.php?id=Paramountnetwork
-电影频道|Astrol Kplus,https://pixman.mytvsuper.com.mp/Smart.php?id=Kplus
-电影频道|Rock Actions,https://pixman.mytvsuper.com.mp/Smart.php?id=Rockaction
-电影频道|Rock Entertainment,https://pixman.mytvsuper.com.mp/Smart.php?id=Rockentertain
 临时,#genre#
 韩国娱乐台,http://t.061899.xyz/tl/js/js.php?id=hgylt
 凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
@@ -5339,25 +5300,6 @@ T台秀,http://cfss.cc/cdn/hy/18501378.m3u8
 航海王,http://cfss.cc/cdn/hy/16913382.m3u8
 哆啦A梦,http://cfss.cc/cdn/hy/11601963.m3u8
 北京地区,#genre#
-
-北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226452/1.m3u8
-北京4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
-北京文艺,http://qtest-play.btime.cn/live/btv_sn_20170706_s2.m3u8
-北京纪实科教,http://qtest-play.btime.cn/live/btv_sn_20170706_s3.m3u8
-北京影视,http://qtest-play.btime.cn/live/btv_sn_20170706_s4.m3u8
-北京财经,http://qtest-play.btime.cn/live/btv_sn_20170706_s5.m3u8
-北京体育,http://qtest-play.btime.cn/live/btv_sn_20170706_s6.m3u8
-北京生活,http://qtest-play.btime.cn/live/btv_sn_20170706_s7.m3u8
-北京新闻,http://qtest-play.btime.cn/live/btv_sn_20170706_s9.m3u8
-北京卡酷少儿,http://qtest-play.btime.cn/live/btv_sn_20170706_s10.m3u8
-北京纪实科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8
-北京卡酷少儿,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/1.m3u8
-北京文艺,http://vapi.91kds.cc/live2/btv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=btv2
-北京影视,http://vapi.91kds.cc/live2/btv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=btv4
-北京财经,http://vapi.91kds.cc/live2/btv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=btv5
-北京体育,http://vapi.91kds.cc/live2/btv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=btv6
-北京生活,http://vapi.91kds.cc/live2/btv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=btv7
-北京新闻,http://vapi.91kds.cc/live2/btv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=btv9
 北京文艺,http://49.232.181.26:6000/udp/225.1.8.22:8002$北京联通
 北京影视,http://49.232.181.26:6000/udp/225.1.8.82:8000
 北京财经,http://49.232.181.26:6000/udp/225.1.8.106:8002
@@ -5410,182 +5352,14 @@ T台秀,http://cfss.cc/cdn/hy/18501378.m3u8
 崇明区,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定区,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 天津地区,#genre#
-天津卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226422/1.m3u8
-天津新闻,http://vapi.91kds.cc/live2/tjtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=tjtv1
-天津文艺,http://vapi.91kds.cc/live2/tjtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=tjtv2
-天津影视,http://vapi.91kds.cc/live2/tjtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=tjtv3
-天津都市,http://vapi.91kds.cc/live2/tjtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=tjtv4
-天津体育,http://vapi.91kds.cc/live2/tjtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=tjtv5
-天津教育,http://vapi.91kds.cc/live2/tjtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=tjtv6
 滨海区,http://traffic.jbh.tjbh.com:80/live/bhtv10/playlist.m3u8
 津南区,http://play.jinnantv.top/live/JNTV1/playlist.m3u8
 重庆地区,#genre#
-重庆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226420/1.m3u8
-重庆新闻,http://vapi.91kds.cc/live1/cqtv1.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=cqxw
-重庆新闻,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.196.199:7980
-重庆影视,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.198.180:7980
-重庆社会与法,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.198.181:7980
-重庆红岩文化,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.198.182:7980
-重庆文体娱乐,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.198.187:7980
-重庆新农村,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.198.186:7980
-重庆少儿,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.196.214:1128
-重庆红叶,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.196.215:1132
-重庆汽摩,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.196.221:1156
-重庆移动,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=225.0.4.68:7980
-重庆手持电视,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.196.219:1148
-重广融媒,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.196.218:1146
-精彩导视,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.196.101:1162
-开州新闻,http://vapi.91kds.cc/live1/udp.m3u8?ip=chongqing-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=235.254.198.145:1870
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8
 璧山区,http://222.179.42.129:8181/hls1.m3u8
 江津区,http://222.179.155.21:1935/ch1.m3u8
 垫江综合,http://125.62.24.185/1.m3u8
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
-
-黑龙江地区,#genre#
-黑龙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8
-黑龙江文体,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-黑龙江农业,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-黑龙江影视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-黑龙江都市,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-黑龙江少儿,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-黑龙江新闻,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-哈尔滨新闻综合,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-哈尔滨生活,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-哈尔滨影视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
-佳木斯新闻,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-鹤岗新闻,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-鸡西新闻,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
-鸡西生活,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
-齐齐哈尔新闻,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
-齐齐哈尔经济,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
-伊春新闻,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
-牡丹江新闻,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
-大庆新闻,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-大庆教育,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
-漠河综合,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
-漠河综合,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
-双鸭山新闻综合,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
-黑龙江新闻,http://111.43.126.240:9003/hls/10/index.m3u8
-黑龙江都市,http://111.43.126.240:9003/hls/9/index.m3u8
-黑龙江影视,http://111.43.126.240:9003/hls/7/index.m3u8
-黑龙江公共,http://111.43.126.240:9003/hls/11/index.m3u8
-黑龙江少儿,http://111.43.126.240:9003/hls/12/index.m3u8
-哈尔滨新闻,http://111.43.126.240:9003/hls/1/index.m3u8
-哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
-哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
-哈尔滨新闻,http://stream.hrbtv.net/xwzh/sd/live.m3u8
-哈尔滨新闻,https://rmplive.hljtv.com/live/haerbin.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
-大庆新闻,https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
-大庆新闻,https://rmplive.hljtv.com/live/daqing.m3u8
-绥化新闻,https://rmplive.hljtv.com/live/suihua.m3u8
-鹤岗新闻,https://rmplive.hljtv.com/live/hegang.m3u8
-七台河新闻,https://rmplive.hljtv.com/live/qitaihe.m3u8
-七台河民生,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
-齐齐哈尔新闻,https://rmplive.hljtv.com/live/qiqihaer.m3u8
-伊春新闻,https://rmplive.hljtv.com/live/yichun.m3u8
-伊春公共,https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
-牡丹江新闻,https://masterpull.hljtv.com/live/newLqQS9Lcp.m3u8
-佳木斯新闻,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
-佳木斯新闻,https://rmplive.hljtv.com/live/jiamusi.m3u8
-双鸭山综合,https://masterpull.hljtv.com/live/BowdCSzZ.m3u8
-鹤岗新闻,https://rmplive.hljtv.com/live/hegang.m3u8
-鸡西新闻,https://rmplive.hljtv.com/live/jixi.m3u8
-大兴安岭,https://masterpull.hljtv.com/live/H2kVyS15.m3u8
-漠河市,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
-漠河市,https://rmplive.hljtv.com/live/mohe.m3u8
-黑河新闻,https://masterpull.hljtv.com/live/iyoENgSP.m3u8
-黑河公共,https://masterpull.hljtv.com/live/iyoENgSP.m3u8
-绥化新闻,https://rmplive.hljtv.com/live/suihua.m3u8
-巴彦县,https://rmplive.hljtv.com/live/bayan.m3u8
-伊兰县,https://masterpull.hljtv.com/live/4sTJDdbE.m3u8
-五常县,https://rmplive.hljtv.com/live/wuchang.m3u8
-通河县,https://rmplive.hljtv.com/live/tonghe.m3u8
-尚志县,https://rmplive.hljtv.com/live/shangzhi.m3u8
-延寿县,https://masterpull.hljtv.com/live/XBqKssjB.m3u8
-方正县,https://rmplive.hljtv.com/live/fangzheng.m3u8
-呼兰县,https://rmplive.hljtv.com/live/hulan.m3u8
-宾县,https://rmplive.hljtv.com/live/binxian.m3u8
-林甸县,https://masterpull.hljtv.com/live/23PN6NW9.m3u8
-肇州市,https://masterpull.hljtv.com/live/imOHYJ77.m3u8
-肇源县,https://masterpull.hljtv.com/live/XkQg7QSI.m3u8
-杜尔伯特,https://masterpull.hljtv.com/live/eCNHwyyW.m3u8
-绥滨县,https://masterpull.hljtv.com/live/DQiqZPCj.m3u8
-勃利县,https://masterpull.hljtv.com/live/6rx9bifO.m3u8
-甘南市,https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
-龙江县,https://masterpull.hljtv.com/live/vRSdDMSR.m3u8
-依安县,https://masterpull.hljtv.com/live/4hhgo1mX.m3u8
-泰来县,https://masterpull.hljtv.com/live/cfkAgOUK.m3u8
-讷河县,https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
-拜泉县,https://masterpull.hljtv.com/live/zHtOXXUz.m3u8
-克东市,https://masterpull.hljtv.com/live/PO1DiGiN.m3u8
-克山县,https://masterpull.hljtv.com/live/58lOw0L5.m3u8
-富裕县,https://masterpull.hljtv.com/live/MKFLhcpa.m3u8
-铁力县,https://masterpull.hljtv.com/live/iUtbDFud.m3u8
-嘉荫县,https://masterpull.hljtv.com/live/k5IX9frJ.m3u8
-汤旺县,https://rmplive.hljtv.com:443/live/tangyuan.m3u8
-林口县,https://masterpull.hljtv.com/live/pqheD07F.m3u8
-东宁县,https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
-绥芬河,https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
-穆棱县,https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
-宁安县,https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
-海林市,https://masterpull.hljtv.com/live/lqo9Fcdy.m3u8
-富锦县,https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
-扶远县,https://masterpull.hljtv.com/live/tVnkOTOG.m3u8
-同江县,https://masterpull.hljtv.com/live/oFc7fCUf.m3u8
-桦川县,https://masterpull.hljtv.com/live/NYQcW0fS.m3u8
-桦南县,https://masterpull.hljtv.com/live/76oCVZd3.m3u8
-汤原县,https://masterpull.hljtv.com/live/lt2CmppY.m3u8
-友谊县,https://masterpull.hljtv.com/live/LVpBWYXl.m3u8
-集贤县,https://masterpull.hljtv.com/live/CyJ3RKND.m3u8
-宝清县,https://masterpull.hljtv.com/live/HBp9MLoA.m3u8
-饶河县,https://masterpull.hljtv.com/live/DokNxER6.m3u8
-鸡东市,https://masterpull.hljtv.com/live/o4NExHSz.m3u8
-虎林县,https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
-密山县,https://masterpull.hljtv.com/live/iYi97JTN.m3u8
-嫩江县,https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
-孙吴县,https://masterpull.hljtv.com/live/eXFjvNaf.m3u8
-北安县,https://masterpull.hljtv.com/live/EfoBDa06.m3u8
-五大连池,https://masterpull.hljtv.com/live/6ic4FFgF.m3u8
-庆安县,https://rmplive.hljtv.com/live/qingan.m3u8
-青冈县,https://rmplive.hljtv.com/live/qinggang.m3u8
-望奎县,https://rmplive.hljtv.com/live/wangkui.m3u8
-绥陵县,https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
-兰西县,https://rmplive.hljtv.com/live/lanxi.m3u8
-明水县,https://masterpull.hljtv.com/live/bOJ0OStw.m3u8
-安达县,https://rmplive.hljtv.com/live/anda.m3u8
-肇东县,https://rmplive.hljtv.com/live/zhaodong.m3u8
-海伦县,https://rmplive.hljtv.com/live/hailun.m3u8
-呼玛县,https://rmplive.hljtv.com/live/huma.m3u8
-塔河县,https://rmplive.hljtv.com/live/tahe.m3u8
-黑龙江新闻,http://39.134.62.142:6610/PLTV/88888888/224/3221226330/index.m3u8?
-黑龙江都市,http://39.134.62.142:6610/PLTV/88888888/224/3221226301/index.m3u8?
-黑龙江影视,http://39.134.62.142:6610/PLTV/88888888/224/3221226298/index.m3u8?
-黑龙江文体,http://39.134.62.142:6610/PLTV/88888888/224/3221226239/1.m3u8?
-黑龙江农业,http://39.134.62.142:6610/PLTV/88888888/224/3221226242/index.m3u8?
-黑龙江少儿,http://39.134.62.142:6610/PLTV/88888888/224/3221226304/index.m3u8?
-哈尔滨新闻,http://39.134.62.142:6610/PLTV/88888888/224/3221226434/index.m3u8?
-哈尔滨影视,http://39.134.62.142:6610/PLTV/88888888/224/3221226552/index.m3u8?
-哈尔滨生活,http://39.134.62.142:6610/PLTV/88888888/224/3221226526/index.m3u8?
-大庆新闻,http://39.134.62.142:6610/PLTV/88888888/224/3221226484/index.m3u8?
-大庆公共,http://39.134.62.142:6610/PLTV/88888888/224/3221226056/index.m3u8?
-大庆教育,http://39.134.62.142:6610/PLTV/88888888/224/3221226523/index.m3u8?
-鹤岗新闻,http://39.134.62.142:6610/PLTV/88888888/224/3221226534/index.m3u8?
-齐齐哈尔新闻,http://39.134.62.142:6610/PLTV/88888888/224/3221226413/index.m3u8?
-齐齐哈尔公共,http://39.134.62.142:6610/PLTV/88888888/224/3221226493/index.m3u8?
-七台河新闻,http://39.134.62.142:6610/PLTV/88888888/224/3221226422/index.m3u8?
-伊春新闻,http://39.134.62.142:6610/PLTV/88888888/224/3221226416/index.m3u8?
-牡丹江新闻,http://39.134.62.142:6610/PLTV/88888888/224/3221226062/index.m3u8?
-佳木斯新闻,http://39.134.62.142:6610/PLTV/88888888/224/3221226451/index.m3u8?
-双鸭山综合,http://39.134.62.142:6610/PLTV/88888888/224/3221226502/index.m3u8?
-双鸭山公共,http://39.134.62.142:6610/PLTV/88888888/224/3221226531/index.m3u8?
-鸡西新闻,http://39.134.62.142:6610/PLTV/88888888/224/3221226410/index.m3u8?
-鸡西公共,http://39.134.62.142:6610/PLTV/88888888/224/3221226481/index.m3u8?
-大兴安岭,http://39.134.62.142:6610/PLTV/88888888/224/3221226499/index.m3u8?
-漠河市,http://39.134.62.142:6610/PLTV/88888888/224/3221226535/index.m3u8?
-
 吉林地区,#genre#
 吉林卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226425/1.m3u8
 延边卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227253/index.m3u8
