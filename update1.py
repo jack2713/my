@@ -60,19 +60,7 @@ def fetch_and_replace(urls):
 if __name__ == "__main__":  
     # 定义多个URL  
     urls = [
-         'https://raw.githubusercontent.com/mijaduniyahiladungi32/Testtt/1ca08a0f7153c7e7d986c1272f5e286d664ac281/av',
-        #'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/temp1.txt',
-         'https://raw.githubusercontent.com/zyxusan/IPTV/refs/heads/main/%E5%BD%A9%E8%99%B9%E9%9B%BB%E5%BD%B1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
-       # 'https://raw.githubusercontent.com/dlgt7/TVbox-interface/ddd11b8e92de6c5e162498c8dbad3d7f46e57974/1234.txt',
-       # 'https://raw.githubusercontent.com/dlgt7/TVbox-interface/refs/heads/main/%E5%A6%82%E6%AD%A4%E8%82%BE%E5%A5%BD.txt',
-       # 'https://raw.githubusercontent.com/Gsl201600/Live/refs/heads/main/Mix.txt',
-        #'https://qu.ax/HtMB.txt',
-        #'https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt',  
-        #'https://raw.githubusercontent.com/SSM0415/apptest/refs/heads/main/TVbox2livefomi243.txt',
-        #'https://raw.githubusercontent.com/alenin-zhang/IPTV/4e8e4812168164ea11acc0617b814a7948b632f5/av',
-        #'https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/%E7%8F%8D%E8%97%8F.m3u',
-        #'https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18%2B.txt',
     ]  
   
     fetch_and_replace(urls)
