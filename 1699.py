@@ -88,6 +88,7 @@ def main():
     
     # 定义要处理的URL列表
     urls = [
+        "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Spain/LiveTV.json",
         "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/China/LiveTV.json",
         # 可以添加更多URL
         # "https://example.com/data1.json",
