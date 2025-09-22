@@ -12,6 +12,7 @@ from urllib.parse import urljoin
 import os
 import sys
 import subprocess
+import argparse
 
 # --- 统一管理版本信息 ---
 APP_VERSION = "1.0"
@@ -20,10 +21,14 @@ APP_TITLE = f"电视直播源检测工具 V{APP_VERSION}"
 
 
 class StreamCheckerApp:
-    def __init__(self, root):
-        self.root = root
-        self.root.title(APP_TITLE)
-        self.root.geometry("1200x800")
+    def __init__(self, root=None, headless=False):
+        self.headless = headless
+        if not headless:
+            self.root = root
+            self.root.title(APP_TITLE)
+            self.root.geometry("1200x800")
+        else:
+            self.root = None
 
         # --- 设置输入输出文件路径 ---
         self.input_file = "TMP/169.txt"
@@ -37,31 +42,31 @@ class StreamCheckerApp:
             # 如果文件不存在，创建空文件
             with open(self.input_file, 'w', encoding='utf-8') as f:
                 f.write("# 请在此文件中添加直播源，每行一个URL\n")
-            messagebox.showinfo("提示", f"输入文件 {self.input_file} 已创建，请添加直播源后重新运行程序")
+            if not headless:
+                messagebox.showinfo("提示", f"输入文件 {self.input_file} 已创建，请添加直播源后重新运行程序")
 
         # --- 变量 ---
-        self.file_path = tk.StringVar(value=self.input_file)
-        self.export_dir = tk.StringVar(value="TMP")
-        self.source_file_basename = tk.StringVar(value="169")
-        self.timeout, self.max_threads = tk.IntVar(value=8), tk.IntVar(value=30)
+        self.file_path = tk.StringVar(value=self.input_file) if not headless else None
+        self.export_dir = tk.StringVar(value="TMP") if not headless else None
+        self.source_file_basename = tk.StringVar(value="169") if not headless else None
+        self.timeout, self.max_threads = 8, 30
         # 默认开启的选项
-        self.use_deep_check, self.run_speed_test = tk.BooleanVar(value=True), tk.BooleanVar(value=False)
-        self.status_message = tk.StringVar()
-        self.total_links, self.checked_links = tk.IntVar(value=0), tk.IntVar(value=0)
-        self.valid_links, self.invalid_links = tk.IntVar(value=0), tk.IntVar(value=0)
+        self.use_deep_check, self.run_speed_test = True, False
+        self.status_message = tk.StringVar() if not headless else None
+        self.total_links, self.checked_links = 0, 0
+        self.valid_links, self.invalid_links = 0, 0
         self.links_to_check, self.last_export_path = [], None
         self.is_running, self.stop_requested, self.executor = False, False, None
         self.result_queue = queue.Queue()
-        self.sort_state = {
-            "all": {"col": "原始序号", "rev": False},
-            "valid": {"col": "原始序号", "rev": False},
-            "invalid": {"col": "原始序号", "rev": False},
-        }
+        self.valid_results = []
+        self.invalid_results = []
 
-        self.create_widgets()
-        self.root.protocol("WM_DELETE_WINDOW", self.on_closing)
+        if not headless:
+            self.create_widgets()
+            self.root.protocol("WM_DELETE_WINDOW", self.on_closing)
 
     def create_widgets(self):
+        """创建GUI界面"""
         main_frame = ttk.Frame(self.root, padding="10")
         main_frame.pack(fill=BOTH, expand=True)
         
@@ -82,13 +87,13 @@ class StreamCheckerApp:
         
         ttk.Label(config_frame, text="超时(秒):").grid(row=2, column=0, padx=5, pady=5, sticky=W)
         self.timeout_spinbox = ttk.Spinbox(
-            config_frame, from_=1, to=60, textvariable=self.timeout, width=8
+            config_frame, from_=1, to=60, textvariable=tk.IntVar(value=self.timeout), width=8
         )
         self.timeout_spinbox.grid(row=2, column=1, padx=5, pady=5, sticky=W)
         
         ttk.Label(config_frame, text="线程数:").grid(row=2, column=2, padx=(10, 5), pady=5, sticky=W)
         self.threads_spinbox = ttk.Spinbox(
-            config_frame, from_=1, to=100, textvariable=self.max_threads, width=8
+            config_frame, from_=1, to=100, textvariable=tk.IntVar(value=self.max_threads), width=8
         )
         self.threads_spinbox.grid(row=2, column=3, padx=5, pady=5, sticky=W)
         
@@ -98,7 +103,7 @@ class StreamCheckerApp:
         self.deep_check_btn = ttk.Checkbutton(
             check_options_frame,
             text="深度检测",
-            variable=self.use_deep_check,
+            variable=tk.BooleanVar(value=self.use_deep_check),
             style="primary.Roundtoggle.Toolbutton",
         )
         self.deep_check_btn.pack(side=LEFT, padx=(0, 5))
@@ -106,7 +111,7 @@ class StreamCheckerApp:
         self.speed_test_btn = ttk.Checkbutton(
             check_options_frame,
             text="速度测试(慢)",
-            variable=self.run_speed_test,
+            variable=tk.BooleanVar(value=self.run_speed_test),
             style="success.Roundtoggle.Toolbutton",
         )
         self.speed_test_btn.pack(side=LEFT)
@@ -166,20 +171,20 @@ class StreamCheckerApp:
         stats_inner_frame.grid(row=1, column=0, columnspan=4, sticky=E)
         
         ttk.Label(stats_inner_frame, text="总数:").pack(side=LEFT, padx=(0, 2))
-        ttk.Label(stats_inner_frame, textvariable=self.total_links).pack(side=LEFT, padx=(0, 10))
+        self.total_label = ttk.Label(stats_inner_frame, text="0")
+        self.total_label.pack(side=LEFT, padx=(0, 10))
         
         ttk.Label(stats_inner_frame, text="已检:").pack(side=LEFT, padx=(0, 2))
-        ttk.Label(stats_inner_frame, textvariable=self.checked_links).pack(side=LEFT, padx=(0, 10))
+        self.checked_label = ttk.Label(stats_inner_frame, text="0")
+        self.checked_label.pack(side=LEFT, padx=(0, 10))
         
         ttk.Label(stats_inner_frame, text="有效:").pack(side=LEFT, padx=(0, 2))
-        ttk.Label(
-            stats_inner_frame, textvariable=self.valid_links, foreground="green"
-        ).pack(side=LEFT, padx=(0, 10))
+        self.valid_label = ttk.Label(stats_inner_frame, text="0", foreground="green")
+        self.valid_label.pack(side=LEFT, padx=(0, 10))
         
         ttk.Label(stats_inner_frame, text="无效:").pack(side=LEFT, padx=(0, 2))
-        ttk.Label(
-            stats_inner_frame, textvariable=self.invalid_links, foreground="red"
-        ).pack(side=LEFT)
+        self.invalid_label = ttk.Label(stats_inner_frame, text="0", foreground="red")
+        self.invalid_label.pack(side=LEFT)
         
         self.export_path_label = ttk.Label(
             status_frame, text="", style="info", cursor="hand2"
@@ -202,6 +207,7 @@ class StreamCheckerApp:
         self.create_result_tab("invalid", "无效源")
 
     def create_result_tab(self, name, text):
+        """创建结果标签页"""
         tab = ttk.Frame(self.notebook, padding=5)
         self.notebook.add(tab, text=text)
         cols = ("原始序号", "频道名称", "URL", "状态", "延迟(ms)", "速度(KB/s)", "信息")
@@ -240,138 +246,96 @@ class StreamCheckerApp:
         tree.tag_configure("valid", foreground="green")
         tree.tag_configure("invalid", foreground="red")
 
-    def select_all_items(self, tree):
-        tree.selection_set(tree.get_children())
-        return "break"
+    def run_headless(self):
+        """无头模式运行"""
+        print(f"开始检测直播源...")
+        print(f"输入文件: {self.input_file}")
+        print(f"输出文件: {self.output_file}")
+        print(f"超时时间: {self.timeout}秒")
+        print(f"线程数: {self.max_threads}")
+        print(f"深度检测: {'开启' if self.use_deep_check else '关闭'}")
+        print("-" * 50)
+        
+        self.links_to_check = self.parse_file()
+        if not self.links_to_check:
+            print("错误: 没有找到可检测的直播源")
+            return False
+            
+        self.total_links = len(self.links_to_check)
+        print(f"找到 {self.total_links} 个直播源")
+        
+        # 开始检测
+        self.is_running = True
+        self.submit_tasks_headless()
+        
+        # 处理结果
+        while self.checked_links < self.total_links and not self.stop_requested:
+            self.process_queue_headless()
+            time.sleep(0.1)
+            
+        # 导出结果
+        self.export_results_headless()
+        
+        print("-" * 50)
+        print(f"检测完成!")
+        print(f"总数: {self.total_links}")
+        print(f"有效: {self.valid_links}")
+        print(f"无效: {self.invalid_links}")
+        print(f"结果已保存到: {self.output_file}")
+        
+        return True
 
-    def show_context_menu(self, event, tree):
-        clicked_item = tree.identify_row(event.y)
-        if not clicked_item:
-            return
+    def submit_tasks_headless(self):
+        """无头模式提交任务"""
+        check_function = self.check_url_deep if self.use_deep_check else self.check_url_simple
+        
+        with ThreadPoolExecutor(max_workers=self.max_threads) as executor:
+            for index, link_info in enumerate(self.links_to_check):
+                if self.stop_requested:
+                    break
+                executor.submit(
+                    check_function,
+                    index,
+                    link_info,
+                    self.timeout,
+                    self.run_speed_test,
+                )
 
-        selected_items = tree.selection()
-        num_selected = len(selected_items)
-
-        if clicked_item not in selected_items:
-            tree.selection_set(clicked_item)
-            selected_items = tree.selection()
-            num_selected = 1
-
-        context_menu = tk.Menu(tree, tearoff=0)
-
-        if num_selected <= 1:
-            context_menu.add_command(
-                label="复制 URL", command=lambda: self.copy_cell_value(tree, "URL")
-            )
-            context_menu.add_command(
-                label="复制 频道名称",
-                command=lambda: self.copy_cell_value(tree, "频道名称"),
-            )
-            context_menu.add_separator()
-            context_menu.add_command(
-                label="复制 整行数据", command=lambda: self.copy_cell_value(tree, None)
-            )
-        else:
-            context_menu.add_command(
-                label=f"复制 {num_selected} 个 URL (每行一个)",
-                command=lambda: self.copy_multiple_values(tree, "URL"),
-            )
-            context_menu.add_command(
-                label=f"复制 {num_selected} 个 频道名称",
-                command=lambda: self.copy_multiple_values(tree, "频道名称"),
-            )
-            context_menu.add_separator()
-            context_menu.add_command(
-                label=f"复制 {num_selected} 行的全部数据",
-                command=lambda: self.copy_multiple_values(tree, None),
-            )
-
-        context_menu.post(event.x_root, event.y_root)
-
-    def copy_cell_value(self, tree, column_name):
-        selected_items = tree.selection()
-        if not selected_items:
-            return
-        item_id = selected_items[0]
-        all_values = tree.item(item_id, "values")
-
-        if column_name is None:
-            text_to_copy = ", ".join(map(str, all_values))
-            message = "整行数据已复制到剪贴板"
-        else:
-            try:
-                col_index = tree["columns"].index(column_name)
-                text_to_copy = all_values[col_index]
-                message = f"{column_name} 已复制到剪贴板"
-            except (ValueError, IndexError):
-                self.set_status_message("错误：找不到指定的列", error=True)
-                return
-
-        self.root.clipboard_clear()
-        self.root.clipboard_append(text_to_copy)
-        self.set_status_message(message)
-
-    def copy_multiple_values(self, tree, column_name):
-        selected_items = tree.selection()
-        if not selected_items:
-            return
-
-        data_to_copy = []
+    def process_queue_headless(self):
+        """无头模式处理队列"""
         try:
-            col_index = tree["columns"].index(column_name) if column_name else -1
-            for item_id in selected_items:
-                all_values = tree.item(item_id, "values")
-                if column_name is None:
-                    data_to_copy.append(", ".join(map(str, all_values)))
+            while not self.result_queue.empty():
+                result = self.result_queue.get_nowait()
+                self.checked_links += 1
+                
+                # 更新进度显示
+                progress = (self.checked_links / self.total_links) * 100
+                print(f"\r进度: {progress:.1f}% [{self.checked_links}/{self.total_links}] - 有效: {self.valid_links} 无效: {self.invalid_links}", end="")
+                
+                if result["status"] == "有效":
+                    self.valid_links += 1
+                    self.valid_results.append(result)
                 else:
-                    data_to_copy.append(all_values[col_index])
+                    self.invalid_links += 1
+                    self.invalid_results.append(result)
+                    
+        except queue.Empty:
+            pass
 
-            text_to_copy = "\n".join(data_to_copy)
-            self.root.clipboard_clear()
-            self.root.clipboard_append(text_to_copy)
-
-            noun = "行数据" if column_name is None else column_name
-            self.set_status_message(f"已复制 {len(data_to_copy)} 个 {noun} 到剪贴板")
-
-        except (ValueError, IndexError):
-            self.set_status_message("错误：处理批量复制时出错", error=True)
-
-    def set_status_message(self, message, error=False, duration=3000):
-        self.status_message.set(message)
-        self.status_label.config(bootstyle="danger" if error else "primary")
-        self.root.after(duration, lambda: self.status_message.set(""))
-
-    def sort_treeview_column(self, tv, col, tree_name):
-        sort_info = self.sort_state[tree_name]
-        reverse = not sort_info["rev"] if col == sort_info["col"] else False
-        sort_info["col"] = col
-        sort_info["rev"] = reverse
-        l = [(tv.set(k, col), k) for k in tv.get_children("")]
-
-        def safe_float_convert(s):
-            try:
-                return float(s)
-            except (ValueError, TypeError):
-                return -1
-
-        if col in ("原始序号", "延迟(ms)", "速度(KB/s)"):
-            l.sort(key=lambda t: safe_float_convert(t[0]), reverse=reverse)
-        else:
-            l.sort(key=lambda t: str(t[0]).lower(), reverse=reverse)
-        for index, (val, k) in enumerate(l):
-            tv.move(k, "", index)
-
-    def toggle_theme(self):
-        current_theme = self.root.style.theme_use()
-        if current_theme == "litera":
-            self.root.style.theme_use("darkly")
-        else:
-            self.root.style.theme_use("litera")
+    def export_results_headless(self):
+        """无头模式导出结果"""
+        try:
+            with open(self.output_file, "w", encoding="utf-8") as f:
+                for result in self.valid_results:
+                    f.write(f"{result['url']}\n")
+            print(f"\n已导出 {len(self.valid_results)} 个有效直播源到 {self.output_file}")
+        except Exception as e:
+            print(f"导出失败: {e}")
 
     def parse_file(self):
         """解析输入文件，支持多种格式"""
         if not os.path.exists(self.input_file):
-            self.set_status_message(f"错误：输入文件 {self.input_file} 不存在", error=True)
+            print(f"错误：输入文件 {self.input_file} 不存在")
             return []
             
         links = []
@@ -396,96 +360,10 @@ class StreamCheckerApp:
                     links.append({"name": name, "url": url})
                     
         except Exception as e:
-            messagebox.showerror("文件读取错误", f"解析文件时出错: {e}")
+            print(f"文件读取错误: {e}")
             return []
             
         return links
-
-    def start_checking(self):
-        """开始检测"""
-        self.links_to_check = self.parse_file()
-        if not self.links_to_check:
-            self.set_status_message("没有找到可检测的直播源", error=True)
-            return
-            
-        self.is_running, self.stop_requested = True, False
-        self.toggle_controls(True)
-        self.reset_ui()
-        self.total_links.set(len(self.links_to_check))
-        self.progress_bar["maximum"] = len(self.links_to_check)
-        
-        self.set_status_message(f"开始检测 {len(self.links_to_check)} 个直播源...")
-        threading.Thread(target=self.submit_tasks, daemon=True).start()
-        self.root.after(100, self.process_queue)
-
-    def submit_tasks(self):
-        """提交检测任务到线程池"""
-        check_function = (
-            self.check_url_deep if self.use_deep_check.get() else self.check_url_simple
-        )
-        with ThreadPoolExecutor(max_workers=self.max_threads.get()) as executor:
-            self.executor = executor
-            for index, link_info in enumerate(self.links_to_check):
-                if self.stop_requested:
-                    break
-                executor.submit(
-                    check_function,
-                    index,
-                    link_info,
-                    self.timeout.get(),
-                    self.run_speed_test.get(),
-                )
-
-    def stop_checking(self):
-        """停止检测"""
-        if not self.is_running:
-            return
-        self.stop_requested = True
-        if self.executor:
-            self.executor.shutdown(wait=False, cancel_futures=True)
-        self.is_running = False
-        self.toggle_controls(False)
-        self.set_status_message("检测已停止")
-        self.root.title(APP_TITLE)
-
-    def toggle_controls(self, is_checking):
-        """切换控件状态"""
-        state = DISABLED if is_checking else NORMAL
-        for widget in [
-            self.start_button,
-            self.timeout_spinbox,
-            self.threads_spinbox,
-            self.deep_check_btn,
-            self.speed_test_btn,
-        ]:
-            widget.config(state=state)
-        self.stop_button.config(state=NORMAL if is_checking else DISABLED)
-
-    def reset_ui(self):
-        """重置UI状态"""
-        self.checked_links.set(0)
-        self.valid_links.set(0)
-        self.invalid_links.set(0)
-        self.progress_bar["value"] = 0
-        self.root.title(f"{APP_TITLE} - 检测中...")
-        
-        for name in ["all", "valid", "invalid"]:
-            tree = getattr(self, f"tree_{name}")
-            for item in tree.get_children():
-                tree.delete(item)
-            self.sort_state[name] = {"col": "原始序号", "rev": False}
-
-    def _create_result_dict(self, index, link_info):
-        """创建结果字典"""
-        return {
-            "index": index + 1,
-            "name": link_info["name"],
-            "url": link_info["url"],
-            "status": "无效",
-            "latency": "-",
-            "speed": "-",
-            "details": "",
-        }
 
     def check_url_simple(self, index, link_info, timeout, run_speed_test):
         """简单检测模式"""
@@ -563,107 +441,56 @@ class StreamCheckerApp:
         if not self.stop_requested:
             self.result_queue.put(result)
 
-    def process_queue(self):
-        """处理结果队列"""
-        try:
-            while not self.result_queue.empty():
-                result = self.result_queue.get_nowait()
-                self.checked_links.set(self.checked_links.get() + 1)
-                
-                values = (
-                    result["index"],
-                    result["name"],
-                    result["url"],
-                    result["status"],
-                    result["latency"],
-                    result["speed"],
-                    result["details"],
-                )
-                
-                tag = "invalid"
-                if result["status"] == "有效":
-                    self.valid_links.set(self.valid_links.get() + 1)
-                    tag = "valid"
-                    self.tree_valid.insert("", END, values=values, tags=(tag,))
-                else:
-                    self.invalid_links.set(self.invalid_links.get() + 1)
-                    self.tree_invalid.insert("", END, values=values, tags=(tag,))
-                    
-                self.tree_all.insert("", END, values=values, tags=(tag,))
-                self.progress_bar["value"] = self.checked_links.get()
-                
-        except queue.Empty:
-            pass
-        finally:
-            if self.is_running and not self.stop_requested:
-                if self.checked_links.get() == self.total_links.get():
-                    self.is_running = False
-                    self.toggle_controls(False)
-                    self.export_button.config(state=NORMAL)
-                    self.root.title(APP_TITLE)
-                    
-                    # 自动导出结果
-                    self.export_results()
-                    
-                    messagebox.showinfo(
-                        "完成",
-                        f"检测完成！\n有效: {self.valid_links.get()}\n无效: {self.invalid_links.get()}\n结果已保存到 {self.output_file}"
-                    )
-                else:
-                    self.root.after(100, self.process_queue)
+    def _create_result_dict(self, index, link_info):
+        """创建结果字典"""
+        return {
+            "index": index + 1,
+            "name": link_info["name"],
+            "url": link_info["url"],
+            "status": "无效",
+            "latency": "-",
+            "speed": "-",
+            "details": "",
+        }
 
-    def export_results(self):
-        """导出有效结果到文件"""
+
+def main():
+    """主函数"""
+    parser = argparse.ArgumentParser(description='电视直播源检测工具')
+    parser.add_argument('--headless', action='store_true', help='无头模式运行')
+    parser.add_argument('--input', type=str, default='TMP/169.txt', help='输入文件路径')
+    parser.add_argument('--output', type=str, default='TMP/1699.txt', help='输出文件路径')
+    parser.add_argument('--timeout', type=int, default=8, help='超时时间(秒)')
+    parser.add_argument('--threads', type=int, default=30, help='线程数')
+    parser.add_argument('--deep', action='store_true', help='启用深度检测')
+    parser.add_argument('--speed', action='store_true', help='启用速度测试')
+    
+    args = parser.parse_args()
+    
+    if args.headless:
+        # 无头模式运行
+        app = StreamCheckerApp(headless=True)
+        app.input_file = args.input
+        app.output_file = args.output
+        app.timeout = args.timeout
+        app.max_threads = args.threads
+        app.use_deep_check = args.deep
+        app.run_speed_test = args.speed
+        
+        success = app.run_headless()
+        return 0 if success else 1
+    else:
+        # GUI模式运行
         try:
-            valid_items = self.tree_valid.get_children()
-            if not valid_items:
-                self.set_status_message("没有有效结果可导出", error=True)
-                return
-                
-            with open(self.output_file, "w", encoding="utf-8") as f:
-                for item in valid_items:
-                    values = self.tree_valid.item(item, "values")
-                    f.write(f"{values[2]}\n")  # 只写入URL
-                    
-            self.last_export_path = os.path.dirname(self.output_file)
-            self.export_path_label.config(text=f"导出位置: {self.output_file}")
-            self.set_status_message(f"已导出 {len(valid_items)} 个有效直播源")
-            
+            root = ttk.Window(themename="litera")
+            app = StreamCheckerApp(root)
+            root.mainloop()
+            return 0
         except Exception as e:
-            messagebox.showerror("导出失败", f"导出文件时出错: {e}")
-
-    def open_export_folder(self, event=None):
-        """打开导出文件夹"""
-        if not os.path.exists(self.output_file):
-            messagebox.showwarning("提示", "输出文件不存在，请先完成检测。")
-            return
-            
-        folder_path = os.path.dirname(os.path.abspath(self.output_file))
-        try:
-            if sys.platform == "win32":
-                os.startfile(folder_path)
-            elif sys.platform == "darwin":
-                subprocess.run(["open", folder_path])
-            else:
-                subprocess.run(["xdg-open", folder_path])
-        except Exception as e:
-            messagebox.showerror(
-                "打开失败",
-                f"无法自动打开文件夹，请手动访问：\n{folder_path}\n错误: {e}",
-            )
-
-    def on_closing(self):
-        """关闭窗口时的处理"""
-        if self.is_running and messagebox.askyesno(
-            "退出", "检测正在进行中，确定要退出吗？"
-        ):
-            self.stop_checking()
-            self.root.destroy()
-        elif not self.is_running:
-            self.root.destroy()
+            print(f"GUI模式启动失败: {e}")
+            print("尝试使用 --headless 参数运行无头模式")
+            return 1
 
 
 if __name__ == "__main__":
-    root = ttk.Window(themename="litera")
-    app = StreamCheckerApp(root)
-    root.mainloop()
+    sys.exit(main())
