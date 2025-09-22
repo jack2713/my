@@ -9809,8 +9809,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CCTV5,https://cc06.tv12.xyz/5.m3u8
-CCTV17,https://cc06.tv12.xyz/17.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 CCTV女性时尚,https://cc06.tv12.xyz/95.m3u8
 CCTV怀旧剧场,https://cc06.tv12.xyz/52.m3u8
@@ -10608,7 +10606,7 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-湖州文化娱乐,https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+湖州新闻综合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 溧水新闻综合,https://mgtv.ottiptv.cc/migu/639737327.m3u8?migutoken=4c07b7afe94ad06d114a6bccae5747804d493ab7b1100069e485b78d3cb91c0fb0dbd92aa90a6157d7066e5b90780fabf5e150e17ebb9bc72b8bb18f43c5acddd1c0fd4d1904a99210aa962135
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
@@ -10770,7 +10768,7 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
 Redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-NFL RedZone,http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3752.ts
+NFL RedZone,https://tvpass.org/live/NFLRedZone/hd
 PBS HD,http://panelguys.top:8080/txd7Fd/030774/57276
 Cheddar News,https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
 HollyWire,https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
@@ -10831,7 +10829,7 @@ MUTV,http://panelguys.top:8080/txd7Fd/030774/53717
 NICKELODEON,http://panelguys.top:8080/txd7Fd/030774/53728
 Willow Cricket,http://panelguys.top:8080/txd7Fd/030774/41979
 World Poker,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u
-Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
+Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 Lifetime Movies,http://panelguys.top:8080/txd7Fd/030774/20863
 WWE Network,http://panelguys.top:8080/txd7Fd/030774/11645
 Bally Sports Southwest,http://panelguys.top:8080/txd7Fd/030774/21843
@@ -10907,15 +10905,16 @@ AMC Thrillers,http://panelguys.top:8080/txd7Fd/030774/66243
 Showtime Showcase,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
 Showtime Extreme,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
 Showtime Next,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
-中华小当家,https://live.iill.top/huya/11342413
+TNT Sports 1,https://7pal.short.gy/tntspts1
+TNT Sports 2,https://7pal.short.gy/tntspts2
+TNT Sports 3,https://7pal.short.gy/tntspts3
+TNT Sports 4,https://7pal.short.gy/tntspts4
 海绵宝宝,https://live.metshop.top/douyu/3949681
-猫和老鼠,https://live.iill.top/huya/11352879
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-JJ斗地主,https://live.iill.top/douyin/685317364746
 漫画解说,https://www.goodiptv.club/douyu/5907076
 中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
@@ -10992,11 +10991,12 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-2025-09-22 12:26:55,https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4
+2025-09-22 18:26:55,https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4
 CCTV1,https://cc06.tv12.xyz/1.m3u8
 CCTV2,https://cc06.tv12.xyz/2.m3u8
 CCTV3,https://cc06.tv12.xyz/3.m3u8
 CCTV4,https://cc06.tv12.xyz/4.m3u8
+CCTV5,https://cc06.tv12.xyz/5.m3u8
 CCTV5+,https://cc06.tv12.xyz/6.m3u8
 CCTV6,https://cc06.tv12.xyz/7.m3u8
 CCTV7,https://cc06.tv12.xyz/8.m3u8
@@ -11008,6 +11008,7 @@ CCTV12,https://cc06.tv12.xyz/13.m3u8
 CCTV13,https://cc06.tv12.xyz/14.m3u8
 CCTV14,https://cc06.tv12.xyz/15.m3u8
 CCTV15,https://cc06.tv12.xyz/16.m3u8
+CCTV17,https://cc06.tv12.xyz/17.m3u8
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
