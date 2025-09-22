@@ -35,6 +35,7 @@ jobs:
     # 4. 运行 Python 脚本
     - name: Run script
       run: |
+        python TMP/m3utotxtnew.py
         python fetch_streams.py
 
     # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
