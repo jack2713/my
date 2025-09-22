@@ -35,7 +35,7 @@ jobs:
     # 4. 运行 Python 脚本
     - name: Run script
       run: |
-        python TMP/check.py
+        python TMP/check.py --headless --timeout 5 --threads 50
 
     # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
     - name: List files in workspace
