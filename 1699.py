@@ -53,7 +53,7 @@ class JSONParser:
     def save_to_file(self, data: List[Dict[str, str]]):
         """将数据保存到文件"""
         try:
-            notice = "注意事项,#genre#\n"
+            notice = "乱七八糟,#genre#\n"
             with open(self.output_file, 'w', encoding='utf-8') as f:
                 f.write(notice)
                 for item in data:
