@@ -1,4 +1,3 @@
-
 name: sync myb
 
 # 触发条件
@@ -32,35 +31,50 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas requests
 
-    # 4. 运行 Python 脚本
-    - name: Run script
+    # 5. 运行第一个 Python 脚本 (m3utotxtnew.py)
+    - name: Run m3utotxtnew.py script
       run: |
-        python fetch_streams.py
+        python TMP/m3utotxtnew.py
 
-    # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
-    - name: List files in workspace
-      run: ls -la
+    # 6. 检查第一个脚本的输出文件
+    - name: Check TMP1.txt file
+      run: |
+        if [ -f "TMP/TMP1.txt" ]; then
+          echo "TMP1.txt exists"
+          ls -la TMP/TMP1.txt
+        else
+          echo "TMP1.txt does not exist"
+          ls -la TMP/
+        fi
 
-    # 6. 检查 Git 状态，确保文件已经被添加
-    - name: Git status
-      run: git status
-
-    # 7. 配置 Git 信息
-    - name: Configure Git
+    # 7. 提交第一个脚本的结果
+    - name: Commit TMP1.txt changes
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
+        git add $(pwd)/TMP/TMP1.txt
+        git commit -m "Update TMP/TMP1.txt with m3utotxtnew.py results" || echo "No changes to TMP1.txt"
+        git push origin HEAD:main
 
-    # 8. 提交并推送文件到项目仓库
-    - name: Commit and Push changes
+    # 8. 运行第二个 Python 脚本 (fetch_streams.py)
+    - name: Run fetch_streams.py script
       run: |
-        git add $(pwd)/myq.txt  # 使用绝对路径确保路径正确
-        git commit -m "Update final_streams.txt with new streams" --allow-empty
-        git push origin HEAD:main  # 如果使用的是其他分支，请修改
+        python fetch_streams.py
 
-    # 9. 上传输出文件作为 GitHub Action 的工件 (artifact)
-    - name: Upload streams file
+    # 10. 提交第二个脚本的结果
+    - name: Commit myq.txt changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add $(pwd)/myq.txt
+        git commit -m "Update myq.txt with fetch_streams.py results" || echo "No changes to myq.txt"
+        git push origin HEAD:main
+
+    # 11. 上传输出文件作为工件
+    - name: Upload output files as artifacts
       uses: actions/upload-artifact@v4
       with:
-        name: final_streams
-        path: final_streams.txt
+        name: processed-files
+        path: |
+          myq.txt
+          TMP/TMP1.txt
