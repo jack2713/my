@@ -1,6 +1,6 @@
 
 
-name: m3utotxtnew
+name: worldm3utxt
 
 # 触发条件
 on:
@@ -36,7 +36,7 @@ jobs:
     # 4. 运行 Python 脚本
     - name: Run script
       run: |
-        python TMP/m3utotxtnew.py
+        python TMP/worldm3utxt.py
 
     # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
     - name: List files in workspace
@@ -55,7 +55,7 @@ jobs:
     # 8. 提交并推送文件到项目仓库
     - name: Commit and Push changes
       run: |
-        git add $(pwd)/TMP/TMP1.txt  # 使用绝对路径确保路径正确
+        git add $(pwd)/TMP/1699.txt  # 使用绝对路径确保路径正确
         git commit -m "Update TMP with new streams" --allow-empty
         git push origin HEAD:main  # 如果使用的是其他分支，请修改
 
@@ -63,5 +63,5 @@ jobs:
     - name: Upload streams file
       uses: actions/upload-artifact@v4
       with:
-        name: TMP1
-        path: TMP/TMP1.txt
+        name: 1699
+        path: TMP/1699.txt
