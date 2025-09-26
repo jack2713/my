@@ -10125,9 +10125,9 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 港台电视31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 港台电视32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
-ELEVEN体育1,https://smart.pendy.dpdns.org/Smart.php?id=eltasport1_twn
-ELEVEN体育2,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-ELEVEN体育3,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+ELEVEN体育1,https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--wj-1.ctv
+ELEVEN体育2,https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
+ELEVEN体育3,https://stream1.freetv.fun/eltaai-er-da-ti-yu--3--wj-1.ctv
 鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
@@ -10560,6 +10560,7 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 内蒙经济,https://ls.qingting.fm/live/1885/64k.m3u8
+北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 北海新闻综合,https://live.gxrb.com.cn/gx/beihai/index.m3u8
 南京十八,https://mgtv.ottiptv.cc/migu/838151753.m3u8?migutoken=e1c3c9e2e67541d90ea94c4c917f96ecf43c6c0ae7c616929d8676e7c14bc5587ba870ce22575333640bfff61b05d4d468f6564c6251023f1ad20957cfe3b2c12e71b4662f83dce5d920a86c29
@@ -10586,6 +10587,7 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
+无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
@@ -10771,10 +10773,10 @@ RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
 Redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 NFL RedZone,https://tvpass.org/live/NFLRedZone/hd
-PBS HD,http://panelguys.top:8080/txd7Fd/030774/57276
 Cheddar News,https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
 HollyWire,https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
 MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+PBS HD,http://panelguys.top:8080/txd7Fd/030774/57276
 Fox News,http://panelguys.top:8080/txd7Fd/030774/1818
 NEWS 12,http://panelguys.top:8080/qcFA9B/963626/167741
 NBA TV,http://panelguys.top:8080/txd7Fd/030774/22995
@@ -10912,14 +10914,28 @@ TNT Sports 1,https://7pal.short.gy/tntspts1
 TNT Sports 2,https://7pal.short.gy/tntspts2
 TNT Sports 3,https://7pal.short.gy/tntspts3
 TNT Sports 4,https://7pal.short.gy/tntspts4
-中华小当家,https://live.metshop.top/huya/11342413
+Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+Mytime Movie,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+Entertainment Hub,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthub-samsungau/playlist.m3u8
+Pulse,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+Tastemade,https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
+Travel XP,https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+PowerNation,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationau-samsungau/playlist.m3u8
+Trace Urban,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+CINEVAULT,https://967d9da6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ2luZXZhdWx0X0hMUw/playlist.m3u8
+INWILD,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+INFAST,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+PBS Kids,https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
+Kartoon Channel,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+History Hit,https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
+漫画解说,https://www.goodiptv.club/douyu/5907076
 中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 丽江古城万古楼遥望玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
@@ -10995,7 +11011,7 @@ TNT Sports 4,https://7pal.short.gy/tntspts4
 黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-2025-09-26 12:26:23,https://vd2.bdstatic.com/mda-rim3j38jdv015mh8/sc/cae_h264/1758541757473419093/mda-rim3j38jdv015mh8.mp4
+2025-09-26 18:26:56,https://vd2.bdstatic.com/mda-rim3j38jdv015mh8/sc/cae_h264/1758541757473419093/mda-rim3j38jdv015mh8.mp4
 CCTV1,https://cc06.tv12.xyz/1.m3u8
 CCTV2,https://cc06.tv12.xyz/2.m3u8
 CCTV3,https://cc06.tv12.xyz/3.m3u8
