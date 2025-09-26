@@ -5,7 +5,7 @@ from collections import defaultdict, OrderedDict
 
 # 文件 URL 列表
 urls = [
-  'https://raw.githubusercontent.com/Drewski2423/DrewLive/main/MergedPlaylist.m3u8',
+    'https://raw.githubusercontent.com/Drewski2423/DrewLive/main/MergedPlaylist.m3u8',
 ]
 
 def extract_channel_name(extinf_line):
@@ -28,9 +28,37 @@ def extract_channel_name(extinf_line):
     # 如果都失败，返回"未命名频道"
     return "未命名频道"
 
+def normalize_url(url):
+    """标准化URL，用于去重比较"""
+    # 移除URL末尾的斜杠和常见参数
+    url = url.strip()
+    # 可以在这里添加更多的URL标准化规则
+    return url
+
+def is_duplicate_channel(existing_channels, new_channel):
+    """检查是否为重复频道"""
+    new_url = normalize_url(new_channel['streaming_url'])
+    new_name = new_channel['channel_name'].strip().lower()
+    
+    for existing_channel in existing_channels:
+        existing_url = normalize_url(existing_channel['streaming_url'])
+        existing_name = existing_channel['channel_name'].strip().lower()
+        
+        # 如果URL相同，认为是重复频道
+        if new_url == existing_url:
+            return True
+        
+        # 如果频道名称非常相似且分组相同，也认为是重复
+        if (new_name == existing_name and 
+            new_channel.get('group_title', '').lower() == existing_channel.get('group_title', '').lower()):
+            return True
+    
+    return False
+
 # 使用OrderedDict保持分组顺序
 all_channels_dict = OrderedDict()
 group_order = []
+processed_urls = set()  # 用于记录已处理的URL，实现URL级别的去重
 
 for url in urls:
     try:
@@ -63,6 +91,13 @@ for url in urls:
                         i += 1
                 
                 if streaming_url:
+                    # URL级别的去重
+                    normalized_url = normalize_url(streaming_url)
+                    if normalized_url in processed_urls:
+                        i += 1
+                        continue
+                    processed_urls.add(normalized_url)
+                    
                     channel_name = extract_channel_name(line)
                     
                     # 处理分组
@@ -74,22 +109,38 @@ for url in urls:
                         group_title = f"{group_title}-联通"
                     
                     # 过滤内容
-                    if "成人" not in group_title and "直播中国" not in group_title and "列表更新" not in group_title:
+                    if ("成人" not in group_title and 
+                        "直播中国" not in group_title and 
+                        "列表更新" not in group_title):
+                        
                         # 记录分组出现的顺序
                         if group_title not in all_channels_dict:
                             all_channels_dict[group_title] = []
                             group_order.append(group_title)
                         
-                        all_channels_dict[group_title].append({
+                        channel_data = {
                             "channel_name": channel_name,
                             "tvg_logo": tvg_logo,
                             "streaming_url": streaming_url,
                             "line_index": i,
-                            "source_url": url  # 记录来源URL
-                        })
+                            "source_url": url,  # 记录来源URL
+                            "group_title": group_title  # 添加分组信息用于去重比较
+                        }
+                        
+                        # 频道级别的去重（在同一分组内）
+                        if not is_duplicate_channel(all_channels_dict[group_title], channel_data):
+                            all_channels_dict[group_title].append(channel_data)
             i += 1
     except Exception as e:
         print(f"处理URL {url} 时出错: {e}")
+
+# 统计信息
+total_channels = 0
+for group_title, channels in all_channels_dict.items():
+    total_channels += len(channels)
+    print(f"分组 '{group_title}' 有 {len(channels)} 个频道")
+
+print(f"总共处理了 {total_channels} 个频道")
 
 # 输出到文件
 output_file_path = "TMP/1699.txt"
@@ -108,3 +159,4 @@ with open(output_file_path, "w", encoding="utf-8") as output_file:
                 output_file.write("\n")
 
 print(f"提取完成,结果已保存到 {output_file_path}")
+print(f"最终保留了 {total_channels} 个不重复的频道")
