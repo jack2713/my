@@ -9959,7 +9959,6 @@ CCTV世界地理,https://cc06.tv12.xyz/104.m3u8
 CCTV女性时尚,https://cc06.tv12.xyz/95.m3u8
 CCTV怀旧剧场,https://cc06.tv12.xyz/52.m3u8
 CCTV风云足球,https://cc06.tv12.xyz/41.m3u8
-山东卫视,https://cc06.tv12.xyz/101.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 山东教育卫视,https://cc06.tv12.xyz/100.m3u8
 金鹰卡通,https://cc06.tv12.xyz/55.m3u8
@@ -10590,6 +10589,7 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 内蒙经济,https://ls.qingting.fm/live/1885/64k.m3u8
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+北海新闻综合,https://live.gxrb.com.cn/gx/beihai/index.m3u8
 南京十八,https://mgtv.ottiptv.cc/migu/838151753.m3u8?migutoken=e1c3c9e2e67541d90ea94c4c917f96ecf43c6c0ae7c616929d8676e7c14bc5587ba870ce22575333640bfff61b05d4d468f6564c6251023f1ad20957cfe3b2c12e71b4662f83dce5d920a86c29
 南京教科,https://mgtv.ottiptv.cc/migu/838153729.m3u8?migutoken=0427a8c0867765b66984ce8ef774d494eeb52a2d6a7eefe17c4b03fa30923700917323b8951caa30617f3eecc1db2844cdff2f7470556533fbc072ad7a7cb0c6284344cc57983294a2b26f4303
 南京新闻综合,https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=d3d943815e6d6e9e9493a9b4b1d5a1d360bb5f3c04230f6d4d71f7f7c9f30771d321f1c262008c92ffde17fef4a62d1e1c58d5a9454573fb1489994d9be29f4e1cc7786813b671581eda4b9439
@@ -10612,7 +10612,6 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
@@ -10637,13 +10636,13 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 湖州文化娱乐,https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
-湖州新闻综合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 溧水新闻综合,https://mgtv.ottiptv.cc/migu/639737327.m3u8?migutoken=4c07b7afe94ad06d114a6bccae5747804d493ab7b1100069e485b78d3cb91c0fb0dbd92aa90a6157d7066e5b90780fabf5e150e17ebb9bc72b8bb18f43c5acddd1c0fd4d1904a99210aa962135
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+秦安综合,https://play.kankanlive.com/live/1680577080200944.m3u8
 苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
@@ -10786,6 +10785,7 @@ NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+Sky News,https://jmp2.uk/stvp-USBB52000022Q
 LiveNow,https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 Euronews,https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
@@ -10798,148 +10798,17 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
 Redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-NFL RedZone,https://tvpass.org/live/NFLRedZone/hd
 Cheddar News,https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
 HollyWire,https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
 MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-PBS HD,http://panelguys.top:8080/txd7Fd/030774/57276
-Fox News,http://panelguys.top:8080/txd7Fd/030774/1818
-NEWS 12,http://panelguys.top:8080/qcFA9B/963626/167741
-NBA TV,http://panelguys.top:8080/txd7Fd/030774/22995
-Sportsnet East,http://panelguys.top:8080/txd7Fd/030774/41836
-YTV East,http://panelguys.top:8080/txd7Fd/030774/63850
-Animal Planet,http://panelguys.top:8080/txd7Fd/030774/57377
-Cartoon Network,http://panelguys.top:8080/txd7Fd/030774/57380
-CPAC,http://panelguys.top:8080/txd7Fd/030774/57402
-CRAVE 1 HD,http://panelguys.top:8080/txd7Fd/030774/57309
-CRAVE 2 HD,http://panelguys.top:8080/txd7Fd/030774/57310
-CRAVE 3 HD,http://panelguys.top:8080/txd7Fd/030774/57322
-CRAVE 4 HD,http://panelguys.top:8080/txd7Fd/030774/57311
-CTV Comedy Channel,http://panelguys.top:8080/txd7Fd/030774/57408
-CTV Drama Channel,http://panelguys.top:8080/txd7Fd/030774/57254
-CTV News Channel,http://panelguys.top:8080/txd7Fd/030774/57350
-Disney Junior,http://panelguys.top:8080/txd7Fd/030774/57349
-Food Network,http://panelguys.top:8080/txd7Fd/030774/57247
-FXX,http://panelguys.top:8080/txd7Fd/030774/57429
-Game Show Network,http://panelguys.top:8080/txd7Fd/030774/57430
-HGTV,http://panelguys.top:8080/txd7Fd/030774/57273
-MSNBC,http://panelguys.top:8080/txd7Fd/030774/47332
-NatGeo Wild,http://panelguys.top:8080/txd7Fd/030774/57280
-National Geographic,http://panelguys.top:8080/txd7Fd/030774/47339
-NFL NETWORK,http://panelguys.top:8080/txd7Fd/030774/47346
-OLN,http://panelguys.top:8080/txd7Fd/030774/57366
-OWN,http://panelguys.top:8080/txd7Fd/030774/57277
-Showcase,http://panelguys.top:8080/txd7Fd/030774/47366
-Slice TV,http://panelguys.top:8080/txd7Fd/030774/57274
-Smithsonian Channel,http://panelguys.top:8080/txd7Fd/030774/47369
-Sportsnet 360,http://panelguys.top:8080/txd7Fd/030774/57299
-Sportsnet East,http://panelguys.top:8080/txd7Fd/030774/57298
-Sportsnet One,http://panelguys.top:8080/txd7Fd/030774/47379
-Sportsnet Pacific,http://panelguys.top:8080/txd7Fd/030774/9860
-Sportsnet West,http://panelguys.top:8080/txd7Fd/030774/20975
-Sportsnet World,http://panelguys.top:8080/txd7Fd/030774/75675
-TSN 1,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7973
-TSN 2,http://panelguys.top:8080/txd7Fd/030774/16129
-TSN 3,http://panelguys.top:8080/txd7Fd/030774/47444
-TSN 4,http://panelguys.top:8080/txd7Fd/030774/66783
-TSN 5,http://cord-cutter.net:8080/live/JoanP@112/443@112/16131.ts
-Channel 5,http://panelguys.top:8080/txd7Fd/030774/53653
 Premier Sports 1,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2160/index.m3u8
-Discovery Channel,http://panelguys.top:8080/txd7Fd/030774/53684
-Discovery History,http://panelguys.top:8080/txd7Fd/030774/53694
-Discovery Family,http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-Discovery Life,http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-Discovery Science,http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
-Disney XD,http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-Film 4,http://panelguys.top:8080/txd7Fd/030774/53702
-H2,http://panelguys.top:8080/txd7Fd/030774/53692
-ITV2,http://panelguys.top:8080/txd7Fd/030774/53671
-ITV 3,http://panelguys.top:8080/txd7Fd/030774/53665
-ITV 4,http://cord-cutter.net:8080/23290078/13941299/53666
-MUTV,http://panelguys.top:8080/txd7Fd/030774/53717
-NICKELODEON,http://panelguys.top:8080/txd7Fd/030774/53728
-Willow Cricket,http://panelguys.top:8080/txd7Fd/030774/41979
 World Poker,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u
 Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-Lifetime Movies,http://panelguys.top:8080/txd7Fd/030774/20863
-WWE Network,http://panelguys.top:8080/txd7Fd/030774/11645
-Bally Sports Southwest,http://panelguys.top:8080/txd7Fd/030774/21843
-FanDuel Sports West,http://panelguys.top:8080/txd7Fd/030774/20932
-ESPN NEWS,http://panelguys.top:8080/txd7Fd/030774/17707
-FanDuel Sports Ohio,http://panelguys.top:8080/txd7Fd/030774/17752
-YES Network,http://panelguys.top:8080/txd7Fd/030774/57972
-UniMas,http://panelguys.top:8080/txd7Fd/030774/57969
-Univision,http://panelguys.top:8080/txd7Fd/030774/15336
-Spectrum SportsNet,http://panelguys.top:8080/txd7Fd/030774/20946
-StarMax,http://panelguys.top:8080/txd7Fd/030774/13381
-ABC,http://panelguys.top:8080/txd7Fd/030774/22990
-AMC,http://panelguys.top:8080/txd7Fd/030774/18925
-Bet Gospel,http://panelguys.top:8080/txd7Fd/030774/66080
-BET,http://panelguys.top:8080/txd7Fd/030774/13702
-Bravo,http://panelguys.top:8080/txd7Fd/030774/20859
-BUZZR,http://panelguys.top:8080/txd7Fd/030774/21896
-Cinemax,http://panelguys.top:8080/txd7Fd/030774/13380
-CMT,http://panelguys.top:8080/txd7Fd/030774/46706
-CNBC,http://panelguys.top:8080/txd7Fd/030774/9815
-Comet,http://panelguys.top:8080/txd7Fd/030774/66244
-Decades,http://panelguys.top:8080/txd7Fd/030774/20189
-Discovery Velocity,http://panelguys.top:8080/txd7Fd/030774/46212
-Magnolia Network,http://panelguys.top:8080/txd7Fd/030774/10503
-Epix Hits,http://panelguys.top:8080/txd7Fd/030774/12744
-ESPN 1,http://panelguys.top:8080/txd7Fd/030774/14197
-ESPN 2,http://panelguys.top:8080/txd7Fd/030774/2210
-Fox Business Network,http://panelguys.top:8080/txd7Fd/030774/17639
 SportsGrid,https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 BEIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-FX East,http://panelguys.top:8080/txd7Fd/030774/46690
-FXM,http://panelguys.top:8080/txd7Fd/030774/10260
-FYI,http://fl1.moveonjoy.com/FYI/index.m3u8
-DIY,http://fl1.moveonjoy.com/DIY/index.m3u8
-Grit TV,http://panelguys.top:8080/txd7Fd/030774/20861
-HGTV,http://panelguys.top:8080/txd7Fd/030774/46717
-History Channel,http://panelguys.top:8080/txd7Fd/030774/46724
-INSP,http://panelguys.top:8080/txd7Fd/030774/16262
-ION,http://panelguys.top:8080/txd7Fd/030774/9297
-Laff,http://panelguys.top:8080/txd7Fd/030774/17777
-Lifetime,http://panelguys.top:8080/txd7Fd/030774/46714
-More Max,http://panelguys.top:8080/txd7Fd/030774/17776
-MSG Plus,http://panelguys.top:8080/txd7Fd/030774/9276
-Nat Geo Wild East,http://panelguys.top:8080/txd7Fd/030774/11664
-One America News,http://panelguys.top:8080/txd7Fd/030774/21752
 Love Nature,https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8
-OWN,http://panelguys.top:8080/txd7Fd/030774/46698
-Oxygen,http://panelguys.top:8080/txd7Fd/030774/46695
-Paramount Network,http://panelguys.top:8080/txd7Fd/030774/46694
-PixL,http://panelguys.top:8080/txd7Fd/030774/21648
-TBN,http://panelguys.top:8080/txd7Fd/030774/21895
-TLC,http://panelguys.top:8080/txd7Fd/030774/47703
-TNT West,http://panelguys.top:8080/txd7Fd/030774/46688
-TNT East,http://panelguys.top:8080/txd7Fd/030774/10455
-TRUTV East,http://panelguys.top:8080/txd7Fd/030774/10224
-TV Land,http://panelguys.top:8080/txd7Fd/030774/46696
-VICELAND,http://panelguys.top:8080/txd7Fd/030774/46697
-Travel Channel,http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
-WeTV,http://fl1.moveonjoy.com/WE_TV/index.m3u8
-Tennis Channel,http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-TBS,http://fl1.moveonjoy.com/TBS/index.m3u8
-TCM,http://fl1.moveonjoy.com/TCM/index.m3u8
 Fashion Channel,http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 4K Travel,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
-HBO HD,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7968
-HBO Comedy,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17974
-HBO Signature,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17976
-HBO West,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17977
-HBO ZONE,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17978
-HBO East HD,http://panelguys.top:8080/txd7Fd/030774/46713
-HBO 2,http://panelguys.top:8080/txd7Fd/030774/57438
-AMC Thrillers,http://panelguys.top:8080/txd7Fd/030774/66243
-Showtime Showcase,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
-Showtime Extreme,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
-Showtime Next,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
-TNT Sports 1,https://7pal.short.gy/tntspts1
-TNT Sports 2,https://7pal.short.gy/tntspts2
-TNT Sports 3,https://7pal.short.gy/tntspts3
-TNT Sports 4,https://7pal.short.gy/tntspts4
 Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 Mytime Movie,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 Entertainment Hub,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthub-samsungau/playlist.m3u8
@@ -10956,7 +10825,6 @@ Kartoon Channel,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 History Hit,https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 中华小当家,https://live.metshop.top/huya/11342413
-海绵宝宝,https://live.metshop.top/douyu/3949681
 猫和老鼠,https://live.iill.top/huya/11352879
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
@@ -10964,7 +10832,8 @@ Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchan
 飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
+JJ斗地主,https://live.iill.top/douyin/685317364746
+漫画解说,https://www.goodiptv.club/douyu/5907076
 中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 丽江古城万古楼遥望玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
@@ -11048,6 +10917,7 @@ Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchan
 广东卫视,https://cc06.tv12.xyz/43.m3u8
 深圳卫视,https://cc06.tv12.xyz/108.m3u8
 湖北卫视,https://cc06.tv12.xyz/50.m3u8
+山东卫视,https://cc06.tv12.xyz/101.m3u8
 辽宁卫视,https://cc06.tv12.xyz/70.m3u8
 河北卫视,https://cc06.tv12.xyz/51.m3u8
 江西卫视,https://cc06.tv12.xyz/62.m3u8
