@@ -15,7 +15,6 @@ urls = [
     'https://sub.ottiptv.cc/douyuyqk.m3u',
     'https://sub.ottiptv.cc/huyayqk.m3u',
     'https://sub.ottiptv.cc/yylunbo.m3u',
-    'https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimaiqian&json=true',
     #'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/douyuyqk.m3u',
     #'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/huyayqk.m3u',
     #'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u',
