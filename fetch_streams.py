@@ -68,6 +68,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/dy.txt',
         'http://bxtv.3a.ink/live.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
+        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/dy01.txt',
         'http://rihou.cc:555/gggg.nzk',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',
         'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',
