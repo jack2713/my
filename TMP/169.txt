@@ -2346,9 +2346,12 @@ Canal Sur Andalucía,https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f
 12tv,https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 28 kanala,https://streaming.28kanala.eus/hls/z.m3u8
 101tv Sevilla,https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
+Antena 3 (1080p),http://176.65.146.237:8401/play/a0ae/index.m3u8
 Antena 3 Internacional (480p),http://38.180.133.31:8000/play/a0ki/index.m3u8
 Arabí TV (1080p),https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 BCN Gospel TV (1080p),https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
+Cuatro (1080p),http://176.65.146.237:8401/play/a09s/index.m3u8
+Telecinco (1080p),http://176.65.146.237:8401/play/a09r/index.m3u8
 TV BRICS Spanish (1080p),https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 1001 Noites,https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 1-2-3.tv,https://123tv-mx1.flex-cdn.net/index.m3u8
@@ -3733,7 +3736,12 @@ Movistar + ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17"),http://o
 Movistar Acción ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17"),http://oha.to/play/3697992438/index.m3u8
 Movistar SeriesMania ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17"),http://oha.to/play/1344073831/index.m3u8
 Movistar Drama ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17"),http://oha.to/play/2748019555/index.m3u8
+Energy (1080p),http://176.65.146.237:8401/play/a0ac/index.m3u8
+FDF (1080p),http://176.65.146.237:8401/play/a09p/index.m3u8
 HOLA! Play (1080p),https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+La Sexta (1080p),http://176.65.146.237:8401/play/a0af/index.m3u8
+Mega (1080p),http://176.65.146.237:8401/play/a0a5/index.m3u8
+Neox (1080p),http://176.65.146.237:8401/play/a0ag/index.m3u8
 13 Festival,https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 30A Music,https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 4 Fun Dance,http://178.219.128.68:64888/4FUNDANC
@@ -4702,6 +4710,8 @@ TV Kesehatan,https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playli
 Wapp,https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 Weihai Ocean Channel,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
 Zhivi!,http://31.148.48.15/Zhivi/index.m3u8
+Divinity (1080p),http://176.65.146.237:8401/play/a09q/index.m3u8
+Nova (1080p),http://176.65.146.237:8401/play/a0ah/index.m3u8
 13T,https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 16 Anni e Incinta,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 48 Hours,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176f39e709f160007ec61c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263250-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c0b95c9-8da8-4149-8f7a-ba568202266f
@@ -4884,7 +4894,9 @@ Unsolved Mysteries,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/st
 Walker Texas Ranger,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa749ac7f3200078adb40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53334da2-2bf6-4492-9d72-20248eaff31c
 Wild 'N Out,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3730-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a03cd523-0223-48b3-aeb7-ce7ca6c2de02
 XPTV US,https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+Atreseries (1080p),http://176.65.146.237:8401/play/a0ai/index.m3u8
 Atreseries Internacional (480p),http://38.180.133.31:8000/play/a0ko/index.m3u8
+Az Corazon,https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/aztecacorazon/playlist.m3u8
 1KZN TV,https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 Tshwane TV,https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 1+2,http://89.254.128.5:22280/1_2/mono.m3u8
@@ -7070,6 +7082,7 @@ Xtrema Latina,https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 Xtrema Series,https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 Xtrema Suspenso,https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 Xtrema Terror,https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+Bom Cine (1080p),http://176.65.146.237:8401/play/a09d/index.m3u8
 Pluto TV Cine Acción (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 Pluto TV Cine Estelar (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 Pluto TV Cine Estelar Spain+,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
@@ -8678,6 +8691,8 @@ Paramount Network,http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channe
 Paramount Network,http://109.233.89.166/Paramount_Channel_HD/index.m3u8
 Paramount Network East,http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 Star Channel Central America,https://streamer1.nexgen.bz/STAR/index.m3u8
+Paramount Network Spain (1080p),http://176.65.146.237:8401/play/a09i/index.m3u8
+Squirrel (1080p),http://176.65.146.237:8401/play/a09h/index.m3u8
 America's Test Kitchen,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268074-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=29e05466-9808-43c4-9894-00b77be27051
 BBC Food,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
 bon appetit,https://bonappetit-samsung.amagi.tv/playlist.m3u8
@@ -9050,7 +9065,9 @@ Canal 24 Horas Canarias (720p),https://ztnr.rtve.es/ztnr/5473142.m3u8
 Canal 24 Horas Catalunya (720p),https://ztnr.rtve.es/ztnr/4952053.m3u8
 Canal Sur Noticias,https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 A Punt,https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
+Andalucía Televisión (1080p),http://176.65.146.237:8401/play/a09g/index.m3u8
 Aragon TV (720p),https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+Canal Sur (1080p),http://176.65.146.237:8401/play/a09c/index.m3u8
 Canal Sur Andalucia (1080p),https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 La 1 (720p),https://ztnr.rtve.es/ztnr/1688877.m3u8
 La 1 Canarias (720p),https://ztnr.rtve.es/ztnr/5190066.m3u8
@@ -9058,6 +9075,7 @@ La 1 Catalunya (720p),https://ztnr.rtve.es/ztnr/3293681.m3u8
 La 2 (1080p),https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 La 2 Canarias (720p),https://ztnr.rtve.es/ztnr/5468585.m3u8
 La 2 Catalunya (720p),https://ztnr.rtve.es/ztnr/3987218.m3u8
+Be Mad (1080p),http://176.65.146.237:8401/play/a0aj/index.m3u8
 Bon Dia TV (1080p),https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
 Canal 33 Madrid,https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 CCMA Exclusiu 1 (1080p) [Not 24/7],https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8
@@ -9065,6 +9083,7 @@ CCMA Exclusiu 2 (1080p) [Not 24/7],https://directes-tv-cat.3catdirectes.cat/live
 CCMA Exclusiu 3 (1080p) [Not 24/7],https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8
 Rakuten Viki (1080p),https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 SX3 (1080p) [Geo-blocked],https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8
+TEN (1080p),http://176.65.146.237:8401/play/a0al/index.m3u8
 TV3 (1080p) [Geo-blocked],https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
 TV3CAT (1080p),https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 Clan (1280p),https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
@@ -9823,7 +9842,7 @@ CETV1,https://cc06.tv12.xyz/23.m3u8
 CETV2,https://cc06.tv12.xyz/24.m3u8
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 电视指南,https://cc06.tv12.xyz/39.m3u8
-支持作者,https://vd2.bdstatic.com/mda-rj5i8jknsfut2umw/sc/cae_h264/1759755342118633672/mda-rj5i8jknsfut2umw.mp4
+支持作者,https://vd4.bdstatic.com/mda-rht8yb8mk7prjpvb/1080p/cae_h264/1756373484708582178/mda-rht8yb8mk7prjpvb.mp4
 CCTV1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -9963,6 +9982,7 @@ CCTV世界地理,https://cc06.tv12.xyz/104.m3u8
 CCTV女性时尚,https://cc06.tv12.xyz/95.m3u8
 CCTV怀旧剧场,https://cc06.tv12.xyz/52.m3u8
 CCTV风云足球,https://cc06.tv12.xyz/41.m3u8
+甘肃卫视,https://cc06.tv12.xyz/44.m3u8
 山西卫视,https://cc06.tv12.xyz/107.m3u8
 陕西卫视,https://cc06.tv12.xyz/106.m3u8
 西藏卫视,https://cc06.tv12.xyz/112.m3u8
@@ -10583,7 +10603,6 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 法治天地,https://cc06.tv12.xyz/42.m3u8
 七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
@@ -10619,6 +10638,7 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 广德生活,https://live.gdtv.ah.cn/live/newsTV.m3u8
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
+新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
@@ -10643,7 +10663,7 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-湖州新闻综合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+湖州文化娱乐,https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 溧水新闻综合,https://mgtv.ottiptv.cc/migu/639737327.m3u8?migutoken=4c07b7afe94ad06d114a6bccae5747804d493ab7b1100069e485b78d3cb91c0fb0dbd92aa90a6157d7066e5b90780fabf5e150e17ebb9bc72b8bb18f43c5acddd1c0fd4d1904a99210aa962135
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
@@ -10858,14 +10878,13 @@ TNT SPORTS 3,http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa
 TNT SPORTS 4,http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.ts
 中华小当家,https://live.metshop.top/huya/11342413
 海绵宝宝,https://live.metshop.top/douyu/3949681
-猫和老鼠,https://live.iill.top/huya/11352879
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-漫画解说,https://www.goodiptv.club/douyu/5907076
+漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 丽江古城万古楼遥望玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
@@ -10961,7 +10980,6 @@ TNT SPORTS 4,http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-86
 四川卫视,https://cc06.tv12.xyz/99.m3u8
 贵州卫视,https://cc06.tv12.xyz/48.m3u8
 宁夏卫视,https://cc06.tv12.xyz/96.m3u8
-甘肃卫视,https://cc06.tv12.xyz/44.m3u8
 青海卫视,https://cc06.tv12.xyz/97.m3u8
 广西卫视,https://cc06.tv12.xyz/46.m3u8
 云南卫视,https://cc06.tv12.xyz/114.m3u8
