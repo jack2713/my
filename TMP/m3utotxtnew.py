@@ -14,7 +14,7 @@ urls = [
     'https://sub.ottiptv.cc/huyayqk.m3u',
     'https://sub.ottiptv.cc/yylunbo.m3u',
     'https://live.hacks.tools/iptv/categories/movies.m3u',
-    'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
+    #'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u', --联通线路
     #'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/douyuyqk.m3u',
     #'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/huyayqk.m3u',
     #'https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u',
