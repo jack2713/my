@@ -9993,8 +9993,8 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&play
 睛彩竞技,http://home.wwang.pw:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
 睛彩青少,http://home.wwang.pw:35455/itv/1000000006000270007.m3u8?cdn=ystenlive
 睛彩广场舞,http://home.wwang.pw:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 中国电影频道,https://live.tvfix.org/live/cmc/index.m3u8
 美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
@@ -10303,7 +10303,7 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 变形金刚合集,http://1.94.31.214:35455/yy/1382736803
 末日电影合集,http://1.94.31.214:35455/yy/1354889019
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
-东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
+哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
@@ -10514,8 +10514,6 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
 哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
 天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 宁夏经济,https://ls.qingting.fm/live/1841/64k.m3u8
@@ -10538,7 +10536,6 @@ NewTV 爱情喜剧,http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=h
 桂林新闻,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 武威新闻,https://play.kankanlive.com/live/1693539781636986.m3u8
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
@@ -10786,7 +10783,7 @@ HBO Family,https://fl30.moveonjoy.com/HBO_FAMILY/index.m3u8
 HGTV,https://fl30.moveonjoy.com/HGTV/index.m3u8
 MLB Network,https://fl30.moveonjoy.com/MLB_NETWORK/index.m3u8
 中华小当家,https://live.iill.top/huya/11342413
-猫和老鼠,https://live.iill.top/huya/11352879
+海绵宝宝,https://live.metshop.top/douyu/3949681
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
@@ -10973,6 +10970,7 @@ CETV-04,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 黑龙江视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
+东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
 上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
