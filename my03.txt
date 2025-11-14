@@ -284,6 +284,8 @@ CETV4a,http://iptv.666230.xyz/iptv/sxg.php/CETV-4H264_2000
 峨眉山综合a,http://iptv.666230.xyz/iptv/sxg.php/emsxw_2000
 临时测试,#genre#
 斗鱼测试,video://https://www.douyu.com/4246519
+测试1,video://https://www.douyu.com/beta/4246519
+测试2,video://https://www.douyu.com/beta/4246519?dyshid=0-85c8b6b489bc4d628918bd3500001701
 放映厅播网页,video://https://www.huya.com/11602077
 刘德华播网页,video://https://www.huya.com/11342424
 许冠英播网页,video://https://www.huya.com/11601972
