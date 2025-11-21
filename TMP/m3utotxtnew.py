@@ -5,7 +5,6 @@ from collections import defaultdict, OrderedDict
 
 # 文件 URL 列表
 urls = [
-   'https://bc.188766.xyz/?ip=&json=true',
    'https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt',
     #'https://raw.githubusercontent.com/big-mouth-cn/tv/refs/heads/main/iptv-ok.m3u',
     #'https://raw.githubusercontent.com/kilvn/iptv/refs/heads/master/iptv%2B.m3u',
@@ -89,7 +88,7 @@ for url in urls:
                         group_title = f"{group_title}-联通"
                     
                     # 过滤内容
-                    if "成人" not in group_title and "🎀冰茶公告" not in group_title and "冰茶体育" not in group_title and  "4K频道" not in group_title and "直播中国" not in group_title and "列表更新" not in group_title:
+                    if "成人" not in group_title  and  "4K频道" not in group_title and "直播中国" not in group_title and "列表更新" not in group_title:
                         # 记录分组出现的顺序
                         if group_title not in all_channels_dict:
                             all_channels_dict[group_title] = []
