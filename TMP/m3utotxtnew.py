@@ -141,7 +141,7 @@ def parse_m3u_content(content, url, all_channels_dict, group_order):
                     group_title = f"{group_title}-联通"
                 
                 # 过滤内容
-                filter_keywords = ["成人", "4K频道", "直播中国", "列表更新"]
+                filter_keywords = ["成人", "4K频道", "直播中国", "列表更新","公告","熊猫"]
                 if not any(keyword in group_title for keyword in filter_keywords):
                     # 记录分组出现的顺序
                     if group_title not in all_channels_dict:
