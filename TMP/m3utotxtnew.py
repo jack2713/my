@@ -1,13 +1,13 @@
 import requests
 import os
 import re
-from collections import OrderedDict
+from collections import defaultdict, OrderedDict
 import time
-import random
 
-# 文件 URL 列表 - 包含备用源
+# 文件 URL 列表
 urls = [
-    'https://bc.188766.xyz/?ip=',   
+    'https://bc.188766.xyz/?ip=',
+    #'https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt',
     'https://iptv.catvod.com/tv.m3u',
     'https://live.catvod.com/tv.m3u',
     'https://sub.ottiptv.cc/iptv.m3u',
@@ -18,25 +18,20 @@ urls = [
 ]
 
 def get_session():
-    """创建配置好的请求会话"""
-    user_agents = [
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0',
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    ]
-    
+    """创建配置好的请求会话 - 模拟真实浏览器"""
     session = requests.Session()
     session.headers.update({
-        'User-Agent': random.choice(user_agents),
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-        'Accept-Language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Accept-Encoding': 'gzip, deflate',
+        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
         'Connection': 'keep-alive',
-        'Referer': 'https://www.google.com/',
-        'DNT': '1',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Cache-Control': 'max-age=0',
     })
-    
     return session
 
 def extract_channel_name(extinf_line):
@@ -54,57 +49,48 @@ def extract_channel_name(extinf_line):
     if len(parts) > 1:
         last_part = parts[-1].strip()
         if last_part:
-            # 清理名称
-            cleaned_name = re.sub(r'<[^>]+>', '', last_part)
-            cleaned_name = re.sub(r'[\\/:*?"<>|]', '', cleaned_name)
-            return cleaned_name
+            return last_part
     
     # 如果都失败，返回"未命名频道"
     return "未命名频道"
 
-def fetch_url_content(url, session, retries=2):
-    """获取URL内容，支持重试"""
+def fetch_url_content(url, session, retries=3):
+    """获取URL内容，支持重试和特殊处理"""
     for attempt in range(retries + 1):
         try:
             print(f"正在获取 {url} (尝试 {attempt + 1}/{retries + 1})")
             
-            # 请求前随机延迟
-            if attempt > 0:
-                time.sleep(random.uniform(1, 3))
-            
-            timeout = 30
+            # 对于特定URL使用更长的超时时间
+            timeout = 30 if 'bc.188766.xyz' in url else 15
             
             response = session.get(url, timeout=timeout, allow_redirects=True)
+            response.raise_for_status()  # 如果状态码不是200，抛出异常
             
-            # 检查状态码
-            if response.status_code == 403:
-                print(f"收到403错误")
-                if attempt == retries:
-                    return None
-                continue
-            
-            response.raise_for_status()
+            # 检查内容类型
+            content_type = response.headers.get('content-type', '').lower()
             
             # 自动检测编码
             if response.encoding is None or response.encoding.lower() == 'iso-8859-1':
                 response.encoding = response.apparent_encoding or 'utf-8'
             
-            content = response.text
-            print(f"成功获取 {url}, 内容长度: {len(content)} 字符")
-            return content
+            print(f"成功获取 {url}, 内容长度: {len(response.text)} 字符")
+            return response.text
             
         except requests.exceptions.Timeout:
             print(f"请求超时: {url}")
         except requests.exceptions.ConnectionError as e:
-            print(f"连接错误: {url}")
+            print(f"连接错误: {url} - {e}")
         except requests.exceptions.HTTPError as e:
-            print(f"HTTP错误: {url}")
+            print(f"HTTP错误 {e.response.status_code}: {url}")
+            # 输出更多调试信息
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"响应头: {dict(e.response.headers)}")
         except Exception as e:
             print(f"获取 {url} 时出错: {str(e)}")
         
         # 如果不是最后一次尝试，等待后重试
         if attempt < retries:
-            wait_time = 3 * (attempt + 1)
+            wait_time = 3 * (attempt + 1)  # 递增等待时间
             print(f"等待 {wait_time} 秒后重试...")
             time.sleep(wait_time)
     
@@ -115,14 +101,8 @@ def parse_m3u_content(content, url, all_channels_dict, group_order):
     if not content:
         return
     
-    # 检查是否是有效的M3U文件
-    if not content.startswith('#EXTM3U') and '#EXTINF:' not in content:
-        print(f"警告: {url} 可能不是有效的M3U文件，尝试解析...")
-    
     lines = content.splitlines()
     i = 0
-    channel_count = 0
-    
     while i < len(lines):
         line = lines[i].strip()
         
@@ -135,9 +115,13 @@ def parse_m3u_content(content, url, all_channels_dict, group_order):
             try:
                 attr_matches = re.findall(r'(\S+)=(".*?"|\S+)', line)
                 attrs = {k: v.strip('"') for k, v in attr_matches}
+                
                 group_title = attrs.get('group-title', "")
-            except:
-                pass
+                tvg_logo = attrs.get('tvg-logo', "")
+            except Exception as e:
+                print(f"解析EXTINF属性时出错: {e}")
+                i += 1
+                continue
             
             # 获取URL
             if i + 1 < len(lines):
@@ -153,93 +137,62 @@ def parse_m3u_content(content, url, all_channels_dict, group_order):
                 if not group_title or group_title.lower() in ["null", "none", ""]:
                     group_title = "其他"
                 
+                # 如果URL包含联通标识，则在分组名称后添加"-联通"
+                if "http://sc.rrs.169ol.com" in streaming_url:
+                    group_title = f"{group_title}-联通"
+                
                 # 过滤内容
-                filter_keywords = ["成人", "4K频道", "直播中国", "列表更新", "公告", "熊猫", "测试"]
+                filter_keywords = ["成人", "4K频道", "直播中国", "列表更新","公告","熊猫"]
                 if not any(keyword in group_title for keyword in filter_keywords):
                     # 记录分组出现的顺序
                     if group_title not in all_channels_dict:
                         all_channels_dict[group_title] = []
                         group_order.append(group_title)
                     
-                    # 去重检查
-                    is_duplicate = False
-                    for existing_channel in all_channels_dict[group_title]:
-                        if existing_channel["channel_name"] == channel_name and existing_channel["streaming_url"] == streaming_url:
-                            is_duplicate = True
-                            break
-                    
-                    if not is_duplicate:
-                        all_channels_dict[group_title].append({
-                            "channel_name": channel_name,
-                            "streaming_url": streaming_url,
-                            "line_index": i,
-                            "source_url": url
-                        })
-                        channel_count += 1
+                    all_channels_dict[group_title].append({
+                        "channel_name": channel_name,
+                        "tvg_logo": tvg_logo,
+                        "streaming_url": streaming_url,
+                        "line_index": i,
+                        "source_url": url  # 记录来源URL
+                    })
         i += 1
-    
-    print(f"从 {url} 解析到 {channel_count} 个频道")
 
-def main():
-    """主函数"""
-    print("=" * 50)
-    print("IPTV源聚合工具")
-    print("开始获取IPTV源文件...")
-    print("=" * 50)
+# 使用OrderedDict保持分组顺序
+all_channels_dict = OrderedDict()
+group_order = []
+session = get_session()
+
+print("开始获取IPTV源文件...")
+
+for url in urls:
+    print(f"\n处理URL: {url}")
+    m3u_content = fetch_url_content(url, session)
     
-    # 使用OrderedDict保持分组顺序
-    all_channels_dict = OrderedDict()
-    group_order = []
-    session = get_session()
+    if m3u_content is None:
+        print(f"跳过无法获取的URL: {url}")
+        continue
     
-    successful_urls = 0
-    failed_urls = 0
-    
-    for url in urls:
-        print(f"\n处理URL: {url}")
-        
-        m3u_content = fetch_url_content(url, session)
-        
-        if m3u_content is None:
-            print(f"跳过无法获取的URL: {url}")
-            failed_urls += 1
-            continue
-        
-        # 解析内容
-        parse_m3u_content(m3u_content, url, all_channels_dict, group_order)
-        successful_urls += 1
-    
-    # 输出到文件
-    output_file_path = "TMP/TMP1.txt"
-    os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
-    
-    print(f"\n开始写入文件: {output_file_path}")
-    
-    with open(output_file_path, "w", encoding="utf-8") as output_file:
-        # 按照分组在源文件中出现的顺序输出
-        for group_title in group_order:
-            if group_title in all_channels_dict:
-                channels = all_channels_dict[group_title]
-                if channels:
-                    output_file.write(f"{group_title},#genre#\n")
-                    # 按照频道在源文件中的顺序输出
-                    for channel in sorted(channels, key=lambda x: (x['source_url'], x['line_index'])):
-                        output_file.write(f"{channel['channel_name']},{channel['streaming_url']}\n")
-                    output_file.write("\n")
-    
-    print(f"\n处理完成!")
-    print(f"成功获取: {successful_urls} 个源")
-    print(f"失败获取: {failed_urls} 个源")
-    print(f"总分组数: {len(group_order)}")
-    
-    # 统计总频道数
-    total_channels = 0
+    # 解析内容
+    parse_m3u_content(m3u_content, url, all_channels_dict, group_order)
+
+# 输出到文件
+output_file_path = "TMP/TMP1.txt"
+os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+
+print(f"\n开始写入文件: {output_file_path}")
+
+with open(output_file_path, "w", encoding="utf-8") as output_file:
+    # 按照分组在源文件中出现的顺序输出
     for group_title in group_order:
         if group_title in all_channels_dict:
-            total_channels += len(all_channels_dict[group_title])
-    
-    print(f"总频道数: {total_channels}")
-    print(f"结果已保存到: {output_file_path}")
+            channels = all_channels_dict[group_title]
+            if channels:
+                output_file.write(f"{group_title},#genre#\n")
+                # 按照频道在源文件中的顺序输出
+                for channel in sorted(channels, key=lambda x: (x['source_url'], x['line_index'])):
+                    output_file.write(f"{channel['channel_name']},{channel['streaming_url']}\n")
+                output_file.write("\n")
 
-if __name__ == "__main__":
-    main()
+print(f"提取完成! 共处理 {len(group_order)} 个分组")
+print(f"结果已保存到 {output_file_path}")
