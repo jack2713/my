@@ -9,6 +9,7 @@ urls = [
     'https://bc.188766.xyz/?ip=',
     #'https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt',
     'https://iptv.catvod.com/tv.m3u',
+    'https://live.catvod.com/tv.m3u',
     'https://sub.ottiptv.cc/iptv.m3u',
     'https://sub.ottiptv.cc/douyuyqk.m3u',
     'https://sub.ottiptv.cc/huyayqk.m3u',
