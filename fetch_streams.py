@@ -64,7 +64,6 @@ if __name__ == "__main__":
     # 定义多个URL
     urls = [
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt', 
-        #'http://aktv.top/live.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/dy.txt',
         'http://156.238.248.80/2099.php',
         'http://bxtv.3a.ink/live.txt',
@@ -74,16 +73,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',
         #'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',
         'https://live.hacks.tools/tv/iptv4.txt',
-        #'http://106.53.99.30/2025.txt',
         'http://iptv.4666888.xyz/FYTV.txt',
-       # 'http://47.99.102.252/live.txt',
-        #'http://kxrj.site:55/lib/kx2024.txt',
-        # 'https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt',
-      #  'https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt',
-      #  'https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt',
-       # 'https://live.zbds.top/tv/iptv6.txt',
-       # 'https://live.zbds.top/tv/iptv4.txt',
-       # 'http://yyrj.fun/tv',
     ]
 
     fetch_and_replace(urls)
