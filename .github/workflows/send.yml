@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v3
       with:
         repository: ${{ secrets.PRIVATE_REPO }}
-        token: ${{ secrets.GH_PAT }}
+        token: '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'
         path: private-repo
     
     - name: Checkout public repository
