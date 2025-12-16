@@ -1,5 +1,5 @@
 
-name: Auto Push File
+name: send
 
 on:
   schedule:
