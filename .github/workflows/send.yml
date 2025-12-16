@@ -1,0 +1,52 @@
+
+name: Auto Push File
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # 每6小时执行一次
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  push-file:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout private repository
+      uses: actions/checkout@v3
+      with:
+        repository: ${{ secrets.PRIVATE_REPO }}
+        token: ${{ secrets.GH_PAT }}
+        path: private-repo
+    
+    - name: Checkout public repository
+      uses: actions/checkout@v3
+      with:
+        repository: ${{ secrets.PUBLIC_REPO }}
+        token: ${{ secrets.GH_PAT }}
+        path: public-repo
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        cd private-repo
+        pip install -r requirements.txt
+    
+    - name: Run file push script
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
+      run: |
+        cd private-repo
+        python push_file.py
+    
+    - name: Commit and push to public repository
+      run: |
+        cd public-repo
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-sync: Update my.txt from private repo"
+        git push https://${{ secrets.GH_PAT }}@github.com/${{ secrets.PUBLIC_REPO }}.git main
