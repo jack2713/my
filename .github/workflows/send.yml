@@ -17,8 +17,8 @@ on:
   push:
     paths:
       - 'myq.txt'
-      - '.github/workflows/push-to-target.yml'
-      - 'sync_active.py'
+      - '.github/workflows/send.yml'
+      - 'TMP/send.py'
   
   # 也可以设置webhook触发
   repository_dispatch:
