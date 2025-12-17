@@ -122,6 +122,8 @@ jobs:
 
     # 11. 运行第三个 Python 脚本 (send.py)
     - name: Run send.py script
+      env:
+        TARGET_REPO_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
       run: |
         echo "Running TMP/send.py..."
         echo "Current directory: $(pwd)"
