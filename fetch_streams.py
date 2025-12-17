@@ -167,7 +167,7 @@ class GitIPTVFetcher:
         """
         if not filename:
             timestamp = time.strftime("%Y%m%d%H%M%S")
-            filename = f'myq_{timestamp}.txt'
+            filename = f'myq.txt'
         
         # 添加注意事项
         notice = f"注意事项,#genre#\n{timestamp if 'timestamp' in locals() else time.strftime('%Y%m%d%H%M%S')}仅供测试自用如有侵权请通知,http://zzy789.xyz/douyu1.php?id=3186217\n"
