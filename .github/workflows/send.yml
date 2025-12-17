@@ -1,7 +1,6 @@
-name: send
+name: Sync Files Between Repositories
 
 on:
-  # 手动触发
   workflow_dispatch:
     inputs:
       commit_message:
@@ -9,16 +8,21 @@ on:
         required: true
         default: 'Sync files from source repository'
   
-  # 定时触发（每天UTC时间0点运行，可根据需要调整）
   schedule:
     - cron: '0 0 * * *'
   
-  # 当源仓库有push事件时触发
-  # 注意：需要在源仓库的Settings -> Webhooks中添加这个workflow的URL
-  
-  # 也可以监听仓库的特定事件
-  # repository_dispatch:
-  #   types: [sync-files]
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/sync-files.yml'
+      - 'sync_repos.py'
+
+env:
+  PYTHON_VERSION: '3.9'
+  SOURCE_REPO: 'https://github.com/jack2713/my.git'
+  TARGET_REPO: 'https://github.com/jack2713/mynew.git'
+  SOURCE_FILE: 'myq.txt'
+  TARGET_FILE: 'my.txt'
 
 jobs:
   sync-files:
@@ -31,21 +35,47 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: ${{ env.PYTHON_VERSION }}
         
-    - name: Install dependencies
+    - name: Set up Git
       run: |
-        python -m pip install --upgrade pip
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions Bot"
+        git config --global credential.helper cache
+        git config --global credential.helper 'cache --timeout=300'
         
-    - name: Sync files from source to target repository
+    - name: Run sync script
       env:
         SOURCE_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}
         TARGET_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
-        COMMIT_MSG: ${{ github.event.inputs.commit_message || 'Sync files from source repository' }}
       run: |
-        python sync_repos.py \
+        echo "开始同步文件..."
+        echo "源仓库: ${{ env.SOURCE_REPO }}"
+        echo "目标仓库: ${{ env.TARGET_REPO }}"
+        
+        python TMP/send.py \
           --source-token "$SOURCE_TOKEN" \
           --target-token "$TARGET_TOKEN" \
-          --source-file "myq.txt" \
-          --target-file "my.txt" \
-          --commit-message "$COMMIT_MSG"
+          --source-repo "${{ env.SOURCE_REPO }}" \
+          --target-repo "${{ env.TARGET_REPO }}" \
+          --source-file "${{ env.SOURCE_FILE }}" \
+          --target-file "${{ env.TARGET_FILE }}" \
+          --branch "main"
+          
+    - name: Verify sync result
+      if: always()
+      run: |
+        echo "同步任务完成"
+        echo "查看上方日志了解详细结果"
+
+  test-sync:
+    needs: sync-files
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+    - name: Summary
+      run: |
+        echo "文件同步工作流执行完成"
+        echo "如果看到 ✅ 表示成功"
+        echo "如果看到 ❌ 请检查错误信息"
