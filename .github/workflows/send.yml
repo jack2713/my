@@ -1,52 +1,51 @@
-
-name: send
+name: Sync Files Between Repositories
 
 on:
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      commit_message:
+        description: 'Commit message'
+        required: true
+        default: 'Sync files from source repository'
+  
+  # 定时触发（每天UTC时间0点运行，可根据需要调整）
   schedule:
-    - cron: '0 */2 * * *'  # 每6小时执行一次
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 0 * * *'
+  
+  # 当源仓库有push事件时触发
+  # 注意：需要在源仓库的Settings -> Webhooks中添加这个workflow的URL
+  
+  # 也可以监听仓库的特定事件
+  # repository_dispatch:
+  #   types: [sync-files]
 
 jobs:
-  push-file:
+  sync-files:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout private repository
+    - name: Checkout this repository
       uses: actions/checkout@v3
-      with:
-        repository: ${{ secrets.PRIVATE_REPO }}
-        token: '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'
-        path: private-repo
-    
-    - name: Checkout public repository
-      uses: actions/checkout@v3
-      with:
-        repository: ${{ secrets.PUBLIC_REPO }}
-        token: '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'
-        path: public-repo
-    
+      
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
-    
+        
     - name: Install dependencies
       run: |
-        cd private-repo
-        pip install -r requirements.txt
-    
-    - name: Run file push script
+        python -m pip install --upgrade pip
+        
+    - name: Sync files from source to target repository
       env:
-        GH_PAT: ${{ secrets.GH_PAT }}
+        SOURCE_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}
+        TARGET_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
+        COMMIT_MSG: ${{ github.event.inputs.commit_message || 'Sync files from source repository' }}
       run: |
-        cd private-repo
-        python push_file.py
-    
-    - name: Commit and push to public repository
-      run: |
-        cd public-repo
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-sync: Update my.txt from private repo"
-        git push https://${{ secrets.GH_PAT }}@github.com/${{ secrets.PUBLIC_REPO }}.git main
+        python sync_repos.py \
+          --source-token "$SOURCE_TOKEN" \
+          --target-token "$TARGET_TOKEN" \
+          --source-file "myq.txt" \
+          --target-file "my.txt" \
+          --commit-message "$COMMIT_MSG"
