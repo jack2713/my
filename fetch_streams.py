@@ -12,7 +12,7 @@ class GitIPTVFetcher:
         Args:
             github_token: GitHub个人访问令牌（用于访问私有仓库）
         """
-        self.github_token = "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"
+        self.github_token = github_token or os.getenv('GITHUB_TOKEN')
         self.session = requests.Session()
         
         # 设置请求头
@@ -200,7 +200,7 @@ def main():
     """
     # 从环境变量获取GitHub Token（推荐方式）
     # 或者在代码中直接设置：github_token = "your_token_here"
-    github_token = os.getenv('GITHUB_TOKEN')
+    github_token = "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"
     
     # 初始化fetcher
     fetcher = GitIPTVFetcher(github_token=github_token)
