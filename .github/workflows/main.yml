@@ -3,7 +3,7 @@ name: sync myb
 # 触发条件
 on:
   schedule:
-    # 每天 UTC 时间 00:00 和 12:00 运行
+    # 每2小时运行一次
     - cron: '0 */2 * * *'
   workflow_dispatch: # 允许手动触发
 
@@ -13,68 +13,150 @@ permissions:
 jobs:
   fetch_streams:
     runs-on: ubuntu-latest
+    
+    # 添加超时设置，避免长时间运行
+    timeout-minutes: 30
 
     steps:
     # 1. 检出项目仓库
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 获取完整历史记录，便于后续提交
 
     # 2. 设置 Python 环境
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
+        python-version: '3.10'  # 指定具体版本以提高稳定性
 
     # 3. 安装依赖
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install pandas requests
+        # 如果有 requirements.txt 可以更规范地安装
+        if [ -f "requirements.txt" ]; then
+          pip install -r requirements.txt
+        fi
+
+    # 4. 检查必要文件是否存在
+    - name: Check required files
+      run: |
+        echo "Checking required Python scripts..."
+        [ -f "TMP/m3utotxtnew.py" ] || echo "Warning: TMP/m3utotxtnew.py not found"
+        [ -f "fetch_streams.py" ] || echo "Warning: fetch_streams.py not found"
+        [ -f "TMP/send.py" ] || echo "Warning: TMP/send.py not found"
 
     # 5. 运行第一个 Python 脚本 (m3utotxtnew.py)
     - name: Run m3utotxtnew.py script
       run: |
+        echo "Running m3utotxtnew.py..."
         python TMP/m3utotxtnew.py
+        echo "m3utotxtnew.py completed."
 
     # 6. 检查第一个脚本的输出文件
     - name: Check TMP1.txt file
       run: |
+        echo "Checking TMP1.txt..."
         if [ -f "TMP/TMP1.txt" ]; then
-          echo "TMP1.txt exists"
-          ls -la TMP/TMP1.txt
+          echo "✅ TMP1.txt exists"
+          echo "File size: $(wc -l < TMP/TMP1.txt) lines"
         else
-          echo "TMP1.txt does not exist"
+          echo "❌ TMP1.txt does not exist"
+          echo "Contents of TMP/ directory:"
           ls -la TMP/
+          exit 1  # 如果文件不存在，退出并报错
         fi
 
     # 7. 提交第一个脚本的结果
     - name: Commit TMP1.txt changes
       run: |
+        echo "Committing TMP1.txt changes..."
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git add $(pwd)/TMP/TMP1.txt
-        git commit -m "Update TMP/TMP1.txt with m3utotxtnew.py results" || echo "No changes to TMP1.txt"
-        git push origin HEAD:main
+        
+        # 检查是否有变化
+        if git diff --quiet TMP/TMP1.txt; then
+          echo "No changes to TMP1.txt"
+        else
+          git add TMP/TMP1.txt
+          git commit -m "Update TMP/TMP1.txt with m3utotxtnew.py results [$(date +'%Y-%m-%d %H:%M')]"
+          git push origin HEAD:main
+          echo "✅ TMP1.txt changes committed and pushed"
+        fi
 
     # 8. 运行第二个 Python 脚本 (fetch_streams.py)
     - name: Run fetch_streams.py script
       run: |
+        echo "Running fetch_streams.py..."
         python fetch_streams.py
+        echo "fetch_streams.py completed."
+
+    # 9. 检查第二个脚本的输出文件
+    - name: Check myq.txt file
+      run: |
+        echo "Checking myq.txt..."
+        if [ -f "myq.txt" ]; then
+          echo "✅ myq.txt exists"
+          echo "File size: $(wc -l < myq.txt) lines"
+        else
+          echo "❌ myq.txt does not exist"
+          exit 1
+        fi
 
     # 10. 提交第二个脚本的结果
     - name: Commit myq.txt changes
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add $(pwd)/myq.txt
-        git commit -m "Update myq.txt with fetch_streams.py results" || echo "No changes to myq.txt"
-        git push origin HEAD:main
+        echo "Committing myq.txt changes..."
+        
+        # 检查是否有变化
+        if git diff --quiet myq.txt; then
+          echo "No changes to myq.txt"
+        else
+          git add myq.txt
+          git commit -m "Update myq.txt with fetch_streams.py results [$(date +'%Y-%m-%d %H:%M')]"
+          git push origin HEAD:main
+          echo "✅ myq.txt changes committed and pushed"
+        fi
 
-    # 11. 上传输出文件作为工件
+    # 11. 运行第三个 Python 脚本 (send.py)
+    - name: Run send.py script
+      run: |
+        echo "Running TMP/send.py..."
+        echo "Current directory: $(pwd)"
+        echo "Files in TMP/ directory:"
+        ls -la TMP/
+        
+        # 检查 send.py 是否存在
+        if [ -f "TMP/send.py" ]; then
+          python TMP/send.py
+          echo "✅ TMP/send.py completed."
+        else
+          echo "⚠️ Warning: TMP/send.py not found, skipping..."
+        fi
+
+    # 12. 上传输出文件作为工件
     - name: Upload output files as artifacts
+      if: always()  # 即使前面步骤失败也上传工件
       uses: actions/upload-artifact@v4
       with:
-        name: processed-files
+        name: processed-files-${{ github.run_id }}-${{ github.run_attempt }}
         path: |
           myq.txt
           TMP/TMP1.txt
+          TMP/send.py
+        retention-days: 7
+
+    # 13. 清理和总结
+    - name: Workflow summary
+      if: always()
+      run: |
+        echo "=== Workflow Summary ==="
+        echo "Run ID: ${{ github.run_id }}"
+        echo "Run Number: ${{ github.run_number }}"
+        echo "Run Attempt: ${{ github.run_attempt }}"
+        echo "Workflow: ${{ github.workflow }}"
+        echo "Repository: ${{ github.repository }}"
+        echo "========================="
+        echo "All processing steps completed!"
