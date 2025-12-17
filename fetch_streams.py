@@ -85,7 +85,7 @@ class GitIPTVFetcher:
                     # 重构为直接的 raw URL
                     file_path = '/'.join(parts[branch_start+3:])
                     # 使用直接的 raw URL，因为 GitHub token 可以在 headers 中传递
-                    return f"https://raw.githubusercontent.com/{user}/{repo}/main/{file_path}"
+                    return f"https://raw.githubusercontent.com/jack2713/my/main/{file_path}"
             
             # 如果无法转换，返回原URL
             return url
