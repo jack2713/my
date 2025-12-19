@@ -14,7 +14,7 @@ urls = [
     'https://sub.ottiptv.cc/douyuyqk.m3u',
     'https://sub.ottiptv.cc/huyayqk.m3u',
     'https://sub.ottiptv.cc/yylunbo.m3u',
-    'https://live.hacks.tools/iptv/categories/movies.m3u',
+    #'https://live.hacks.tools/iptv/categories/movies.m3u',
 ]
 
 def get_session():
