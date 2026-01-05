@@ -210,7 +210,7 @@ def main():
         # GitHub URLs (将自动处理为支持私有仓库的格式)
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp.txt', 
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp01.txt',
-        'http://156.238.248.80/2099.php',
+        'http://43.251.226.89:8080/live.txt',
         'http://bxtv.3a.ink/live.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/dy01.txt',
