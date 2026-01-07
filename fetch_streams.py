@@ -204,6 +204,7 @@ def main():
         # GitHub URLs (只有含有jack2713的URL会被转换)
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp.txt', 
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp01.txt',
+        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
         'http://43.251.226.89:8080/live.txt',  # 不会转换
         'http://bxtv.3a.ink/live.txt',  # 不会转换
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
