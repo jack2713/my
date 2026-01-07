@@ -63,7 +63,7 @@ def fetch_url_content(url, session, retries=3):
             print(f"正在获取 {url} (尝试 {attempt + 1}/{retries + 1})")
             
             # 对于特定URL使用更长的超时时间
-            timeout = 30 if 'bc.188766.xyz' in url else 15
+            timeout = 30 if 'bc.188766.xyz' in url or 'live.tv.darwinchow.com' in url else 15
             
             response = session.get(url, timeout=timeout, allow_redirects=True)
             response.raise_for_status()  # 如果状态码不是200，抛出异常
