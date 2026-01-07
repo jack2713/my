@@ -35,9 +35,8 @@ class GitIPTVFetcher:
         try:
             start_time = time.time()
             
-            # 处理GitHub raw URL，将 /refs/heads/ 转换为特定格式
-            if 'raw.githubusercontent.com' in url and '/refs/heads/' in url:
-                # 转换为API URL以支持私有仓库
+            # 只对含有jack2713的URL进行转换
+            if 'jack2713' in url:
                 url = self._convert_github_url(url)
             
             response = self.session.get(url, headers=self.headers, timeout=15)
@@ -62,32 +61,27 @@ class GitIPTVFetcher:
     
     def _convert_github_url(self, url: str) -> str:
         """
-        将GitHub raw URL转换为API URL
+        将含有jack2713的GitHub URL转换为标准raw URL
         
         Args:
-            url: GitHub raw URL
+            url: 含有jack2713的URL
             
         Returns:
             转换后的URL
         """
         try:
-            # 解析GitHub raw URL
-            # 例如: https://raw.githubusercontent.com/user/repo/refs/heads/main/path/file.txt
-            parts = url.replace('https://raw.githubusercontent.com/jack2713/', '').split('/')
+            # 只处理含有jack2713的URL
+            if 'jack2713' not in url:
+                return url
+                
+            # 处理GitHub raw URL，将 /refs/heads/ 转换为特定格式
+            if 'raw.githubusercontent.com' in url and '/refs/heads/' in url:
+                # 转换为直接的 raw URL
+                # 例如: https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp.txt
+                # 转换为: https://raw.githubusercontent.com/jack2713/my/main/TMP/mytemp.txt
+                url = url.replace('/refs/heads/', '/')
             
-            if len(parts) >= 4:
-                user = parts[0]
-                repo = parts[1]
-                # 跳过 refs/heads/
-                branch_start = parts.index('refs') if 'refs' in parts else 2
-                # 查找实际的分支名（通常是 refs/heads/ 之后的部分）
-                if branch_start + 3 < len(parts):
-                    # 重构为直接的 raw URL
-                    file_path = '/'.join(parts[branch_start+3:])
-                    # 使用直接的 raw URL，因为 GitHub token 可以在 headers 中传递
-                    return f"https://raw.githubusercontent.com/jack2713/my/main/{file_path}"
-            
-            # 如果无法转换，返回原URL
+            # 如果URL已经是标准的raw.githubusercontent.com格式，直接返回
             return url
             
         except Exception as e:
@@ -207,19 +201,19 @@ def main():
     
     # 定义URL列表
     urls = [
-        # GitHub URLs (将自动处理为支持私有仓库的格式)
+        # GitHub URLs (只有含有jack2713的URL会被转换)
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp.txt', 
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp01.txt',
-        'http://43.251.226.89:8080/live.txt',
-        'http://bxtv.3a.ink/live.txt',
+        'http://43.251.226.89:8080/live.txt',  # 不会转换
+        'http://bxtv.3a.ink/live.txt',  # 不会转换
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/dy01.txt',
-        'http://rihou.cc:555/gggg.nzk',
-        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',
-        #'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',
-        'https://live.hacks.tools/tv/iptv4.txt',
-        'http://iptv.4666888.xyz/FYTV.txt',
-        'https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive',
+        'http://rihou.cc:555/gggg.nzk',  # 不会转换
+        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',  # 不会转换
+        #'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',  # 不会转换
+        'https://live.hacks.tools/tv/iptv4.txt',  # 不会转换
+        'http://iptv.4666888.xyz/FYTV.txt',  # 不会转换
+        'https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive',  # 不会转换
     ]
     
     print(f"Starting to fetch {len(urls)} URLs in order...")
