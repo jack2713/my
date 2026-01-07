@@ -219,6 +219,7 @@ def main():
         #'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',
         'https://live.hacks.tools/tv/iptv4.txt',
         'http://iptv.4666888.xyz/FYTV.txt',
+        'https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive',
     ]
     
     print(f"Starting to fetch {len(urls)} URLs in order...")
