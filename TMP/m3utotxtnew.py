@@ -7,13 +7,12 @@ import time
 # 文件 URL 列表
 urls = [
     'https://bc.188766.xyz/?ip=',
-    'https://live.tv.darwinchow.com/sub/02RtNqhKGizc48p6Wph9sylf41YOUW',
     #'https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt',
     #'https://iptv.catvod.com/tv.m3u',
     #'https://live.catvod.com/tv.m3u',
     #'https://sub.ottiptv.cc/iptv.m3u',
-    #'https://sub.ottiptv.cc/douyuyqk.m3u',
-    'https://php.404003.xyz/live/douyuyqk.php',
+    'https://sub.ottiptv.cc/douyuyqk.m3u',
+    #'https://php.404003.xyz/live/douyuyqk.php',
     'https://sub.ottiptv.cc/huyayqk.m3u',
     'https://sub.ottiptv.cc/yylunbo.m3u',
     #'https://live.hacks.tools/iptv/categories/movies.m3u',
