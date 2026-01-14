@@ -36,7 +36,7 @@ class GitIPTVFetcher:
             start_time = time.time()
             
             # 只对含有jack2713的URL进行转换
-            if 'jack2713' in url:
+            if 'jack2713/my' in url:
                 url = self._convert_github_url(url)
             
             response = self.session.get(url, headers=self.headers, timeout=15)
@@ -205,6 +205,7 @@ def main():
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp.txt', 
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp01.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
+        'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/my1.txt',
         'http://43.251.226.89:8080/live.txt',  # 不会转换
         'http://bxtv.3a.ink/live.txt',  # 不会转换
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
