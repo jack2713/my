@@ -14,7 +14,7 @@ urls = [
     #'https://php.404003.xyz/live/douyuyqk.php',
     'https://sub.ottiptv.cc/huyayqk.m3u',
     'https://sub.ottiptv.cc/yylunbo.m3u',
-    'https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt',
+    #'https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt',
     #'https://live.hacks.tools/iptv/categories/movies.m3u',
 ]
 
