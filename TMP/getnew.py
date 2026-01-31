@@ -4,10 +4,36 @@ from concurrent.futures import ThreadPoolExecutor
 
 # 在这里配置URL列表
 URL_CONFIG = [
-    "上海,https://sh.sohu.blog/list.txt",
-    "天津,https://tj.sohu.blog/list.txt",
-    "北京,https://bj.sohu.blog/list.txt",
-]
+"央视,https://cctv.sohu.blog/list.txt",
+"四川,https://sc.sohu.blog/list.txt",
+"重庆,https://cq.sohu.blog/list.txt",
+"云南,https://yn.sohu.blog/list.txt",
+"贵州,https://gz.sohu.blog/list.txt",
+"北京,https://bj.sohu.blog/list.txt",
+"天津,https://tj.sohu.blog/list.txt",
+"河北,https://heb.sohu.blog/list.txt",
+"山西,https://sx.sohu.blog/list.txt",
+"内蒙古,https://nmg.sohu.blog/list.txt",
+"吉林,https://jl.sohu.blog/list.txt",
+"黑龙江,https://hlj.sohu.blog/list.txt",
+"上海,https://sh.sohu.blog/list.txt",
+"江苏,https://js.sohu.blog/list.txt",
+"浙江,https://zj.sohu.blog/list.txt",
+"安徽,https://ah.sohu.blog/list.txt",
+"福建,https://fj.sohu.blog/list.txt",
+"江西,https://jx.sohu.blog/list.txt",
+"山东,https://sd.sohu.blog/list.txt",
+"河南,https://hen.sohu.blog/list.txt",
+"湖北,https://hub.sohu.blog/list.txt",
+"湖南,https://hun.sohu.blog/list.txt",
+"广东,https://gd.sohu.blog/list.txt",
+"广西,https://gx.sohu.blog/list.txt",
+"海南,https://han.sohu.blog/list.txt",
+"西藏,https://xz.sohu.blog/list.txt",
+"甘肃,https://gs.sohu.blog/list.txt",
+"青海,https://qh.sohu.blog/list.txt",
+"宁夏,https://nx.sohu.blog/list.txt",
+"新疆,https://xj.sohu.blog/list.txt",
 
 def fetch_url(url):
     """获取URL内容"""
