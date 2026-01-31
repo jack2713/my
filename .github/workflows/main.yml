@@ -116,7 +116,7 @@ jobs:
         else
           git add myq.txt
           git commit -m "Update myq.txt with fetch_streams.py results [$(date +'%Y-%m-%d %H:%M')]"
-          git push origin HEAD:main
+          git push origin HEAD:main --force
           echo "✅ myq.txt changes committed and pushed"
         fi
 
