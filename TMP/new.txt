@@ -657,7 +657,8 @@ CGTN阿拉伯语,http://nmgbt.sohu.blog:809/hls/148/index.m3u8
 贵州经济频道,http://gz-zb-dx-1.sohu.blog:18000/rtp/238.255.2.9:5999
 天元围棋,http://gz-zb-dx-1.sohu.blog:18000/rtp/238.255.2.7:5999
 二、贵阳市频道：
-贵阳新闻综合,http://8.139.5.66/gdy.php?id=guiyangxwzh
+贵阳新闻综合,http://cn.sohu.blog/gdy.php?id=guiyangxwzh
+贵阳新闻综合,http://222.86.13.196:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 贵阳新闻综合,http://gz-zb-dx-1.sohu.blog:18000/rtp/238.255.2.19:5999
 三、遵义市频道：
 遵义综合频道,http://gz-zb-dx-1.sohu.blog:18000/rtp/238.255.2.153:5999
@@ -666,12 +667,13 @@ CGTN阿拉伯语,http://nmgbt.sohu.blog:809/hls/148/index.m3u8
 四、安顺市频道：
 1. 安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.m3u8
 五、毕节市频道：
+毕节-1,http://111.120.8.205:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 七星关电视台,http://play-hwgy.vzan.com/slowlive/619332743506513871/live.m3u8
 黔西1套,http://gz-zb-dx-1.sohu.blog:18000/rtp/238.255.2.161:5999
 六、铜仁市频道：
 铜仁1套,http://gz-zb-dx-1.sohu.blog:18000/rtp/238.255.2.31:5999
 石阡电视台,http://cmsrtmp.todcy.cn:80/live/154/c6cc918d93fc47b1ad882de4c80eb496/c6cc918d93fc47b1ad882de4c80eb496.m3u8
-印江电视台,http://8.139.5.66/gdy.php?id=tongrenyj
+印江电视台,http://cn.sohu.blog/gdy.php?id=tongrenyj
 七、黔西南布依族苗族自治州频道：
 黔西南综合频道,http://gz.sohu.blog/gzqxn.php?id=xwzh
 望谟电视台,http://cmsrtmp.todcy.cn:80/live/167/64df598530b044a68632460c53cffb09/64df598530b044a68632460c53cffb09.m3u8
