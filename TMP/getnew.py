@@ -34,11 +34,11 @@ URL_CONFIG = [
 "青海,https://qh.sohu.blog/list.txt",
 "宁夏,https://nx.sohu.blog/list.txt",
 "新疆,https://xj.sohu.blog/list.txt",
-"海外,http://jp.sohu.blog/list.txt",
-"海外,http://kr.sohu.blog/list.txt",
-"海外,http://vn.sohu.blog/list.txt",
-"海外,http://th.sohu.blog/list.txt",
-"海外,http://idn.sohu.blog/list.txt",
+"日本,http://jp.sohu.blog/list.txt",
+"韩国,http://kr.sohu.blog/list.txt",
+"越南,http://vn.sohu.blog/list.txt",
+"泰国,http://th.sohu.blog/list.txt",
+"印度尼西亚,http://idn.sohu.blog/list.txt",
 ]
 def fetch_url(url):
     """获取URL内容"""
