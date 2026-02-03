@@ -2754,6 +2754,7 @@ GRTN生活频道,http://cn.sohu.blog/gdtv.php?id=102
 琼海电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.106:5140
 白沙电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.118:5140
 陵水电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.116:5140
+洋浦电视台,http://handz.sohu.blog:9901/tsfile/live/1018_1.m3u8
 
 西藏,#genre#
 西藏卫视,http://xz.sohu.blog/xzzfy.php?id=1
@@ -3142,73 +3143,73 @@ inbm证券服务,https://hlss.gstv.com.cn/se0rch/20sv46.m3u8
 安康紫阳HD,http://shx-zb-dx-1.sohu.blog/rtp/239.112.205.220:5140
 
 日本,#genre#
-NHK G,http://jptv3.sohu.blog/NHK_G/index.m3u8
-NHK E,http://jptv3.sohu.blog/NHK_E/index.m3u8
-NTV,http://jptv3.sohu.blog/Nippon_TV/index.m3u8
-TBS,http://jptv3.sohu.blog/TBS/index.m3u8
-Fuji TV,http://jptv3.sohu.blog/Fuji_TV/index.m3u8
-TV Asahi,http://jptv3.sohu.blog/TV_Asahi/index.m3u8
-TV Tokyo,http://jptv3.sohu.blog/TV_Tokyo/index.m3u8
-TOKYO MX1,http://jptv3.sohu.blog/Tokyo_MX1/index.m3u8
-TOKYO MX2,http://jptv3.sohu.blog/Tokyo_MX2/index.m3u8
-MBS,http://jptv3.sohu.blog/mbs/index.m3u8
-ABC,http://jptv3.sohu.blog/abc/index.m3u8
-TV Osaka,http://jptv3.sohu.blog/tvo/index.m3u8
-Kansai TV,http://jptv3.sohu.blog/kansaitv/index.m3u8
-ytv,http://jptv3.sohu.blog/ytv/index.m3u8
-KBS,http://jptv3.sohu.blog/kbs/index.m3u8
-SUN,http://jptv3.sohu.blog/suntv/index.m3u8
-NHK BS,http://jptv3.sohu.blog/NHK_BS/index.m3u8
-BS NTV,http://jptv3.sohu.blog/bsntv/index.m3u8
-BS Asahi,http://jptv3.sohu.blog/bsasahi/index.m3u8
-BS TBS,http://jptv3.sohu.blog/bstbs/index.m3u8
-BS TV Tokyo,http://jptv3.sohu.blog/bstvtokyo/index.m3u8
-BS Fuji,http://jptv3.sohu.blog/bsfuji/index.m3u8
-BS11,http://jptv3.sohu.blog/BS11/index.m3u8
-NHK BS4K,http://jptv3.sohu.blog/bsp4k/index.m3u8
-WOWOW Prime,http://jptv3.sohu.blog/wprime/index.m3u8
-WOWOW Cinema,http://jptv3.sohu.blog/wcinema/index.m3u8
-WOWOW Live,http://jptv3.sohu.blog/wlive/index.m3u8
-BS 10 Star Channel,http://jptv3.sohu.blog/bs10_star/index.m3u8
-JSport 1,http://jptv3.sohu.blog/js1/index.m3u8
-JSport 2,http://jptv3.sohu.blog/js2/index.m3u8
-JSport 3,http://jptv3.sohu.blog/js3/index.m3u8
-JSport 4,http://jptv3.sohu.blog/js4/index.m3u8
-Green Channel,http://jptv3.sohu.blog/green/index.m3u8
-Animax,http://jptv3.sohu.blog/Animax/index.m3u8
-Nihon Eiga Senmon,http://jptv3.sohu.blog/nihoneiga/index.m3u8
-Sky A,http://jptv3.sohu.blog/skya/index.m3u8
-Gaora Sports,http://jptv3.sohu.blog/gaora/index.m3u8
-AT-X,http://jptv3.sohu.blog/AT-X/index.m3u8
-Space Shower TV,http://jptv3.sohu.blog/spaceshower/index.m3u8
-MTV,http://jptv3.sohu.blog/mtv/index.m3u8
-Kayo Pops,http://jptv3.sohu.blog/kayopops/index.m3u8
-Kids Staton,http://jptv3.sohu.blog/kids_station/index.m3u8
-Disney Channel,http://jptv3.sohu.blog/disneychan/index.m3u8
-Cartoon Network,http://jptv3.sohu.blog/cartoon_network/index.m3u8
-Nittele G+,http://jptv3.sohu.blog/ntvgplus/index.m3u8
-Family Gekijyo,http://jptv3.sohu.blog/familygeki/index.m3u8
-Mondo TV,http://jptv3.sohu.blog/mondo/index.m3u8
-Music ON TV,http://jptv3.sohu.blog/musicon/index.m3u8
-Mnet,http://jptv3.sohu.blog/mnet/index.m3u8
-TBS Channel 1,http://jptv3.sohu.blog/tbsch1/index.m3u8
-TBS Channel 2,http://jptv3.sohu.blog/tbsch2/index.m3u8
-TV Asahi Channel 1,http://jptv3.sohu.blog/ex_ch1/index.m3u8
-TV Asahi Channel 2,http://jptv3.sohu.blog/ex_ch2/index.m3u8
-Fuji TV ONE,http://jptv3.sohu.blog/fuji_one/index.m3u8
-Fuji TV TWO,http://jptv3.sohu.blog/fuji_two/index.m3u8
-Fuji TV NEXT,http://jptv3.sohu.blog/fuji_next/index.m3u8
-Neco Channel,http://jptv3.sohu.blog/neco/index.m3u8
-Dlife,http://jptv3.sohu.blog/dlife/index.m3u8
-Toei Channel,http://jptv3.sohu.blog/toei/index.m3u8
-Fighting TV Samurai,http://jptv3.sohu.blog/fighting_tv/index.m3u8
-Entermei Tele,http://jptv3.sohu.blog/entermei_tele/index.m3u8
-Sport Live Plus,http://jptv3.sohu.blog/sport_live_plus/index.m3u8
-Home Drama Channel,http://jptv3.sohu.blog/homedrama/index.m3u8
-Channel Ginga,http://jptv3.sohu.blog/gingach/index.m3u8
-Tabi Channel,http://jptv3.sohu.blog/tabi/index.m3u8
-Pigoo,http://jptv3.sohu.blog/pigoo/index.m3u8
-V Paradise,http://jptv3.sohu.blog/v_paradise/index.m3u8
+NHK G,http://jptv4.sohu.blog/NHK_G/index.m3u8
+NHK E,http://jptv4.sohu.blog/NHK_E/index.m3u8
+NTV,http://jptv4.sohu.blog/Nippon_TV/index.m3u8
+TBS,http://jptv4.sohu.blog/TBS/index.m3u8
+Fuji TV,http://jptv4.sohu.blog/Fuji_TV/index.m3u8
+TV Asahi,http://jptv4.sohu.blog/TV_Asahi/index.m3u8
+TV Tokyo,http://jptv4.sohu.blog/TV_Tokyo/index.m3u8
+TOKYO MX1,http://jptv4.sohu.blog/Tokyo_MX1/index.m3u8
+TOKYO MX2,http://jptv4.sohu.blog/Tokyo_MX2/index.m3u8
+MBS,http://jptv4.sohu.blog/mbs/index.m3u8
+ABC,http://jptv4.sohu.blog/abc/index.m3u8
+TV Osaka,http://jptv4.sohu.blog/tvo/index.m3u8
+Kansai TV,http://jptv4.sohu.blog/kansaitv/index.m3u8
+ytv,http://jptv4.sohu.blog/ytv/index.m3u8
+KBS,http://jptv4.sohu.blog/kbs/index.m3u8
+SUN,http://jptv4.sohu.blog/suntv/index.m3u8
+NHK BS,http://jptv4.sohu.blog/NHK_BS/index.m3u8
+BS NTV,http://jptv4.sohu.blog/bsntv/index.m3u8
+BS Asahi,http://jptv4.sohu.blog/bsasahi/index.m3u8
+BS TBS,http://jptv4.sohu.blog/bstbs/index.m3u8
+BS TV Tokyo,http://jptv4.sohu.blog/bstvtokyo/index.m3u8
+BS Fuji,http://jptv4.sohu.blog/bsfuji/index.m3u8
+BS11,http://jptv4.sohu.blog/BS11/index.m3u8
+NHK BS4K,http://jptv4.sohu.blog/bsp4k/index.m3u8
+WOWOW Prime,http://jptv4.sohu.blog/wprime/index.m3u8
+WOWOW Cinema,http://jptv4.sohu.blog/wcinema/index.m3u8
+WOWOW Live,http://jptv4.sohu.blog/wlive/index.m3u8
+BS 10 Star Channel,http://jptv4.sohu.blog/bs10_star/index.m3u8
+JSport 1,http://jptv4.sohu.blog/js1/index.m3u8
+JSport 2,http://jptv4.sohu.blog/js2/index.m3u8
+JSport 3,http://jptv4.sohu.blog/js3/index.m3u8
+JSport 4,http://jptv4.sohu.blog/js4/index.m3u8
+Green Channel,http://jptv4.sohu.blog/green/index.m3u8
+Animax,http://jptv4.sohu.blog/Animax/index.m3u8
+Nihon Eiga Senmon,http://jptv4.sohu.blog/nihoneiga/index.m3u8
+Sky A,http://jptv4.sohu.blog/skya/index.m3u8
+Gaora Sports,http://jptv4.sohu.blog/gaora/index.m3u8
+AT-X,http://jptv4.sohu.blog/AT-X/index.m3u8
+Space Shower TV,http://jptv4.sohu.blog/spaceshower/index.m3u8
+MTV,http://jptv4.sohu.blog/mtv/index.m3u8
+Kayo Pops,http://jptv4.sohu.blog/kayopops/index.m3u8
+Kids Staton,http://jptv4.sohu.blog/kids_station/index.m3u8
+Disney Channel,http://jptv4.sohu.blog/disneychan/index.m3u8
+Cartoon Network,http://jptv4.sohu.blog/cartoon_network/index.m3u8
+Nittele G+,http://jptv4.sohu.blog/ntvgplus/index.m3u8
+Family Gekijyo,http://jptv4.sohu.blog/familygeki/index.m3u8
+Mondo TV,http://jptv4.sohu.blog/mondo/index.m3u8
+Music ON TV,http://jptv4.sohu.blog/musicon/index.m3u8
+Mnet,http://jptv4.sohu.blog/mnet/index.m3u8
+TBS Channel 1,http://jptv4.sohu.blog/tbsch1/index.m3u8
+TBS Channel 2,http://jptv4.sohu.blog/tbsch2/index.m3u8
+TV Asahi Channel 1,http://jptv4.sohu.blog/ex_ch1/index.m3u8
+TV Asahi Channel 2,http://jptv4.sohu.blog/ex_ch2/index.m3u8
+Fuji TV ONE,http://jptv4.sohu.blog/fuji_one/index.m3u8
+Fuji TV TWO,http://jptv4.sohu.blog/fuji_two/index.m3u8
+Fuji TV NEXT,http://jptv4.sohu.blog/fuji_next/index.m3u8
+Neco Channel,http://jptv4.sohu.blog/neco/index.m3u8
+Dlife,http://jptv4.sohu.blog/dlife/index.m3u8
+Toei Channel,http://jptv4.sohu.blog/toei/index.m3u8
+Fighting TV Samurai,http://jptv4.sohu.blog/fighting_tv/index.m3u8
+Entermei Tele,http://jptv4.sohu.blog/entermei_tele/index.m3u8
+Sport Live Plus,http://jptv4.sohu.blog/sport_live_plus/index.m3u8
+Home Drama Channel,http://jptv4.sohu.blog/homedrama/index.m3u8
+Channel Ginga,http://jptv4.sohu.blog/gingach/index.m3u8
+Tabi Channel,http://jptv4.sohu.blog/tabi/index.m3u8
+Pigoo,http://jptv4.sohu.blog/pigoo/index.m3u8
+V Paradise,http://jptv4.sohu.blog/v_paradise/index.m3u8
 QVC JAPAN,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 TV Osaka,http://jp.sohu.blog/jp.php?id=5
