@@ -2580,6 +2580,124 @@ GRTN生活频道,http://cn.sohu.blog/gdtv.php?id=102
 云浮综合频道,http://cn.sohu.blog/gdtouch.php?id=2389
 罗定综合,http://cn.sohu.blog/gdtouch.php?id=2491
 
+广西,#genre#
+一、省级频道：
+广西卫视,http://tv.sohu.blog/d/fjbst.php?id=200
+广西卫视,http://henlhlt.sohu.blog:808/hls/52/index.m3u8
+广西卫视,http://hnjy.sohu.blog:90/hls/45/index.m3u8
+广西卫视,http://qihaa.freost.com/gxtv.php?id=1
+广西影视频道,http://171.38.149.190:8082/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+广西移动电视,http://171.38.149.190:8082/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺旅游,http://171.38.149.190:8082/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市频道,http://171.38.149.190:8082/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻频道,http://171.38.149.190:8082/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+广西乐思购,http://171.38.149.190:8082/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺旅游,http://110.72.85.73:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视频道,http://110.72.85.73:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺旅游,http://qihaa.freost.com/gxtv.php?id=2
+广西都市频道,http://qihaa.freost.com/gxtv.php?id=3
+广西影视频道,http://qihaa.freost.com/gxtv.php?id=4
+广西新闻频道,http://qihaa.freost.com/gxtv.php?id=5
+广西国际频道,http://qihaa.freost.com/gxtv.php?id=6
+广西乐思购,http://qihaa.freost.com/gxtv.php?id=7
+广西移动电视,http://qihaa.freost.com/gxtv.php?id=8
+广西影视频道,http://113.12.63.237:10001/rtp/239.81.0.250:4056
+广西新闻频道,http://113.12.63.237:10001/rtp/239.81.0.248:4056
+广西移动电视,http://113.12.63.237:10001/rtp/239.81.0.216:4056
+广西综艺旅游,http://113.12.63.237:10001/rtp/239.81.0.214:4056
+广西都市频道,http://113.12.63.237:10001/rtp/239.81.0.247:4056
+广西乐思购,http://113.12.63.237:10001/rtp/239.81.0.9:4056
+广西国际频道,http://113.12.63.237:10001/rtp/239.81.0.8:4056
+广西视听,http://113.12.63.237:10001/rtp/239.81.0.208:4056
+二、南宁市频道：
+1. 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+2. 南宁文旅生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+3. 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
+4. 南宁公共频道,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
+5. 横州电视台,http://live.nnnews.net/video/s10004-hzstv-hd/index.m3u8
+南宁文旅生活,http://171.38.149.190:8082/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁公共频道,http://171.38.149.190:8082/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁影视娱乐,http://171.38.149.190:8082/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁影视娱乐,http://110.72.66.5:8181/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁新闻综合,http://171.38.149.190:8082/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁影视娱乐,http://110.72.85.73:8181/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁影视娱乐,http://113.12.63.237:10001/rtp/239.81.0.140:4056
+南宁文旅生活,http://113.12.63.237:10001/rtp/239.81.0.127:4056
+南宁新闻综合,http://113.12.63.237:10001/rtp/239.81.0.126:4056
+南宁公共频道,http://113.12.63.237:10001/rtp/239.81.0.141:4056
+隆安电视台,http://p8.vzan.com/slowlive/761366121648225328/live.m3u8
+三、柳州市频道：
+1. 柳州新闻综合,http://cn.sohu.blog/gdy.php?id=liuzhouxwzh
+2. 柳州科教频道,http://cn.sohu.blog/gdy.php?id=liuzhoukj
+柳州新闻综合,http://113.12.63.237:10001/rtp/239.81.0.134:4056
+3. 鹿寨电视台,rtmp://live.gxrb.com.cn/tv/luzhai
+四、桂林市频道：
+桂林新闻综合,http://113.12.63.237:10001/rtp/239.81.0.174:4056
+桂林公共频道,http://113.12.63.237:10001/rtp/239.81.0.222:4056
+桂林科教旅游,http://113.12.63.237:10001/rtp/239.81.0.221:4056
+桂林新闻综合,rtmp://202.103.242.190/live/TVxw
+桂林公共频道,rtmp://202.103.242.190/live/TVgg
+桂林科教旅游,rtmp://202.103.242.190/live/TVkj
+4. 全州新闻综合,rtmp://live.gxrb.com.cn/gx/quanzhou
+5. 兴安新闻综合,rtmp://live.gxrb.com.cn/gx/xingan
+五、梧州市频道：
+梧州新闻综合,http://live.wuzhourm.cn:80/xwzh/index.m3u8
+梧州教育生活,http://live.wuzhourm.cn:80/jysh/index.m3u8
+梧州新闻综合,http://113.12.63.237:10001/rtp/239.81.0.176:4056
+藤县电视台,rtmp://live.gxrb.com.cn/gx/tengxian
+六、北海市频道：
+北海新闻综合,http://bhlive.gxbhxww.cn/live/xwzh20250801.m3u8
+北海经济科教,http://bhlive.gxbhxww.cn/live/kj20250526001.m3u8
+北海新闻综合,http://113.12.63.237:10001/rtp/239.81.0.136:4056
+七、防城港频道：
+防城港新闻综合,http://gx.sohu.blog/gxfcg.php?id=app1
+防城港公共频道,http:/gx.sohu.blog/gxfcg.php?id=app3
+西湾跨海大桥直播,http://gx.sohu.blog/gxfcg.php?id=fcgtvb2022
+防城港新闻综合,http://113.12.63.237:10001/rtp/239.81.0.151:4056
+八、钦州市频道：
+钦州综合频道,https://stream.gxqzxw.com/qzzhpd/qzzhpd/live.m3u8
+钦州公共频道,https://stream.gxqzxw.com/qzggpd/ggpd/live.m3u8
+钦州综合频道,http://171.38.149.190:8082/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+灵山电视台,http://171.38.149.190:8082/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+灵山电视台,rtmp://live.gxrb.com.cn/gx/lingshan
+钦州综合频道,http://113.12.63.237:10001/rtp/239.81.0.165:4056
+九、贵港市频道：
+贵港综合,http://113.12.63.237:10001/rtp/239.81.0.172:4056
+平南电视台,http://110.72.85.73:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+平南电视台,http://110.72.53.81:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+十、玉林市频道：
+玉林新闻综合,http://cn.sohu.blog/gdy.php?id=yulinxwzh
+玉林新闻综合,http://171.38.107.34:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+北流综合频道,http://171.38.107.34:8181/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+博白电视台,rtmp://live.gxrb.com.cn/hls/a22
+容县电视台,rtmp://live.gxrb.com.cn/gx/rongxian
+玉林新闻综合,http://113.12.63.237:10001/rtp/239.81.0.177:4056
+十一、百色市频道：
+百色综合,http://113.12.63.237:10001/rtp/239.81.0.150:4056
+田东电视台,http://zj.sohu.blog/zjdft.php?id=1758786150192313
+那坡电视台,http://rtmp.gdlive.gdmain.com/live/ljkp2890.m3u8
+靖西电视台,http://rtmp.gdlive.gdmain.com/live/02924vr5.m3u8
+凌云电视台,http://rtmp.gdlive.gdmain.com/live/lnp683z5.m3u8
+隆林电视台,rtmp://live.gxrb.com.cn/gx/longlin
+田阳电视台,rtmp://live.gxrb.com.cn/gx/tianyang
+乐业电视台,rtmp://live.gxrb.com.cn/gx/leye
+十二、河池市频道：
+河池综合,http://113.12.63.237:10001/rtp/239.81.0.168:4056
+1. 都安电视台,https://rtmp.gdlive.gdmain.com/live/lgo97185.m3u8
+2. 东兰电视台,http://rtmp.gdlive.gdmain.com/live/02924925.m3u8
+十三、来宾市频道：
+1. 来宾综合频道,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
+2. 来宾新闻荟萃,http://zb.gxlbamc.com:1935/live/xwhc.stream/playlist.m3u8
+来宾综合频道,http://113.12.63.237:10001/rtp/239.81.0.170:4056
+3. 金秀电视台,rtmp://live.gxrb.com.cn/tv/jinxiu_zh
+十四、崇左市频道：
+崇左综合,http://113.12.63.237:10001/rtp/239.81.0.218:4056
+1. 天等电视台,rtmp://live.gxrb.com.cn/gx/tiandeng
+2. 凭祥电视台,rtmp://live.gxrb.com.cn/gx/pingxiang
+十五、贺州市频道
+贺州综合,http://113.12.63.237:10001/rtp/239.81.0.137:4056
+备注：文件中包含了tv.php中所有广西相关的频道，按照省级和地州市进行了分类整理。
+
 海南,#genre#
 海南卫视,http://tv.sohu.blog/d/fjbst.php?id=199
 海南卫视,https://tv.sohu.blog/d/xxqg.php?id=hainanws
