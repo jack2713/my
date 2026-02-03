@@ -34,6 +34,8 @@ URL_CONFIG = [
 "青海,https://qh.sohu.blog/list.txt",
 "宁夏,https://nx.sohu.blog/list.txt",
 "新疆,https://xj.sohu.blog/list.txt",
+"辽宁,https://ln.sohu.blog/list.txt",
+"陕西,https://shx.sohu.blog/list.txt",
 "日本,http://jp.sohu.blog/list.txt",
 "韩国,http://kr.sohu.blog/list.txt",
 "越南,http://vn.sohu.blog/list.txt",
