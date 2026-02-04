@@ -1,4 +1,104 @@
 国际,#genre#
+CANALUNO,http://181.143.237.211:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+RCN,http://181.143.237.211:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+SEL COLOMBIA,http://181.143.237.211:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+ISTITUCIONAL,http://181.143.237.211:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CONGRESO,http://181.143.237.211:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+TELE ISLAS,http://181.143.237.211:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CITYTV,http://181.143.237.211:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CAPITAL,http://181.143.237.211:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CARACOL,http://181.143.237.211:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+TELECARIBE,http://181.143.237.211:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+TELEPACIFICO,http://181.143.237.211:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+HOMEAND,http://181.143.237.211:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+ENLACE,http://181.143.237.211:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+ID,http://181.143.237.211:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+TNTNOVELAS,http://181.143.237.211:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+MTV,http://181.143.237.211:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+TV NOVELAS,http://181.143.237.211:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+LAS ESTRELLAS,http://181.143.237.211:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+DISCOBERY TURBO,http://181.143.237.211:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+ANIMALOLANT,http://181.143.237.211:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+HISTORY,http://181.143.237.211:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+DISCOBERY CHANEL,http://181.143.237.211:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CINE CANAL,http://181.143.237.211:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+NATHIONAL GEOGRAFI,http://181.143.237.211:85/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+DISCOBERY WORD,http://181.143.237.211:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+UNIVERSAL,http://181.143.237.211:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+USA,http://181.143.237.211:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CINEMAX,http://181.143.237.211:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+SONY,http://181.143.237.211:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+AXN,http://181.143.237.211:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+FX,http://181.143.237.211:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+GOLDEN,http://181.143.237.211:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+DPELICULA,http://181.143.237.211:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+TNTSPORT,http://181.143.237.211:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+ENTRETENIMIENTO,http://181.143.237.211:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+WARNER,http://181.143.237.211:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+TLC,http://181.143.237.211:85/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+AE,http://181.143.237.211:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CINELATINO,http://181.143.237.211:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+ESPC,http://181.143.237.211:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CINEMUNDO,http://181.143.237.211:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+espn3,http://181.143.237.211:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+WIN,http://181.143.237.211:85/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+espn6,http://181.143.237.211:85/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+espn7,http://181.143.237.211:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+ESPN2,http://181.143.237.211:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+ESPEN,http://181.143.237.211:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+history2,http://181.143.237.211:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+REGUETON,http://181.143.237.211:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+MULTIPREMIER,http://181.143.237.211:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+LAKALLE,http://181.143.237.211:85/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+TCM,http://181.143.237.211:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+AEMUNDO,http://181.143.237.211:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+unicanal,http://181.143.237.211:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+LOVENATURE,http://181.143.237.211:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+THETAER,http://181.143.237.211:85/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+HGTV,http://181.143.237.211:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+LATELE,http://181.143.237.211:85/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+LATINA,http://181.143.237.211:85/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+TRECE,http://181.143.237.211:85/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+TVPERU,http://181.143.237.211:85/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+NATGEO,http://181.143.237.211:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+ESP5,http://181.143.237.211:85/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+RCNNOVELAS,http://181.143.237.211:85/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+PLIMPLIM,http://181.143.237.211:85/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+DISNEYCHANEL,http://181.143.237.211:85/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+DISNEYJR,http://181.143.237.211:85/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+CARTONNETWWOR,http://181.143.237.211:85/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+DISCOBERYKIS,http://181.143.237.211:85/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+FRANCE24,http://181.143.237.211:85/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+TOCASNAT,http://181.143.237.211:85/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+NICKJR,http://181.143.237.211:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+CARTONCITO,http://181.143.237.211:85/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+BABYFRIST,http://181.143.237.211:85/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+NICKELODEON,http://181.143.237.211:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+TVNOSTALGIA,http://181.143.237.211:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+WILLAX,http://181.143.237.211:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+UNIVERSALCINEM,http://181.143.237.211:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+UNIVERSALPREMIER,http://181.143.237.211:85/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+ATVV,http://181.143.237.211:85/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+ATV,http://181.143.237.211:85/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+STUDIOUNIVERSAL,http://181.143.237.211:85/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+PARAWAY,http://181.143.237.211:85/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+TVN,http://181.143.237.211:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+CARACOLHD,http://181.143.237.211:85/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+ZOMM,http://181.143.237.211:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+RCNHD,http://181.143.237.211:85/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+TROP,http://181.143.237.211:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+TELEFE,http://181.143.237.211:85/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+ECUADORTV,http://181.143.237.211:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+UNIVERSALCOMEDI,http://181.143.237.211:85/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+HBOPLUS,http://181.143.237.211:85/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+HBO2,http://181.143.237.211:85/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+NTV,http://181.143.237.211:85/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+PACIONES,http://181.143.237.211:85/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
+STARCHANEL,http://181.143.237.211:85/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
+MEGA,http://181.143.237.211:85/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+CNNESPAL,http://181.143.237.211:85/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+HBO,http://181.143.237.211:85/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
+HBOFAMILY,http://181.143.237.211:85/tsfile/live/1102_1.m3u8?key=txiptv&playlive=1&authid=0
 CNN,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/47213
 BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 ABC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121139
