@@ -53,7 +53,7 @@ def fetch_m3u_channels_and_save(urls, output_file_path):
 
 if __name__ == "__main__":
     urls = [
-        'https://live.hacks.tools/iptv/categories/movies.m3u',
+        'https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/litv.m3u',
     ]
     
     output_file_path = "TMP/TMP.txt"
