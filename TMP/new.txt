@@ -136,315 +136,6 @@ CGTN阿拉伯语,http://nmgbt.sohu.blog:809/hls/148/index.m3u8
 中国天气,http://tv.sohu.blog/d/mg.php?id=959986621
 环球奇观,http://112.132.10.54:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 
-四川,#genre#
-一、省级频道：
-四川卫视,http://tv.sohu.blog/d/fjbst.php?id=192
-四川卫视,http://222.214.208.34:59901/tsfile/live/0017_1.m3u8
-四川卫视,http://115.29.208.41/sctv.php?id=1
-四川卫视4K,http://115.29.208.41/sctv.php?id=10
-四川科教频道,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-四川乡村频道,http://scxclivepull.sctvcloud.com/live/c0b8c1c3018e1000e51198d100000000/playlist.m3u8?wsSecret=b627c9d9b2cdf4afed08253b6125fe1f&wsTime=2019657600
-四川乡村频道,http://115.29.208.41/sctv.php?id=8
-四川新闻频道,http://115.29.208.41/sctv.php?id=2
-四川经济频道,http://222.214.208.34:59901/tsfile/live/1012_1.m3u8
-四川经济频道,http://115.29.208.41/sctv.php?id=3
-四川文化旅游,http://222.214.208.34:59901/tsfile/live/1015_1.m3u8
-四川文化旅游,http://115.29.208.41/sctv.php?id=4
-四川影视文艺,http://222.214.208.34:59901/tsfile/live/1018_1.m3u8
-四川影视文艺,http://115.29.208.41/sctv.php?id=5
-四川妇女儿童,http://115.29.208.41/sctv.php?id=6
-四川妇女儿童,http://222.214.208.34:59901/tsfile/live/1006_1.m3u8
-四川星空购物,http://115.29.208.41/sctv.php?id=7
-康巴卫视,http://115.29.208.41/sctv.php?id=9
-每日财经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
-峨眉电影,http://b.sohu.blog:8888/newlive/live/hls/32/live.m3u8
-峨眉电影,http://222.214.208.34:59901/tsfile/live/1004_1.m3u8
-四川乡村频道,http://sc.sohu.blog/sc.php?id=scxc
-二、成都市频道：
-成都新闻频道,http://115.29.208.41/sccd.php?id=cdtv1
-成都经济频道,http://115.29.208.41/sccd.php?id=cdtv2
-成都生活频道,http://115.29.208.41/sccd.php?id=cdtv3
-成都影视频道,http://115.29.208.41/sccd.php?id=cdtv4
-成都公共频道,http://115.29.208.41/sccd.php?id=cdtv5
-成都少儿频道,http://115.29.208.41/sccd.php?id=cdtv6
-成都蓉城先锋,http://115.29.208.41/sccd.php?id=cdrcxf
-双流综合频道,http://171.221.250.132:28080/live/3146B3F489F1246E4E542E341B99EEAD.m3u8
-双流综合,http://115.29.208.41/sccd.php?id=sl
-简阳新闻综合,http://jypull.jianyangrongmei.cn/live/fb9eea7d019310009e23a40200000000/playlist.m3u8?wsSecret=27502e2ade19ed4f0c73f2d43a9547b3&wsTime=2019657600
-简阳新闻综合,http://115.29.208.41/sccd.php?id=jy
-金堂电视台,https://p8.vzan.com/slowlive/188010566442385577/live.m3u8
-金堂电视台,http://115.29.208.41/sccd.php?id=jt
-高新电视台,http://livepgc.chinamcache.com/pgc/d849e3b837e34409b46124c267a8a1cf.m3u8?auth_key=1719565624-0-0-c80453df5f2edc88776ce766e497b52b
-高新电视台,http://115.29.208.41/sccd.php?id=gx
-彭州电视台,http://115.29.208.41/sccd.php?id=pz
-青白江电视台,http://115.29.208.41/sccd.php?id=qbj
-蒲江电视台,http://115.29.208.41/sccd.php?id=pj
-大邑综合,http://115.29.208.41/sccd.php?id=dy
-邛崃电视台,http://115.29.208.41/sccd.php?id=ql
-郫都新闻综合,http://115.29.208.41/sccd.php?id=pd
-温江电视台,http://115.29.208.41/sccd.php?id=wj
-新都电视台,http://115.29.208.41/sccd.php?id=xd
-成华有线电视,http://115.29.208.41/sccd.php?id=ch
-武侯电视台,http://115.29.208.41/sccd.php?id=wh
-金牛电视台,http://115.29.208.41/sccd.php?id=jn
-青羊电视台,http://115.29.208.41/sccd.php?id=qy
-锦江电视,http://115.29.208.41/sccd.php?id=jj
-崇州电视1套,http://115.29.208.41/sccd.php?id=cz
-崇州电视1套,http://livesec.mudu.tv/watch/x6h90s.m3u8
-都江堰电视台,http://115.29.208.41/sccd.php?id=djy
-新津电视台,http://115.29.208.41/sccd.php?id=xj
-简阳新闻综合,http://sc.sohu.blog/sc.php?id=cd_jy1
-三、自贡市频道：
-自贡综合,http://sc-zb-dx-1.sohu.blog:8686/rtp/239.94.0.169:5140
-自贡文化生活,http://sc-zb-dx-1.sohu.blog:8686/rtp/239.94.0.178:5140
-荣县综合频道,http://play.rongxianwang.net/ydrx/rongxianlive.m3u8?auth_key=1715846517-0-0-69728c58ca3d40f9331a8cf77d985e93
-四、攀枝花市频道：
-攀枝花新闻综合,http://pzhlive.pzhxinwen.cn/pzhxw/pzh_xw.m3u8?auth_key=1760079276-0-0-3ba55c2971070cdb3b4212fe62481776
-五、泸州市频道：
-泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
-泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
-合江综合频道,http://hjpull.hjxtv.com/live/13034430018f10001416c54900000000/playlist.m3u8?wsSecret=61be0b2528cf1f9f05a427cf47c632b7&wsTime=2019657600
-泸县综合频道,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
-泸县综合频道,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
-合江综合频道,http://sc.sohu.blog/sc.php?id=lz_hj1
-六、德阳市频道：
-德阳新闻综合,https://zb.scdytv.cn/live/xwpd.m3u8
-德阳文旅科教,https://zb.scdytv.cn/live/wlkj.m3u8
-罗江电视台,http://pull.luojiangrongmei.com/ljds/ljtv.m3u8
-中江电视台,http://bl.zjtvrm.cn/live/zjrmzxzb.m3u8?timestamp=20250617174454&encrypt=7759375eb83dccfe26811155bff1c4be
-绵竹电视台,http://115.190.252.60/gdy.php?id=deyangmj2
-什邡电视台,http://live.sfrmt.com:85/live/zhpd.m3u8
-广汉综合频道,http://dcpull.ghrmt.cn/live/5c2bdb1a018f100098165ffc00000000/playlist.m3u8?wsSecret=0e9e279d000d65e46c102be4479c95c7&wsTime=2019657600
-广汉综合频道,http://sc.sohu.blog/sc.php?id=dy_gh1
-旌阳综合频道,http://sc.sohu.blog/scdyjy.php
-七、绵阳市频道：
-绵阳新闻综合,http://tvpull.myntv.cn/rtmp/myzh.m3u8
-绵阳新闻综合,http://fjgcl.myxwcm.cn/live/9ff5a9b001971000b986a10c00000000/playlist.m3u8?wsSecret=c91a6af5e349cc6b3115363a3eb001a7&wsTime=2019657600
-绵阳科教生活,http://tvpull.myntv.cn/rtmp/mykj.m3u8
-绵阳科教生活,http://fjgcl.myxwcm.cn/live/9ff6671801971000c0df254f00000000/playlist.m3u8?wsSecret=47b8341e592207bfe68c68ba9fc11d92&wsTime=2019657600
-江油新闻综合,http://dcpull.scjygd.com/live/ff5c559e01991000c5ebe0ef00000000/playlist.m3u8?wsSecret=2fdf41755c7312dfd94e773dff29b323&wsTime=2019657600
-北川综合频道,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
-盐亭综合频道,http://ytpull.ytxrmt.cn/live/73957476019110000fa2d07e00000000/playlist.m3u8?wsSecret=4523bde38d7c20bd3cf59ed049408dd4&wsTime=2019657600
-梓潼综合频道,http://ztpull.ztrmfb.cn/live/b98e28f7019310006d65e1b500000000/playlist.m3u8?wsSecret=3f2fe004036db44ed21947b739da34de&wsTime=2019657600
-安州综合频道,http://azpull.myaztv.cn/live/2cd42a81018f10007b6e374500000000/playlist.m3u8?wsSecret=8a445524870caa0faf335e75a0d52dd2&wsTime=2019657600
-平武综合频道,http://pwpull.sctvcloud.com/live/70e2080b018f1000cfd1a93200000000/playlist.m3u8?wsSecret=e5dbc7e890fa212941dee20eacfe85a7&wsTime=2019657600
-三台电视台,http://125.65.94.91:12351/live
-绵阳新闻综合,http://sc.sohu.blog/sc.php?id=my1
-绵阳科教生活,http://sc.sohu.blog/sc.php?id=my2
-江油新闻综合,http://sc.sohu.blog/sc.php?id=my_jy1
-安州综合频道,http://sc.sohu.blog/sc.php?id=my_az1
-盐亭综合频道,http://sc.sohu.blog/sc.php?id=my_yt1
-梓潼综合频道,http://sc.sohu.blog/sc.php?id=my_zt1
-平武综合频道,http://sc.sohu.blog/sc.php?id=my_pw1
-八、广元市频道：
-广元综合频道,http://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
-广元文化生活,http://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-青川综合频道,http://qcfile.qcrmt.com:80/nmip-media/channellive/channel100933/playlist.m3u8
-昭化综合频道,http://live.zhgbtv.cn:3100/hlsram/live0/index.m3u8
-利州电视台,https://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
-朝天综合频道,http://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-苍溪电视台,rtmp://118.121.231.225:1935/live/hdmi054
-剑阁电视台,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-九、遂宁市频道：
-遂宁综合频道,http://abc.sohu.blog/scsn.php?id=xwzh
-遂宁文化生活,http://abc.sohu.blog/scsn.php?id=gggy
-蓬溪新闻综合,http://pxpull.pengxiyun.cn/live/03c29776018f10002512b07f00000000/playlist.m3u8?wsSecret=4b8511b5e9f31ec0478debd6664c2711&wsTime=2019657600
-射洪综合频道,http://115.190.252.60/gdy.php?id=suiningsh
-大英新闻综合,http://zb.dyrmt.com:10086/hls/P6nlSMxSg/playlist.m3u8
-蓬溪新闻综合,http://sc.sohu.blog/sc.php?id=sn_px1
-安居综合,http://sc.sohu.blog/sc.php?id=sn_aj1
-十、内江市频道：
-内江综合频道,http://njzb.scnj.tv/hls_njtv_direct/1.m3u8
-内江科教生活,http://njzb.scnj.tv/hls_njtv_direct/9.m3u8
-威远综合频道,http://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
-东兴综合频道,http://dxpull.njdxrm.cn/live/93f6de420192100084d4e49300000000/playlist.m3u8?wsSecret=5af4267b22744b16a7d4bb75fed6b7e7&wsTime=2019657600
-资中综合频道,http://zzpull.zzrmtzx.cn/live/75c3758a0193100092e8cea100000000/playlist.m3u8?wsSecret=e40ab1fec464e16bb966fa960cc9ff30&wsTime=2019657600
-隆昌综合频道,http://lcpull.lcrmt.cn/live/290b5c6d018f10005f27549100000000/playlist.m3u8?wsSecret=16fa06c38ecb93e0b4743792b7ea0641&wsTime=2019657600
-东兴综合频道,http://sc.sohu.blog/sc.php?id=nj_dx1
-资中综合频道,http://sc.sohu.blog/sc.php?id=nj_zz1
-隆昌综合频道,http://sc.sohu.blog/sc.php?id=nj_lc1
-十一、乐山市频道：
-乐山新闻综合,http://pwpull.leshan.cn/live/21609091019110008654ed1a00000000/playlist.m3u8
-乐山文旅生活,http://pwpull.leshan.cn/live/216e177701911000eb46902c00000000/playlist.m3u8
-乐山文旅生活,http://222.214.208.34:59901/tsfile/live/1002_1.m3u8
-峨边综合频道,http://applive.iebrmt.cn/live/ls1.m3u8?txSecret=c9d94de7720d19569051c533a7ec43a9&txTime=8375D652
-犍为综合频道,http://p8.vzan.com/slowlive/230559508552681163/live.m3u8
-金口河综合,http://pili-live-hls.227.i2863.com/i2863-227/live_227_687291.m3u8
-沐川综合,http://115.29.208.41/hlsproxy.php?id=mczh
-峨眉山电视台,http://embl.emsyd.jrem.cn/dsfdsfdsfdsfsfdshfgj/wwdsfdgd.m3u8?auth_key=1718610605-0-0-23887de4a278cb108ba8936de20eb854
-井研电视台,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
-十二、南充市频道：
-南充综合频道,http://ncrmpull.cnncw.cn/live/8f7b908601931000dd6ee79a00000000/playlist.m3u8?wsSecret=371a8108a7826e6dd8a0d9fe5f90272c&wsTime=2019657600
-南充科教生活,http://ncrmpull.cnncw.cn/live/8f7f8d3101931000ffbe3ba700000000/playlist.m3u8?wsSecret=0148edb88bca6b49e86cc6ef96fb3ac3&wsTime=2019657600
-顺庆融媒,http://sc.sohu.blog/scncsq.php
-仪陇新闻综合,http://live.yilongnews.com/live/ylzhpd.m3u8?auth_key=1741134122-0-0-fbf8d764c05b0a2547234f0f9f64e4b6
-阆中电视台,http://p2hs.vzan.com/slowlive/798833473879633259/live.m3u8
-南部电视台,http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
-营山电视台,http://m3u8channel.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
-南充综合频道,http://sc.sohu.blog/sc.php?id=nc1
-南充科教生活,http://sc.sohu.blog/sc.php?id=nc2
-西充电视台,http://sc.sohu.blog/scncxc.php
-十三、眉山市频道：
-眉山综合频道,http://mspull.scmstv.cn/live/ce36a16001931000ae80bca700000000/playlist.m3u8?wsSecret=49e65941b5f64a96d49821788f95c5c4&wsTime=2019657600
-眉山文旅乡村,http://mspull.scmstv.cn/live/ce37b20c019310008a26359200000000/playlist.m3u8?wsSecret=50ed7f4eef886539c3a8e409e4a19001&wsTime=2019657600
-洪雅电视台,http://dg1sy-livehls.migucloud.com/live/TIMV9AKA_C0/playlist.m3u8
-彭山综合频道,https://play.psrmt.cn/live/ZYADBGLP_C0/playlist.m3u8
-丹棱综合频道,http://dlpull.2289869471.com/live/08f432a6018f10004816cbcd00000000/playlist.m3u8?wsSecret=d98e7f46e3e9a00831add9054a55cbfd&wsTime=2019657600
-眉山综合频道,http://sc.sohu.blog/sc.php?id=ms1
-眉山文旅乡村,http://sc.sohu.blog/sc.php?id=ms2
-丹棱综合频道,http://sc.sohu.blog/sc.php?id=ms_dl1
-十四、宜宾市频道：
-宜宾新闻频道,http://njzb.scnj.tv/hls_njtv_direct/1.m3u8
-叙州综合频道,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
-珙县电视台,http://m3u8.chuanqigongxian.cn/nmip-media/channellive/channel100449/playlist.m3u8
-筠连电视台,http://play.dameijunlian.cn/live/10004131.m3u8?auth_key=1783733887-0-0-a1440d3435267d785dcbbe1629a42558
-江安电视台,http://play.jaxrm.cn/live/10056626.m3u8?auth_key=1794904149-0-0-bb4b97897e10ea786e73f37f82e47fd5
-南溪电视台,http://p2hs.vzan.com/slowlive/371673471833525863/live.m3u8
-长宁综合频道,https://cnpull.sccnfb.com/live/123456.m3u8
-十五、广安市频道：
-广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH_HD.m3u8
-广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
-武胜综合,http://wspull.wsxrmt.com.cn/live/fb899c55019310000893a7cd00000000/playlist.m3u8?wsSecret=49781046550db1e8434768dc478f8b59&wsTime=2019657600
-邻水综合,http://lspull.lsrmtzx.cn/live/c92cb6c001971000d922f2dd00000000/playlist.m3u8?wsSecret=8bca56a07d291fb734625e030a47ff25&wsTime=2019657600
-前锋综合,http://qfpull.qfrmt.cn/live/48364bd5019310005e7f2b2600000000/playlist.m3u8?wsSecret=38f5b177eaf9db3cd2b5b5e01e791a90&wsTime=2019657600
-华蓥综合频道,http://218.89.61.237:83/live/xwzh.m3u8
-前锋综合,http://sc.sohu.blog/sc.php?id=ga_qf1
-邻水综合,http://sc.sohu.blog/sc.php?id=ga_ls1
-武胜综合,http://sc.sohu.blog/sc.php?id=ga_ws1
-十六、达州市频道：
-达州新闻综合,https://file.dzrm.cn/nmip-media/channellive/channel104234/playlist.m3u8
-达州文化生活,https://file.dzrm.cn/nmip-media/channellive/channel104727/playlist.m3u8
-达川综合频道,http://sc.sohu.blog/scdzdc.php
-大竹新闻综合,http://lmt.dazhutv.cn/live1/live1.m3u8
-开江新闻综合,https://lmt.kjzx.net:98/live1/live1.m3u8
-渠县新闻综合,http://183.222.248.153:81/hls/cfp2p8m3.m3u8
-宣汉综合频道,http://livexuanhan.chinamcache.com/live/push1.m3u8
-十七、雅安市频道：
-雅安新闻综合频道,http://play.yunxya.com/channellive/xinwen.m3u8
-雅安文化生活频道,http://play.yunxya.com/channellive/whsh.m3u8
-雨城频道,http://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
-汉源电视台,http://m3u8channel-hy.yunxya.com/nmip-media/channellive/channel104355/playlist.m3u8
-名山电视台,http://m3u8channel-ms.yunxya.com/nmip-media/channellive/channel100249/playlist.m3u8
-石棉电视台,http://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
-宝兴电视台,http://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
-十八、巴中市频道：
-南江电视台,http://36903.hlsplay.aodianyun.com/tv_radio_36903/tv_channel_1670.m3u8?auth_key=4842409639-0-0-319d3d61d27f502f5b5f0f76e7fa6874&extra_key=YptbuuU4ni8OBTztr__wTSm-QnJOZeFyY8K0svzHJXyx8i_Bwwirqaews6N1gr-_4uVfOgbaOHwbH5u3_SrH4tTfxj9Nq7Az5LOT0a8C2sHIKSmLBEAoz4lSxmsINvTeQ5QF1ngz-OYrciPm27dkyEEQdzEUxwSVphOF99qfQFU
-南江电视台,http://115.190.252.60/gdy.php?id=bazhnj
-平昌综合频道,http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8
-十九、资阳市频道：
-资阳新闻综合,http://sc.sohu.blog/sczy.php?id=2
-资阳雁江频道,http://sc.sohu.blog/sczy.php?id=5
-安岳综合频道,http://aytvpull.ayrmt.com/live/sobeystream_1728362049.m3u8
-乐至电视台,http://175.155.106.72:89/live1/live1.m3u8
-二十、阿坝藏族羌族自治州频道：
-阿坝新闻综合,http://apppull.aba-news.com.cn/live/be5325350190100009f6751d00000000/playlist.m3u8?wsSecret=35d0fb48b07a2c3c051b8c050e1ef7d9&wsTime=2019657600
-阿坝藏语综合,http://apppull.aba-news.com.cn/live/be57fb5401901000b611a82100000000/playlist.m3u8?wsSecret=5d932b106deb38dfdd65bf463a0278f7&wsTime=2019657600
-黑水电视台,http://live.schstv.com:90/live/xwzh.m3u8
-若尔盖综合,http://regpull.regrmt.cn/live/fba4bdf0019310007748ce6c00000000/playlist.m3u8?wsSecret=c48a78f1f3c14458a9867a8067c8bb5b&wsTime=2019657600
-九寨沟新闻综合,http://jzpull.jzgrmt.cn/live/71af360e0193100051149d6b00000000/playlist.m3u8?wsSecret=052358fbc75c0e852954a22a51d0cd7f&wsTime=2019657600
-汶川电视台,http://live.iwcmt.cn:90/live/zhxw.m3u8
-金川电视台,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
-阿坝新闻综合,http://sc.sohu.blog/sc.php?id=ab1
-阿坝藏语综合,http://sc.sohu.blog/sc.php?id=ab2
-九寨沟新闻综合,http://sc.sohu.blog/sc.php?id=ab_jzg1
-若尔盖综合,http://sc.sohu.blog/sc.php?id=ab_reg1
-茂县新闻综合,http://sc.sohu.blog/scabmx.php
-二十一、甘孜藏族自治州频道：
-甘孜综合频道,http://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
-德格电视台,http://m3u8channel.ganzitv.com/nmip-media/channellive/channel101955/playlist.m3u8
-石渠电视台,http://m3u8channel.ganzitv.com/nmip-media/channellive/channel101661/playlist.m3u8
-二十二、凉山彝族自治州频道：
-凉山新闻频道,http://115.29.208.41/hlsproxy.php?id=lsxw
-凉山彝语综合,http://115.29.208.41/hlsproxy.php?id=lsyy
-宁南综合频道,http://nnpull.ningnan.gov.cn/live/bd3e289e018f100042d46e9300000000/playlist.m3u8?wsSecret=f1408b81c110be4002ba3cfc6201845e&wsTime=2019657600
-昭觉综合频道,http://dcpull.sctvcloud.com/live/4bb3c2bd01881000e843b73a00000000/playlist.m3u8?wsSecret=bdbce84e9132e6e7e96fd442eb58b5dd&wsTime=2019657600
-甘洛综合频道,http://glpull.glxrmtzx.cn/live/2a1603a1019410001fedc3cd00000000/playlist.m3u8?wsSecret=b31c02126c0367a84b0bd175dc7ea8db&wsTime=2019657600
-冕宁电视台,http://mnpull.sichuanmianning.cn/live/1a5459a9019410003d361ee300000000/playlist.m3u8?wsSecret=aa89dc2d76484ed81b98e1765e972607&wsTime=2019657600
-会东电视台,http://exfile.schdxww.com:80/nmip-media/channellive/channel100055/playlist.m3u8
-普格电视台,http://171.215.30.43:8086/0.m3u8
-宁南综合频道,http://sc.sohu.blog/sc.php?id=ls_nn1
-昭觉综合频道,http://sc.sohu.blog/sc.php?id=ls_zj1
-甘洛综合频道,http://sc.sohu.blog/sc.php?id=ls_gl1
-冕宁电视台,http://sc.sohu.blog/sc.php?id=ls_mn1
-
-重庆,#genre#
-重庆卫视,http://cq.sohu.blog/cqxw.php?channel=3
-重庆卫视,http://tv.sohu.blog/d/fjbst.php?id=195
-重庆新闻,http://cq.sohu.blog/cqxw.php?channel=6
-重庆新闻,http://cq-zb-lt-1.sohu.blog/rtp/225.0.4.188:7980
-重庆影视剧,http://cq-zb-lt-1.sohu.blog/rtp/225.0.4.192:7980
-重庆新农村,http://cq-zb-lt-1.sohu.blog/rtp/225.0.4.189:7980
-重庆少儿,http://cq-zb-lt-1.sohu.blog/rtp/225.0.4.191:7980
-重庆社会与法,http://cq-zb-lt-1.sohu.blog/rtp/225.0.4.190:7980
-重庆红叶,http://cq-zb-lt-1.sohu.blog/rtp/225.0.4.193:7980
-重庆红岩文化,http://cq-zb-lt-1.sohu.blog/rtp/225.0.4.196:7980
-重庆汽摩,http://cq-zb-lt-1.sohu.blog/rtp/225.0.4.195:7980
-重庆移动,http://cq-zb-lt-1.sohu.blog/rtp/225.0.4.215:7980
-重庆新闻,http://cq-zb-dx-1.sohu.blog/rtp/235.254.197.199:7980
-重庆影视剧,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.180:7980
-重庆文体娱乐,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.187:7980
-重庆新农村,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.186:7980
-重庆少儿,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.166:7980
-重庆社会与法,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.181:7980
-重庆红叶,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.188:7980
-重庆红岩文化,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.182:7980
-重庆汽摩,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.169:7980
-重庆移动,https://zbxclive9.cbg.cn/app_2/ls_58.stream/playlist.m3u8
-重庆移动,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.170:7980
-重广融媒,http://cq-zb-dx-1.sohu.blog/rtp/235.254.197.114:7980
-重庆新闻,http://cq-zb-dx-2.sohu.blog/rtp/235.254.197.199:7980
-重庆影视剧,http://cq-zb-dx-2.sohu.blog/rtp/235.254.198.180:7980
-重庆文体娱乐,http://cq-zb-dx-2.sohu.blog/rtp/235.254.198.187:7980
-重庆新农村,http://cq-zb-dx-2.sohu.blog/rtp/235.254.198.186:7980
-重庆少儿,http://cq-zb-dx-2.sohu.blog/rtp/235.254.198.166:7980
-重庆社会与法,http://cq-zb-dx-2.sohu.blog/rtp/235.254.198.181:7980
-重庆红叶,http://cq-zb-dx-2.sohu.blog/rtp/235.254.198.188:7980
-重庆红岩文化,http://cq-zb-dx-2.sohu.blog/rtp/235.254.198.182:7980
-重庆汽摩,http://cq-zb-dx-2.sohu.blog/rtp/235.254.198.169:7980
-重庆移动,http://cq-zb-dx-2.sohu.blog/rtp/235.254.198.170:7980
-重广融媒,http://cq-zb-dx-2.sohu.blog/rtp/235.254.197.114:7980
-云阳综合,http://live.yunyangwang.com/live/dszb.m3u8
-大足综合,http://yypull.cbg.cn/applive/dazulive01/playlist.m3u8
-万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
-璧山综合,http://222.179.42.129:8181/hls1.m3u8
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8
-巴南综合,http://live.cqbntv.com/bnmc/tv0709.m3u8
-合川综合,http://yypull.cbg.cn/applive/hechuantv1/playlist.m3u8
-江津综合,http://222.179.155.21:1935/ch1.m3u8
-潼南综合,http://183.230.184.51:65500/tntv1.m3u8
-武隆综合,http://yypull.cbg.cn/applive/wltvzh/playlist.m3u8
-万盛综合,http://yypull.cbg.cn/applive/wslive01/playlist.m3u8
-永川综合,http://yypull.cbg.cn/applive/yctv01/playlist.m3u8
-酉阳综合,http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
-忠县综合,http://yypull.cbg.cn/applive/zxtv2/playlist.m3u8
-璧山综合,http://cq.sohu.blog/cqyx.php?id=bszh
-长寿综合,http://cq.sohu.blog/cqyx.php?id=cszh
-丰都综合,http://cq.sohu.blog/cqyx.php?id=fdzh
-涪陵综合,http://cq.sohu.blog/cqyx.php?id=flzh
-合川综合,http://cq.sohu.blog/cqyx.php?id=hczh
-开州综合,http://cq.sohu.blog/cqyx.php?id=kzzh
-黔江综合,http://cq.sohu.blog/cqyx.php?id=qjzh
-荣昌综合,http://cq.sohu.blog/cqyx.php?id=rczh
-铜梁综合,http://cq.sohu.blog/cqyx.php?id=tlzh
-武隆综合,http://cq.sohu.blog/cqyx.php?id=wlzh
-巫溪综合,http://cq.sohu.blog/cqyx.php?id=wxzh
-万州综合,http://cq.sohu.blog/cqyx.php?id=wzzh
-秀山综合,http://cq.sohu.blog/cqyx.php?id=xszh
-永川综合,http://cq.sohu.blog/cqyx.php?id=yczh
-云阳综合,http://cq.sohu.blog/cqyx.php?id=yyzh
-酉阳综合,http://cq.sohu.blog/cqyx.php?id=yyxh
-万州文旅,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.200:7980
-开州综合,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.203:7980
-开州综合,http://cq-zb-dx-1.sohu.blog/rtp/235.254.199.145:7980
-城口综合,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.218:7980
-巫溪综合,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.215:7980
-巫山综合,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.212:7980
-丰都综合,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.221:7980
-酉阳综合,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.236:7980
-石柱综合,http://cq-zb-dx-1.sohu.blog/rtp/235.254.199.224:7980
-武隆综合,http://cq-zb-dx-1.sohu.blog/rtp/235.254.198.227:7980
-
 云南,#genre#
 一、省级频道：
 云南卫视,http://tv.sohu.blog/d/fjbst.php?id=197
@@ -1591,347 +1282,6 @@ CGTN阿拉伯语,http://nmgbt.sohu.blog:809/hls/148/index.m3u8
 济源电视台1套,http://hen.sohu.blog/hendx.php?id=jy1
 备注：文件中包含了tv.php中所有河南相关的频道，按照省级和地州市进行了分类整理。
 
-湖南,#genre#
-一、省级频道：
-湖南卫视,http://tv.sohu.blog/d/fjbst.php?id=180
-湖南卫视,http://115.190.252.60/gdy.php?id=hunantv2
-湖南卫视4K超高清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南经视,http://39.106.167.36:52666/hunmgtv.php?id=280
-湖南娱乐,http://39.106.167.36:52666/hunmgtv.php?id=344
-湖南电影,http://39.106.167.36:52666/hunmgtv.php?id=221
-湖南都市,http://39.106.167.36:52666/hunmgtv.php?id=346
-湖南电视剧,http://39.106.167.36:52666/hunmgtv.php?id=484
-湖南爱晚,http://39.106.167.36:52666/hunmgtv.php?id=261
-湖南国际,http://39.106.167.36:52666/hunmgtv.php?id=229
-金鹰纪实,http://39.106.167.36:52666/hunmgtv.php?id=316
-金鹰卡通,http://39.106.167.36:52666/hunmgtv.php?id=287
-快乐垂钓,http://39.106.167.36:52666/hunmgtv.php?id=218
-茶频道,http://39.106.167.36:52666/hunmgtv.php?id=578
-快乐购,http://39.106.167.36:52666/hunmgtv.php?id=267
-湖南经视,http://111.23.208.105:9999/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://111.23.208.105:9999/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://111.23.208.105:9999/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://111.23.208.105:9999/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://111.23.208.105:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实,http://111.23.208.105:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南爱晚,http://111.23.208.105:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南国际,http://111.23.208.105:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://111.23.208.105:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-快乐购,http://111.23.208.105:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南教育,http://111.23.208.105:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-茶频道,http://111.23.208.105:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-二、长沙市频道：
-1. 长沙新闻综合,http://39.106.167.36:52666/hunmgtv.php?id=269
-2. 长沙政法频道,http://39.106.167.36:52666/hunmgtv.php?id=254
-3. 长沙女性频道,http://39.106.167.36:52666/hunmgtv.php?id=230
-4. 长沙新闻综合,http://115.190.252.60/gdy.php?id=changshaxwzh
-5. 长沙政法频道,http://115.190.252.60/gdy.php?id=changshizf
-6. 长沙嘉丽购,http://hun.sohu.blog/hunld.php?id=29
-7. 浏阳电视台,http://115.190.252.60/gdy.php?id=changshaluyang
-长沙县新闻综合,http://xsds.b.dingtoo.com/AppName/StreamName.m3u8
-望城综合,http://111.23.208.105:9999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-长沙新闻综合,http://111.23.208.105:9999/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-长沙政法频道,http://111.23.208.105:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-三、株洲市频道：
-1. 株洲新闻综合,http://115.190.252.60/gdy.php?id=zhuzhouxwzh
-2. 茶陵综合频道,http://39.106.167.36:52666/hunred.php?id=1642
-3. 攸县电视台,http://39.106.167.36:52666/hunhszx.php?id=158
-四、湘潭市频道：
-湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-韶山电视台,http://liveplay-nanyue.rednet.cn/live/shaoshan-tv.m3u8
-韶山电视台,http://39.106.167.36:52666/hunred.php?id=1760
-湘潭县电视台,http://liveplay-nanyue.rednet.cn/live/xiangtanxian_tv.m3u8
-湘潭县电视台,http://39.106.167.36:52666/hunred.php?id=1102
-五、衡阳市频道：
-衡阳新闻综合,http://39.106.167.36:52666/hunhy.php?id=347
-衡阳新闻综合,http://175.0.73.63:4022/rtp/239.76.248.13:1234
-衡阳文旅法治,http://39.106.167.36:52666/hunhy.php?id=348
-衡阳文旅法治,http://175.0.73.63:4022/rtp/239.76.248.14:1234
-南岳电视台,http://liveplay-nanyue.rednet.cn/live/nanyue_03f74.m3u8
-南岳电视台,http://39.106.167.36:52666/hunred.php?id=1817
-耒阳电视台,http://39.106.167.36:52666/hunhszx.php?id=27
-衡阳新闻综合,http://175.0.76.195:4022/rtp/239.76.248.13:1234
-衡阳文旅法治,http://175.0.76.195:4022/rtp/239.76.248.14:1234
-六、邵阳市频道：
-邵阳新闻综合,http://hun.sohu.blog/hunsy.php?id=33
-邵阳文旅民生,http://hun.sohu.blog/hunsy.php?id=34
-城步电视台,http://39.106.167.36:52666/hunhszx.php?id=169
-七、岳阳市频道：
-岳阳新闻综合,http://115.190.252.60/gdy.php?id=yueyangxwzh
-岳阳文旅都市,http://115.190.252.60/gdy.php?id=yueyangwl
-云溪电视台,http://liveplay-nanyue.rednet.cn/live/yxq2024tv.m3u8
-云溪电视台,http://39.106.167.36:52666/hunred.php?id=1603
-八、常德市频道：
-常德新闻综合,http://175.0.76.195:4022/rtp/239.76.248.10:1234
-常德新闻综合,http://58.46.202.137:4023/rtp/239.76.248.10:1234
-常德新闻综合,http://175.0.73.63:4022/rtp/239.76.248.10:1234
-常德新闻综合,http://www.0000505.xyz:8888/rtp/239.76.255.10:9000
-汉寿电视台,http://39.106.167.36:52666/hunhszx.php?id=31
-桃源电视台,http://39.106.167.36:52666/hunhszx.php?id=157
-九、张家界市频道：
-张家界综合,http://175.0.76.195:4022/rtp/239.76.252.234:9000
-张家界公共,http://175.0.76.195:4022/rtp/239.76.245.235:1234
-张家界综合,http://175.0.73.63:4022/rtp/239.76.252.234:9000
-张家界公共,http://175.0.73.63:4022/rtp/239.76.252.235:9000
-桑植新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
-十、益阳市频道：
-1. 益阳新闻综合,http://39.106.167.36:52666/hlsproxy.php?id=yyxw
-2. 益阳公共频道,http://39.106.167.36:52666/hlsproxy.php?id=yygg
-3. 沅江电视台,http://39.106.167.36:52666/hunhszx.php?id=163
-4. 南县电视台,http://115.190.252.60/gdy.php?id=yiyangnx
-十一、郴州市频道：
-郴州综合频道,http://hun.sohu.blog/huncz.php?id=0
-郴州文旅频道,http://hun.sohu.blog/huncz.php?id=1
-宜章新闻综合,http://115.190.252.60/gdy.php?id=chenzhouyz
-资兴电视台,http://liveplay-nanyue.rednet.cn/live/zixin_tv_00676b.m3u8
-资兴电视台,http://39.106.167.36:52666/hunred.php?id=2329
-桂阳综合频道,http://39.106.167.36:52666/hunhszx.php?id=7
-永兴电视台,http://39.106.167.36:52666/hunhszx.php?id=40
-汝城电视台,http://39.106.167.36:52666/hunhszx.php?id=149
-临武综合,http://175.0.76.195:4022/rtp/239.76.253.69:9000
-桂东融媒,http://175.0.76.195:4022/rtp/239.76.253.231:9000
-临武综合,http://175.0.73.63:4022/rtp/239.76.253.69:9000
-桂东融媒,http://175.0.73.63:4022/rtp/239.76.253.231:9000
-郴州综合频道,http://175.0.76.195:4022/rtp/239.76.246.75:1234
-郴州综合频道,http://175.0.76.195:4022/rtp/239.76.253.75:9000
-十二、永州市频道：
-永州新闻综合,http://175.0.76.195:4022/rtp/239.76.248.23:1234
-永州新闻综合,http://175.0.73.63:4022/rtp/239.76.248.23:1234
-新田电视台,http://liveplay-nanyue.rednet.cn/live/xintian_tv.m3u8
-新田电视台,http://39.106.167.36:52666/hunred.php?id=3160
-十三、怀化市频道：
-洪江综合频道,http://liveplay-nanyue.rednet.cn/live/hongjiang_tv_ced5a7.m3u8
-洪江综合频道,http://39.106.167.36:52666/hunred.php?id=2510
-溆浦电视台,http://liveplay-nanyue.rednet.cn/live/Xupu2024_DsT.m3u8
-溆浦电视台,http://39.106.167.36:52666/hunred.php?id=1916
-沅陵电视台,http://liveplay-nanyue.rednet.cn/live/YL-TV.m3u8
-沅陵电视台,http://39.106.167.36:52666/hunred.php?id=4860
-中方电视台,http://39.106.167.36:52666/hunhszx.php?id=18
-芷江电视台,http://39.106.167.36:52666/hunhszx.php?id=20
-芷江电视台,http://175.0.73.63:4022/rtp/239.76.253.67:9000
-芷江电视台,http://175.0.76.195:4022/rtp/239.76.253.67:9000
-芷江电视台,http://175.0.76.195:4022/rtp/239.76.246.64:1234
-新晃电视台,http://39.106.167.36:52666/hunhszx.php?id=23
-靖州电视台,http://39.106.167.36:52666/hunhszx.php?id=34
-麻阳电视台,http://39.106.167.36:52666/hunhszx.php?id=38
-十四、娄底市频道：
-娄底综合频道,http://hun.sohu.blog/hunld.php?id=7
-娄底综合频道,http://58.46.29.140:9999/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-娄底公共频道,http://58.46.29.140:9999/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-双峰电视台,http://58.46.29.140:9999/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
-双峰电视台,http://39.106.167.36:52666/hunhszx.php?id=131
-十五、湘西土家族苗族自治州频道：
-1. 湘西新闻综合,http://115.190.252.60/gdy.php?id=xiangxizh
-2. 湘西文化旅游,http://115.190.252.60/gdy.php?id=xiangxigg
-3. 花垣电视台,http://39.106.167.36:52666/hunhszx.php?id=134
-4. 吉首电视台,http://39.106.167.36:52666/hunhszx.php?id=143
-5. 古丈电视台,http://39.106.167.36:52666/hunhszx.php?id=144
-湘西文化旅游,http://175.0.76.195:4022/rtp/239.76.245.209:1234
-湘西文化旅游,http://175.0.76.195:4022/rtp/239.76.252.209:9000
-湘西新闻综合,http://175.0.76.195:4022/rtp/239.76.245.208:1234
-湘西新闻综合,http://175.0.76.195:4022/rtp/239.76.252.208:9000
-
-广东,#genre#
-一、省级频道：
-广东卫视,http://tv.sohu.blog/d/fjbst.php?id=184
-广东卫视,http://115.190.252.60/gdtv.php?id=43
-广东卫视4K,http://115.190.252.60/gdtouch.php?id=2567
-广东珠江频道,http://115.190.252.60/gdtv.php?id=44
-广东新闻频道,http://115.190.252.60/gdtv.php?id=45
-广东经济科教,https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
-广东经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
-广东民生频道,http://115.190.252.60/gdtv.php?id=48
-大湾区卫视,http://115.190.252.60/gdtv.php?id=51
-大湾区卫视海外版,http://115.190.252.60/gdtv.php?id=46
-广东影视频道,http://115.190.252.60/gdtv.php?id=53
-广东少儿频道,http://115.190.252.60/gdtv.php?id=54
-嘉佳卡通,http://115.190.252.60/gdtv.php?id=66
-南方购物,http://115.190.252.60/gdtv.php?id=42
-岭南戏曲,http://115.190.252.60/gdtv.php?id=15
-广东移动,http://115.190.252.60/gdtv.php?id=74
-广东现代教育,http://115.190.252.60/gdtv.php?id=111
-广东台经典剧,http://115.190.252.60/gdtv.php?id=100
-GRTN健康频道,http://115.190.252.60/gdtv.php?id=99
-GRTN文化频道,http://115.190.252.60/gdtv.php?id=75
-GRTN生活频道,http://115.190.252.60/gdtv.php?id=102
-广东体育频道,http://gdmz.sohu.blog:9901/tsfile/live/1012_1.m3u8
-广东体育频道,http://115.190.252.60/gdtv.php?id=47
-广东体育频道,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
-广东体育频道,http://gdjy.sohu.blog:1698/hls/4/index.m3u8
-广东卫视,http://115.190.252.60/gdtouch.php?id=1182
-广东珠江频道,http://115.190.252.60/gdtouch.php?id=1183
-大湾区卫视,http://115.190.252.60/gdtouch.php?id=1197
-广东4K超高清,http://115.190.252.60/gdtouch.php?id=1198
-广东新闻频道,http://115.190.252.60/gdtouch.php?id=1186
-广东体育频道,http://115.190.252.60/gdtouch.php?id=1184
-广东民生频道,http://115.190.252.60/gdtouch.php?id=1185
-广东影视频道,http://115.190.252.60/gdtouch.php?id=1199
-嘉佳卡通,http://115.190.252.60/gdtouch.php?id=1187
-大湾区卫视海外版,http://115.190.252.60/gdtouch.php?id=1191
-广东少儿频道,http://115.190.252.60/gdtouch.php?id=1200
-广东移动,http://115.190.252.60/gdtouch.php?id=2463
-广东现代教育,http://115.190.252.60/gdtouch.php?id=2436
-岭南戏曲,http://115.190.252.60/gdtouch.php?id=2510
-二、广州市频道：
-1. 广州新闻频道,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=f80e5b7654c57c7571a314d94befe320&txTime=19019c051d5
-2. 广州新闻频道,http://tencentplaygsm.gztv.com/live/xinwen.m3u8
-3. 广州新闻频道,http://115.190.252.60/gdgz.php?id=xw
-4. 广州综合频道,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=5d7708684007fcea395caff98369084c&txTime=19019c37743
-5. 广州综合频道,http://tencentplaygsm.gztv.com/live/zonghes.m3u8
-6. 广州综合频道,http://115.190.252.60/gdgz.php?id=zh
-7. 广州法治频道,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=491c40d07978ba7046704a7844042ff6&txTime=19019f3714e
-8. 广州新闻频道,http://115.190.252.60/gdgz.php?id=fz
-9. 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=59b2d3f371597c07d47815034a0e6e78&txTime=19019c65629
-10. 广州南国都市,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
-11. 广州南国都市,http://115.190.252.60/gdgz.php?id=ngds
-12. 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-广州新闻频道,http://115.190.252.60/gdtouch.php?id=1176
-三、深圳市频道：
-深圳卫视,http://tv.sohu.blog/d/fjbst.php?id=187
-深圳卫视,http://gd.sohu.blog/hls/szws.m3u8
-深圳卫视,http://115.190.252.60/gdtouch.php?id=1206
-深圳卫视4k,http://gd.sohu.blog/hls/szws4k.m3u8
-深圳都市频道,http://livepull-tcyzb.sztv.com.cn/live/dslive.m3u8
-深圳都市频道,http://gdjy.sohu.blog:1698/hls/69/index.m3u8
-深圳电视剧,http://gd.sohu.blog/hls/szdsj.m3u8
-深圳电视剧,http://gdjy.sohu.blog:1698/hls/68/index.m3u8
-深圳少儿,http://gd.sohu.blog/hls/szse.m3u8
-深圳财经生活,http://gd.sohu.blog/hls/szcj.m3u8
-宜和购物,http://gd.sohu.blog/hls/yhgw.m3u8
-深圳都市频道,http://gd.sohu.blog/hls/szds.m3u8
-深圳国际,http://gd.sohu.blog/hls/szgj.m3u8
-深圳移动,http://gd.sohu.blog/hls/szyd.m3u8
-深圳少儿,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.244:5146
-深圳电视剧,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.125:5146
-深圳电视剧,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.177:5146
-深圳财经生活,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.242:5146
-深圳体育健康,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.128:5146
-深圳体育健康,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.140:5146
-宜和购物,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.87:5146
-深圳都市频道,http://183.10.180.56:202/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&down=1
-深圳宝安,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.67:5146
-深圳龙岗,http://183.10.180.56:202/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&down=1
-深圳龙岗,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.223:5146
-四、珠海市频道：
-珠海电视台,http://gdjy.sohu.blog:1698/hls/70/index.m3u8
-五、汕头市频道：
-汕头综合频道,http://gd.sohu.blog/gdst.php?id=st1
-汕头综合频道,http://gdjy.sohu.blog:1698/hls/59/index.m3u8
-汕头经济生活,http://gdjy.sohu.blog:1698/hls/60/index.m3u8
-汕头综合频道,http://183.10.180.56:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-汕头经济生活,http://183.10.180.56:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-六、佛山市频道：
-佛山城市生活,http://gdjy.sohu.blog:1698/hls/23/index.m3u8
-佛山综合,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.253.43.57:5146
-佛山顺德,http://183.10.180.56:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-佛山南海,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.253.43.54:5146
-七、韶关市频道：
-韶关新闻综合,http://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-乐昌电视台,http://115.190.252.60/gdtouch.php?id=2503
-八、湛江市频道：
-湛江新闻综合,http://gbtv-rtmp-self.zjwtv.com/zjtv/zhpd.m3u8
-湛江公共频道,http://gbtv-rtmp-self.zjwtv.com/zjtv/ggpd.m3u8
-廉江台,http://115.190.252.60/gdtouch.php?id=2445
-遂溪台,http://115.190.252.60/gdtouch.php?id=2488
-吴川综合,http://115.190.252.60/gdtouch.php?id=2499
-九、肇庆市频道：
-肇庆综合频道,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.253.43.1:5146
-肇庆生活服务,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.253.43.2:5146
-广宁综合,http://115.190.252.60/gdtouch.php?id=2414
-怀集综合,http://115.190.252.60/gdtouch.php?id=2462
-十、江门市频道：
-江门综合频道,http://gd.sohu.blog/gdjm.php?id=jmzh
-开平综合频道,http://115.190.252.60/gdy.php?id=jiangmenkp
-开平综合频道,http://115.190.252.60/gdtouch.php?id=2405
-鹤山综合,http://115.190.252.60/gdtouch.php?id=2441
-台山台,http://115.190.252.60/gdtouch.php?id=2479
-新会综合,http://115.190.252.60/gdtouch.php?id=2490
-江门综合频道,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.0.201:5146
-十一、茂名市频道：
-茂名综合,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.0.206:5146
-茂名文化生活,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.0.207:5146
-信宜电视台,http://115.190.252.60/gdy.php?id=maomingxy
-信宜电视台,http://115.190.252.60/gdtouch.php?id=2471
-十二、惠州市频道：
-惠州电视台一套,http://gdjy.sohu.blog:1698/hls/99/index.m3u8
-惠州电视台一套,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.232:5146
-惠州电视台二套,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.1.233:5146
-惠东综合频道,http://115.190.252.60/gdtouch.php?id=2404
-惠阳电视台,http://115.190.252.60/gdtouch.php?id=2470
-十三、梅州市频道：
-梅州综合频道,https://livepull.hellohakka.cn/live/ch_zonghe.m3u8
-梅州综合频道,http://115.190.252.60/gdtouch.php?id=2401
-梅州客家生活,https://livepull.hellohakka.cn/live/ch_kejiashenghuo.m3u8
-五华电视台,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
-五华电视台,https://pull-hsbj.vzan.com/v/slowlive_621139761151691240.m3u8
-五华电视台,http://gdmz.sohu.blog:9901/tsfile/live/1000_1.m3u8
-梅州综合频道,http://183.10.180.56:202/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
-梅州综合频道,http://gdmz.sohu.blog:9901/tsfile/live/1002_1.m3u8
-梅州客家生活,http://gdmz.sohu.blog:9901/tsfile/live/1003_1.m3u8
-山歌台,http://gdmz.sohu.blog:9901/tsfile/live/1004_1.m3u8
-山歌台,http://gdmz.sohu.blog:9901/tsfile/live/1006_1.m3u8
-丰顺综合,http://gdmz.sohu.blog:9901/tsfile/live/1025_1.m3u8
-梅州导视高清,http://gdmz.sohu.blog:9901/tsfile/live/1047_1.m3u8
-梅州导视,http://gdmz.sohu.blog:9901/tsfile/live/1048_1.m3u8
-十四、汕尾市频道：
-汕尾新闻综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
-汕尾新闻综合,http://gd.sohu.blog/gdsw.php?id=57
-汕尾新闻综合,http://115.190.252.60/gdtouch.php?id=1261
-汕尾新闻综合,http://gdjy.sohu.blog:1698/hls/97/index.m3u8
-汕尾文化生活,https://iswtv.swrtv.com/live/whshpd.m3u8
-汕尾文化生活,http://gd.sohu.blog/gdsw.php?id=58
-汕尾文化生活,http://gdjy.sohu.blog:1698/hls/61/index.m3u8
-海丰县电视台,http://115.190.252.60/gdtouch.php?id=2413
-十五、河源市频道：
-河源综合频道,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源生活频道,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-河源综合频道,http://115.190.252.60/gdtouch.php?id=2402
-河源综合频道,http://183.10.180.56:202/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
-连平台,http://115.190.252.60/gdtouch.php?id=2520
-东源台,http://115.190.252.60/gdtouch.php?id=2497
-紫金台,http://115.190.252.60/gdtouch.php?id=2452
-十六、阳江市频道：
-阳江电视台一套,https://live.yjtvw.com:8081/live/yjtv1.m3u8
-阳江电视台二套,https://live.yjtvw.com:8081/live/yjtv2.m3u8
-阳江电视台一套,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.253.43.82:5146
-阳江电视台二套,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.253.43.83:5146
-阳春综合,http://115.190.252.60/gdtouch.php?id=2458
-阳西综合,http://115.190.252.60/gdtouch.php?id=2476
-十七、清远市频道：
-清远新闻综合,http://vlivestream.qyrb.cn/qyLiveSlow/74.m3u8
-英德新闻综合,http://115.190.252.60/gdtouch.php?id=2447
-连州综合,http://115.190.252.60/gdtouch.php?id=2455
-十八、东莞市频道：
-东莞新闻综合,http://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-东莞新闻综合,http://115.190.252.60/gdtouch.php?id=2395
-东莞新闻综合,http://gdjy.sohu.blog:1698/hls/100/index.m3u8
-东莞生活资讯,http://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-十九、中山市频道：
-中山新闻综合,http://gd.sohu.blog/gdzs.php?id=zszh
-中山新闻综合,http://115.190.252.60/gdtouch.php?id=1239
-中山香山文化,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.253.43.63:5146
-二十、潮州市频道：
-潮州综合频道,http://115.190.252.60/gdtouch.php?id=1224
-潮州综合频道,http://gdjy.sohu.blog:1698/hls/57/index.m3u8
-潮州民生频道,http://gdjy.sohu.blog:1698/hls/58/index.m3u8
-潮州综合频道,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.253.43.70:5146
-潮州民生频道,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.253.43.75:5146
-潮安综合,http://115.190.252.60/gdtouch.php?id=2523
-二十一、揭阳市频道：
-揭阳综合频道,http://gdjy.sohu.blog:1698/hls/55/index.m3u8
-揭阳生活频道,http://gdjy.sohu.blog:1698/hls/56/index.m3u8
-揭阳综合频道,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.0.229:5146
-揭阳生活频道,http://gd-zb-dx-1.sohu.blog:9999/rtp/239.77.0.251:5146
-普宁台,http://115.190.252.60/gdtouch.php?id=2450
-惠来综合频道,http://gdjy.sohu.blog:1698/hls/7/index.m3u8
-揭阳综合频道,http://183.10.180.56:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-揭阳生活频道,http://183.10.180.56:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-二十二、云浮市频道：
-云浮综合频道,https://livestream.oeeee.com/slive/28283.m3u8
-云浮文旅频道,https://livestream.oeeee.com/slive/28284.m3u8
-云浮综合频道,http://115.190.252.60/gdtouch.php?id=2389
-罗定综合,http://115.190.252.60/gdtouch.php?id=2491
-
 广西,#genre#
 一、省级频道：
 广西卫视,http://tv.sohu.blog/d/fjbst.php?id=200
@@ -2049,76 +1399,6 @@ GRTN生活频道,http://115.190.252.60/gdtv.php?id=102
 十五、贺州市频道
 贺州综合,http://113.12.63.237:10001/rtp/239.81.0.137:4056
 备注：文件中包含了tv.php中所有广西相关的频道，按照省级和地州市进行了分类整理。
-
-海南,#genre#
-海南卫视,http://tv.sohu.blog/d/fjbst.php?id=199
-海南卫视,https://tv.sohu.blog/d/xxqg.php?id=hainanws
-海南卫视,http://tv.sohu.blog/d/mg.php?id=947472502
-海南卫视,http://han.sohu.blog/hainan.php?id=hnws
-海南卫视,http://153.0.171.163:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-三沙卫视,http://tv.sohu.blog/d/fjbst.php?id=217
-三沙卫视,http://tv.sohu.blog/d/mg.php?id=961023778
-三沙卫视,http://han.sohu.blog/hainan.php?id=ssws
-海南新闻频道,http://han.sohu.blog/hainan.php?id=xwpd
-海南新闻频道,http://153.0.171.163:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-海南文旅频道,http://han.sohu.blog/hainan.php?id=wlpd
-海南文旅频道,http://153.0.171.163:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-海南自贸频道,http://han.sohu.blog/hainan.php?id=jjpd
-海南自贸频道,http://153.0.171.163:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-海南社会与法,http://han.sohu.blog/hainan.php?id=ggpd
-海南社会与法,http://153.0.171.163:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-海口综合频道,https://live2.hkbtv.cn/live/tv2501.m3u8?raw=1
-海口城乡经济频道,https://live2.hkbtv.cn/live/tv2503.m3u8?raw=1
-海口生活娱乐频道,https://live2.hkbtv.cn/live/tv2502.m3u8?raw=1
-儋州新闻综合,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3
-儋州新闻综合,https://tv.sohu.blog/d/gdy.php?id=dztv
-三亚1套,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.9:5140
-万宁电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.167:5140
-东方电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.111:5140
-临高电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.155:5140
-保亭电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.159:5140
-定安电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.110:5140
-屯昌电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.117:5140
-文昌电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.105:5140
-昌江电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.108:5140
-澄迈电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.109:5140
-琼中电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.165:5140
-琼海电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.106:5140
-白沙电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.118:5140
-陵水电视台,http://han-zb-dx-1.sohu.blog/rtp/239.253.64.116:5140
-三亚1套,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.9:5140
-万宁电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.167:5140
-东方电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.111:5140
-临高电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.155:5140
-保亭电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.159:5140
-定安电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.110:5140
-屯昌电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.117:5140
-文昌电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.105:5140
-昌江电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.108:5140
-澄迈电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.109:5140
-琼中电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.165:5140
-琼海电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.106:5140
-白沙电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.118:5140
-陵水电视台,http://han-zb-dx-2.sohu.blog/rtp/239.253.64.116:5140
-洋浦电视台,http://handz.sohu.blog:9901/tsfile/live/1018_1.m3u8
-
-西藏,#genre#
-西藏卫视,http://xz.sohu.blog/xzzfy.php?id=1
-西藏卫视,https://tv.sohu.blog/d/xxqg.php?id=xzws
-西藏卫视,http://xz.sohu.blog/xztv.php?id=0
-西藏藏语卫视,http://xz.sohu.blog/xztv.php?id=1
-西藏藏语卫视,http://xz.sohu.blog/xzzfy.php?id=2
-西藏影视文化,http://xz.sohu.blog/xztv.php?id=2
-西藏影视文化,http://xz.sohu.blog/xzzfy.php?id=3
-拉萨综合,https://file.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
-拉萨综合,http://xz.sohu.blog/xzls.php?id=1021641
-拉萨文旅,https://file.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
-拉萨文旅,http://xz.sohu.blog/xzls.php?id=1021657
-拉萨藏语综合,https://file.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
-拉萨藏语综合,http://xz.sohu.blog/xzls.php?id=1989993
-日喀则汉语综合,https://consolestream.rkzrm.cn:20323/4.m3u8
-日喀则藏语综合,https://consolestream.rkzrm.cn:20323/8.m3u8
-工布江达县电视台,http://cn.sohu.blog/gdtouch.php?id=2439
 
 甘肃,#genre#
 一、甘肃省级频道：
@@ -6634,6 +5914,123 @@ Q 
 3J 
 4a bA d e7 e� f� g� h� j j� k� l� m� nc o� p7 qN ri s' t6 t� u� v� w� x� y� z� {� |� }< ~m  �6 �W � � �� �� �� �� �� � �� �A �M �� �* �� �  � �� �� �z �� �i �� �� �B �P �� � �� �� �� �� �� �Z �h � �8 �� � � �� �� �� �� �] �� �7 �g � �: �T � �( �� �� �� �� �� �� �� �H �i � � �# ͵ �7 �� �5 �. �� ܆ �5 �' �A �W � �� � �� �� � �� � �� � � � �h �� � �� �D �� �P �i �� �} �� �? �G �. �@  W  e  = � . � � � 	�  � � � � � � � � � ^ � c x � � � I M 0 G f   !s "' #; #� %F %� ' (! ) * *� +� ,� -� / /� 1 1� 2� 3} 4� 5c 6� 7� 8� 9� :t ;� <x =� >� ?o @� A� B� CF D� EJ F` GZ HG I_ J K L M9 NZ O PU Q R R� T T� U� V� W� Y Y� Z� [� \� ]� ^� _� `� a� bs c� d� e� f� g� h� ii jx ke l| m� n3 oK !? )r *o , ,� /� 1  1� 2� 4^ 5� 63 7F 9� : ;� <0 =� >Q ?{ @* A� B� Cz D� FT Gf H I JG J� L L� N1 N� O� P� R, SH S� U U� W W� X� Z Z� [� \� ]� ^V _v `) ai b� c5 dR e f= f� g� iA i� j� k� l� ml n� o6 pt q� rG s_ t0 uF u� v� x3 x� y� z� {� |x }� ~D n �� �) �< � �/ �� �� �. �� �� �� �� �� �� �C �� �� �U �j �/ �B �� �� �( �� �� �� �� �� �� �[ �� �� �Z �n �F �_ � � �; �� �� �� �� �� �� �L �l �� �6 �W � �* �� �� �� �� �� �e �� �7 �^ � �+   sgpd   roll      ��   sbgp    roll     �      audta   Ymeta       !hdlr        mdirappl            ,ilst   $�too   data       Lavf61.1.100
 
+韩国,#genre#
+KBS 1,http://kr.sohu.blog/kbs.php?id=1
+KBS 2,http://kr.sohu.blog/kbs.php?id=2
+KBS 24,http://kr.sohu.blog/kbs.php?id=24
+KBS drama,http://kr.sohu.blog/kbs.php?id=drama
+KBS joy,http://kr.sohu.blog/kbs.php?id=joy
+KBS kids,http://kr.sohu.blog/kbs.php?id=kids
+KBS world,http://kr.sohu.blog/kbs.php?id=world
+KBS life,http://kr.sohu.blog/kbs.php?id=life
+KBS S story,http://kr.sohu.blog/kbs.php?id=w
+KBS LiveCam DokDo,https://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+KBS 1,http://kr.sohu.blog/kr.php?id=9
+KBS 2,http://kr.sohu.blog/kr.php?id=8
+EBS e,https://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8?tv.sohu.blog
+EBS Kids,https://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?tv.sohu.blog
+EBS i,https://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8?tv.sohu.blog
+EBS 1,https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?tv.sohu.blog
+EBS 2,https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?tv.sohu.blog
+EBS +2,https://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8?tv.sohu.blog
+MBC综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8?tv.sohu.blog
+MBC M,https://stream-us-east-1.getpublica.com/cl/251202d4ndflbp9pimroklvtk0/960x540_1020800_1_f.m3u8
+MBC Yeosu丽水,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+MBC Jeju济州,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+MBC Daejeon大田,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+MBC Daegu大邱,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+MBC Chuncheon春川,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+MBC Chungbuk忠北,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+MBC Gangwon江原,http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+MBC,http://kr.sohu.blog/kr.php?id=1
+SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+SBS JTV,http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+SBS UBC,https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+SBS KBC,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+SBS,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+SBS,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+SBS,http://kr.sohu.blog/kr.php?id=7
+arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang Radio,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+BTN TV,https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+ABN TV,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+Channel A,http://kr.sohu.blog/ichannela.php
+TBS Seoul首尔,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+RUTC TV宗教,https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+CGNTV South Korea,https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+FGTV,https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+WBC TV,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+OBS Gyeongin TV 京仁电视台,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+TvN,https://pull.radartv.in/krcn/106-tvn/playlist.m3u8
+TvN,https://live20.bozztv.com/akamaissh101/ssh101/studiols/playlist.m3u8
+TvN,https://everylive.space/live/tvn/livestream.m3u8
+MBN,http://kr.sohu.blog/kr.php?id=2
+YTN,http://kr.sohu.blog/kr.php?id=3
+JTBC,http://kr.sohu.blog/kr.php?id=4
+TV Chosun,http://kr.sohu.blog/kr.php?id=5
+TvN,http://kr.sohu.blog/kr.php?id=6
+韩国NBS农业广播720,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国NBS农业广播360,https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+韩国NBS农业广播,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+Home Shopping,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+Hyundai Home Shopping Plus现代购物,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
+Shinsegae Shopping TV,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+Lotte OneTV乐天购物,https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+Lotte Home Shopping乐天家庭购物,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+越南,#genre#
+VTV1,http://vn.sohu.blog/vtv.php?id=1
+VTV2,http://vn.sohu.blog/vtv.php?id=2
+VTV4,http://vn.sohu.blog/vtv.php?id=4
+VTV5,http://vn.sohu.blog/vtv.php?id=5
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+Vietoday Television,http://vn.sohu.blog/vn.php?id=510
+Saigon TV,http://vn.sohu.blog/vn.php?id=426
+VSTV,http://vn.sohu.blog/vn.php?id=427
+AVA TV,http://vn.sohu.blog/vn.php?id=471
+VIETSKY TV,http://vn.sohu.blog/vn.php?id=448
+GM TV,http://vn.sohu.blog/vn.php?id=517
+Viet Channels Info,http://vn.sohu.blog/vn.php?id=452
+HayTV,http://vn.sohu.blog/vn.php?id=515
+Vcab7,http://vn.sohu.blog/vn.php?id=516
+E channel,http://vn.sohu.blog/vn.php?id=430
+STYLE TV,http://vn.sohu.blog/vn.php?id=434
+ON Film,http://vn.sohu.blog/vn.php?id=428
+ON biz,http://vn.sohu.blog/vn.php?id=429
+On Football,http://vn.sohu.blog/vn.php?id=437
+V Now - Watch Events (DVR),http://vn.sohu.blog/vn.php?id=462
+Vietoday Television - Live,http://vn.sohu.blog/vn.php?id=507
+Saigon TV - Live,http://vn.sohu.blog/vn.php?id=508
+VSTV - Live,http://vn.sohu.blog/vn.php?id=509
+Thai Nguyen TV,https://streaming.thainguyentv.vn/hls/livestream.m3u8
+Uniquely Thai,https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+Ha Tinh TV,https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+VTV1,http://vntv.sohu.blog:8989/rtp/232.84.1.27:8136
+VTV2,http://vntv.sohu.blog:8989/rtp/232.84.1.39:8208
+VTV3,http://vntv.sohu.blog:8989/rtp/232.84.1.28:8142
+VTV4,http://vntv.sohu.blog:8989/rtp/232.84.1.40:8214
+VTV5,http://vntv.sohu.blog:8989/rtp/232.84.1.41:8220
+VTV6,http://vntv.sohu.blog:8989/rtp/232.84.1.42:8226
+VTV7,http://vntv.sohu.blog:8989/rtp/232.84.2.201:10990
+VTV8,http://vntv.sohu.blog:8989/rtp/232.84.1.148:8862
+VTV9,http://vntv.sohu.blog:8989/rtp/232.84.1.241:9420
+HTV1,http://vntv.sohu.blog:8989/rtp/232.84.1.35:8184
+HTV2 Vie Channel,http://vntv.sohu.blog:8989/rtp/232.84.1.36:8190
+HTV3 Dreams TV,http://vntv.sohu.blog:8989/rtp/232.84.1.104:8598
+HTV Keys,http://vntv.sohu.blog:8989/rtp/232.84.1.25:8124
+HTV7,http://vntv.sohu.blog:8989/rtp/232.84.1.21:8100
+HTV9,http://vntv.sohu.blog:8989/rtp/232.84.1.31:8160
+HTV THỂ THAO,http://vntv.sohu.blog:8989/rtp/232.84.1.24:8118
+
 泰国,#genre#
 Channel 3 Thailand,http://th.sohu.blog/th3.php
 Channel 5 Thailand,https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -6700,3 +6097,61 @@ TPTV,http://th.sohu.blog/thtv.php?id=16
 Channel 3 Thailand,http://th.sohu.blog/thtv.php?id=17
 Channel 5 Thailand,http://th.sohu.blog/thtv.php?id=18
 Channel 7 Thailand,http://th.sohu.blog/thtv.php?id=19
+
+印度尼西亚,#genre#
+Duta TV,http://idn.sohu.blog/hls/1.m3u8
+Rodja TV,http://idn.sohu.blog/hls/2.m3u8
+UGTV,http://idn.sohu.blog/hls/3.m3u8
+Sakti TV,http://idn.sohu.blog/hls/4.m3u8
+Sangaji TV,http://idn.sohu.blog/hls/5.m3u8
+Madu TV,http://idn.sohu.blog/hls/6.m3u8
+Huma Betang TV,http://idn.sohu.blog/hls/7.m3u8
+Ficom Channel,http://idn.sohu.blog/hls/8.m3u8
+Wesal TV,http://idn.sohu.blog/hls/9.m3u8
+TVRI World,http://idn.sohu.blog/hls/10.m3u8
+Kilisuci TV,http://idn.sohu.blog/hls/11.m3u8
+TV9 Nusantara,http://idn.sohu.blog/hls/12.m3u8
+TV Mu,http://idn.sohu.blog/hls/13.m3u8
+TVRI Yogyakarta,http://idn.sohu.blog/hls/14.m3u8
+TVRI Sumatera Selatan,http://idn.sohu.blog/hls/15.m3u8
+TVRI Sulawesi Tenggara,http://idn.sohu.blog/hls/16.m3u8
+TVRI Sumatera Barat,http://idn.sohu.blog/hls/17.m3u8
+TVRI Sulawesi Selatan,http://idn.sohu.blog/hls/18.m3u8
+TVRI Sulawesi Tengah,http://idn.sohu.blog/hls/19.m3u8
+TVRI Sulawesi Barat,http://idn.sohu.blog/hls/20.m3u8
+TVRI Papua,http://idn.sohu.blog/hls/21.m3u8
+TVRI Riau,http://idn.sohu.blog/hls/22.m3u8
+TVRI Nasional,http://idn.sohu.blog/hls/23.m3u8
+TVRI Nusa Tenggara Barat,http://idn.sohu.blog/hls/24.m3u8
+TVRI Nusa Tenggara Timur,http://idn.sohu.blog/hls/25.m3u8
+TVRI Maluku,http://idn.sohu.blog/hls/26.m3u8
+TVRI Lampung,http://idn.sohu.blog/hls/27.m3u8
+TVRI Kalimantan Tengah,http://idn.sohu.blog/hls/28.m3u8
+TVRI Kalimantan Timur,http://idn.sohu.blog/hls/29.m3u8
+TVRI Kalimantan Selatan,http://idn.sohu.blog/hls/30.m3u8
+TVRI Kalimantan Barat,http://idn.sohu.blog/hls/31.m3u8
+TVRI Jawa Tengah,http://idn.sohu.blog/hls/32.m3u8
+TVRI Jawa Timur,http://idn.sohu.blog/hls/33.m3u8
+TVRI Jawa Barat,http://idn.sohu.blog/hls/34.m3u8
+TVRI Jambi,http://idn.sohu.blog/hls/35.m3u8
+TVRI Bengkulu,http://idn.sohu.blog/hls/36.m3u8
+TVRI DKI Jakarta,http://idn.sohu.blog/hls/37.m3u8
+TVRI Gorontalo,http://idn.sohu.blog/hls/38.m3u8
+TVRI Bangka Belitung,http://idn.sohu.blog/hls/39.m3u8
+TVRI Aceh,http://idn.sohu.blog/hls/40.m3u8
+TVRI Bali,http://idn.sohu.blog/hls/41.m3u8
+TVRI Sport,http://idn.sohu.blog/hls/42.m3u8
+MQTV,http://idn.sohu.blog/hls/43.m3u8
+Lingkar TV,http://idn.sohu.blog/hls/44.m3u8
+Magna Channel,http://idn.sohu.blog/hls/45.m3u8
+Inspira TV,http://idn.sohu.blog/hls/46.m3u8
+Elshinta TV,http://idn.sohu.blog/hls/47.m3u8
+dTVi,http://idn.sohu.blog/hls/48.m3u8
+DM TV Malang,http://idn.sohu.blog/hls/49.m3u8
+Dhamma TV,http://idn.sohu.blog/hls/50.m3u8
+DAAI TV,http://idn.sohu.blog/hls/51.m3u8
+Bungo TV,http://idn.sohu.blog/hls/52.m3u8
+BeritaSatu English,http://idn.sohu.blog/hls/53.m3u8
+Banten TV,http://idn.sohu.blog/hls/54.m3u8
+Balikpapan TV,http://idn.sohu.blog/hls/55.m3u8
+Arek TV,http://idn.sohu.blog/hls/56.m3u8
