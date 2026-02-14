@@ -1,48 +1,21 @@
 
     <html>
     <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
     <style>
-    body{
-        margin:0;
-        background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
-        font-family:Arial;
-        color:white;
-        display:flex;
-        justify-content:center;
-        align-items:center;
-        height:100vh;
-        text-align:center;
-    }
-    .box{
-        background:rgba(255,255,255,0.08);
-        padding:30px;
-        border-radius:15px;
-        backdrop-filter:blur(10px);
-        box-shadow:0 0 30px rgba(0,255,255,0.5);
-        width:90%;
-        max-width:420px;
-    }
-    a{
-        display:inline-block;
-        margin-top:15px;
-        padding:10px 20px;
-        background:#00f2ff;
-        color:#000;
-        border-radius:25px;
-        text-decoration:none;
-        font-weight:bold;
-    }
+    body{background:#0f172a;color:#00ffff;font-family:Arial;text-align:center;padding-top:80px}
+    .box{background:#111827;padding:40px;border-radius:12px;width:360px;margin:auto;box-shadow:0 0 30px #00ffff}
+    .btn{display:inline-block;margin-top:15px;padding:10px 25px;background:#00ffff;color:#000;border-radius:6px;text-decoration:none;font-weight:bold}
     </style>
     </head>
     <body>
-        <div class="box">
-        <h2>访问受限</h2>
-        <p>你的IP：172.183.132.66</p>
-        <a href="/apply_whitelist">申请白名单</a>
-        <p style="margin-top:20px;">今日访问：811</p>
-        <p>昨日访问：40</p>
-        </div>
+    <div class="box">
+        <h2>仅播放器使用</h2>
+        <a class="btn" href="/apply_whitelist">点击授权</a>
+        <br><br>
+        今日访问：1<br>
+        昨日访问：0
+    </div>
     </body>
     </html>
     
