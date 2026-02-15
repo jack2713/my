@@ -212,14 +212,14 @@ def main():
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/my1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/1699.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
-        'http://bxtv.3a.ink/live.txt',  # 不会转换
+        'http://iptv.4666888.xyz/FYTV.txt',  # 不会转换
+        #'http://bxtv.3a.ink/live.txt',  # 不会转换
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/dy01.txt',
         'http://rihou.cc:555/gggg.nzk',  # 不会转换
         #'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',  # 不会转换
         #'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',  # 不会转换
         #'https://live.hacks.tools/tv/iptv4.txt',  # 不会转换
-        'http://iptv.4666888.xyz/FYTV.txt',  # 不会转换
         'https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive',  # 不会转换
     ]
     
