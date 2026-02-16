@@ -212,6 +212,7 @@ def main():
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/my1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/1699.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
+        'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/TMP/s.txt',
         'http://iptv.4666888.xyz/FYTV.txt',  # 不会转换
         #'http://bxtv.3a.ink/live.txt',  # 不会转换
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
