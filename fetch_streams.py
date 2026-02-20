@@ -176,7 +176,7 @@ class GitIPTVFetcher:
             filename = f'myq.txt'
         
         # 添加注意事项
-        notice = f"注意事项,#genre#\n{timestamp if 'timestamp' in locals() else time.strftime('%Y%m%d%H%M%S')}仅供测试自用如有侵权请通知,https://live.ottiptv.cc/douyu/3186217\n"
+        notice = f"注意事项,#genre#\n{timestamp if 'timestamp' in locals() else time.strftime('%Y%m%d%H%M%S')}仅供测试自用如有侵权请通知,http://php.404003.xyz/live/douyuyqk.php?id=3186217\n"
         
         # 保存文件
         with open(filename, 'w', encoding='UTF-8') as file:
