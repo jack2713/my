@@ -217,6 +217,7 @@ def main():
         #'http://bxtv.3a.ink/live.txt',  # 不会转换
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/dy01.txt',
+        'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/ttest.txt',
         'http://rihou.cc:555/gggg.nzk',  # 不会转换
         #'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',  # 不会转换
         #'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',  # 不会转换
