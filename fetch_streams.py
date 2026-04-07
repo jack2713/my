@@ -105,7 +105,7 @@ class GitIPTVFetcher:
             line = line.rstrip()
             
             # 过滤不需要的行
-            filter_keywords = ['更新时间', '关于', '解锁', '公众号', '软件库', '#EXTINF:','权限','广播','订阅地址','➡️']
+            filter_keywords = ['更新时间', '关于', '解锁', '公众号', '软件库', '#EXTINF:','权限','广播','订阅地址','➡️','更新日期']
             if any(keyword in line for keyword in filter_keywords):
                 continue
             
@@ -218,6 +218,7 @@ def main():
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/dy01.txt',
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/ttest.txt',
+        'http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt',
         'http://rihou.cc:555/gggg.nzk',  # 不会转换
         #'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',  # 不会转换
         #'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',  # 不会转换
