@@ -6,7 +6,7 @@ import time
 
 # 文件 URL 列表
 urls = [
-    'https://bc.188766.xyz/?ip=',
+    #'https://bc.188766.xyz/?ip=',
     #'https://iptv.catvod.com/tv.m3u',
     #'https://live.catvod.com/tv.m3u',
     #'https://sub.ottiptv.cc/iptv.m3u',
