@@ -1,5 +1,5 @@
 注意事项,#genre#
-20260413204619仅供测试自用如有侵权请通知,https://goodiptv.club/douyu/3186217
+20260413223754仅供测试自用如有侵权请通知,https://goodiptv.club/douyu/3186217
 临时测试,#genre#
 啊七点歌台,video://https://www.douyu.com/beta/3186217
 啊七点歌台,https://goodiptv.club/douyu/3186217
@@ -7048,93 +7048,39 @@ MV音乐2,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=0aumrs&tk=IaRTZBNZkJti
 韩美食家,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=kQvd11&tk=IaRTZBNZkJti
 听书故事,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=GEMnEy&tk=IaRTZBNZkJti
 smt,#genre#
-CCTV1,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8
-CCTV1,http://183.11.239.36:808/hls/19/index.m3u8
-CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
-CCTV2,http://58.57.40.22:9901/tsfile/live/1001_1.m3u8
-CCTV2,http://183.11.239.36:808/hls/20/index.m3u8
-CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
-CCTV2,http://112.46.85.60:8009/hls/502/index.m3u8
-CCTV2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
-CCTV3,http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
+CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
 CCTV3,http://gmxw.7766.org:808/hls/91/index.m3u8
-CCTV3,http://183.11.239.36:808/hls/91/index.m3u8
-CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
-CCTV3,http://112.46.85.60:8009/hls/3/index.m3u8
-CCTV4,http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
-CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV4,http://183.11.239.36:808/hls/22/index.m3u8
-CCTV4,http://183.11.239.36:808/hls/77/index.m3u8
-CCTV4,http://183.11.239.36:808/hls/67/index.m3u8
-CCTV5,http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
-CCTV5,http://183.11.239.36:808/hls/93/index.m3u8
-CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
-CCTV5,http://112.46.85.60:8009/hls/503/index.m3u8
-CCTV5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
-CCTV5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
-CCTV6,http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
-CCTV6,http://183.11.239.36:808/hls/94/index.m3u8
-CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
-CCTV6,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
-CCTV6,http://182.150.23.74:808/hls/6/index.m3u8
-CCTV7,http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
-CCTV7,http://8.138.7.223/tv/cctv7.m3u8
-CCTV7,http://183.11.239.36:808/hls/25/index.m3u8
-CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
-CCTV8,http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
+CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV8,http://gmxw.7766.org:808/hls/96/index.m3u8
-CCTV8,http://183.11.239.36:808/hls/96/index.m3u8
-CCTV8,http://120.76.248.139/live/bfgd/4200000066.m3u8
-CCTV8,http://112.46.85.60:8009/hls/8/index.m3u8
-CCTV9,http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
+CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV9,http://183.11.239.36:808/hls/27/index.m3u8
-CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
-CCTV9,http://112.46.85.60:8009/hls/509/index.m3u8
-CCTV10,http://58.57.40.22:9901/tsfile/live/1010_1.m3u8
-CCTV10,http://183.11.239.36:808/hls/28/index.m3u8
-CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8
-CCTV10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
-CCTV10,http://182.150.23.74:808/hls/10/index.m3u8
-CCTV11,http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
-CCTV11,http://183.11.239.36:808/hls/29/index.m3u8
-CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8
-CCTV11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
-CCTV11,http://182.150.23.74:808/hls/11/index.m3u8
+CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
-CCTV12,http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
-CCTV12,http://183.11.239.36:808/hls/30/index.m3u8
-CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8
-CCTV12,http://112.46.85.60:8009/hls/507/index.m3u8
-CCTV13,http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
-CCTV13,http://183.11.239.36:808/hls/31/index.m3u8
-CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
-CCTV13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-CCTV14,http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
+CCTV12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+CCTV12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
-CCTV14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
-CCTV14,http://182.150.23.74:808/hls/14/index.m3u8
-CCTV15,http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
-CCTV15,http://gmxw.7766.org:808/hls/102/index.m3u8
-CCTV15,http://183.11.239.36:808/hls/102/index.m3u8
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
-CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8
+CCTV15,http://gmxw.7766.org:808/hls/102/index.m3u8
+CCTV15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8
-CCTV16,http://183.11.239.36:808/hls/169/index.m3u8
-CCTV16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 CCTV16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-CCTV17,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
-CCTV17,http://183.11.239.36:808/hls/35/index.m3u8
+CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8
+CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
-CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
-CCTV17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
@@ -7167,177 +7113,72 @@ CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 支持作者,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
-安徽卫视,http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
-安徽卫视,http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
-安徽卫视,http://183.11.239.36:808/hls/40/index.m3u8
-安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8
-安徽卫视,http://182.150.23.74:808/hls/25/index.m3u8
-北京卫视,http://58.57.40.22:9901/tsfile/live/1032_1.m3u8
+安徽卫视,http://gmxw.7766.org:808/hls/40/index.m3u8
+安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://124.116.183.146:9901/tsfile/live/0122_1.m3u8
-北京卫视,http://183.11.239.36:808/hls/41/index.m3u8
-北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
-兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
-兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
-东方卫视,http://58.57.40.22:9901/tsfile/live/1030_1.m3u8
+北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
-东方卫视,http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
-东方卫视,http://183.11.239.36:808/hls/114/index.m3u8
-东南卫视,http://58.57.40.22:9901/tsfile/live/1037_1.m3u8
-东南卫视,http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
+东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
-东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8
-东南卫视,http://123.129.70.178:9901/tsfile/live/0137_1.m3u8
-甘肃卫视,http://58.57.40.22:9901/tsfile/live/1056_1.m3u8
-甘肃卫视,http://111.61.236.247:9081/hls/54/index.m3u8
-甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8
-甘肃卫视,http://183.11.239.36:808/hls/119/index.m3u8
-甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
-广东卫视,http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
-广东卫视,http://124.116.183.146:9901/tsfile/live/0125_1.m3u8
-广东卫视,http://183.11.239.36:808/hls/80/index.m3u8
-广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
-广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8
-广西卫视,http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
+东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20260209040208b7fdef1503cd41b3a15efc83c4616146&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260209040208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20260209040208&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a52d374097b5f15c689423533a043ba9
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
-广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
-广西卫视,http://cssbyd.imwork.net:8082/hls/33/index.m3u8
-广西卫视,http://183.11.239.36:808/hls/56/index.m3u8
-贵州卫视,http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
-贵州卫视,http://cssbyd.imwork.net:8082/hls/39/index.m3u8
-贵州卫视,http://120.76.248.139/live/bfgd/4200000101.m3u8
-贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8
-贵州卫视,http://182.150.23.74:808/hls/26/index.m3u8
-海南卫视,http://58.57.40.22:9901/tsfile/live/1000_1.m3u8
+广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
-海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-海南卫视,http://183.11.239.36:808/hls/124/index.m3u8
-海南卫视,http://cssbyd.imwork.net:8082/hls/31/index.m3u8
+海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
+海南卫视,http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-河北卫视,http://58.57.40.22:9901/tsfile/live/1044_1.m3u8
-河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
-河北卫视,http://111.61.236.247:9081/hls/17/index.m3u8
-河北卫视,http://183.11.239.36:808/hls/54/index.m3u8
 河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8
-河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
-河南卫视,http://cssbyd.imwork.net:8082/hls/37/index.m3u8
-河南卫视,http://183.11.239.36:808/hls/51/index.m3u8
-河南卫视,http://120.76.248.139/live/bfgd/4200000339.m3u8
-河南卫视,http://182.150.23.74:808/hls/33/index.m3u8
-湖北卫视,http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
-湖北卫视,http://124.116.183.146:9901/tsfile/live/0132_1.m3u8
-湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8
-湖北卫视,http://182.150.23.74:808/hls/28/index.m3u8
-湖南卫视,http://58.57.40.22:9901/tsfile/live/1028_1.m3u8
+湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
-湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-湖南卫视,http://124.116.183.146:9901/tsfile/live/0128_1.m3u8
-湖南卫视,http://183.11.239.36:808/hls/36/index.m3u8
-吉林卫视,http://58.57.40.22:9901/tsfile/live/1050_1.m3u8
-吉林卫视,http://111.61.236.247:9081/hls/45/index.m3u8
-吉林卫视,http://cssbyd.imwork.net:8082/hls/41/index.m3u8
-吉林卫视,http://183.11.239.36:808/hls/10/index.m3u8
-吉林卫视,http://120.76.248.139/live/bfgd/4200000097.m3u8
-江苏卫视,http://58.57.40.22:9901/tsfile/live/1031_1.m3u8
-江苏卫视,http://183.11.239.36:808/hls/38/index.m3u8
-江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
-江苏卫视,http://112.46.85.60:8009/hls/33/index.m3u8
-江苏卫视,http://182.150.23.74:808/hls/18/index.m3u8
-江西卫视,http://58.57.40.22:9901/tsfile/live/1043_1.m3u8
-江西卫视,http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
-江西卫视,http://120.76.248.139/live/bfgd/4200000098.m3u8
-江西卫视,http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
-江西卫视,http://182.150.23.74:808/hls/30/index.m3u8
-辽宁卫视,http://58.57.40.22:9901/tsfile/live/1035_1.m3u8
-辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8
-辽宁卫视,http://120.76.248.139/live/bfgd/4200000185.m3u8
-辽宁卫视,http://120.76.248.139/live/bfgd/4200000058.m3u8
-辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8
-宁夏卫视,http://58.57.40.22:9901/tsfile/live/1054_1.m3u8
-宁夏卫视,http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-宁夏卫视,http://111.61.236.247:9081/hls/51/index.m3u8
-宁夏卫视,http://cssbyd.imwork.net:8082/hls/45/index.m3u8
-宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://58.57.40.22:9901/tsfile/live/1057_1.m3u8
 青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
-青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8
-青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
 山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8
-山东卫视,http://182.150.23.74:808/hls/23/index.m3u8
-山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8
-山东卫视,http://111.61.236.247:9081/hls/31/index.m3u8
-山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
-深圳卫视,http://58.57.40.22:9901/tsfile/live/1036_1.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-深圳卫视,http://124.116.183.146:9901/tsfile/live/0126_1.m3u8
-深圳卫视,http://183.11.239.36:808/hls/45/index.m3u8
-深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
-四川卫视,http://58.57.40.22:9901/tsfile/live/1046_1.m3u8
-四川卫视,http://124.116.183.146:9901/tsfile/live/0123_1.m3u8
-四川卫视,http://183.11.239.36:808/hls/50/index.m3u8
-四川卫视,http://120.76.248.139/live/bfgd/4200000103.m3u8
-四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8
-天津卫视,http://58.57.40.22:9901/tsfile/live/1034_1.m3u8
-天津卫视,http://124.116.183.146:9901/tsfile/live/0135_1.m3u8
-天津卫视,http://183.11.239.36:808/hls/42/index.m3u8
-天津卫视,http://112.46.85.60:8009/hls/44/index.m3u8
-天津卫视,http://182.150.23.74:808/hls/27/index.m3u8
+深圳卫视,http://gmxw.7766.org:808/hls/45/index.m3u8
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
-西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
-西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
-西藏卫视,http://183.11.239.36:808/hls/64/index.m3u8
-西藏卫视,http://120.76.248.139/live/bfgd/4200000121.m3u8
-新疆卫视,http://58.57.40.22:9901/tsfile/live/1055_1.m3u8
-新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-新疆卫视,http://120.76.248.139/live/bfgd/4200000150.m3u8
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://123.130.84.106:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
-延边卫视,http://gmxw.7766.org:808/hls/15/index.m3u8
-云南卫视,http://58.57.40.22:9901/tsfile/live/1047_1.m3u8
-云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
-云南卫视,http://111.61.236.247:9081/hls/32/index.m3u8
-云南卫视,http://cssbyd.imwork.net:8082/hls/36/index.m3u8
-云南卫视,http://183.11.239.36:808/hls/52/index.m3u8
-浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://cssbyd.imwork.net:8082/hls/22/index.m3u8
-浙江卫视,http://183.11.239.36:808/hls/37/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
-重庆卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
-重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
-重庆卫视,http://183.11.239.36:808/hls/53/index.m3u8
-重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-黑龙江卫视,http://58.57.40.22:9901/tsfile/live/1040_1.m3u8
-黑龙江卫视,http://124.116.183.146:9901/tsfile/live/0143_1.m3u8
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8
-黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8
-黑龙江卫视,http://123.130.84.106:8154/tsfile/live/0143_1.m3u8
+黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8
-内蒙古卫视,http://111.61.236.247:9081/hls/48/index.m3u8
-内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8
-内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
-内蒙古卫视,http://182.150.23.74:808/hls/37/index.m3u8
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 四川卫视4K,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
@@ -7354,14 +7195,18 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+冰冰影剧,http://www.goodiptv.club/douyu/74374
+刀刀影院,http://www.goodiptv.club/douyu/747764
+华语影视,http://www.goodiptv.club/douyu/3928
+古装武侠,http://www.goodiptv.club/douyu/2793084
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 安徽影视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-广东影视,http://119.32.12.17:2901/udp/224.1.100.11:11111
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 拆弹专家1,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
 拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 斗鱼港剧,http://www.goodiptv.club/douyu/5061550
+橙记港剧,http://www.goodiptv.club/douyu/4549169
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
@@ -7369,25 +7214,25 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 浙江教科影视,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
 淘娱乐,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887499.m3u8
+热门港剧,http://www.goodiptv.club/douyu/5522351
 电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
 电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
-电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
 电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
-电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
 电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
+电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
 电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
-电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
-电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
+电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
 电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
-电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
-电影高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
-经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
+电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
+经典剧集,http://www.goodiptv.club/douyu/6863367
 美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
 美亚电影,http://zjrtv.vip/live/?tbs=mydy
 让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 豆瓣电影,https://live.tvfix.org/live/cmc/index.m3u8
+贝爷求生,http://www.goodiptv.club/douyu/9661369
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
+邵氏影院,http://www.goodiptv.club/douyu/4246519
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
@@ -7396,28 +7241,20 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
-卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
-卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
-金鹰卡通,http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
-广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
-广东少儿,http://119.32.12.17:2901/udp/224.1.100.9:11111
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 七龙珠,https://live.metshop.top/huya/11601966
+中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-武汉少儿频道,http://hzzzz530.com:4022/udp/239.69.1.6:9676
+海绵宝宝,https://live.metshop.top/douyu/3949681
 猫和老鼠,https://live.metshop.top/huya/11352879
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
-广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
@@ -7425,14 +7262,9 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
-大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8
-广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
@@ -7548,6 +7380,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨都市咨询,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
@@ -7599,10 +7432,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
-广东新闻,http://119.32.12.17:2901/udp/224.1.100.5:11111
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
-广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111
-广东经济科教,http://119.32.12.17:2901/udp/224.1.100.6:11111
 广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
@@ -7724,8 +7554,6 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 河北农民,http://ls.qingting.fm/live/1650.m3u8
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
@@ -7806,7 +7634,6 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 溧水新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=202510240800594a9687dbd7324f45ae45174f1227d3ad&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=287022ec4f8292e91b2eca7dd26993d3&ddCalcu=32d8e372909920622edcd47fa8c2e922be19
 滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
-滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
 潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
@@ -11588,40 +11415,39 @@ baby丶贝贝,https://live.ottiptv.cc/douyu/431460
 怡宝妹妹丶,https://live.ottiptv.cc/douyu/434971
 奇兮兮悄陌,https://live.ottiptv.cc/douyu/953193
 当燕双鹰遇见李元芳,https://live.ottiptv.cc/douyu/3439096
-当铁手团遇到光复社,https://live.ottiptv.cc/douyu/5875025
 蓝翔新三国,https://live.ottiptv.cc/douyu/5908256
+当铁手团遇到光复社,https://live.ottiptv.cc/douyu/5875025
 Poison丶冰冰,https://live.ottiptv.cc/douyu/74374
 贾贵队长真男神,https://live.ottiptv.cc/douyu/299854
 粤语电影丶,https://live.ottiptv.cc/douyu/1226741
 当幽兰剑遇上链子刀,https://live.ottiptv.cc/douyu/6027991
-懒猫是只喵,https://live.ottiptv.cc/douyu/260322
 白了个痴,https://live.ottiptv.cc/douyu/319576
+懒猫是只喵,https://live.ottiptv.cc/douyu/260322
 疯狂尛瀦瀦,https://live.ottiptv.cc/douyu/4290711
 蓝翔老三国,https://live.ottiptv.cc/douyu/7459925
 师落,https://live.ottiptv.cc/douyu/6911044
-智仗心,https://live.ottiptv.cc/douyu/5635000
-聚聚聚一个月,https://live.ottiptv.cc/douyu/4105989
-萌小鬼,https://live.ottiptv.cc/douyu/3928
 gslaini,https://live.ottiptv.cc/douyu/6997954
-永远快乐的小美女,https://live.ottiptv.cc/douyu/6091425
+智仗心,https://live.ottiptv.cc/douyu/5635000
+萌小鬼,https://live.ottiptv.cc/douyu/3928
+聚聚聚一个月,https://live.ottiptv.cc/douyu/4105989
 万事通熊猫,https://live.ottiptv.cc/douyu/7812810
+永远快乐的小美女,https://live.ottiptv.cc/douyu/6091425
 疯狂小潴潴,https://live.ottiptv.cc/douyu/5522351
-菠萝屋的海绵宝宝,https://live.ottiptv.cc/douyu/3949681
 dw151295068,https://live.ottiptv.cc/douyu/12655359
-牛奶味的梦猪猪,https://live.ottiptv.cc/douyu/5261342
-苹果Zei妖,https://live.ottiptv.cc/douyu/2793084
+菠萝屋的海绵宝宝,https://live.ottiptv.cc/douyu/3949681
 Only丶邵氏,https://live.ottiptv.cc/douyu/4246519
+苹果Zei妖,https://live.ottiptv.cc/douyu/2793084
+牛奶味的梦猪猪,https://live.ottiptv.cc/douyu/5261342
 剧能下饭鹰,https://live.ottiptv.cc/douyu/11931032
 狄胖胖与李乖乖,https://live.ottiptv.cc/douyu/12183882
-JhZj丶天明,https://live.ottiptv.cc/douyu/1006179
 小毅主播e,https://live.ottiptv.cc/douyu/11851549
-刀刀de食堂,https://live.ottiptv.cc/douyu/6733133
-米尼影院,https://live.ottiptv.cc/douyu/7642724
 狂拽酷炫,https://live.ottiptv.cc/douyu/4332
+米尼影院,https://live.ottiptv.cc/douyu/7642724
+刀刀de食堂,https://live.ottiptv.cc/douyu/6733133
 网神影厅,https://live.ottiptv.cc/douyu/508118
-鯋鱼辰辰,https://live.ottiptv.cc/douyu/7623292
-成龙历险纪,https://live.ottiptv.cc/douyu/2287949
 刘松毅,https://live.ottiptv.cc/douyu/12128227
+成龙历险纪,https://live.ottiptv.cc/douyu/2287949
+鯋鱼辰辰,https://live.ottiptv.cc/douyu/7623292
 苹果Zei甜,https://live.ottiptv.cc/douyu/1174353
 十七岁的道姑,https://live.ottiptv.cc/douyu/3186217
 甜漫妮666,https://live.ottiptv.cc/douyu/1569773
@@ -11630,7 +11456,6 @@ JhZj丶天明,https://live.ottiptv.cc/douyu/1006179
 往事vs随风1,https://live.ottiptv.cc/douyu/3113309
 草帽丶海贼团,https://live.ottiptv.cc/douyu/997925
 是你的迷弟吖,https://live.ottiptv.cc/douyu/7039598
-钟意嚼完唔松弟弟邊爐,https://live.ottiptv.cc/douyu/8912325
 Hi欣欣,https://live.ottiptv.cc/douyu/11996166
 猫记丶,https://live.ottiptv.cc/douyu/9242659
 小姐姐不记得,https://live.ottiptv.cc/douyu/3700024
@@ -11640,14 +11465,13 @@ Hi欣欣,https://live.ottiptv.cc/douyu/11996166
 蕃薯粥粥煮好了,https://live.ottiptv.cc/douyu/11878141
 徐大sao,https://live.ottiptv.cc/douyu/7107176
 魔术师丶西索,https://live.ottiptv.cc/douyu/6610883
-多发几个思雨,https://live.ottiptv.cc/douyu/7256376
 我砸晕了牛顿奥,https://live.ottiptv.cc/douyu/1218414
-爱看剧的家Fat喵,https://live.ottiptv.cc/douyu/65943
-早川秋you,https://live.ottiptv.cc/douyu/12289484
+多发几个思雨,https://live.ottiptv.cc/douyu/7256376
 菠萝屋SpongeBob,https://live.ottiptv.cc/douyu/12400977
-奇光主播,https://live.ottiptv.cc/douyu/8009547
+早川秋you,https://live.ottiptv.cc/douyu/12289484
 恨鐵,https://live.ottiptv.cc/douyu/6369954
 过往1908,https://live.ottiptv.cc/douyu/8721095
+奇光主播,https://live.ottiptv.cc/douyu/8009547
 红鼻子小黑吖,https://live.ottiptv.cc/douyu/5832053
 巫妖王丶怀旧电视游戏,https://live.ottiptv.cc/douyu/1023277
 sweet夏有甜,https://live.ottiptv.cc/douyu/4808115
@@ -11659,15 +11483,14 @@ xguang2013,https://live.ottiptv.cc/douyu/491253
 精彩短剧看不停,https://live.ottiptv.cc/douyu/11824307
 电视剧僵尸约会,https://live.ottiptv.cc/douyu/8371123
 Angela小兔,https://live.ottiptv.cc/douyu/9617766
-是个小可爱iiii,https://live.ottiptv.cc/douyu/9650782
 掌上Club,https://live.ottiptv.cc/douyu/1770806
+是个小可爱iiii,https://live.ottiptv.cc/douyu/9650782
 爱唱跳Rap的胖虎,https://live.ottiptv.cc/douyu/5895598
 小小甜的骑士,https://live.ottiptv.cc/douyu/9236042
 壹丨哥,https://live.ottiptv.cc/douyu/5692901
 荒野视界,https://live.ottiptv.cc/douyu/10675329
 九子蒲,https://live.ottiptv.cc/douyu/3711998
 半打星冰乐,https://live.ottiptv.cc/douyu/7481383
-Biu餐厅主管,https://live.ottiptv.cc/douyu/7921708
 分享备用,https://live.ottiptv.cc/douyu/5804577
 AAPLEDOG,https://live.ottiptv.cc/douyu/5133586
 静静给你糖,https://live.ottiptv.cc/douyu/11752454
@@ -11679,11 +11502,14 @@ AAPLEDOG,https://live.ottiptv.cc/douyu/5133586
 旧梦随人心,https://live.ottiptv.cc/douyu/692533
 冥王星丶丶,https://live.ottiptv.cc/douyu/296575
 安安601801,https://live.ottiptv.cc/douyu/11283504
+Biu餐厅主管,https://live.ottiptv.cc/douyu/7921708
 天才大熊猫啊,https://live.ottiptv.cc/douyu/10646699
 Jonas888,https://live.ottiptv.cc/douyu/6054446
 科幻梦工场,https://live.ottiptv.cc/douyu/9608874
 浩贤说电影,https://live.ottiptv.cc/douyu/10535867
+Cloud猪,https://live.ottiptv.cc/douyu/527502
 芒果酱Mangoo,https://live.ottiptv.cc/douyu/138959
+白燥No1,https://live.ottiptv.cc/douyu/280064
 屁屁鲁男孩,https://live.ottiptv.cc/douyu/708526
 ljgdy,https://live.ottiptv.cc/douyu/1600769
 有趣视频分享,https://live.ottiptv.cc/douyu/1816353
@@ -11693,6 +11519,7 @@ ljgdy,https://live.ottiptv.cc/douyu/1600769
 血腥丶妖瞳,https://live.ottiptv.cc/douyu/4231787
 美人而已,https://live.ottiptv.cc/douyu/5138817
 卖爆鱼的小姑娘,https://live.ottiptv.cc/douyu/5982597
+不是狄胖胖,https://live.ottiptv.cc/douyu/6690194
 搞笑天堂岛,https://live.ottiptv.cc/douyu/6916081
 a萌小翘臀,https://live.ottiptv.cc/douyu/7552568
 BetterMan北北,https://live.ottiptv.cc/douyu/8507023
@@ -11707,9 +11534,7 @@ BobMarley1234,https://live.ottiptv.cc/douyu/10871570
 伊西wind,https://live.ottiptv.cc/douyu/12641373
 傲娇一喵喵,https://live.ottiptv.cc/douyu/9392610
 昆特牌之大哥食正野,https://live.ottiptv.cc/douyu/7919720
-Cloud猪,https://live.ottiptv.cc/douyu/527502
 羊小川,https://live.ottiptv.cc/douyu/11081842
-不是狄胖胖,https://live.ottiptv.cc/douyu/6690194
 xiaoxiao1004,https://live.ottiptv.cc/douyu/2569874
 籮卜君,https://live.ottiptv.cc/douyu/7495810
 微梦屋,https://live.ottiptv.cc/douyu/7027040
@@ -11718,8 +11543,8 @@ xiaoxiao1004,https://live.ottiptv.cc/douyu/2569874
 大米饭影视,https://live.ottiptv.cc/douyu/9824094
 陈瀚Siri,https://live.ottiptv.cc/douyu/759805
 竹叶的熊猫,https://live.ottiptv.cc/douyu/3870925
-单纯的顺才少爷,https://live.ottiptv.cc/douyu/10084875
-C大兄弟,https://live.ottiptv.cc/douyu/7134757
+JhZj丶天明,https://live.ottiptv.cc/douyu/1006179
+钟意嚼完唔松弟弟邊爐,https://live.ottiptv.cc/douyu/8912325
 只想中奖噢,https://live.ottiptv.cc/douyu/8357389
 冬至小肉丸子圈圈,https://live.ottiptv.cc/huya/30080141
 武林萌主唐小姐,https://live.ottiptv.cc/huya/11336726
@@ -12614,21 +12439,20 @@ TVB练习生,https://live.ottiptv.cc/huya/23865132
 沉默的孤狼啊,https://live.ottiptv.cc/huya/21059598
 原创IP,#genre#
 牛叔说电影,https://live.ottiptv.cc/douyu/2758565
-我们可爱的程程,https://live.ottiptv.cc/douyu/329667
 火龙果说电影,https://live.ottiptv.cc/douyu/9559158
 小片片说大片,https://live.ottiptv.cc/douyu/4258555
 7师傅,https://live.ottiptv.cc/douyu/17732
 小约翰可汗,https://live.ottiptv.cc/douyu/9738854
-万合出品,https://live.ottiptv.cc/douyu/9220456
-牛叔说电影二台,https://live.ottiptv.cc/douyu/10010651
 用户1275665728,https://live.ottiptv.cc/douyu/9067836
+万合出品,https://live.ottiptv.cc/douyu/9220456
 老高与小茉的死忠粉,https://live.ottiptv.cc/douyu/236461
+牛叔说电影二台,https://live.ottiptv.cc/douyu/10010651
 科幻Fans布玛,https://live.ottiptv.cc/douyu/3508304
 开心锤锤动漫,https://live.ottiptv.cc/douyu/9018297
 彼岸心属MADEIN伊藤美优,https://live.ottiptv.cc/douyu/40471
 自说自话的总裁,https://live.ottiptv.cc/douyu/9317739
-崔然竣舞台天才,https://live.ottiptv.cc/douyu/113158
 赵本山经典小品,https://live.ottiptv.cc/douyu/9817716
+崔然竣舞台天才,https://live.ottiptv.cc/douyu/113158
 秋月剪水,https://live.ottiptv.cc/douyu/9588891
 OneGuy丶,https://live.ottiptv.cc/douyu/9734098
 PP看动漫,https://live.ottiptv.cc/douyu/9837291
@@ -12636,8 +12460,8 @@ PP看动漫,https://live.ottiptv.cc/douyu/9837291
 兔兔MC维辰软桃团,https://live.ottiptv.cc/douyu/8266799
 刘老师说电影,https://live.ottiptv.cc/douyu/8317926
 开心麻花经典小品,https://live.ottiptv.cc/douyu/10153463
-都市夜魔人老王,https://live.ottiptv.cc/douyu/610972
 游钓中国李大毛,https://live.ottiptv.cc/douyu/791411
+都市夜魔人老王,https://live.ottiptv.cc/douyu/610972
 虫哥说电影,https://live.ottiptv.cc/douyu/8915074
 荒野有声书,https://live.ottiptv.cc/douyu/10650322
 赵本删不删,https://live.ottiptv.cc/douyu/9837104
@@ -12657,167 +12481,164 @@ PP看动漫,https://live.ottiptv.cc/douyu/9837291
 怪兽马提尼电影,https://live.ottiptv.cc/douyu/9075333
 大漠叔叔Dm,https://live.ottiptv.cc/douyu/1109218
 特辑电影院,https://live.ottiptv.cc/douyu/3637778
-拳叔二次元,https://live.ottiptv.cc/douyu/9484105
 老烟斗鬼故事,https://live.ottiptv.cc/douyu/2337939
+拳叔二次元,https://live.ottiptv.cc/douyu/9484105
 贾玲经典小品,https://live.ottiptv.cc/douyu/10419541
 电影迷小雅,https://live.ottiptv.cc/douyu/9639225
-堇姑娘,https://live.ottiptv.cc/douyu/297689
 渔戈兄弟赶海,https://live.ottiptv.cc/douyu/9091847
 李允儿er的助眠小窝,https://live.ottiptv.cc/douyu/9038894
 蔡老板家的长工丶,https://live.ottiptv.cc/douyu/8869614
 悬疑MOVIE,https://live.ottiptv.cc/douyu/9601429
 许君聪经典小品,https://live.ottiptv.cc/douyu/10419558
-Svip丶YoYo,https://live.ottiptv.cc/douyu/3472959
 培根悖论唠唠嗑,https://live.ottiptv.cc/douyu/5354713
+Svip丶YoYo,https://live.ottiptv.cc/douyu/3472959
 碎片记,https://live.ottiptv.cc/douyu/9412981
 热影连连看,https://live.ottiptv.cc/douyu/9388931
+堇姑娘,https://live.ottiptv.cc/douyu/297689
 宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 万合鲜肉老师,https://live.ottiptv.cc/douyu/9815091
+顾止最爱的小胖宝贝,https://live.ottiptv.cc/douyu/238643
 爱好恐怖片的美男子,https://live.ottiptv.cc/douyu/9280384
 睡丝虫,https://live.ottiptv.cc/douyu/10308234
 芙芙家的洗碗君,https://live.ottiptv.cc/douyu/9446706
 1900影剧室,https://live.ottiptv.cc/douyu/7796193
-顾止最爱的小胖宝贝,https://live.ottiptv.cc/douyu/238643
 好剧看不停,https://live.ottiptv.cc/douyu/9388938
 少打白骨精,https://live.ottiptv.cc/douyu/11531165
+文西与阿漆,https://live.ottiptv.cc/douyu/8737695
 历史经典烩,https://live.ottiptv.cc/douyu/9487003
-茶啊二中官方,https://live.ottiptv.cc/douyu/2925610
 一个机智张张,https://live.ottiptv.cc/douyu/9653063
+茶啊二中官方,https://live.ottiptv.cc/douyu/2925610
+南国小豆豆,https://live.ottiptv.cc/douyu/3310454
 王大齐吖,https://live.ottiptv.cc/douyu/3647278
 工藤新医heart,https://live.ottiptv.cc/douyu/8741860
-用户2979576101,https://live.ottiptv.cc/douyu/9273031
 奥雷卡尔克斯,https://live.ottiptv.cc/douyu/1224356
 开心嘴炮,https://live.ottiptv.cc/douyu/9026377
-刘哔电影,https://live.ottiptv.cc/douyu/2632223
-龙视本山快乐营,https://live.ottiptv.cc/douyu/9374865
-文西与阿漆,https://live.ottiptv.cc/douyu/8737695
-南国小豆豆,https://live.ottiptv.cc/douyu/3310454
-小涛讲电影V,https://live.ottiptv.cc/douyu/8415464
-你的瑜伽女孩,https://live.ottiptv.cc/douyu/10205199
-暴走漫画,https://live.ottiptv.cc/douyu/1275878
-敬汉卿250,https://live.ottiptv.cc/douyu/2912165
 史君观影,https://live.ottiptv.cc/douyu/9644669
-猛禽西伯利亚白猿,https://live.ottiptv.cc/douyu/10074407
-JustXiaIt嘻咦啊看,https://live.ottiptv.cc/douyu/2660125
+用户2979576101,https://live.ottiptv.cc/douyu/9273031
+暴走漫画,https://live.ottiptv.cc/douyu/1275878
+你的瑜伽女孩,https://live.ottiptv.cc/douyu/10205199
 菇菇说过,https://live.ottiptv.cc/douyu/8788687
+小涛讲电影V,https://live.ottiptv.cc/douyu/8415464
+敬汉卿250,https://live.ottiptv.cc/douyu/2912165
+猛禽西伯利亚白猿,https://live.ottiptv.cc/douyu/10074407
+鬼兄奇谈,https://live.ottiptv.cc/douyu/8722254
 嘴巴鼻子没有沟,https://live.ottiptv.cc/douyu/10217984
 林家渔妹,https://live.ottiptv.cc/douyu/9348805
 墨逗电影,https://live.ottiptv.cc/douyu/9614847
-龙视爱笑会议室,https://live.ottiptv.cc/douyu/9375430
-老秦说秦,https://live.ottiptv.cc/douyu/9650131
 代娱说美剧,https://live.ottiptv.cc/douyu/9123570
+世界未解之谜M,https://live.ottiptv.cc/douyu/9369468
 勤时铭悦,https://live.ottiptv.cc/douyu/8790357
-漫威君,https://live.ottiptv.cc/douyu/1713615
-a5dmin,https://live.ottiptv.cc/douyu/1102973
-小明不背锅up,https://live.ottiptv.cc/douyu/117854
-流浪吧王温暖,https://live.ottiptv.cc/douyu/655973
-老邪说电影,https://live.ottiptv.cc/douyu/9222870
-敢来碰我,https://live.ottiptv.cc/douyu/10308225
-植物椿de房间,https://live.ottiptv.cc/douyu/9771247
 强人说笑,https://live.ottiptv.cc/douyu/10329713
+老秦说秦,https://live.ottiptv.cc/douyu/9650131
+漫威君,https://live.ottiptv.cc/douyu/1713615
+流浪吧王温暖,https://live.ottiptv.cc/douyu/655973
+小明不背锅up,https://live.ottiptv.cc/douyu/117854
+a5dmin,https://live.ottiptv.cc/douyu/1102973
+敢来碰我,https://live.ottiptv.cc/douyu/10308225
+龙视本山快乐营,https://live.ottiptv.cc/douyu/9374865
+植物椿de房间,https://live.ottiptv.cc/douyu/9771247
+刘哔电影,https://live.ottiptv.cc/douyu/2632223
 悉奇,https://live.ottiptv.cc/douyu/9401473
 我叫萌迪迪V,https://live.ottiptv.cc/douyu/5354705
-鬼兄奇谈,https://live.ottiptv.cc/douyu/8722254
+挖沟连彭沟长,https://live.ottiptv.cc/douyu/8413092
 钓鱼大锋子,https://live.ottiptv.cc/douyu/10074370
 黑色脑回路,https://live.ottiptv.cc/douyu/9339300
-一目十影,https://live.ottiptv.cc/douyu/3643605
-钓鱼欧尼AnglerJJung,https://live.ottiptv.cc/douyu/10616765
 百万巨星麒麟君,https://live.ottiptv.cc/douyu/3431701
 3030相声小品,https://live.ottiptv.cc/douyu/9286868
 英大吉来了,https://live.ottiptv.cc/douyu/9174097
-快看张不止,https://live.ottiptv.cc/douyu/8413226
-挖沟连彭沟长,https://live.ottiptv.cc/douyu/8413092
-世界未解之谜M,https://live.ottiptv.cc/douyu/9369468
 宇宙视界,https://live.ottiptv.cc/douyu/9498354
-逗米说电影,https://live.ottiptv.cc/douyu/421222
+JustXiaIt嘻咦啊看,https://live.ottiptv.cc/douyu/2660125
+快看张不止,https://live.ottiptv.cc/douyu/8413226
+一目十影,https://live.ottiptv.cc/douyu/3643605
+龙视爱笑会议室,https://live.ottiptv.cc/douyu/9375430
+dy荒野建造,https://live.ottiptv.cc/douyu/10039437
+老邪说电影,https://live.ottiptv.cc/douyu/9222870
 内蒙古欢乐驿站,https://live.ottiptv.cc/douyu/9365077
 爱旅行的巧克力,https://live.ottiptv.cc/douyu/9653323
 荒野伊甸园,https://live.ottiptv.cc/douyu/9611578
-一条闲木鱼,https://live.ottiptv.cc/douyu/10102281
 用青春去旅行,https://live.ottiptv.cc/douyu/9629423
-大坑侦探社,https://live.ottiptv.cc/douyu/9440339
-真香动漫解说,https://live.ottiptv.cc/douyu/9391292
 火龙果讲电影本人,https://live.ottiptv.cc/douyu/2039501
-小司马说剧,https://live.ottiptv.cc/douyu/9660127
+喜剧电影笑不停,https://live.ottiptv.cc/douyu/10298856
 小陶气说动漫,https://live.ottiptv.cc/douyu/9527700
-dy荒野建造,https://live.ottiptv.cc/douyu/10039437
 科幻战舰,https://live.ottiptv.cc/douyu/8772060
+老王忆经典,https://live.ottiptv.cc/douyu/9687733
 小猪优版剧院,https://live.ottiptv.cc/douyu/10297898
-大蓝雀,https://live.ottiptv.cc/douyu/8656759
+负担亡魂,https://live.ottiptv.cc/douyu/10308242
 粤知一二,https://live.ottiptv.cc/douyu/2940299
-猪肉熟了,https://live.ottiptv.cc/douyu/296836
+小司马说剧,https://live.ottiptv.cc/douyu/9660127
 影视英雄汇,https://live.ottiptv.cc/douyu/10240495
 荒野避难所,https://live.ottiptv.cc/douyu/10234334
-猎奇笔记本,https://live.ottiptv.cc/douyu/9627172
 荒野万池王,https://live.ottiptv.cc/douyu/9544576
-小片片说大片二台,https://live.ottiptv.cc/douyu/10011547
+一条闲木鱼,https://live.ottiptv.cc/douyu/10102281
+俩个麻瓜,https://live.ottiptv.cc/douyu/10121755
 篮球过人技巧,https://live.ottiptv.cc/douyu/9406897
 野行涛哥V,https://live.ottiptv.cc/douyu/9329608
+小小鹿老师,https://live.ottiptv.cc/douyu/9442889
 猫猫村长,https://live.ottiptv.cc/douyu/4716
-老王忆经典,https://live.ottiptv.cc/douyu/9687733
-柳青瑶本尊,https://live.ottiptv.cc/douyu/2281324
+小片片说大片二台,https://live.ottiptv.cc/douyu/10011547
+钓鱼欧尼AnglerJJung,https://live.ottiptv.cc/douyu/10616765
+搞笑动漫大本营,https://live.ottiptv.cc/douyu/9650181
+逗米说电影,https://live.ottiptv.cc/douyu/421222
 维塔利在野外,https://live.ottiptv.cc/douyu/9804068
 多多看车,https://live.ottiptv.cc/douyu/4921957
-助眠师海宝宝,https://live.ottiptv.cc/douyu/1103328
+小马哥说电影,https://live.ottiptv.cc/douyu/9396672
 铁血影视汇,https://live.ottiptv.cc/douyu/9649701
 果冻萌萌的丶,https://live.ottiptv.cc/douyu/9607934
-九叔说电影v,https://live.ottiptv.cc/douyu/9348282
 阎君说剧,https://live.ottiptv.cc/douyu/10475459
+阿苏电影,https://live.ottiptv.cc/douyu/9037784
 喵妹说电影,https://live.ottiptv.cc/douyu/9312432
 龙视欢乐英雄转,https://live.ottiptv.cc/douyu/9374836
+真香动漫解说,https://live.ottiptv.cc/douyu/9391292
+九叔说电影v,https://live.ottiptv.cc/douyu/9348282
 影视集装箱,https://live.ottiptv.cc/douyu/8651489
-贝爷求生影视,https://live.ottiptv.cc/douyu/9661369
-二哈讲电影,https://live.ottiptv.cc/douyu/8778280
+猎奇笔记本,https://live.ottiptv.cc/douyu/9627172
 哇萨比抓马WD,https://live.ottiptv.cc/douyu/8808506
-梓帆说电影,https://live.ottiptv.cc/douyu/9769563
 阿九筒的春天,https://live.ottiptv.cc/douyu/3705679
 俗哥看电影,https://live.ottiptv.cc/douyu/2161818
-小马哥说电影,https://live.ottiptv.cc/douyu/9396672
-宇宙无敌韩三金,https://live.ottiptv.cc/douyu/3194372
-爆笑行为大赏,https://live.ottiptv.cc/douyu/10329767
-喜剧电影笑不停,https://live.ottiptv.cc/douyu/10298856
-我为奥迪上黄金,https://live.ottiptv.cc/douyu/9336286
-鄂东老男孩,https://live.ottiptv.cc/douyu/8837707
-国士无双人物传奇,https://live.ottiptv.cc/douyu/9544555
-小小鹿老师,https://live.ottiptv.cc/douyu/9442889
-来呀官人V,https://live.ottiptv.cc/douyu/9986305
-负担亡魂,https://live.ottiptv.cc/douyu/10308242
+猪肉熟了,https://live.ottiptv.cc/douyu/296836
+助眠师海宝宝,https://live.ottiptv.cc/douyu/1103328
 圈踢动漫,https://live.ottiptv.cc/douyu/1952680
-阿苏电影,https://live.ottiptv.cc/douyu/9037784
+宇宙无敌韩三金,https://live.ottiptv.cc/douyu/3194372
+贝爷求生影视,https://live.ottiptv.cc/douyu/9661369
+爆笑行为大赏,https://live.ottiptv.cc/douyu/10329767
+鄂东老男孩,https://live.ottiptv.cc/douyu/8837707
+我为奥迪上黄金,https://live.ottiptv.cc/douyu/9336286
+国士无双人物传奇,https://live.ottiptv.cc/douyu/9544555
+龙视超级笑匠,https://live.ottiptv.cc/douyu/9375450
+来呀官人V,https://live.ottiptv.cc/douyu/9986305
 电影黑匣子,https://live.ottiptv.cc/douyu/8706652
-楚哥说电影,https://live.ottiptv.cc/douyu/9375743
 绿阿掌,https://live.ottiptv.cc/douyu/2365
 崽崽撩电影,https://live.ottiptv.cc/douyu/8325511
 酷酷的滕,https://live.ottiptv.cc/douyu/1286383
 爱爱小s,https://live.ottiptv.cc/douyu/10308312
-我是一只西瓜啊,https://live.ottiptv.cc/douyu/9065082
 谁语说电影,https://live.ottiptv.cc/douyu/8705754
-音乐台长,https://live.ottiptv.cc/douyu/9629943
-搞笑动漫大本营,https://live.ottiptv.cc/douyu/9650181
-五分钟电影汇,https://live.ottiptv.cc/douyu/8443438
+文侠灬楊楊,https://live.ottiptv.cc/douyu/10317257
+贰哥电影,https://live.ottiptv.cc/douyu/9338867
+我是一只西瓜啊,https://live.ottiptv.cc/douyu/9065082
 鹏友说电影,https://live.ottiptv.cc/douyu/9445244
 求求扣扣困困,https://live.ottiptv.cc/douyu/8795274
+楚哥说电影,https://live.ottiptv.cc/douyu/9375743
 独立鱼电影,https://live.ottiptv.cc/douyu/2413555
-俩个麻瓜,https://live.ottiptv.cc/douyu/10121755
 赶海大弟,https://live.ottiptv.cc/douyu/9348766
 恰饭橘,https://live.ottiptv.cc/douyu/7974136
-龙视超级笑匠,https://live.ottiptv.cc/douyu/9375450
-岚FLL,https://live.ottiptv.cc/douyu/9409703
+大狼狗刨祖坟,https://live.ottiptv.cc/douyu/10217975
 胥渡吧直播号,https://live.ottiptv.cc/douyu/2040822
 洛克电影,https://live.ottiptv.cc/douyu/9414884
-大狼狗刨祖坟,https://live.ottiptv.cc/douyu/10217975
-文侠灬楊楊,https://live.ottiptv.cc/douyu/10317257
+音乐台长,https://live.ottiptv.cc/douyu/9629943
+小鸭子老师,https://live.ottiptv.cc/douyu/9627625
 纪录片之家字幕组,https://live.ottiptv.cc/douyu/8834003
+大坑侦探社,https://live.ottiptv.cc/douyu/9440339
 Psyman塞门,https://live.ottiptv.cc/douyu/9753585
+大蓝雀,https://live.ottiptv.cc/douyu/8656759
 小青放映社,https://live.ottiptv.cc/douyu/9314689
 八月看大片,https://live.ottiptv.cc/douyu/8816671
 神羊说电影,https://live.ottiptv.cc/douyu/9443552
 探奇录,https://live.ottiptv.cc/douyu/9746763
 小艾大叔,https://live.ottiptv.cc/douyu/9314668
-松轩说电影,https://live.ottiptv.cc/douyu/1524969
+大笑影院,https://live.ottiptv.cc/douyu/10329300
 电影刘油果,https://live.ottiptv.cc/douyu/3985805
+岚FLL,https://live.ottiptv.cc/douyu/9409703
 长片短解,https://live.ottiptv.cc/douyu/9410946
-sekai的光子,https://live.ottiptv.cc/douyu/9564766
 麻雀喳喳野行记,https://live.ottiptv.cc/douyu/10088966
 日本女子摔角,https://live.ottiptv.cc/douyu/425809
 指缝里看电影,https://live.ottiptv.cc/douyu/9647834
@@ -12825,12 +12646,13 @@ sekai的光子,https://live.ottiptv.cc/douyu/9564766
 小超讲电影,https://live.ottiptv.cc/douyu/3432645
 经典拳赛,https://live.ottiptv.cc/douyu/9412138
 动画大师姐,https://live.ottiptv.cc/douyu/9742136
+松轩说电影,https://live.ottiptv.cc/douyu/1524969
 农村一级野钓大师,https://live.ottiptv.cc/douyu/9433591
 钱小元说电影,https://live.ottiptv.cc/douyu/9368265
 小侠来了,https://live.ottiptv.cc/douyu/9734042
 我是吃泡面看电影,https://live.ottiptv.cc/douyu/8851063
 齐司礼,https://live.ottiptv.cc/douyu/9481340
-贰哥电影,https://live.ottiptv.cc/douyu/9338867
+老王的夜电影院,https://live.ottiptv.cc/douyu/3498219
 博然讲电影,https://live.ottiptv.cc/douyu/9561992
 老鱼说剧,https://live.ottiptv.cc/douyu/9994377
 斗鱼恐怖游戏合集,https://live.ottiptv.cc/douyu/10401481
@@ -12841,11 +12663,13 @@ MordonFreeman是谁,https://live.ottiptv.cc/douyu/9524579
 尽整没用D,https://live.ottiptv.cc/douyu/8791622
 不二真探,https://live.ottiptv.cc/douyu/10319545
 利利川,https://live.ottiptv.cc/douyu/9329249
+五分钟电影汇,https://live.ottiptv.cc/douyu/8443438
 方攵日央木几,https://live.ottiptv.cc/douyu/9942574
 怪事屋,https://live.ottiptv.cc/douyu/8706084
-郑云工作室,https://live.ottiptv.cc/douyu/2995636
 追寻那解不开的问题,https://live.ottiptv.cc/douyu/5727066
+郑云工作室,https://live.ottiptv.cc/douyu/2995636
 米粒儿动漫,https://live.ottiptv.cc/douyu/9445279
+柳青瑶本尊,https://live.ottiptv.cc/douyu/2281324
 有部电影儿,https://live.ottiptv.cc/douyu/9736479
 Fatal飞雪,https://live.ottiptv.cc/douyu/8813596
 同学请坐吧,https://live.ottiptv.cc/douyu/3736649
@@ -12882,7 +12706,6 @@ KUMA轻松熊博士,https://live.ottiptv.cc/douyu/2282604
 超wu的大白兔,https://live.ottiptv.cc/douyu/2925299
 理娱打挺疼,https://live.ottiptv.cc/douyu/2925563
 吟笑派,https://live.ottiptv.cc/douyu/2987100
-老王的夜电影院,https://live.ottiptv.cc/douyu/3498219
 XCin888,https://live.ottiptv.cc/douyu/3617935
 AK萌虎,https://live.ottiptv.cc/douyu/4049310
 亮亮也是酿酿,https://live.ottiptv.cc/douyu/4340136
@@ -12942,6 +12765,7 @@ shhher,https://live.ottiptv.cc/douyu/8733680
 神迹小霸霸,https://live.ottiptv.cc/douyu/8837963
 Michael说大片,https://live.ottiptv.cc/douyu/8841881
 起来啦小躺,https://live.ottiptv.cc/douyu/8849047
+狂野的种马小说家,https://live.ottiptv.cc/douyu/8849703
 py86阿,https://live.ottiptv.cc/douyu/8849954
 油兔不二字幕组,https://live.ottiptv.cc/douyu/8850453
 逍遥自在白辰皓,https://live.ottiptv.cc/douyu/8859276
@@ -13036,6 +12860,7 @@ JG影视解说,https://live.ottiptv.cc/douyu/9391277
 孙毛毛Suny,https://live.ottiptv.cc/douyu/9424103
 电视这个圈儿,https://live.ottiptv.cc/douyu/9425669
 火柴人HyunsDojo,https://live.ottiptv.cc/douyu/9430394
+晓晓说电影,https://live.ottiptv.cc/douyu/9430717
 王德发的导演小阿伟,https://live.ottiptv.cc/douyu/9430799
 丽姐说电影,https://live.ottiptv.cc/douyu/9437283
 龙大人不喷火zZ,https://live.ottiptv.cc/douyu/9437298
@@ -13078,6 +12903,7 @@ mzx阿哲,https://live.ottiptv.cc/douyu/9483965
 千代语默,https://live.ottiptv.cc/douyu/9484187
 酉晨君,https://live.ottiptv.cc/douyu/9484541
 幕撩电影,https://live.ottiptv.cc/douyu/9486015
+我是阿树酱,https://live.ottiptv.cc/douyu/9486020
 迷剧阿菁,https://live.ottiptv.cc/douyu/9486024
 乡村水龙,https://live.ottiptv.cc/douyu/9486905
 香兰爱影视,https://live.ottiptv.cc/douyu/9487090
@@ -13195,7 +13021,6 @@ Rabbit每日爆料,https://live.ottiptv.cc/douyu/9685652
 老段带你钓青鱼,https://live.ottiptv.cc/douyu/10105639
 同同电影,https://live.ottiptv.cc/douyu/10155359
 野生岛民,https://live.ottiptv.cc/douyu/10217843
-正宗吔汁吔树牌,https://live.ottiptv.cc/douyu/10217953
 见世君V,https://live.ottiptv.cc/douyu/10220896
 我是怪异君V,https://live.ottiptv.cc/douyu/10279570
 曹小灵比比叨,https://live.ottiptv.cc/douyu/10289400
@@ -13221,7 +13046,6 @@ Rabbit每日爆料,https://live.ottiptv.cc/douyu/9685652
 唐司令说电影,https://live.ottiptv.cc/douyu/8774345
 28岁电影,https://live.ottiptv.cc/douyu/8884164
 去种田的向凹凸,https://live.ottiptv.cc/douyu/9570290
-阿坤在努力,https://live.ottiptv.cc/douyu/9407329
 篮球长镜头,https://live.ottiptv.cc/douyu/9399887
 阿福ThomasV,https://live.ottiptv.cc/douyu/9194089
 听wo姐说,https://live.ottiptv.cc/douyu/8830082
@@ -13233,10 +13057,9 @@ Rabbit每日爆料,https://live.ottiptv.cc/douyu/9685652
 科学放映室,https://live.ottiptv.cc/douyu/9439712
 竹公子有礼了,https://live.ottiptv.cc/douyu/8887432
 小手枪Newhandgun,https://live.ottiptv.cc/douyu/8943060
-狂野的种马小说家,https://live.ottiptv.cc/douyu/8849703
-大笑影院,https://live.ottiptv.cc/douyu/10329300
 渔农泰叔,https://live.ottiptv.cc/douyu/9348784
 德井鱼,https://live.ottiptv.cc/douyu/9184833
+阿坤在努力,https://live.ottiptv.cc/douyu/9407329
 冷孝洪,https://live.ottiptv.cc/douyu/9527761
 戴萌兔,https://live.ottiptv.cc/douyu/9522315
 罗叔说戏,https://live.ottiptv.cc/douyu/9788756
@@ -13245,6 +13068,7 @@ Rabbit每日爆料,https://live.ottiptv.cc/douyu/9685652
 海王尼加拉,https://live.ottiptv.cc/douyu/10039005
 秀才侃娱乐,https://live.ottiptv.cc/douyu/9382873
 游钓黑坑一疯子,https://live.ottiptv.cc/douyu/10103411
+sekai的光子,https://live.ottiptv.cc/douyu/9564766
 我叫孙火旺,https://live.ottiptv.cc/douyu/9770949
 珞珞说电影,https://live.ottiptv.cc/douyu/3718888
 鸡哥聊电影,https://live.ottiptv.cc/douyu/5067952
@@ -13252,7 +13076,6 @@ Rabbit每日爆料,https://live.ottiptv.cc/douyu/9685652
 调侃贫道XIN版,https://live.ottiptv.cc/douyu/9463586
 海森堡事件录,https://live.ottiptv.cc/douyu/9754849
 黑T毒物,https://live.ottiptv.cc/douyu/3579219
-KyoKyo不是QQ,https://live.ottiptv.cc/douyu/4732337
 国际吸猫协会,https://live.ottiptv.cc/douyu/8657834
 SAO东西又再说SAO话,https://live.ottiptv.cc/douyu/8833450
 鲤环姬Lee,https://live.ottiptv.cc/douyu/9791703
@@ -13269,6 +13092,7 @@ OE档案,https://live.ottiptv.cc/douyu/6725858
 北大落说大片,https://live.ottiptv.cc/douyu/8828811
 是真的林虎LinHu,https://live.ottiptv.cc/douyu/9540113
 暴躁少女零九,https://live.ottiptv.cc/douyu/9065302
+正宗吔汁吔树牌,https://live.ottiptv.cc/douyu/10217953
 猫丶趴趴,https://live.ottiptv.cc/douyu/1255068
 epcdiy,https://live.ottiptv.cc/douyu/8759268
 竹内亮导演,https://live.ottiptv.cc/douyu/8933612
@@ -13278,8 +13102,6 @@ epcdiy,https://live.ottiptv.cc/douyu/8759268
 冰糖葫芦没放盐V,https://live.ottiptv.cc/douyu/3505453
 萌宠妙妙屋,https://live.ottiptv.cc/douyu/8653533
 电影七十二变,https://live.ottiptv.cc/douyu/9323164
-我是阿树酱,https://live.ottiptv.cc/douyu/9486020
-小鸭子老师,https://live.ottiptv.cc/douyu/9627625
 朱一旦的枯燥生活v,https://live.ottiptv.cc/douyu/7907979
 托尔兹桃花剑,https://live.ottiptv.cc/douyu/8896743
 雪輝TnT,https://live.ottiptv.cc/douyu/8936207
@@ -13337,6 +13159,7 @@ TUOK肖恩,https://live.ottiptv.cc/douyu/9392433
 安小闫说电影x,https://live.ottiptv.cc/douyu/1842621
 小儛电影嘚啵嘚,https://live.ottiptv.cc/douyu/8362978
 九仙人儿,https://live.ottiptv.cc/douyu/8669085
+二哈讲电影,https://live.ottiptv.cc/douyu/8778280
 多多其木格,https://live.ottiptv.cc/douyu/9075374
 鲁过一世,https://live.ottiptv.cc/douyu/9716515
 趣评测李杰灵,https://live.ottiptv.cc/douyu/751316
@@ -13377,6 +13200,7 @@ OooOlivia奥莉蕉,https://live.ottiptv.cc/douyu/9678862
 搞笑院长,https://live.ottiptv.cc/douyu/8829915
 据说放映室,https://live.ottiptv.cc/douyu/8837964
 粽子酱v,https://live.ottiptv.cc/douyu/9390685
+梓帆说电影,https://live.ottiptv.cc/douyu/9769563
 羽翼天使的挽歌,https://live.ottiptv.cc/douyu/9193179
 MJ小林大人嗷,https://live.ottiptv.cc/douyu/9204381
 汪哥说电影,https://live.ottiptv.cc/douyu/9312685
@@ -13403,13 +13227,13 @@ TSSS映画,https://live.ottiptv.cc/douyu/9749339
 四叶草影视,https://live.ottiptv.cc/douyu/9446117
 户外老曹,https://live.ottiptv.cc/douyu/9957389
 开箱嘤嘤怪,https://live.ottiptv.cc/douyu/10319056
+KyoKyo不是QQ,https://live.ottiptv.cc/douyu/4732337
 杨山羊goat,https://live.ottiptv.cc/douyu/6300365
 电影漩涡,https://live.ottiptv.cc/douyu/8706350
 漠漠fumiyo,https://live.ottiptv.cc/douyu/8911070
 老电影故事,https://live.ottiptv.cc/douyu/9167273
 篮球小人物,https://live.ottiptv.cc/douyu/9184257
 世界纪录大全,https://live.ottiptv.cc/douyu/9406359
-晓晓说电影,https://live.ottiptv.cc/douyu/9430717
 77说电影,https://live.ottiptv.cc/douyu/9444320
 小黑豹子啊,https://live.ottiptv.cc/douyu/9458184
 血小板呐呐,https://live.ottiptv.cc/douyu/4285043
@@ -13420,6 +13244,7 @@ UP主DJC,https://live.ottiptv.cc/douyu/9429545
 爱星影视,https://live.ottiptv.cc/douyu/9476806
 笑点组长,https://live.ottiptv.cc/douyu/9535757
 犀利影评,https://live.ottiptv.cc/douyu/9647845
+我们可爱的程程,https://live.ottiptv.cc/douyu/329667
 崔杋圭五颜一,https://live.ottiptv.cc/douyu/8189873
 动漫唯美風,https://live.ottiptv.cc/douyu/8912038
 原创,#genre#
@@ -13743,135 +13568,128 @@ A皮皮,https://live.ottiptv.cc/huya/30375641
 星雪剪辑,https://live.ottiptv.cc/huya/29868637
 布布娱乐,https://live.ottiptv.cc/huya/29882863
 zonghe,#genre#
-地下交通站,https://live.ottiptv.cc/yy/1382736795
 超精彩武打场景,https://live.ottiptv.cc/yy/1354936131
-举起手来-惊险抗日,https://live.ottiptv.cc/yy/1382736877
+功夫小子进城,https://live.ottiptv.cc/yy/1382749890
+拳拳到肉，搏击燃情,https://live.ottiptv.cc/yy/1382736870
+大台风,https://live.ottiptv.cc/yy/1382735583
+紧急营救,https://live.ottiptv.cc/yy/1354926676
+巾帼枭雄之义海豪情,https://live.ottiptv.cc/yy/1382736859
 鹿鼎记-周星驰版,https://live.ottiptv.cc/yy/1354658049
 欢乐集结号-每天笑不停,https://live.ottiptv.cc/yy/1382741642
 宰相刘罗锅,https://live.ottiptv.cc/yy/1382745191
 神探狄仁杰1,https://live.ottiptv.cc/yy/1382851575
-正阳门下,https://live.ottiptv.cc/yy/1354931580
 神探狄仁杰2,https://live.ottiptv.cc/yy/1382828767
-正阳门下,https://live.ottiptv.cc/yy/1382851588
+正阳门下,https://live.ottiptv.cc/yy/1354931580
 内在美-伊人有约,https://live.ottiptv.cc/yy/1382737892
-神探狄仁杰2,https://live.ottiptv.cc/yy/1382851146
-双月之城-国漫,https://live.ottiptv.cc/yy/1382736907
+神探狄仁杰1,https://live.ottiptv.cc/yy/1354930934
+举起手来-惊险抗日,https://live.ottiptv.cc/yy/1382736877
 易中天品三国,https://live.ottiptv.cc/yy/1354931498
-功夫小子进城,https://live.ottiptv.cc/yy/1382749890
+法国版《家有儿女》治愈所有不开心,https://live.ottiptv.cc/yy/1382851137
+绝对让你笑翻天！,https://live.ottiptv.cc/yy/1354936159
+正阳门下,https://live.ottiptv.cc/yy/1382851588
+情满四合院-小人物的悲欢离合,https://live.ottiptv.cc/yy/1382851601
 二号交通站,https://live.ottiptv.cc/yy/1382735582
 YY用户,https://live.ottiptv.cc/yy/1382736885
 爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821
-康熙王朝,https://live.ottiptv.cc/yy/1382851583
-二号交通站,https://live.ottiptv.cc/yy/1382851582
-法国版《家有儿女》治愈所有不开心,https://live.ottiptv.cc/yy/1382851137
-拳拳到肉，搏击燃情,https://live.ottiptv.cc/yy/1382736870
-二号交通站,https://live.ottiptv.cc/yy/1354930965
-大台风,https://live.ottiptv.cc/yy/1382735583
-绝对让你笑翻天！,https://live.ottiptv.cc/yy/1354936159
 法证先锋,https://live.ottiptv.cc/yy/1354930939
-情满四合院-小人物的悲欢离合,https://live.ottiptv.cc/yy/1382851601
-YY用户,https://live.ottiptv.cc/yy/1382736810
-YY用户,https://live.ottiptv.cc/yy/1382736808
-神探狄仁杰1,https://live.ottiptv.cc/yy/1354930934
-你最爱的宋小宝,https://live.ottiptv.cc/yy/1354936198
 �逋鞠盗�-国产喜剧,https://live.ottiptv.cc/yy/1382736856
-国内玄幻电影-林正英,https://live.ottiptv.cc/yy/1354932444
+你最爱的宋小宝,https://live.ottiptv.cc/yy/1354936198
+双月之城-国漫,https://live.ottiptv.cc/yy/1382736907
+读心神探,https://live.ottiptv.cc/yy/1382736875
+神探狄仁杰2,https://live.ottiptv.cc/yy/1382851146
+大话西游至尊宝,https://live.ottiptv.cc/yy/1382851590
 少年包青天第三部,https://live.ottiptv.cc/yy/1382736814
-天道-9.2高分好剧,https://live.ottiptv.cc/yy/1382735574
 炊事班的故事III,https://live.ottiptv.cc/yy/1382736716
-士兵突击,https://live.ottiptv.cc/yy/1382851600
-伪装者,https://live.ottiptv.cc/yy/1382851593
-寻秦记-穿越剧经典,https://live.ottiptv.cc/yy/1382749900
 炊事班的故事II,https://live.ottiptv.cc/yy/1382851579
-大家都在看的电视剧,https://live.ottiptv.cc/yy/1354930964
-欢乐颂,https://live.ottiptv.cc/yy/1382735624
-熊出没之探险日记S1-国漫,https://live.ottiptv.cc/yy/1354930977
+康熙王朝,https://live.ottiptv.cc/yy/1382851583
+寻秦记-穿越剧经典,https://live.ottiptv.cc/yy/1382749900
+二号交通站,https://live.ottiptv.cc/yy/1382851582
 父母爱情,https://live.ottiptv.cc/yy/1382851594
-流行古装剧—知否知否应是绿肥红瘦,https://live.ottiptv.cc/yy/1354936134
+大家都在看的电视剧,https://live.ottiptv.cc/yy/1354930964
+少年包青天第三部,https://live.ottiptv.cc/yy/1382851540
+YY用户,https://live.ottiptv.cc/yy/1382736910
+父母爱情,https://live.ottiptv.cc/yy/1354926650
+欢乐集结号,https://live.ottiptv.cc/yy/1354931582
+二号交通站,https://live.ottiptv.cc/yy/1354930965
+天道-9.2高分好剧,https://live.ottiptv.cc/yy/1382735574
+新白娘子传奇-女神赵雅芝,https://live.ottiptv.cc/yy/1354930969
 寻秦记-穿越剧经典,https://live.ottiptv.cc/yy/1382851591
 YY用户,https://live.ottiptv.cc/yy/1382736886
-宫心计-港剧-古装,https://live.ottiptv.cc/yy/1354933540
-紧急营救,https://live.ottiptv.cc/yy/1354926676
-情满四合院,https://live.ottiptv.cc/yy/1382851524
-父母爱情,https://live.ottiptv.cc/yy/1354926650
-情满四合院-高分电视剧,https://live.ottiptv.cc/yy/1382735541
-欢乐集结号,https://live.ottiptv.cc/yy/1354931582
-我爱我家,https://live.ottiptv.cc/yy/1382851580
-单挑荒野第一季,https://live.ottiptv.cc/yy/1354933535
-巾帼枭雄之义海豪情,https://live.ottiptv.cc/yy/1382736859
-啊咧,https://live.ottiptv.cc/yy/1459243913
-三国演义94年经典版,https://live.ottiptv.cc/yy/1354936241
-恋歌,https://live.ottiptv.cc/yy/1382746276
-精武英雄-李连杰主演经典动作片,https://live.ottiptv.cc/yy/1382736873
-读心神探,https://live.ottiptv.cc/yy/1382736875
-夏洛特烦恼-国内电影-喜剧,https://live.ottiptv.cc/yy/1354936201
-YY用户,https://live.ottiptv.cc/yy/1382736818
-西游记后传,https://live.ottiptv.cc/yy/1382736846
-新白娘子传奇-女神赵雅芝,https://live.ottiptv.cc/yy/1354930969
-赌神-发哥,https://live.ottiptv.cc/yy/1354889044
-我的体育老师,https://live.ottiptv.cc/yy/1382745169
-情满四合院,https://live.ottiptv.cc/yy/1382736848
-智取威虎山,https://live.ottiptv.cc/yy/1382736843
-郝蕾演绎-情满四合院,https://live.ottiptv.cc/yy/1382745089
-风筝,https://live.ottiptv.cc/yy/1382828770
-速度与激情系列！-精彩大片,https://live.ottiptv.cc/yy/1382736911
-魔幻手机,https://live.ottiptv.cc/yy/1382735544
-YY用户,https://live.ottiptv.cc/yy/1382735572
-炊事班的故事,https://live.ottiptv.cc/yy/1382749901
 亲爱的热爱的,https://live.ottiptv.cc/yy/1354932433
-娆�涔�棰�,https://live.ottiptv.cc/yy/1382851577
-三国演义【1994】,https://live.ottiptv.cc/yy/1354930932
+流行古装剧—知否知否应是绿肥红瘦,https://live.ottiptv.cc/yy/1354936134
+精武英雄-李连杰主演经典动作片,https://live.ottiptv.cc/yy/1382736873
+三国演义94年经典版,https://live.ottiptv.cc/yy/1354936241
+夏洛特烦恼-国内电影-喜剧,https://live.ottiptv.cc/yy/1354936201
+YY用户,https://live.ottiptv.cc/yy/1382736808
+恋歌,https://live.ottiptv.cc/yy/1382746276
+国内玄幻电影-林正英,https://live.ottiptv.cc/yy/1354932444
+智取威虎山,https://live.ottiptv.cc/yy/1382736843
+洪金宝福星系列,https://live.ottiptv.cc/yy/1354924839
+伪装者,https://live.ottiptv.cc/yy/1354936244
+士兵突击,https://live.ottiptv.cc/yy/1382851600
+情满四合院,https://live.ottiptv.cc/yy/1382736848
+速度与激情系列！-精彩大片,https://live.ottiptv.cc/yy/1382736911
+YY用户,https://live.ottiptv.cc/yy/1382735572
+风筝,https://live.ottiptv.cc/yy/1382828770
+欢乐颂,https://live.ottiptv.cc/yy/1382735624
+熊出没之探险日记S1-国漫,https://live.ottiptv.cc/yy/1354930977
 YY用户,https://live.ottiptv.cc/yy/1382736838
-YY用户,https://live.ottiptv.cc/yy/1382736910
-欢乐集结号3,https://live.ottiptv.cc/yy/1382736822
+炊事班的故事,https://live.ottiptv.cc/yy/1382749901
+娆�涔�棰�,https://live.ottiptv.cc/yy/1382851577
 经典大片合集,https://live.ottiptv.cc/yy/1382749895
+情满四合院,https://live.ottiptv.cc/yy/1382851524
+欢乐集结号3,https://live.ottiptv.cc/yy/1382736822
+宫心计-港剧-古装,https://live.ottiptv.cc/yy/1354933540
 YY用户,https://live.ottiptv.cc/yy/1382736888
+欢乐集结号,https://live.ottiptv.cc/yy/1382735550
+华子系列,https://live.ottiptv.cc/yy/1354888726
 我爱我家,https://live.ottiptv.cc/yy/1382735557
-法证先锋,https://live.ottiptv.cc/yy/1382851599
+中国味道 第4季-美食纪录片,https://live.ottiptv.cc/yy/1382736845
 YY用户,https://live.ottiptv.cc/yy/1382745117
-金牌配角达叔系列,https://live.ottiptv.cc/yy/1354888728
-抗日神片，燃爆抗战热血魂,https://live.ottiptv.cc/yy/1354926600
-福贵,https://live.ottiptv.cc/yy/1354926537
-爆笑来袭-小品欢乐集结号,https://live.ottiptv.cc/yy/1382735558
-甜甜的恋爱 这狗粮我吃了,https://live.ottiptv.cc/yy/1354932438
-大进军全集：红色系列电影,https://live.ottiptv.cc/yy/1382745083
+我爱我家,https://live.ottiptv.cc/yy/1382851580
+张国荣与周润发的兄弟情,https://live.ottiptv.cc/yy/1354930961
+YY用户,https://live.ottiptv.cc/yy/1382736810
+YY用户,https://live.ottiptv.cc/yy/1382736818
+震撼！国内功夫大片,https://live.ottiptv.cc/yy/1382736902
 速度与激情全集,https://live.ottiptv.cc/yy/1382749892
 成龙系列,https://live.ottiptv.cc/yy/1354888751
-张国荣与周润发的兄弟情,https://live.ottiptv.cc/yy/1354930961
+大进军全集：红色系列电影,https://live.ottiptv.cc/yy/1382745083
+赌神-发哥,https://live.ottiptv.cc/yy/1354889044
 漫威十年老粉福利来了,https://live.ottiptv.cc/yy/1354930233
-震撼！国内功夫大片,https://live.ottiptv.cc/yy/1382736902
-����������,https://live.ottiptv.cc/yy/1382851578
+西游记后传,https://live.ottiptv.cc/yy/1382736846
+我的体育老师,https://live.ottiptv.cc/yy/1382745169
 妖神记,https://live.ottiptv.cc/yy/1382745171
-大话西游至尊宝,https://live.ottiptv.cc/yy/1382851590
-洪金宝福星系列,https://live.ottiptv.cc/yy/1354924839
+����������,https://live.ottiptv.cc/yy/1382851578
+变形金刚,https://live.ottiptv.cc/yy/1382736803
+伪装者,https://live.ottiptv.cc/yy/1382851593
 宫锁珠帘,https://live.ottiptv.cc/yy/1354926666
 老广的味道-美食之旅,https://live.ottiptv.cc/yy/1354932375
-变形金刚,https://live.ottiptv.cc/yy/1382736803
-仙剑奇侠传-神仙姐姐驾到,https://live.ottiptv.cc/yy/1382749903
 妖神记-全集,https://live.ottiptv.cc/yy/1382735551
 这部剧你居然没看过？,https://live.ottiptv.cc/yy/1354932355
+郝蕾演绎-情满四合院,https://live.ottiptv.cc/yy/1382745089
+甜甜的恋爱 这狗粮我吃了,https://live.ottiptv.cc/yy/1354932438
 老广的味道 第3季-美食纪录片,https://live.ottiptv.cc/yy/1382735565
-伪装者,https://live.ottiptv.cc/yy/1354936244
-笑傲帮,https://live.ottiptv.cc/yy/1382735555
+仙剑奇侠传-神仙姐姐驾到,https://live.ottiptv.cc/yy/1382749903
+魔幻手机,https://live.ottiptv.cc/yy/1382735544
 大汉贤后卫子夫,https://live.ottiptv.cc/yy/1382735569
 寻秦记,https://live.ottiptv.cc/yy/1354658048
-少年包青天第三部,https://live.ottiptv.cc/yy/1382851540
 穿越时空的爱恋,https://live.ottiptv.cc/yy/1382735567
 欢乐一起看,https://live.ottiptv.cc/yy/1354930926
+笑傲帮,https://live.ottiptv.cc/yy/1382735555
 终结者2：审判日,https://live.ottiptv.cc/yy/1382851148
+三国演义【1994】,https://live.ottiptv.cc/yy/1354930932
 非常保镖-经典港剧,https://live.ottiptv.cc/yy/1382736903
 以家人之名,https://live.ottiptv.cc/yy/1382736908
 YY用户,https://live.ottiptv.cc/yy/1382736890
-魔幻手机,https://live.ottiptv.cc/yy/1382851541
-读心神探,https://live.ottiptv.cc/yy/1382851589
 YY用户,https://live.ottiptv.cc/yy/1382745085
+粟裕大将-影视,https://live.ottiptv.cc/yy/1354926542
 我的前半生,https://live.ottiptv.cc/yy/1382735564
 哈利波特全集,https://live.ottiptv.cc/yy/1382745105
 海洋幻梦-泰剧,https://live.ottiptv.cc/yy/1382749889
+读心神探,https://live.ottiptv.cc/yy/1382851589
 电影百团大战,https://live.ottiptv.cc/yy/1382736871
 动作大片-热血开打,https://live.ottiptv.cc/yy/1354936168
 YY用户,https://live.ottiptv.cc/yy/1382745084
-YY用户,https://live.ottiptv.cc/yy/1382735578
 真心想让你幸福,https://live.ottiptv.cc/yy/1382736876
 北京爱情故事，心动不打烊,https://live.ottiptv.cc/yy/1382744423
 密子君,https://live.ottiptv.cc/yy/1382736717
@@ -13879,83 +13697,85 @@ YY用户,https://live.ottiptv.cc/yy/1382736975
 强悍“杀猪婆”的励志人生,https://live.ottiptv.cc/yy/1354658062
 史诗级科幻电影-阿凡达,https://live.ottiptv.cc/yy/1382735577
 精彩动作电影享不停,https://live.ottiptv.cc/yy/1382736809
+灌篮高手,https://live.ottiptv.cc/yy/1382735626
 国内动作大片,https://live.ottiptv.cc/yy/1382745176
 侏罗纪世界-国外科幻大片合集,https://live.ottiptv.cc/yy/1382736851
 院线动作大片,https://live.ottiptv.cc/yy/1382736900
+YY用户,https://live.ottiptv.cc/yy/1382735578
+YY用户,https://live.ottiptv.cc/yy/1382736805
 无敌县令,https://live.ottiptv.cc/yy/1354932390
-超精彩！系列动作电影,https://live.ottiptv.cc/yy/1382745096
-无厘头的出处,https://live.ottiptv.cc/yy/1354930891
 香港院线大片-最新,https://live.ottiptv.cc/yy/1354936242
 陈情令,https://live.ottiptv.cc/yy/1382745121
-灌篮高手,https://live.ottiptv.cc/yy/1382735626
+刑事侦缉档案I,https://live.ottiptv.cc/yy/1382851585
 来自星星的你,https://live.ottiptv.cc/yy/1354930976
-你的回忆有我吗,https://live.ottiptv.cc/yy/1354889024
+魔幻手机,https://live.ottiptv.cc/yy/1382851541
 飞虎之潜行极战,https://live.ottiptv.cc/yy/1354932420
 超燃警匪片,https://live.ottiptv.cc/yy/1382735576
 国产大片电影,https://live.ottiptv.cc/yy/1354926655
 复仇者联盟全季,https://live.ottiptv.cc/yy/1354936167
+啊咧,https://live.ottiptv.cc/yy/1459243913
 保护我家蓉儿,https://live.ottiptv.cc/yy/1370293254
-国内喜剧,https://live.ottiptv.cc/yy/1382851598
 叶问全集,https://live.ottiptv.cc/yy/1382828771
 YY用户,https://live.ottiptv.cc/yy/1382736842
 大明王朝,https://live.ottiptv.cc/yy/1382736879
 金玉满堂：精彩港剧,https://live.ottiptv.cc/yy/1382736881
-华子系列,https://live.ottiptv.cc/yy/1354888726
+超精彩！系列动作电影,https://live.ottiptv.cc/yy/1382745096
 周星星系列,https://live.ottiptv.cc/yy/1354888671
-刑事侦缉档案I,https://live.ottiptv.cc/yy/1382851585
 野山鹰-影视剧,https://live.ottiptv.cc/yy/1354932395
 深海利剑,https://live.ottiptv.cc/yy/1382736906
-回家的诱惑,https://live.ottiptv.cc/yy/1354658043
 苦乐村官,https://live.ottiptv.cc/yy/1382736864
+回家的诱惑,https://live.ottiptv.cc/yy/1354658043
 笑傲江湖 第2季,https://live.ottiptv.cc/yy/1382736914
 电影黑豹,https://live.ottiptv.cc/yy/1382736816
 人生必看的科幻片,https://live.ottiptv.cc/yy/1382745114
 黑衣人1、2—动作喜剧大片,https://live.ottiptv.cc/yy/1354930936
-中国味道 第4季-美食纪录片,https://live.ottiptv.cc/yy/1382736845
+国内喜剧,https://live.ottiptv.cc/yy/1382851598
 本山快乐营,https://live.ottiptv.cc/yy/1354933529
 最美的青春,https://live.ottiptv.cc/yy/1382745116
 YY用户,https://live.ottiptv.cc/yy/1382735553
 俺娘田小草,https://live.ottiptv.cc/yy/1382741638
 小鬼当家-童年回忆,https://live.ottiptv.cc/yy/1382745104
-粟裕大将-影视,https://live.ottiptv.cc/yy/1354926542
 辉煌或疯狂-韩剧,https://live.ottiptv.cc/yy/1382749902
 巩汉林春晚小品合集,https://live.ottiptv.cc/yy/1354889035
-叛逆者,https://live.ottiptv.cc/yy/1382736868
 港剧-警犬巴打,https://live.ottiptv.cc/yy/1354932397
-笑傲江湖 第1季,https://live.ottiptv.cc/yy/1382749896
+叛逆者,https://live.ottiptv.cc/yy/1382736868
 缺宅男女,https://live.ottiptv.cc/yy/1354930937
+笑傲江湖 第1季,https://live.ottiptv.cc/yy/1382749896
 YY用户,https://live.ottiptv.cc/yy/1382745093
+法证先锋,https://live.ottiptv.cc/yy/1382851599
 高分科幻动作片,https://live.ottiptv.cc/yy/1382749948
-YY用户,https://live.ottiptv.cc/yy/1382736805
-欢乐集结号,https://live.ottiptv.cc/yy/1382735550
 小朋友可爱到家了,https://live.ottiptv.cc/yy/1354930887
-憨豆先生-经典喜剧,https://live.ottiptv.cc/yy/1354936239
+无厘头的出处,https://live.ottiptv.cc/yy/1354930891
 YY用户,https://live.ottiptv.cc/yy/1382736834
+你的回忆有我吗,https://live.ottiptv.cc/yy/1354889024
 重生之超级赛亚人,https://live.ottiptv.cc/yy/1354936124
 科幻片：来看神奇的地球,https://live.ottiptv.cc/yy/1354930897
-陪你一起看好剧,https://live.ottiptv.cc/yy/1354932359
 爆笑电影！王牌大贱谍2-3,https://live.ottiptv.cc/yy/1382735556
 新世界,https://live.ottiptv.cc/yy/1382736850
+国内高分悬疑剧-风筝,https://live.ottiptv.cc/yy/1354931585
 国外院线动作大片,https://live.ottiptv.cc/yy/1382735570
 加勒比海盗系列,https://live.ottiptv.cc/yy/1382749914
+高分动作大片-热血出击,https://live.ottiptv.cc/yy/1382736909
 鸭子天空-翱翔于篮球的梦想,https://live.ottiptv.cc/yy/1354930894
 国产喜剧,https://live.ottiptv.cc/yy/1382735584
 国外经典—小鬼当家,https://live.ottiptv.cc/yy/1354658064
-公主嫁到,https://live.ottiptv.cc/yy/1382736915
 猩球崛起-怪兽片合集,https://live.ottiptv.cc/yy/1354930181
 钟馗传说,https://live.ottiptv.cc/yy/1382736839
 大唐双龙传,https://live.ottiptv.cc/yy/1354930979
-国内高分悬疑剧-风筝,https://live.ottiptv.cc/yy/1354931585
 美国队长史蒂夫,https://live.ottiptv.cc/yy/1382736813
-大江大河2-高分影视推荐,https://live.ottiptv.cc/yy/1382736797
 田园生活,https://live.ottiptv.cc/yy/1382736898
+大江大河2-高分影视推荐,https://live.ottiptv.cc/yy/1382736797
+陪你一起看好剧,https://live.ottiptv.cc/yy/1354932359
 第8号当铺,https://live.ottiptv.cc/yy/1382736905
+公主嫁到,https://live.ottiptv.cc/yy/1382736915
 末日系列-外国电影合集,https://live.ottiptv.cc/yy/1354889019
 精彩动作电影,https://live.ottiptv.cc/yy/1382736823
+金牌配角达叔系列,https://live.ottiptv.cc/yy/1354888728
 国内科幻片来袭,https://live.ottiptv.cc/yy/1354930821
 本山快乐营-爆笑小品,https://live.ottiptv.cc/yy/1354930948
 萌鸡小队S1-国漫,https://live.ottiptv.cc/yy/1382736904
 YY用户,https://live.ottiptv.cc/yy/1382745113
+憨豆先生-经典喜剧,https://live.ottiptv.cc/yy/1354936239
 papi酱主演，北漂生活中的爱情与梦想,https://live.ottiptv.cc/yy/1382745124
 永远的经典系列,https://live.ottiptv.cc/yy/1354930204
 超英集结,https://live.ottiptv.cc/yy/1382745091
@@ -13964,14 +13784,14 @@ papi酱主演，北漂生活中的爱情与梦想,https://live.ottiptv.cc/yy/138
 国外黑色喜剧：冷幽默小剧场,https://live.ottiptv.cc/yy/1382745175
 明天和你-韩剧,https://live.ottiptv.cc/yy/1382749905
 外国科幻大片,https://live.ottiptv.cc/yy/1382747628
-宝莲灯前传,https://live.ottiptv.cc/yy/1354931631
+单挑荒野第一季,https://live.ottiptv.cc/yy/1354933535
 舌尖上的中国第2季,https://live.ottiptv.cc/yy/1354930943
 洪大哥系列,https://live.ottiptv.cc/yy/1354888743
 河山,https://live.ottiptv.cc/yy/1382749952
 燃爆动作片,https://live.ottiptv.cc/yy/1382736801
 无双花木兰,https://live.ottiptv.cc/yy/1382749917
-嘻嘻熙熙,https://live.ottiptv.cc/yy/1382735585
 躺平还是奋斗？搞笑中见真谛,https://live.ottiptv.cc/yy/1382851586
+嘻嘻熙熙,https://live.ottiptv.cc/yy/1382735585
 溏心风暴之家好月圆,https://live.ottiptv.cc/yy/1354888747
 YY用户,https://live.ottiptv.cc/yy/1382736807
 国内喜剧,https://live.ottiptv.cc/yy/1382735563
@@ -13985,21 +13805,22 @@ YY用户,https://live.ottiptv.cc/yy/1382736807
 国外科幻,https://live.ottiptv.cc/yy/1382736800
 欢乐集结号2,https://live.ottiptv.cc/yy/1354930919
 战争与女性,https://live.ottiptv.cc/yy/1382745179
-百家讲坛――之明太祖朱元璋,https://live.ottiptv.cc/yy/1354936149
+抗日神片，燃爆抗战热血魂,https://live.ottiptv.cc/yy/1354926600
 大江大河-高分影视推荐,https://live.ottiptv.cc/yy/1382736806
 热门喜剧,https://live.ottiptv.cc/yy/1354931495
-国外高分大片,https://live.ottiptv.cc/yy/1382736867
 国产电影-就是闹着玩的,https://live.ottiptv.cc/yy/1354931503
+国外高分大片,https://live.ottiptv.cc/yy/1382736867
 动物世界-领略原始野性,https://live.ottiptv.cc/yy/1382743138
 最美的青春,https://live.ottiptv.cc/yy/1382851530
 YY用户,https://live.ottiptv.cc/yy/1382745103
+宝莲灯前传,https://live.ottiptv.cc/yy/1354931631
 藏地密码：秘境探险，悬念拉满,https://live.ottiptv.cc/yy/1382851576
 能耐大了第1季,https://live.ottiptv.cc/yy/1354930195
 我的父亲我的兵,https://live.ottiptv.cc/yy/1353413714
 农家小菜,https://live.ottiptv.cc/yy/1382736894
 从溺水到冠军，热血泳坛励志传奇,https://live.ottiptv.cc/yy/1382736723
-抹茶少女,https://live.ottiptv.cc/yy/1382737888
 超炫科幻大片,https://live.ottiptv.cc/yy/1382736840
+抹茶少女,https://live.ottiptv.cc/yy/1382737888
 少年四大名捕,https://live.ottiptv.cc/yy/1354936203
 欢喜冤家的爱情-夏日乐悠悠,https://live.ottiptv.cc/yy/1354936191
 欢乐集结号58-70,https://live.ottiptv.cc/yy/1382745119
@@ -14007,6 +13828,7 @@ YY用户,https://live.ottiptv.cc/yy/1382745103
 珍珠港-电影,https://live.ottiptv.cc/yy/1354936234
 太空荒野求生记-火星救援,https://live.ottiptv.cc/yy/1354930957
 少年包青天美黑之旅,https://live.ottiptv.cc/yy/1354936141
+福贵,https://live.ottiptv.cc/yy/1354926537
 贾玲春晚小品,https://live.ottiptv.cc/yy/1382736720
 哑巴竟然会说话,https://live.ottiptv.cc/yy/1354932427
 机械战警1-3,https://live.ottiptv.cc/yy/1382736854
@@ -14016,14 +13838,14 @@ YY用户,https://live.ottiptv.cc/yy/1382745103
 舌尖上的中国第一季,https://live.ottiptv.cc/yy/1354930952
 百家讲坛-红楼梦篇,https://live.ottiptv.cc/yy/1382741639
 发哥系列,https://live.ottiptv.cc/yy/1354888733
-YY用户,https://live.ottiptv.cc/yy/1382736918
 科幻电影,https://live.ottiptv.cc/yy/1354930209
+YY用户,https://live.ottiptv.cc/yy/1382736918
 YY用户,https://live.ottiptv.cc/yy/1382736887
 远去的飞鹰-影视剧,https://live.ottiptv.cc/yy/1354930912
 电视剧-流金岁月,https://live.ottiptv.cc/yy/1382749906
 致敬星爷致敬经典,https://live.ottiptv.cc/yy/1354889048
-一分钟学道菜,https://live.ottiptv.cc/yy/1382736901
 高分动作片——创可贴,https://live.ottiptv.cc/yy/1382735568
+一分钟学道菜,https://live.ottiptv.cc/yy/1382736901
 本山快乐营1,https://live.ottiptv.cc/yy/1354936209
 施公奇案2-欧阳震华,https://live.ottiptv.cc/yy/1382736824
 热血少年上线，《长歌行》开播,https://live.ottiptv.cc/yy/1382736802
@@ -14050,8 +13872,8 @@ YY用户,https://live.ottiptv.cc/yy/1382735579
 名不虚传-韩剧,https://live.ottiptv.cc/yy/1382749904
 超燃科幻大片：明日边缘,https://live.ottiptv.cc/yy/1382736835
 霹雳火：速度与激情,https://live.ottiptv.cc/yy/1382736895
-学生兵,https://live.ottiptv.cc/yy/1354658003
 兵王绝境狙杀,https://live.ottiptv.cc/yy/1382736833
+学生兵,https://live.ottiptv.cc/yy/1354658003
 影视小艺,https://live.ottiptv.cc/yy/1382737886
 本山快乐营2,https://live.ottiptv.cc/yy/1382736718
 当旺爸爸-港剧,https://live.ottiptv.cc/yy/1354936208
@@ -14063,7 +13885,6 @@ YY用户,https://live.ottiptv.cc/yy/1382735579
 动作大片,https://live.ottiptv.cc/yy/1354888739
 国产动作电影,https://live.ottiptv.cc/yy/1382736858
 绝境博弈，无路可逃,https://live.ottiptv.cc/yy/1382851597
-PK地球神,https://live.ottiptv.cc/yy/1382736872
 爱在璀璨时,https://live.ottiptv.cc/yy/1354926671
 清官难当？看芝麻官如何破局,https://live.ottiptv.cc/yy/1382749909
 每天都要快乐哦！,https://live.ottiptv.cc/yy/1354930909
@@ -14076,9 +13897,9 @@ Simon Amstell：躺平哲学,https://live.ottiptv.cc/yy/1382749951
 了不起的萝莉小玲,https://live.ottiptv.cc/yy/1382736799
 热血战争巨作,https://live.ottiptv.cc/yy/1382745087
 笑傲江湖-电视剧,https://live.ottiptv.cc/yy/1354936128
+手机APP掌控人生,https://live.ottiptv.cc/yy/1382736874
 老夫少妻搞笑忘年恋,https://live.ottiptv.cc/yy/1354932391
 热血抗日电影,https://live.ottiptv.cc/yy/1382749907
-手机APP掌控人生,https://live.ottiptv.cc/yy/1382736874
 艾迪格里芬：经典就是我,https://live.ottiptv.cc/yy/1354932409
 笔墨传情，致敬经典——妙墨中国心,https://live.ottiptv.cc/yy/1382745178
 乔·科伊热辣开麦,https://live.ottiptv.cc/yy/1382735625
@@ -14093,14 +13914,15 @@ YY用户,https://live.ottiptv.cc/yy/1382745182
 毒力觉醒的异能逆袭狂潮,https://live.ottiptv.cc/yy/1354926735
 全村一起搞艺术,https://live.ottiptv.cc/yy/1354936210
 不可能的任务-碟中谍4,https://live.ottiptv.cc/yy/1354930967
-新木乃伊：古埃及公主复活的灾难对决,https://live.ottiptv.cc/yy/1354936169
 还原英雄最后的壮烈！,https://live.ottiptv.cc/yy/1354930984
+新木乃伊：古埃及公主复活的灾难对决,https://live.ottiptv.cc/yy/1354936169
 高分港剧合集,https://live.ottiptv.cc/yy/1382735542
 匪帮传奇故事,https://live.ottiptv.cc/yy/1382749941
 新时代农村青年的热血奋斗记,https://live.ottiptv.cc/yy/1382736715
 你最爱的小龙女-神雕侠侣,https://live.ottiptv.cc/yy/1354926637
 横行不霸道,https://live.ottiptv.cc/yy/1354930189
 丹尼尔·斯洛斯烧脑谜题,https://live.ottiptv.cc/yy/1354936199
+流金岁月-经典港剧,https://live.ottiptv.cc/yy/1382736891
 呆萌飞行员,https://live.ottiptv.cc/yy/1354930968
 亚洲笑星征服美国,https://live.ottiptv.cc/yy/1382736920
 宇宙护卫队--国漫,https://live.ottiptv.cc/yy/1382736837
@@ -14110,11 +13932,11 @@ YY用户,https://live.ottiptv.cc/yy/1382735545
 悬疑武侠电影—九门,https://live.ottiptv.cc/yy/1382828768
 坑你没商量,https://live.ottiptv.cc/yy/1354936160
 神秘来客闯入,https://live.ottiptv.cc/yy/1382736820
-流金岁月-经典港剧,https://live.ottiptv.cc/yy/1382736891
 时间的答卷第二季,https://live.ottiptv.cc/yy/1382745106
 绝地生死营救,https://live.ottiptv.cc/yy/1354936214
 追踪神秘狐影,https://live.ottiptv.cc/yy/1382749953
 Bill Burr暴躁经典重现,https://live.ottiptv.cc/yy/1382736917
+爆笑来袭-小品欢乐集结号,https://live.ottiptv.cc/yy/1382735558
 憨夫憨妇闯情关,https://live.ottiptv.cc/yy/1382735581
 太空异种惊魂,https://live.ottiptv.cc/yy/1382745094
 异地演出，炸场奇遇,https://live.ottiptv.cc/yy/1382735561
@@ -14124,101 +13946,92 @@ Bill Burr暴躁经典重现,https://live.ottiptv.cc/yy/1382736917
 心动信号甜蜜发酵,https://live.ottiptv.cc/yy/1382736819
 Storm憋了一年大招,https://live.ottiptv.cc/yy/1382735559
 异类入侵高能反转,https://live.ottiptv.cc/yy/1354936217
+战火中的兄弟情义,https://live.ottiptv.cc/yy/1382736844
 杀机四伏,https://live.ottiptv.cc/yy/1354936195
 熊出没之探险日记-森林探险记,https://live.ottiptv.cc/yy/1382745122
-战火中的兄弟情义,https://live.ottiptv.cc/yy/1382736844
 美女保镖出击！,https://live.ottiptv.cc/yy/1354936231
 旺达·塞克丝：怼遍全场,https://live.ottiptv.cc/yy/1354936221
 为妈妈点赞,https://live.ottiptv.cc/yy/1382745098
 天师驱魔令,https://live.ottiptv.cc/yy/1354926643
 龙师傅来接招,https://live.ottiptv.cc/yy/1354889015
-苍狼特战突击,https://live.ottiptv.cc/yy/1382736849
-揭秘！经典传奇背后的未解之谜,https://live.ottiptv.cc/yy/1382736912
 武状元落魄，神谕指引丐帮逆袭,https://live.ottiptv.cc/yy/1382736882
+苍狼特战突击,https://live.ottiptv.cc/yy/1382736849
 狼爸硬核带娃,https://live.ottiptv.cc/yy/1382735627
+揭秘！经典传奇背后的未解之谜,https://live.ottiptv.cc/yy/1382736912
 开放麦现场惊现认亲,https://live.ottiptv.cc/yy/1354936181
 战俘营大逃亡,https://live.ottiptv.cc/yy/1354930915
 非典型恋爱,https://live.ottiptv.cc/yy/1354936157
 英伦特工智斗谍影,https://live.ottiptv.cc/yy/1382736841
 颠覆秩序的声浪狂潮,https://live.ottiptv.cc/yy/1354932426
-唐门双雄战神犼,https://live.ottiptv.cc/yy/1382736897
 重启,https://live.ottiptv.cc/yy/1354888736
+唐门双雄战神犼,https://live.ottiptv.cc/yy/1382736897
 嗜血巨狼突袭人类,https://live.ottiptv.cc/yy/1382735560
 体验另一种生活！,https://live.ottiptv.cc/yy/1354936229
 忠犬救主，一段感动人心的陪伴之旅,https://live.ottiptv.cc/yy/1382736719
-天龙八部（国语版）,https://live.ottiptv.cc/yy/1382736855
 茅山天师降魔,https://live.ottiptv.cc/yy/1354889042
-打破第四面墙,https://live.ottiptv.cc/yy/1382745090
 侏罗纪复活战,https://live.ottiptv.cc/yy/1354930945
+天龙八部（国语版）,https://live.ottiptv.cc/yy/1382736855
+打破第四面墙,https://live.ottiptv.cc/yy/1382745090
+公主战俘记,https://live.ottiptv.cc/yy/1354931488
 花木兰巾帼英雄,https://live.ottiptv.cc/yy/1354926622
 硬核使命,https://live.ottiptv.cc/yy/1354936122
-公主战俘记,https://live.ottiptv.cc/yy/1354931488
+热烈的玫瑰,https://live.ottiptv.cc/yy/1382736798
+蜀山伏魔剑,https://live.ottiptv.cc/yy/1354932365
+悬疑剧-河神,https://live.ottiptv.cc/yy/1353413683
 留学澳大利亚的蓝翔梗王,https://live.ottiptv.cc/yy/1354932441
 乔·科伊席卷西雅图,https://live.ottiptv.cc/yy/1382749911
 你好现任,https://live.ottiptv.cc/yy/1382735566
-热烈的玫瑰,https://live.ottiptv.cc/yy/1382736798
 外星人入侵,https://live.ottiptv.cc/yy/1382745181
 冰峰惊魂夜,https://live.ottiptv.cc/yy/1354936136
-蜀山伏魔剑,https://live.ottiptv.cc/yy/1354932365
-悬疑剧-河神,https://live.ottiptv.cc/yy/1353413683
 铁甲狂猴雷霆,https://live.ottiptv.cc/yy/1382735552
-大闹三界奇幻冒险,https://live.ottiptv.cc/yy/1382736804
 音乐才女与霸道总裁的治愈之恋,https://live.ottiptv.cc/yy/1382735573
+大闹三界奇幻冒险,https://live.ottiptv.cc/yy/1382736804
 赵牡丹，辛辣开麦,https://live.ottiptv.cc/yy/1382736893
 闲暇观看综艺,https://live.ottiptv.cc/yy/1354932379
-青龙偃月显威,https://live.ottiptv.cc/yy/1354932402
-小小心事，笑着流泪,https://live.ottiptv.cc/yy/1382736852
 暗恋成真青春纯爱,https://live.ottiptv.cc/yy/1382736817
+守护千年雄关,https://live.ottiptv.cc/yy/1354936228
+小小心事，笑着流泪,https://live.ottiptv.cc/yy/1382736852
 戴夫吐槽晕头转向的时代,https://live.ottiptv.cc/yy/1382736869
 未来中国,https://live.ottiptv.cc/yy/1354932429
 最佳时机：命运转角的最佳抉择与奔赴,https://live.ottiptv.cc/yy/1354936207
-守护千年雄关,https://live.ottiptv.cc/yy/1354936228
-哮天犬闹龙宫,https://live.ottiptv.cc/yy/1382736913
-拳战闸北！,https://live.ottiptv.cc/yy/1382749910
+青龙偃月显威,https://live.ottiptv.cc/yy/1354932402
+就是要疯狂,https://live.ottiptv.cc/yy/1354936145
+踮脚拥抱爱情,https://live.ottiptv.cc/yy/1354930927
+巅峰救援行动,https://live.ottiptv.cc/yy/1382736857
 致命蜂群来袭,https://live.ottiptv.cc/yy/1382736896
 奇门异人出世,https://live.ottiptv.cc/yy/1382749912
 仙剑风云再起,https://live.ottiptv.cc/yy/1354933556
-巨蛛嗜血狂,https://live.ottiptv.cc/yy/1354930903
-就是要疯狂,https://live.ottiptv.cc/yy/1354936145
+爱情拯救计划,https://live.ottiptv.cc/yy/1354936238
 淮水情深深,https://live.ottiptv.cc/yy/1382749888
 契约夫妻上线,https://live.ottiptv.cc/yy/1354936154
 许光汉主演喜剧大片,https://live.ottiptv.cc/yy/1382736825
 新弦已张，静候谁的指尖与故事？,https://live.ottiptv.cc/yy/1354936170
-踮脚拥抱爱情,https://live.ottiptv.cc/yy/1354930927
 硬汉搭档扫黑，致命武器2,https://live.ottiptv.cc/yy/1382736865
 破解终极密码,https://live.ottiptv.cc/yy/1382735571
 特派先锋出击,https://live.ottiptv.cc/yy/1382749940
-巅峰救援行动,https://live.ottiptv.cc/yy/1382736857
+哮天犬闹龙宫,https://live.ottiptv.cc/yy/1382736913
 赛道争锋！,https://live.ottiptv.cc/yy/1382736853
+拳战闸北！,https://live.ottiptv.cc/yy/1382749910
 暗战幽灵毒枭,https://live.ottiptv.cc/yy/1382745099
-爱情拯救计划,https://live.ottiptv.cc/yy/1354936238
+巨蛛嗜血狂,https://live.ottiptv.cc/yy/1354930903
 绝对忠诚使命,https://live.ottiptv.cc/yy/1354936178
-不用加班真开心,https://live.ottiptv.cc/yy/1354930924
 《妻子的浪漫旅行2026》精彩花絮,https://live.ottiptv.cc/yy/1354808044
-狄仁杰,https://live.ottiptv.cc/yy/1351755386
-【靓剑】乐乐陪看,https://live.ottiptv.cc/yy/1352946111
+梦涵 正在直播,https://live.ottiptv.cc/yy/1352475619
+新主播，求照顾,https://live.ottiptv.cc/yy/1382690406
 弹幕天团 下饭神剧,https://live.ottiptv.cc/yy/23512910
-武林外传,https://live.ottiptv.cc/yy/1355652820
-晾剑 电视剧,https://live.ottiptv.cc/yy/1451866697
-狂飙,https://live.ottiptv.cc/yy/1382626335
-武林外传,https://live.ottiptv.cc/yy/1355344777
 赵本山宋小宝小品大全,https://live.ottiptv.cc/yy/1382745331
-林正英-经典电影,https://live.ottiptv.cc/yy/34229877
+武林外传,https://live.ottiptv.cc/yy/1355652820
+【靓剑】乐乐陪看,https://live.ottiptv.cc/yy/1352946111
+狂飙,https://live.ottiptv.cc/yy/1382626335
 靓剑,https://live.ottiptv.cc/yy/1356043643
-李连杰功夫 经典武侠,https://live.ottiptv.cc/yy/74613175
-雪中悍刀行,https://live.ottiptv.cc/yy/1462996362
-宰相刘罗锅,https://live.ottiptv.cc/yy/1353892468
+武林外传,https://live.ottiptv.cc/yy/1355344777
+晾剑 电视剧,https://live.ottiptv.cc/yy/1451866697
+林正英-经典电影,https://live.ottiptv.cc/yy/34229877
 纪晓岚,https://live.ottiptv.cc/yy/1354143978
-进来 陪你看动漫,https://live.ottiptv.cc/yy/1352866135
-古惑仔,https://live.ottiptv.cc/yy/1458015189
+狄仁杰,https://live.ottiptv.cc/yy/1351755386
 济公,https://live.ottiptv.cc/yy/1355265814
-天龙 神雕金庸,https://live.ottiptv.cc/yy/1356043609
-豪哥带我们发财,https://live.ottiptv.cc/yy/23402146
 康熙微服私访记,https://live.ottiptv.cc/yy/1352811698
 少年包青天,https://live.ottiptv.cc/yy/1356043677
-鹿鼎记-高清全集,https://live.ottiptv.cc/yy/1382704650
-雍正王朝,https://live.ottiptv.cc/yy/1356043620
-赵本山《超清版》,https://live.ottiptv.cc/yy/1382683959
 纪晓岚,https://live.ottiptv.cc/yy/1352227227
 赵本山《蓝光版》,https://live.ottiptv.cc/yy/32160832
 封神榜,https://live.ottiptv.cc/yy/1353426319
@@ -14226,128 +14039,123 @@ Storm憋了一年大招,https://live.ottiptv.cc/yy/1382735559
 经典抗战剧,https://live.ottiptv.cc/yy/1354555195
 朵宝陪你看狄仁杰,https://live.ottiptv.cc/yy/1353753252
 【战狼3吴京】独播,https://live.ottiptv.cc/yy/37999586
-天龙八部,https://live.ottiptv.cc/yy/1351814644
+宰相刘罗锅,https://live.ottiptv.cc/yy/1353892468
 神医喜来乐,https://live.ottiptv.cc/yy/1382714119
 【周星驰】搞笑电影,https://live.ottiptv.cc/yy/38670875
+动漫,https://live.ottiptv.cc/yy/26664495
+进来 陪你看动漫,https://live.ottiptv.cc/yy/1352866135
+雪中悍刀行,https://live.ottiptv.cc/yy/1462996362
 甜心 正在直播,https://live.ottiptv.cc/yy/1454732419
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
+超喜剧地下交通站男神贾贵,https://live.ottiptv.cc/yy/1353428972
+古惑仔,https://live.ottiptv.cc/yy/1458015189
 经典破案剧  代练王者,https://live.ottiptv.cc/yy/1353283667
+天龙八部,https://live.ottiptv.cc/yy/1351814644
 燕双鹰,https://live.ottiptv.cc/yy/1354143942
-梦涵 正在直播,https://live.ottiptv.cc/yy/1352475619
-破案港剧,https://live.ottiptv.cc/yy/1350670730
+豪哥带我们发财,https://live.ottiptv.cc/yy/23402146
 真实案件系列,https://live.ottiptv.cc/yy/1382671124
-小蓉儿 正在直播,https://live.ottiptv.cc/yy/1351762426
-林正英经典,https://live.ottiptv.cc/yy/1351505899
+天龙 神雕金庸,https://live.ottiptv.cc/yy/1356043609
+大秧歌~24h经典好剧,https://live.ottiptv.cc/yy/1354744544
 铁齿铜牙纪晓岚,https://live.ottiptv.cc/yy/1382781415
 燕双鹰,https://live.ottiptv.cc/yy/1352227153
-【战狼3吴京】首播,https://live.ottiptv.cc/yy/1456668939
+小蓉儿 正在直播,https://live.ottiptv.cc/yy/1351762426
+雍正王朝,https://live.ottiptv.cc/yy/1356043620
 24h 我爱我家 喜剧,https://live.ottiptv.cc/yy/1356212303
-士兵突击,https://live.ottiptv.cc/yy/1382768483
-鬼经典老片,https://live.ottiptv.cc/yy/1463783198
-精彩动漫,https://live.ottiptv.cc/yy/1420843376
-【狂飙】,https://live.ottiptv.cc/yy/1354806550
+赵本山《超清版》,https://live.ottiptv.cc/yy/1382683959
 经典港片电影,https://live.ottiptv.cc/yy/1461889059
-水浒传,https://live.ottiptv.cc/yy/1353873252
-薛仁贵传奇,https://live.ottiptv.cc/yy/1355260662
-大家车言论,https://live.ottiptv.cc/yy/1382570702
+【狂飙】,https://live.ottiptv.cc/yy/1354806550
 动漫,https://live.ottiptv.cc/yy/1354143938
-和你不见不散,https://live.ottiptv.cc/yy/1355635293
+大家车言论,https://live.ottiptv.cc/yy/1382570702
+靓剑,https://live.ottiptv.cc/yy/1382788679
 昕儿 正在直播,https://live.ottiptv.cc/yy/1353852605
-83射雕英雄传,https://live.ottiptv.cc/yy/1354210357
 知否知否应是绿肥红瘦,https://live.ottiptv.cc/yy/21881901
-动漫,https://live.ottiptv.cc/yy/23993334
-大染坊,https://live.ottiptv.cc/yy/1353215589
-大秧歌~24h经典好剧,https://live.ottiptv.cc/yy/1354744544
-天龙神雕经典回忆,https://live.ottiptv.cc/yy/68260522
-五号特工组和平ff,https://live.ottiptv.cc/yy/1414967772
+破案港剧,https://live.ottiptv.cc/yy/1350670730
+林正英经典,https://live.ottiptv.cc/yy/1351505899
 经典电影重温,https://live.ottiptv.cc/yy/1382793140
-【经典港片】佟瑶,https://live.ottiptv.cc/yy/23531261
 鬼片喜剧动作港剧,https://live.ottiptv.cc/yy/1355269576
-超喜剧地下交通站男神贾贵,https://live.ottiptv.cc/yy/1353428972
-老九门24h,https://live.ottiptv.cc/yy/1355171357
-古装剧,https://live.ottiptv.cc/yy/1356158015
-小美美 正在直播,https://live.ottiptv.cc/yy/1354143966
-少年歌行~暗河传~,https://live.ottiptv.cc/yy/29067083
-天龙八部,https://live.ottiptv.cc/yy/1355067965
+经典港片动作搞笑,https://live.ottiptv.cc/yy/1459869766
 抗战神剧,https://live.ottiptv.cc/yy/1507704566
-动漫,https://live.ottiptv.cc/yy/26664495
-24H地下交通站全,https://live.ottiptv.cc/yy/37880083
+水浒传,https://live.ottiptv.cc/yy/1353873252
+士兵突击,https://live.ottiptv.cc/yy/1382768483
+【战狼3吴京】首播,https://live.ottiptv.cc/yy/1456668939
+少年歌行~暗河传~,https://live.ottiptv.cc/yy/29067083
+精彩动漫,https://live.ottiptv.cc/yy/1420843376
 好先生,https://live.ottiptv.cc/yy/79382500
 经典港片电影,https://live.ottiptv.cc/yy/1459801818
+薛仁贵传奇,https://live.ottiptv.cc/yy/1355260662
+和你不见不散,https://live.ottiptv.cc/yy/1355635293
 动漫,https://live.ottiptv.cc/yy/1382747970
-靓剑,https://live.ottiptv.cc/yy/1382788679
-小甜甜    闯关东,https://live.ottiptv.cc/yy/1354689861
-西游记后传 蓝光,https://live.ottiptv.cc/yy/1353392400
+24小时循环播电视剧,https://live.ottiptv.cc/yy/53320802
 经典电影 港片枪战,https://live.ottiptv.cc/yy/1355076627
-新主播，求照顾,https://live.ottiptv.cc/yy/1382690406
 动漫,https://live.ottiptv.cc/yy/22777075
-军旅剧（回忆经典）,https://live.ottiptv.cc/yy/1356306672
+【新三国】,https://live.ottiptv.cc/yy/1382851415
+动漫,https://live.ottiptv.cc/yy/23993334
+西游记后传 蓝光,https://live.ottiptv.cc/yy/1353392400
+【新三国】日版,https://live.ottiptv.cc/yy/1382851457
 恐怖电影,https://live.ottiptv.cc/yy/24066336
-绝版僵尸鬼片,https://live.ottiptv.cc/yy/1460889796
-赌神 港片 喜剧,https://live.ottiptv.cc/yy/1355112116
+雪中悍刀行,https://live.ottiptv.cc/yy/1382660835
 《武林外传》武侠,https://live.ottiptv.cc/yy/1394000563
 闯关东,https://live.ottiptv.cc/yy/1383546866
-雪中悍刀行,https://live.ottiptv.cc/yy/1382660835
-【新三国】,https://live.ottiptv.cc/yy/1382851415
-【新三国】日版,https://live.ottiptv.cc/yy/1382851457
-经典港片动作搞笑,https://live.ottiptv.cc/yy/1459869766
-鬼片恐怖私家影院,https://live.ottiptv.cc/yy/1354209316
-动漫,https://live.ottiptv.cc/yy/1354768831
-苹果工会招募主播,https://live.ottiptv.cc/yy/1354889234
-进来 陪你看电视,https://live.ottiptv.cc/yy/1353518742
-老妖私影院,https://live.ottiptv.cc/yy/1354952229
-国漫动漫,https://live.ottiptv.cc/yy/1354768828
-倚天屠龙记,https://live.ottiptv.cc/yy/33300793
-24小时循环播电视剧,https://live.ottiptv.cc/yy/53320802
-康熙私访记,https://live.ottiptv.cc/yy/1382701828
-安安电视剧,https://live.ottiptv.cc/yy/1414817779
-少年歌行,https://live.ottiptv.cc/yy/1450556636
+赌神 港片 喜剧,https://live.ottiptv.cc/yy/1355112116
 《石敢当》六耳猕猴,https://live.ottiptv.cc/yy/1394156613
-战狼7吴京退役,https://live.ottiptv.cc/yy/1382773714
-电影,https://live.ottiptv.cc/yy/37454459
-【武林客栈】,https://live.ottiptv.cc/yy/1382773728
 【新三国】吕布,https://live.ottiptv.cc/yy/1382851459
+天龙神雕经典回忆,https://live.ottiptv.cc/yy/68260522
+【经典港片】佟瑶,https://live.ottiptv.cc/yy/23531261
+情满四合院-高分电视剧,https://live.ottiptv.cc/yy/1382735541
+老九门24h,https://live.ottiptv.cc/yy/1355171357
+古装剧,https://live.ottiptv.cc/yy/1356158015
+小甜甜    闯关东,https://live.ottiptv.cc/yy/1354689861
+动漫,https://live.ottiptv.cc/yy/1354768831
+小美美 正在直播,https://live.ottiptv.cc/yy/1354143966
+24h唐朝诡实录1234,https://live.ottiptv.cc/yy/1353913646
+进来 陪你看电视,https://live.ottiptv.cc/yy/1353518742
+苹果工会招募主播,https://live.ottiptv.cc/yy/1354889234
+24H地下交通站全,https://live.ottiptv.cc/yy/37880083
+国漫动漫,https://live.ottiptv.cc/yy/1354768828
+老妖私影院,https://live.ottiptv.cc/yy/1354952229
+康熙私访记,https://live.ottiptv.cc/yy/1382701828
+83射雕英雄传,https://live.ottiptv.cc/yy/1354210357
+安安电视剧,https://live.ottiptv.cc/yy/1414817779
+动漫《火影疾风传》,https://live.ottiptv.cc/yy/1459675153
+顺溜,https://live.ottiptv.cc/yy/22089862
+绝版僵尸鬼片,https://live.ottiptv.cc/yy/1460889796
+【武林客栈】,https://live.ottiptv.cc/yy/1382773728
 探案！探案！,https://live.ottiptv.cc/yy/1382829413
-高分动作大片-热血出击,https://live.ottiptv.cc/yy/1382736909
+百家讲坛――之明太祖朱元璋,https://live.ottiptv.cc/yy/1354936149
+五号特工组和平ff,https://live.ottiptv.cc/yy/1414967772
 金庸武侠 天龙八部,https://live.ottiptv.cc/yy/1352300646
 武林外传,https://live.ottiptv.cc/yy/1354282410
-24h唐朝诡实录1234,https://live.ottiptv.cc/yy/1353913646
-疯狂动漫 正在直播,https://live.ottiptv.cc/yy/1353937086
 什么会让你快乐,https://live.ottiptv.cc/yy/54886912
+疯狂动漫 正在直播,https://live.ottiptv.cc/yy/1353937086
+❀果er❀,https://live.ottiptv.cc/yy/1414790793
 8090.电影一哥,https://live.ottiptv.cc/yy/29197808
 时代剧，黄土高天,https://live.ottiptv.cc/yy/1414864180
 【科幻电影】,https://live.ottiptv.cc/yy/1355065896
 新白娘子4K高清观看,https://live.ottiptv.cc/yy/1508961855
 1930年代经典电影,https://live.ottiptv.cc/yy/1356363815
 易中天品三国完整版,https://live.ottiptv.cc/yy/1461244449
+PK地球神,https://live.ottiptv.cc/yy/1382736872
 欢迎光临,https://live.ottiptv.cc/yy/1355532933
 紫霞仙子被揍了,https://live.ottiptv.cc/yy/1382656234
 斗破苍穹~24h玄幻剧,https://live.ottiptv.cc/yy/1356051105
-动漫《火影疾风传》,https://live.ottiptv.cc/yy/1459675153
-顺溜,https://live.ottiptv.cc/yy/22089862
 动漫,https://live.ottiptv.cc/yy/25055036
 YY果国际电影频道,https://live.ottiptv.cc/yy/1382627144
 《东北小品》,https://live.ottiptv.cc/yy/29600150
 东北小品王,https://live.ottiptv.cc/yy/34313906
-斗罗大陆24h,https://live.ottiptv.cc/yy/1355171231
+战狼7吴京退役,https://live.ottiptv.cc/yy/1382773714
+电影,https://live.ottiptv.cc/yy/37454459
 战狼10086,https://live.ottiptv.cc/yy/1382773686
+斗罗大陆24h,https://live.ottiptv.cc/yy/1355171231
+吕布戏貂蝉,https://live.ottiptv.cc/yy/1460783366
 欧美配音电影！！！,https://live.ottiptv.cc/yy/1354693629
 西游记后传,https://live.ottiptv.cc/yy/29169681
 新主播求关注和支持,https://live.ottiptv.cc/yy/1353454489
-吕布戏貂蝉,https://live.ottiptv.cc/yy/1460783366
-sport,#genre#
-女神绝招,https://live.ottiptv.cc/yy/1382745109
-百炼成神,https://live.ottiptv.cc/yy/1382749915
-女摔王者,https://live.ottiptv.cc/yy/1354889030
 other,#genre#
 网剧《你是迟来的欢喜》,https://live.ottiptv.cc/yy/1509085223
 car,#genre#
-这个主播离你很近,https://live.ottiptv.cc/yy/98194809
 少寒回归啦-真,https://live.ottiptv.cc/yy/13739310
-猛男必进 来放松啦,https://live.ottiptv.cc/yy/1382720905
-你的声音女友,https://live.ottiptv.cc/yy/1460008724
+这个主播离你很近,https://live.ottiptv.cc/yy/98194809
 新主播,https://live.ottiptv.cc/yy/1355179797
-360°环绕音效,https://live.ottiptv.cc/yy/1382874523
 综合,#genre#
 邵氏电影,http://feilong123.vip/409990236/tv.php?id=ssdy
 邵氏武侠,http://feilong123.vip/409990236/tv.php?id=sswx
@@ -29984,13 +29792,11 @@ NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u
 NBC,http://41.205.93.154/NBC/index.m3u8
 NBC 26,https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
-BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC ONE,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 BBC TWO,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/52449019-c378-4e85-b20e-1f51e0d5bb4a/4.m3u8
 BBC ONE,http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 BBC THREE,http://41.205.93.154/BBCTHREE/tracks-v1a1/mono.m3u8
 BBC TWO,http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
-SKY NEWS,https://a1xs.vip/1000018
 ABC,http://41.205.93.154/ABC/index.m3u8
 CNN HD,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 CNN HD,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -30014,7 +29820,6 @@ NAT_GEO,http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
 NAT_GEO_WILD,http://23.237.104.106:8080/USA_NAT_GEO_WILD/tracks-v1a1/mono.m3u8
 WE TV,http://23.237.104.106:8080/USA_WE_TV/tracks-v1a1/mono.m3u8
 HISTORY,http://nor1live.win/livehttpplay?channel_id=23105
-Animal Planet,https://a1xs.vip/300035
 Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 TLC E,https://tvpass.org/live/TLCEast/hd
 TLC E,https://tvpass.org/live/TLCEast/sd
@@ -30025,7 +29830,6 @@ FOOD_NETWORK,http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 OUTDOOR CHANNEL,http://nor1live.win/livehttpplay?channel_id=23138
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
-TNT,https://a1xs.vip/300001
 TNT,http://nor1live.win/livehttpplay?channel_id=23133
 Game Show Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
 Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
@@ -30635,144 +30439,6 @@ TRACE SPORT STARS,http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 RTA Sport,https://hls.rtasport.live/hls/stream.m3u8
 Hard Knocks HD,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-解碼 選(內置),#genre#
-CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3121.ts
-CP24 R,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3261.ts
-TSN 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
-TSN 2 UHD ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
-TSN 3 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
-TSN 4 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
-TSN 5 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
-Sportsnet one,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
-Sportsnet 360,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
-Sportsnet NY,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97492.ts
-Sportsnet east,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3072.ts
-Sportsnet west,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3068.ts
-Sportsnet world,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
-Sportsnet ONT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
-Sportsnet PAC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
-NBA TV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2470.ts
-SKY F1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
-TLC-HD,http://79.127.238.228:14433
-TLC C,http://104.250.145.76/livehttpplay?channel_id=23319
-TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
-TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
-Crave 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3184.ts
-Crave 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3185.ts
-Crave 3,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3186.ts
-Crave 4,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3187.ts
-Sky Sports Premier League,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
-Sky Sports Main Events HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
-Big Ten Network Overflow 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/30891.ts
-Bein Sports en Espanol UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3613.ts
-Sky Sports Football HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2188.ts
-NBC Sports Washington LHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3770.ts
-CTV Channel (R),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
-Monumental Sports network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/663881.ts
-NBC Sports Philadelphia,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3769.ts
-NBC Sports Chicago Plus,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2434.ts
-Premier League TV (PC),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660938.ts
-Sky Sports Arena HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2193.ts
-CBS Sports Network UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3621.ts
-Fox News Channel (SHD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2543.ts
-NBC Sports California,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3821.ts
-Sky Sports Action,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2195.ts
-UK Sky Sports Action,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2195.ts
-SPORTSMAN CHANNEL SD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97483.ts
-BBC Two Scotland,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2347.ts
-BBC One Scotland,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2352.ts
-Sky Sports F1 HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
-NBC Sports Bay Area,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2436.ts
-beIN SPORTS La Liga,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/90427.ts
-The Cowboy Channel,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/84912.ts
-NBC Sports Chicago,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3771.ts
-Sky Sports News,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2183.ts
-Sky Sports MIX,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2180.ts
-NBC Sports Boston,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2435.ts
-Showtime Next UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3970.ts
-CA CTV2 VICTORIA,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141733.ts
-Fox Sports 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3645.ts
-Sky Sports F1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2190.ts
-Bein Sports UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3612.ts
-HBO 2 East UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3656.ts
-BEIN SPORTS,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3153.ts
-HGTV East UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3654.ts
-ESPN Deportes,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3639.ts
-BeIN Sports 6,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/5311.ts
-BeIN Sports 5,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/5312.ts
-Fox News UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3647.ts
-NBC News NOW,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/638808.ts
-CBS News LHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
-TLC East LHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
-Fox Sports 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2500.ts
-UFC Channel,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/61769.ts
-ESPN SD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21589.ts
-ESPN 2 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3637.ts
-TBS West,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3842.ts
-TLC West,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/48974.ts
-UK ITV1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527497.ts
-NBA TV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2470.ts
-UK Sky Sports Premier League HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2181.ts
-Spectrum SportsNet Lakers Alternate,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/552928.ts
-Chicago Sports Network (CHSN),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/697197.ts
-AT&T SportsNet Pittsburgh SD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/401164.ts
-NBC Sports Chicago Plus LHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3775.ts
-Showtime Family Zone West,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631918.ts
-AT&T SportsNet Pittsburgh,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/149311.ts
-HBO Signature East (SHD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648981.ts
-Showtime Family Zone UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3969.ts
-Showtime Next East (SHD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648985.ts
-E! Entertainment East SD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21569.ts
-SportsNet New York (SHD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3865.ts
-UK Sky Sports Cricket HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2191.ts
-NBC Sports Network (SD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21598.ts
-Travel Channel East LHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3765.ts
-ABC 5 (WCVB) Boston,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88035.ts
-Food Network East UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3644.ts
-Food Network East LHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3729.ts
-CA SPORTSNET PACIFIC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
-SPORTSNET ONTARIO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
-GAME SHOW NETWORK,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88793.ts
-CBC Charlottetown,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21882.ts
-Fox Sports Racing,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3053.ts
-FOX Sports Tennessee,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2508.ts
-FOX Sports Southwest,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2511.ts
-Fubo Sports Network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/50908.ts
-Big Ten Network UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4443.ts
-Showtime 2 East UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3965.ts
-Discovery East (SD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21555.ts
-DISCOVERY FAMILY SD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97454.ts
-DISCOVERY LIFE (SD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97455.ts
-Lifetime East (SHD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/645914.ts
-CTV2 WINDSOR (B),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141734.ts
-CTV WINNIPEG (B),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141729.ts
-ESPN Deportes (SHD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2578.ts
-GLOBAL VANCOUVER,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3278.ts
-GLOBAL KINGSTON,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141739.ts
-CTV Atlantic HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88028.ts
-Sportsnet World,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
-ABC Chicago WLS SD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/429802.ts
-CTV (Kitchener),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59859.ts
-es Network (SHD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2377.ts
-CTV 2 (Ottawa),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59863.ts
-UK France 24 News,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2277.ts
-Citytv Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.ts
-SPORTSNET WEST,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3068.ts
-SPORTSNET EAST,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3072.ts
-CBC St. Johns,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3061.ts
-CTV Drama (R),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3082.ts
-Fox Business UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3643.ts
-CBC VANCOUVER,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3252.ts
-CBC Vancouver,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21891.ts
-CITY TORONTO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3253.ts
-CITY TORONTO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3255.ts
-COTTAGE Life,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3260.ts
-CTV (Ottawa),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59862.ts
-CTV 2 BARRIE,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141745.ts
-CTV ATLANTIC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141721.ts
-CTV MONTREAL,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3266.ts
-TVA Sports 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3179.ts
-TVA Sports 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59869.ts
 SW-CCTV+卫视,#genre#
 CCTV 13新闻,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
@@ -30810,50 +30476,6 @@ cctv5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_
 东方卫视,http://69.30.246.194/live/dfws.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 海南卫视,http://69.30.246.194/live/hnws.m3u8
-CCTV1,http://221.229.212.86:14923
-CCTV1,http://221.229.212.86:14977
-CCTV2,http://221.229.212.86:14993
-CCTV3,http://221.229.212.86:14985
-CCTV4,http://221.229.212.86:14994
-CCTV5,http://221.229.212.86:14924
-CCTV5,http://221.229.212.86:14982
-CCTV5+,http://221.229.212.86:14925
-CCTV5+,http://221.229.212.86:14981
-CCTV6,http://221.229.212.86:14995
-CCTV7,http://221.229.212.86:14997
-CCTV8,http://221.229.212.86:14996
-CCTV9,http://221.229.212.86:14904
-CCTV10,http://221.229.212.86:14998
-CCTV11,http://221.229.212.86:14986
-CCTV12,http://221.229.212.86:14987
-CCTV13,http://221.229.212.86:14979
-CCTV14,http://221.229.212.86:14989
-CCTV15,http://221.229.212.86:14905
-CCTV16,http://221.229.212.86:14926
-CCTV16,http://221.229.212.86:14910
-CCTV17,http://221.229.212.86:14965
-广东体育,http://221.229.212.86:14975
-广东珠江,http://221.229.212.86:14909
-凤凰资讯,http://221.229.212.86:14896
-凤凰香港台,http://221.229.212.86:14897
-凤凰中文,http://221.229.212.86:14898
-安徽卫视,http://221.229.212.86:14902
-北京卫视,http://221.229.212.86:14901
-重庆卫视,http://221.229.212.86:14970
-东方卫视,http://221.229.212.86:14999
-东南卫视,http://221.229.212.86:14974
-河北卫视,http://221.229.212.86:14973
-河南卫视,http://221.229.212.86:14992
-湖南卫视,http://221.229.212.86:14983
-江苏卫视,http://221.229.212.86:14980
-江西卫视,http://221.229.212.86:14990
-辽宁卫视,http://221.229.212.86:14991
-宁夏卫视,http://221.229.212.86:14971
-山东卫视,http://221.229.212.86:14988
-山西卫视,http://221.229.212.86:14972
-深圳卫视,http://221.229.212.86:14903
-天津卫视,http://221.229.212.86:14906
-未知,http://221.229.212.86:14966
 CCTV-1HD,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-2HD,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-3HD,http://107.150.60.122/live/cctv3hd.m3u8
