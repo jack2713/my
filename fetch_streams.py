@@ -204,7 +204,6 @@ def main():
         # GitHub URLs (只有含有jack2713的URL会被转换)
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp.txt', 
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp01.txt',
-        #'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/new.txt',
         #'https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt',
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/my2.txt',
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/my3.txt',
@@ -218,6 +217,7 @@ def main():
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/dy01.txt',
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/ttest.txt',
+        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/new.txt',
         'http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt',
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/rihou.txt',
         #'http://rihou.cc:555/gggg.nzk',  # 不会转换
