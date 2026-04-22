@@ -9,6 +9,8 @@ URL_CONFIG = [
 "安徽电信,https://raw.githubusercontent.com/jack2713/4K-IPTV-M3U/refs/heads/main/txt/%E5%AE%89%E5%BE%BD%E7%94%B5%E4%BF%A1.txt",
 "广东电信,https://raw.githubusercontent.com/jack2713/4K-IPTV-M3U/refs/heads/main/txt/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1.txt",
 "江苏电信,https://raw.githubusercontent.com/jack2713/4K-IPTV-M3U/refs/heads/main/txt/%E6%B1%9F%E8%8B%8F%E7%94%B5%E4%BF%A1.txt",
+"江西电信,https://raw.githubusercontent.com/jia070310/4K-IPTV-M3U/refs/heads/main/txt/%E6%B1%9F%E8%A5%BF%E7%94%B5%E4%BF%A1.txt",
+"河南电信,https://raw.githubusercontent.com/jia070310/4K-IPTV-M3U/refs/heads/main/txt/%E6%B2%B3%E5%8D%97%E7%94%B5%E4%BF%A1.txt",
 "浙江电信,https://raw.githubusercontent.com/jack2713/4K-IPTV-M3U/refs/heads/main/txt/%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1.txt",
 "湖北电信,https://raw.githubusercontent.com/jack2713/4K-IPTV-M3U/refs/heads/main/txt/%E6%B9%96%E5%8C%97%E7%94%B5%E4%BF%A1.txt",
 "湖南电信,https://raw.githubusercontent.com/jack2713/4K-IPTV-M3U/refs/heads/main/txt/%E6%B9%96%E5%8D%97%E7%94%B5%E4%BF%A1.txt",
