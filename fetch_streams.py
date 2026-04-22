@@ -224,6 +224,7 @@ def main():
         #'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt',  # 不会转换
         #'https://raw.githubusercontent.com/wwb521/live/main/tv.txt',  # 不会转换
         #'https://live.hacks.tools/tv/iptv4.txt',  # 不会转换
+        'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/TMP/jsontxt.txt',
         'https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive',  # 不会转换
     ]
     
