@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-IPTV文件自动获取与合并工具
+IPTV文件自动获取与合并工具 v2.1
 - 自动从GitHub README获取TXT文件列表
+- 自动去除加速地址前缀
 - 合并同名文件（去掉数字后缀）
 - 支持过滤指定关键词
+- 对每个#genre#段进行排序
 """
 
 import requests
@@ -19,13 +21,6 @@ class IPTVMerger:
     """IPTV文件合并器"""
     
     def __init__(self, readme_url, exclude_keywords=None):
-        """
-        初始化
-        
-        Args:
-            readme_url: README.md的URL
-            exclude_keywords: 要排除的关键词列表，如 ['SD', 'HD']
-        """
         self.readme_url = readme_url
         self.exclude_keywords = exclude_keywords or []
         self.url_config = []
@@ -52,29 +47,18 @@ class IPTVMerger:
                     return None
     
     def extract_txt_list(self, content):
-        """
-        提取TXT文件列表
-        
-        Args:
-            content: README内容
-            
-        Returns:
-            list: [(name, url), ...]
-        """
-        # 查找TXT文件列表章节
+        """提取TXT文件列表"""
         txt_start = content.find("## TXT 文件列表")
         if txt_start == -1:
             print("未找到'TXT 文件列表'章节")
             return []
         
-        # 查找下一个章节
         next_section = content.find("\n##", txt_start + 1)
         if next_section != -1:
             txt_section = content[txt_start:next_section]
         else:
             txt_section = content[txt_start:]
         
-        # 解析表格
         soup = BeautifulSoup(txt_section, 'html.parser')
         table = soup.find('table')
         
@@ -94,35 +78,21 @@ class IPTVMerger:
                 link_tag = cells[1].find('a')
                 if link_tag and link_tag.get('href'):
                     download_link = link_tag.get('href')
-                    # 去掉.txt扩展名
+                    
+                    # 【优化1】去掉加速地址前缀
+                    download_link = download_link.replace('https://gh-proxy.org/', '')
+                    
                     name_without_ext = re.sub(r'\.txt$', '', file_name)
                     results.append((name_without_ext, download_link))
         
         return results
     
     def normalize_name(self, name):
-        """
-        标准化名称（去掉数字后缀）
-        
-        Args:
-            name: 原始名称，如"上海电信1"
-            
-        Returns:
-            str: 标准化后的名称，如"上海电信"
-        """
-        # 去掉末尾的数字
+        """标准化名称（去掉数字后缀）"""
         return re.sub(r'\d+$', '', name)
     
     def fetch_url_content(self, url):
-        """
-        获取URL内容
-        
-        Args:
-            url: URL地址
-            
-        Returns:
-            str: 内容文本
-        """
+        """获取URL内容"""
         try:
             headers = {'User-Agent': 'Mozilla/5.0'}
             response = requests.get(url, headers=headers, timeout=30)
@@ -133,15 +103,7 @@ class IPTVMerger:
             return ""
     
     def filter_content(self, content):
-        """
-        过滤内容
-        
-        Args:
-            content: 原始内容
-            
-        Returns:
-            str: 过滤后的内容
-        """
+        """过滤内容"""
         if not self.exclude_keywords:
             return content
         
@@ -154,7 +116,6 @@ class IPTVMerger:
             if not line:
                 continue
             
-            # 检查是否包含排除关键词
             should_exclude = False
             for keyword in self.exclude_keywords:
                 if keyword.lower() in line.lower():
@@ -171,15 +132,7 @@ class IPTVMerger:
         return '\n'.join(filtered_lines)
     
     def process_item(self, item):
-        """
-        处理单个配置项
-        
-        Args:
-            item: (name, url)
-            
-        Returns:
-            tuple: (normalized_name, content)
-        """
+        """处理单个配置项"""
         name, url = item
         print(f"正在获取: {name}")
         
@@ -187,17 +140,33 @@ class IPTVMerger:
         if not content:
             return (None, "")
         
-        # 过滤内容
         filtered_content = self.filter_content(content)
-        
-        # 标准化名称
         normalized_name = self.normalize_name(name)
         
         return (normalized_name, filtered_content)
     
+    def sort_genre_content(self, lines):
+        """【优化2】对频道列表进行排序"""
+        parsed_lines = []
+        for line in lines:
+            if ',' in line:
+                parts = line.split(',', 1)
+                if len(parts) == 2:
+                    channel_name = parts[0].strip()
+                    url = parts[1].strip()
+                    parsed_lines.append((channel_name, url))
+        
+        import locale
+        try:
+            locale.setlocale(locale.LC_COLLATE, 'zh_CN.UTF-8')
+            sorted_lines = sorted(parsed_lines, key=lambda x: locale.strxfrm(x[0]))
+        except:
+            sorted_lines = sorted(parsed_lines, key=lambda x: x[0])
+        
+        return [f"{name},{url}" for name, url in sorted_lines]
+    
     def merge_and_save(self):
         """合并并保存结果"""
-        # 1. 获取README内容
         print("=" * 80)
         print("步骤1: 获取README内容")
         print("=" * 80)
@@ -205,10 +174,8 @@ class IPTVMerger:
         if not content:
             print("获取README失败!")
             return
-        
         print("✓ 成功获取README内容\n")
         
-        # 2. 提取TXT文件列表
         print("=" * 80)
         print("步骤2: 提取TXT文件列表")
         print("=" * 80)
@@ -219,21 +186,21 @@ class IPTVMerger:
             print("未找到任何TXT文件!")
             return
         
-        # 显示配置列表
         print("URL_CONFIG 配置列表:")
         print("-" * 80)
-        for name, url in self.url_config:
+        for name, url in self.url_config[:5]:
             normalized = self.normalize_name(name)
             print(f"{name} -> {normalized}")
+            print(f"  URL: {url}")
+        if len(self.url_config) > 5:
+            print(f"... 还有 {len(self.url_config) - 5} 个文件")
         print("-" * 80)
         print()
         
-        # 3. 多线程获取内容
         print("=" * 80)
         print("步骤3: 多线程获取内容")
         print("=" * 80)
         
-        # 使用字典存储合并后的内容
         merged_content = defaultdict(list)
         
         with ThreadPoolExecutor(max_workers=5) as executor:
@@ -244,59 +211,54 @@ class IPTVMerger:
                 if normalized_name and content:
                     merged_content[normalized_name].append(content)
         
-        # 4. 合并同名内容并写入文件
         print("\n" + "=" * 80)
-        print("步骤4: 合并并保存结果")
+        print("步骤4: 合并、排序并保存结果")
         print("=" * 80)
         
         os.makedirs("TMP", exist_ok=True)
         
         output_lines = []
         for name, contents in sorted(merged_content.items()):
-            # 合并所有同名内容
             combined_content = '\n'.join(contents)
-            # 去重
             unique_lines = list(dict.fromkeys(combined_content.split('\n')))
             
-            # 添加分组标题
-            output_lines.append(f"{name},#genre#")
-            output_lines.extend(unique_lines)
-            output_lines.append("")  # 空行分隔
+            # 【优化2】对频道列表进行排序
+            sorted_lines = self.sort_genre_content(unique_lines)
             
-            print(f"✓ {name}: 合并了 {len(contents)} 个文件，共 {len(unique_lines)} 条记录")
+            output_lines.append(f"{name},#genre#")
+            output_lines.extend(sorted_lines)
+            output_lines.append("")
+            
+            print(f"✓ {name}: 合并了 {len(contents)} 个文件，共 {len(sorted_lines)} 条记录（已排序）")
         
-        # 写入文件
         with open("TMP/new.txt", 'w', encoding='utf-8') as f:
             f.write('\n'.join(output_lines))
         
         print("\n" + "=" * 80)
         print(f"✓ 完成！已保存到 TMP/new.txt")
         print(f"✓ 共生成 {len(merged_content)} 个分组")
+        print(f"✓ 已去除加速地址前缀: https://gh-proxy.org/")
+        print(f"✓ 已对每个#genre#段进行排序")
         print("=" * 80)
         
-        # 显示过滤关键词
         if self.exclude_keywords:
             print(f"\n排除关键词: {', '.join(self.exclude_keywords)}")
 
 
 def main():
     """主函数"""
-    # 配置
-    readme_url = "https://raw.githubusercontent.com/jack2713/4K-IPTV-M3U/refs/heads/main/README.md"
-    
-    # 设置要排除的关键词（可根据需要修改）
-    # 例如: exclude_keywords = ['SD', '高清', '测试']
-    exclude_keywords = ['SD','sd']  # 排除包含SD的行
+    readme_url = "https://raw.githubusercontent.com/jia070310/4K-IPTV-M3U/refs/heads/main/README.md"
+    exclude_keywords = ['SD','sd']
     
     print("=" * 80)
-    print("IPTV文件自动获取与合并工具")
+    print("IPTV文件自动获取与合并工具 v2.1")
     print("=" * 80)
     print(f"README地址: {readme_url}")
     print(f"排除关键词: {exclude_keywords}")
+    print(f"功能: 自动去除加速地址 | 智能合并 | 关键词过滤 | 频道排序")
     print("=" * 80)
     print()
     
-    # 创建合并器并执行
     merger = IPTVMerger(readme_url, exclude_keywords)
     merger.merge_and_save()
 
