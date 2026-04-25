@@ -247,7 +247,7 @@ class IPTVMerger:
 
 def main():
     """主函数"""
-    readme_url = "https://raw.githubusercontent.com/jia070310/4K-IPTV-M3U/refs/heads/main/README.md"
+    readme_url = "https://raw.githubusercontent.com/jack2713/4K-IPTV-M3U/refs/heads/main/README.md"
     exclude_keywords = ['SD','sd']
     
     print("=" * 80)
