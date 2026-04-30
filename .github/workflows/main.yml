@@ -120,25 +120,9 @@ jobs:
           echo "✅ myq.txt changes committed and pushed"
         fi
 
-    # 11. 运行第三个 Python 脚本 (send.py)
-    - name: Run send.py script
-      env:
-        TARGET_REPO_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
-      run: |
-        echo "Running TMP/send.py..."
-        echo "Current directory: $(pwd)"
-        echo "Files in TMP/ directory:"
-        ls -la TMP/
-        
-        # 检查 send.py 是否存在
-        if [ -f "TMP/send.py" ]; then
-          python TMP/send.py
-          echo "✅ TMP/send.py completed."
-        else
-          echo "⚠️ Warning: TMP/send.py not found, skipping..."
-        fi
+    # 11. 已移除 send.py 执行步骤（不再运行）
 
-    # 12. 上传输出文件作为工件
+    # 12. 上传输出文件作为工件（保留 send.py 文件本身，但不再执行）
     - name: Upload output files as artifacts
       if: always()  # 即使前面步骤失败也上传工件
       uses: actions/upload-artifact@v4
