@@ -16,7 +16,7 @@ webview,#genre#
 四川乡村频道,webview://https://scxc.sctv.com/html/c0111/2024/04/09/1777534112104497154_share.html?t=1715149181163
 四川乡村频道,webview://https://kscgc.sctv.com/sctv/h5/v7/tvChannelShare.html?id=1016560
 四川广播电视,webview://https://www.sctv.com/watchTV
-四川天府一品频道（需要ref）,webview://http://livehkkp.chinamcache.com:80/live/tfyp-hkkp_2000.m3u8?txSecret=3d93b8d6cf483d1d34cc5f3a3adb709c&txTime=6857c656
+四川天府一品频道,webview://http://livehkkp.chinamcache.com:80/live/tfyp-hkkp_2000.m3u8?txSecret=3d93b8d6cf483d1d34cc5f3a3adb709c&txTime=6857c656
 四川AI要闻直播,webview://https://www.sctv.com/live/detail?id=1739565794560880642
 四川每经AI电视,webview://https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 四川每经AI电视,webview://http://swiftplay.hxkjmedia.com/tv/yytestW.m3u8
@@ -295,7 +295,6 @@ webview,#genre#
 西昌综合频道,webview://http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
 西昌综合频道,webview://https://www.cnxichang.cn/#/guangbo
 西昌综合广播,webview://https://lhttp-hw.qtfm.cn/live/20211706/64k.mp3
-西昌综合广播,we
 昭觉综合频道,webview://http://dcpull.sctvcloud.com/live/4bb3c2bd01881000e843b73a00000000/playlist.m3u8
 德格综合频道,webview://http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
 石渠综合频道,webview://http://m3u8channel.ganzitv.com/nmip-media/channellive/channel101661/playlist.m3u8
@@ -344,11 +343,9 @@ webview,#genre#
 安州广播电视,webview://http://kstatic.sctvcloud.com/static/a0705/list/1499300765428551682.json
 北川综合频道,webview://http://kstatic.sctvcloud.com:80/static/b0726/list/1513397826446106625.json
 江油综合频道,webview://http://rmt.scjygd.com/html/a0781/2022/01/11/1480736563783667712_share.html?t=1716361058235
-平武
 三台综合频道,webview://http://125.65.94.91:12351/live
 盐亭广播电视,webview://http://kstatic.sctvcloud.com:80/static/a0723/list/1594974528242130945.json
 梓潼综合频道,webview://https://rmt.ztrmfb.cn/html/a0725/2025/09/11/1965963561183150081_share.html?t=1757584405474
-天津,#genre#
 天津tiki fm100.5,webview://https://dalanjing-hls.jstv.com/dalanjing/tianjinfm1005.m3u8
 天津tiki fm100.5,webview://https://h5-dalanjing.jstv.com/audiolive.html?id=1178745135303368704&t=1755151371949
 滨海新闻综合频道,webview://http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
@@ -1534,7 +1531,6 @@ grtn文化频道,webview://https://m.gdtv.cn/tvChannelDetail/75
 桂林生活广播,webview://https://ytweb.radio.cn/share/radioPlay?broadcastId=1078
 桂林生活广播,webview://https://lhttp-hw.qtfm.cn/live/15318228/64k.mp3
 桂林生活广播,webview://https://www.qtfm.cn/radios/15318228/
-河池新闻综合,
 北海新闻综合,webview://https://bhlive.gxbhxww.cn/live/xwzh20250801.m3u8
 北海新闻综合,webview://https://play-a2.quklive.com/live/1756537831023298.m3u8
 北海新闻综合,webview://https://live.gxrb.com.cn/tv/bhtv_xwzh/index.m3u8
@@ -1584,7 +1580,6 @@ grtn文化频道,webview://https://m.gdtv.cn/tvChannelDetail/75
 百色音乐广播,webview://https://cloud.quklive.com/cloud/a/embed/1741009899554200
 百色音乐广播,webview://https://live.gxrb.com.cn/tv/bsradio_music/index.m3u8
 百色音乐广播,webview://https://bookingmaster.gxrb.com.cn/cloudgxLive/liveDetails/779
-崇左
 贵港存疑,webview://https://play-a2.quklive.com/live/1763003796436099.m3u8
 贵港存疑,webview://https://bookingmaster.gxrb.com.cn/cloudgxLive/liveDetails/2832
 贵港综合广播,webview://https://play-a2.quklive.com/live/1763082752100268.m3u8
@@ -2504,12 +2499,10 @@ grtn文化频道,webview://https://m.gdtv.cn/tvChannelDetail/75
 滦南影视娱乐频道,webview://http://8.130.49.89/live/lntv2.m3u8
 滦南影视娱乐频道,webview://https://ln.tseryi.com/dszb/41.html
 滦南影视娱乐频道,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=baa86220f68040a7ab3f8bdd05fdc16c&type=1&siteId=dac944f0ccfd451a905477c6b8452e74&shareAppId=dac944f0ccfd451a905477c6b8452e74
-滦州
 迁安综合频道,webview://http://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
 迁安综合频道,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=5f120f5087564d9aae428148f6da2d62&type=1&siteId=bf3a3faad9344cbea1a0a832234f3590&shareAppId=bf3a3faad9344cbea1a0a832234f3590
 迁安综合频率,webview://https://jwplay.hebyun.com.cn/live/jiyunqianan123/1500k/tzwj_video.m3u8
 迁安综合频率,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=bf27da71f7c94d6f80d6ace365382211&type=2&siteId=bf3a3faad9344cbea1a0a832234f3590&shareAppId=bf3a3faad9344cbea1a0a832234f3590
-迁西
 玉田综合频道,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=0880fe0822e246a28f1d669212c14be8&type=1&siteId=cfa599a43ad943418852e2002fa95d1a&shareAppId=cfa599a43ad943418852e2002fa95d1a
 玉田综合频道,webview://https://yuuwymvzb.vzan.com/live/page/898936423?v=1744127479000
 遵化综合频道,webview://https://web.guangdianyun.tv/tv/?id=2361&uin=1739
@@ -2530,7 +2523,6 @@ grtn文化频道,webview://https://m.gdtv.cn/tvChannelDetail/75
 临西综合频道,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=3a902c9595bf4da49377927994358a34&type=1&siteId=1a58776e260649779a9550b574d55868&shareAppId=1a58776e260649779a9550b574d55868
 临西生活频道,webview://http://jwcdnqx.hebyun.com.cn/live/lx2/1500k/tzwj_video.m3u8
 临西生活频道,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=1f4e567f37bf4eb59e98585f9bcd1e55&type=1&siteId=1a58776e260649779a9550b574d55868&shareAppId=1a58776e260649779a9550b574d55868
-隆尧
 南宫一台,webview://http://jwcdnqx.hebyun.com.cn/live/ngtv1/1500k/tzwj_video.m3u8
 南宫一台,webview://https://www.hebyun.com.cn/html/rft/live.html?channelId=7b35bdf89a274c98ac3f779873852cc8&type=1&siteId=b3eabab8471a443bbaad1fb0df00e21d&shareAppId=b3eabab8471a443bbaad1fb0df00e21d
 南和综合频道,webview://https://jwcdnqx.hebyun.com.cn/live/NHTV1/1500k/tzwj_video.m3u8
