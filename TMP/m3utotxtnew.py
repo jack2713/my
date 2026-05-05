@@ -14,7 +14,7 @@ urls = [
     #'https://php.404003.xyz/live/douyuyqk.php',
     'https://sub.ottiptv.cc/huyayqk.m3u',
     'https://sub.ottiptv.cc/yylunbo.m3u',
-    #'https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt',
+    'https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u',
     #'https://live.hacks.tools/iptv/categories/movies.m3u',
 ]
 
@@ -143,7 +143,7 @@ def parse_m3u_content(content, url, all_channels_dict, group_order):
                     group_title = f"{group_title}-联通"
                 
                 # 过滤内容
-                filter_keywords = ["成人", "4K频道", "直播中国", "列表更新","公告","熊猫"]
+                filter_keywords = ["成人", "体育竞技", "直播中国", "列表更新","公告","熊猫"]
                 if not any(keyword in group_title for keyword in filter_keywords):
                     # 记录分组出现的顺序
                     if group_title not in all_channels_dict:
