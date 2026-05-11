@@ -183,6 +183,7 @@ def main():
         'http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt',
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/rihou.txt',
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/TMP/jsontxt.txt',
+        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/ys.txt',
         'https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive',
     ]
     
