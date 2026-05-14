@@ -149,7 +149,7 @@ class GitIPTVFetcher:
             timestamp = time.strftime("%Y%m%d%H%M%S")
             filename = f'myq.txt'
         
-        notice = f"注意事项,#genre#\n{timestamp}仅供测试自用如有侵权请通知,https://goodiptv.club/douyu/3186217\n"
+        notice = f"注意事项,#genre#\n{timestamp}仅供测试自用如有侵权请通知,https://live.ottiptv.cc/douyu/3186217\n"
         
         with open(filename, 'w', encoding='UTF-8') as file:
             file.write(notice)
