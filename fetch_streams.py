@@ -85,7 +85,7 @@ class GitIPTVFetcher:
         for line in content.splitlines():
             line = line.rstrip()
             
-            filter_keywords = ['更新时间', '关于', '解锁', '公众号', '软件库', '#EXTINF:','权限','广播','订阅地址','➡️','更新日期']
+            filter_keywords = ['更新时间', '关于', '解锁', '公众号', '软件库', '#EXTINF:','权限','广播','订阅地址','➡️','更新日期','chinamobile']
             if any(keyword in line for keyword in filter_keywords):
                 continue
             
