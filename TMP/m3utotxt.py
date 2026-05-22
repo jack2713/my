@@ -55,6 +55,7 @@ if __name__ == "__main__":
     urls = [
         #'https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/litv.m3u',
         #'https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u',
+        "https://cdn.qd.je/live.m3u",
     ]
     
     output_file_path = "TMP/TMP.txt"
