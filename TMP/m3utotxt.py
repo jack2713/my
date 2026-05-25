@@ -102,7 +102,7 @@ if __name__ == "__main__":
     
     # ====== 在这里配置过滤关键词 ======
     # 组过滤：只要group名称包含这些词的组，整个组都被过滤
-    GROUP_FILTER_KEYWORDS = ["节点","免費"]
+    GROUP_FILTER_KEYWORDS = ["节点","免費","四季"]
     
     # 行过滤：只要频道名称包含这些词的行，就被过滤
     LINE_FILTER_KEYWORDS = ["更新"]
