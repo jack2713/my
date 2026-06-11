@@ -635,7 +635,6 @@ KRON-TV CW 4 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Mad
 KGO-TV ABC 7 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2669.ts
 KNTV-TV NBC 10 (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2438.ts
 KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89459.ts
-KPYX-TV/KBCW-TV Ind. 44 (KPIX+) (San Francisco CA),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34国外UK,#genre#,DE=3
 COZI TV SD,http://108.181.20.255:27347/livehttpplay?channel_id=23000
 TELEXITOS SD,http://108.181.20.255:27347/livehttpplay?channel_id=23001
 TELEMUNDO WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23002
