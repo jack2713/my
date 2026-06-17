@@ -4880,7 +4880,7 @@ Motowizja,http://109.233.89.170/Motowizja_HD/index.m3u8
 Pluto TV Cars,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac635-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e10e6442-1bdd-450d-8be9-71cd95a40f10
 PowerNation TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b48016d9dd51000828fa37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6275-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=534f5abf-183b-4b07-88d8-ba60af3de510
 RPM,https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
-Pluto TV Motor,https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8
+Pluto TV Motor,https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
 100% NEWS,http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 Asharq News,https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 Asharq News Portrait,https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
@@ -6177,6 +6177,9 @@ HOLA! Play (1080p),https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fas
 La Sexta (1080p),http://92.176.119.180:2095/play/a1ef
 Mega (1080p),http://92.176.119.180:2095/play/a1ei
 Neox (1080p),http://92.176.119.180:2095/play/a1eg
+Pluto TV Gasolina,https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
+Pluto TV Gore & Slasher,https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
+Pluto TV Impacto,https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
 13 Festival,https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 30A Music,https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 4 Fun Dance,http://178.219.128.68:64888/4FUNDANC
@@ -6877,8 +6880,8 @@ Tvoye TV Yumor,http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 TVS Comedy Network,https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 viju+ Comedy,http://77.235.1.17/vip_comedy/index.m3u8
 ViX Jajaja,https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
+Comedia a lo bestia de Pluto TV,https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 Pluto TV Comedia made in Spain,https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
-Pluto TV Comedy Movies,https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 Vaya semanita,https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
 13 Kids,https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 4 Fun Kids,http://178.219.128.68:64888/4FUNKIDS
@@ -7070,6 +7073,12 @@ Bob Esponja (720p),https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 Disney Channel (1080p),https://cdn.telecloud.tv/CH16265/index.m3u8
 Disney Junior (576p),https://bbb.exoadash.com/TVD1561/index.mpd
 Nickelodeon (1080p),https://xykt-fix.github.io/iptv/streams/SP57.m3u8
+Pluto TV Forever Kids,https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
+Pluto TV Junior (720p),https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
+Pluto TV Kids Classics (720p),https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
+Pluto TV Kids Spain (720p),https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
+Pluto TV Teen (720p),https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+Pluto TV Toons,https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8
 Rugrats,https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 13P,https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 30A Luxe Life Discovered,https://30a-tv.com/feeds/vidaa/luxelife.m3u8
@@ -7155,6 +7164,7 @@ Zhivi!,http://31.148.48.15/Zhivi/index.m3u8
 Divinity (1080p),http://92.176.119.180:2095/play/a1g1
 El Mueble (720p),https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 Nova (1080p),http://92.176.119.180:2095/play/a1eh
+Pluto TV Diseño,https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 13T,https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 16 Anni e Incinta,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 48 Hours,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176f39e709f160007ec61c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263250-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c0b95c9-8da8-4149-8f7a-ba568202266f
@@ -7350,6 +7360,12 @@ Mi Extraña Obsesión,https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 MTV Embarazada a los 16,https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
 MTV Originals,https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 MTV Tattoo a dos,https://jmp2.uk/plu-611b87946b7f420007c22361.m3u8
+Pluto TV K-Drama,https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
+Pluto TV Series,https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
+Pluto TV Series criminales,https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
+Pluto TV Series Sci-Fi,https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
+Pluto TV Telenovelas,https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
+Pluto TV Telenovelas Clásicas,https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 Sin Tetas No Hay Paraíso,https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 Squirrel Dos (1080p),http://92.176.119.180:2095/play/a1ez
 TVE Star (576p),https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
@@ -9542,6 +9558,20 @@ Xtrema Suspenso,https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m
 Xtrema Terror,https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 Atrescine (1080p),http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 Bom Cine (1080p),http://92.176.119.180:2095/play/a1fu
+Paramount Network de Pluto TV,https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+Pluto TV Catástrofes,https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
+Pluto TV Cine Acción,https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+Pluto TV Cine Clásico,https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+Pluto TV Cine Comedia,https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+Pluto TV Cine de autor,https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+Pluto TV Cine Drama,https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+Pluto TV Cine Estelar,https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+Pluto TV Cine Romántico,https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+Pluto TV Invasión Alien,https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
+Pluto TV Paranormal,https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
+Pluto TV Psycho,https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+Pluto TV Thrillers,https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
+Pluto TV Western,https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 Rakuten TV Action Movies Spain (1080p),https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 Rakuten TV Comedy Movies Spain (1080p),https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
 Rakuten TV Drama Movies Spain (1080p),https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
@@ -9856,6 +9886,7 @@ Gol Classics (1080p),https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_class
 LaLiga Hypermotion (1080p),http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 LaLiga TV,http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 Olympic Channel [Geo-blocked],https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
+Pluto TV Snooker 900 (720p),https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
 Realmadrid TV (720p),https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 Teledeporte (1080p),http://92.176.119.180:2095/play/a1f6
 30A Investment Pitch,https://30a-tv.com/feeds/xodglobal/30atv.m3u8
@@ -11142,6 +11173,7 @@ Anime Vision (1080p),https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815
 Anime Vision Classics (1080p),https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 Las Tortugas Ninja (720p),https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 One Piece,https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+Pluto TV Anime,https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
 ADOCCO TV,https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 ADO TV,https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 IRIB 3,https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
@@ -11157,6 +11189,9 @@ Paramount Network,http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channe
 Paramount Network,http://109.233.89.166/Paramount_Channel_HD/index.m3u8
 Paramount Network East,http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 Star Channel Central America,https://streamer1.nexgen.bz/STAR/index.m3u8
+Pluto TV Horror,https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+Pluto TV Sci-Fi,https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
+Pluto TV Zombies,https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 Squirrel (1080p),http://92.176.119.180:2095/play/a1ey
 Veo7 (1080p),http://92.176.119.180:2095/play/a1f1
 America's Test Kitchen,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268074-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=29e05466-9808-43c4-9894-00b77be27051
@@ -11298,6 +11333,8 @@ Crimen & Historia (720p),https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 Historia y Vida (720p),https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 Love The Planet ES (1080p) [Geo-blocked],https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
 NatureTime Finland (1080p),https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+Pluto TV Animales,https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+Pluto TV Historia (720p),https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
 Aruba.TV,https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
 BamBarBia.TV,http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 Beach TV CSULB,http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
@@ -11442,9 +11479,11 @@ Ondambiental TV,https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 Pamir TV,http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 Fashion Finds,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 Food Food,http://14.199.164.20:4001/play/a0qx/index.m3u8
+Pluto TV Cocina,https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 Fun Roads,http://104.143.4.5:2080/funroads.m3u8
 GikTVMX,https://pistream.ddns.net/hls/stream.m3u8
 GZT,https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+Pluto TV True Crime,https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
 Inazuma Eleven,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e75226b7f420007c3f319/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=80879397-91d6-4d71-9c36-ad9f3ac25c0e
 Indywood TV,https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 In the Kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
@@ -11504,6 +11543,7 @@ Rakuten Viki (1080p),https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3
 TVR Sport,https://tvr-tvrsport.cdn.zitec.com/live/tvrsport/main.m3u8
 Woman TV,https://embedlp.becdn.net/womantv.m3u8
 Xtrema Comedy,https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+Pluto TV Comedias Románticas,https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 Disney Channel 🇪🇸ᴱˢ,http://213.145.87.149:25461/live/mgwleor/4lhLaPDAOh/9867.m3u8?token=TEZcAhJfFg1BAARZCgJUCghbXF5TV1xWUAAOU1cHCFgEUQJWWQIBBFAWGBpBQ0BWWFU6UVNHX1wLAABNQEZKXEU7XQdDDRYBVQIFCgMVHhFNUQhdFV9VSRFGXgVACRsLAVYHUUMbFlIbQFFKXFZebF1dE1FUAEdfXUNbDU4RVldoAFEOAFlQFVkWBBoeFVtASRpfVkIJCUkRVF4VEFJNXBVeFlJYBwMVTxZXV0dZRkFAGl8aZSpHSRFTTxUHXUpQWAoWWUNaB0JbFhgaW0RtQVxLEUpSBAgAQRQNQ1MRFRtaBUw8AlhaWQZXQFFdWUERAxpUAAdHSUdeWVkIFlxLZkcNUEFbFQUHWwcHGk8=
 Disney Channel ᴱⁿ⁼ᵁᵏ,https://wowza1.leisertv.com/live/disneychannel.stream/.m3u8
 Disney Channel ᴱⁿ⁼ᵁˢ,https://v4.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
