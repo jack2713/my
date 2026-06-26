@@ -14,7 +14,7 @@ urls = [
     #'https://php.404003.xyz/live/douyuyqk.php',
     'https://sub.ottiptv.cc/huyayqk.m3u',
     'https://sub.ottiptv.cc/yylunbo.m3u',
-    'https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u',
+    #'https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u',
     #'https://live.hacks.tools/iptv/categories/movies.m3u',
 ]
 
