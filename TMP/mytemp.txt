@@ -454,6 +454,8 @@ cctv美洲,http://m.061899.xyz/mg/cctv4m
 西双版纳综合,https://channellive.xsbnw.cn/default/nmip-media/channellive/channel112526/playlist.m3u8
 西双版纳综合,https://channellive.xsbnw.cn:443/default/nmip-media/channellive/channel112526/playlist.m3u8
 西双版纳综合,https://hwapi.yntv.net:443/ew265l/47480o_uhd.m3u8
+广安新闻综合,https://live1.gatv.com.cn:90/live/GGPD.m3u8
+广安文旅乡村,https://live1.gatv.com.cn:90/live/XWZH.m3u8
 苏州1,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州2,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州3,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
@@ -4017,10 +4019,6 @@ cctv1,http://pull-hsbj.vzan.com/v/978354_446938712125478466.flv
 名山,http://m3u8channel-ms.yunxya.com/nmip-media/channellive/channel100249/playlist.m3u8
 汶川,http://live.iwcmt.cn:90/live/zhxw.m3u8
 武胜,http://wspull.wsxrmt.com.cn/live/fb899c55019310000893a7cd00000000.flv?wsSecret=312eb7e98d0f3649eca9b034d3cfa858&wsTime=2019657600
-广安,http://live1.gatv.com.cn:85/live/XWZH_HD.m3u8
-广安2,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
-广安2,https://live1.gatv.com.cn:90/live/GGPD.m3u8
-广安,https://live1.gatv.com.cn:90/live/XWZH.m3u8
 丹棱,http://dlpull.2289869471.com/live/08f432a6018f10004816cbcd00000000.flv?wsSecret=41bfc16da5f0b820687587fa2bfd121c&wsTime=2019657600
 彭山,https://play.psrmt.cn/live/ZYADBGLP_C0.flv
 蓬溪,http://pxpull.pengxiyun.cn/live/03c29776018f10002512b07f00000000/playlist.m3u8?wsSecret=4b8511b5e9f31ec0478debd6664c2711&wsTime=2019657600
