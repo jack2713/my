@@ -72,10 +72,10 @@ CCTV1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 CCTV3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 CCTV4,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
-CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-CCTV5,https://16.cdn.hi.hn/163189/cctv5-2
+CCTV5,https://cdn.qd.je/163189/cctv5
+CCTV5,https://cdn.qd.je/163189/cctv5-2
 CCTV5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-CCTV5+,https://16.cdn.hi.hn/163189/cctv5p-2
+CCTV5+,https://cdn.qd.je/163189/cctv5p-2
 CCTV6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 CCTV7,https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
 CCTV8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
@@ -87,7 +87,7 @@ CCTV13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
 CCTV14,https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 CCTV15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 CCTV16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
-CCTV16,https://16.cdn.hi.hn/163189/cctv16-2
+CCTV16,https://cdn.qd.je/163189/cctv16-2
 CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 重温经典,https://cdn.qd.je/163189/cwjd2
 广州综合,https://cdn.qd.je/163189/gzzh
