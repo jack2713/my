@@ -1222,3 +1222,161 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 日喀则藏语综合,https://consolestream.rkzrm.cn:20323/8.m3u8
 石嘴山综合频道,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.m3u8
 石嘴山公共频道,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8
+日韩,#genre#
+NHK東京・総合_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
+NHK東京・総合_jp,http://haru.charandom.blog/stream/jp/nhk_g_(subch)/stream-output.m3u8?mode=hls
+NHK東京・教育_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
+日本テレビ_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
+テレビ朝日_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06
+TBS_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
+テレ東_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07
+フジテレビ_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
+TOKYO・MX_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08
+TOKYO・MX2_jp,http://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+NHK大阪・総合_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=gx06
+サンテレビ_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=gx07
+毎日テレビ_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=gx01
+KBS京都_jp,http://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
+ABCテレビ_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=gx02
+テレビ大阪_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=gx05
+関西テレビ_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=gx03
+読売テレビ_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=gx04
+NTV News24,http://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+TBS News,https://naori-test.netgenx.site/pxx.php?shk_cid=cs11
+BBC News,https://naori-test.netgenx.site/pxx.php?shk_cid=cs15
+CNNj,https://naori-test.netgenx.site/pxx.php?shk_cid=cs16
+日テレNEWS,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+FNNプライムオンライン,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+MBSニュース,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+日テレNEWSセレクト,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+共同通信News,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+オリコンニュース,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+STOCK VOICE,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+Bloomberg TV+,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+Euronews,https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+Reuters 60,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
+ビジネス・プレミアム (FAST),https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+エンタメニュース (FAST),https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+NHK・BS_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
+NHK・BS_jp,http://haru.charandom.blog/stream/jp/nhk_bs_(subch)/stream-output.m3u8?mode=hls
+BS日テレ_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
+BS朝日_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
+BS-TBS_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
+BSテレ東_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
+BSフジ_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=bs06
+BS10_jp,http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
+BS11-イレブン_jp,http://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
+BS12トゥエルビ_jp,http://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
+J-COM-BS_jp,https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
+BSよしもと_jp,https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
+NHKBSP4K.jp,https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+WOWOW Prime,https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
+WOWOW Live,https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
+WOWOW Cinema,https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
+BS 10 Premium,https://naori-test.netgenx.site/pxx.php?shk_cid=bs08
+WOWOW Plus,http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+Green Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=bs14
+JSport 1,https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
+JSport 2,https://naori-test.netgenx.site/pxx.php?shk_cid=bs19
+JSport 3,https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
+JSport 4,https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
+Sky A,https://naori-test.netgenx.site/pxx.php?shk_cid=cs01
+Gaora Sports,https://naori-test.netgenx.site/pxx.php?shk_cid=cs17
+Nittele G+,https://naori-test.netgenx.site/pxx.php?shk_cid=cs02
+Golf Network,https://naori-test.netgenx.site/pxx.php?shk_cid=cs03
+Sport Live Plus,http://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+Fighting TV Samurai,http://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+TOP BARÇA,https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+NTV Pro Wrestling,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+刺激ストロングSPORTS,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
+FUEL TV,https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+GOLF LIFE (FAST),https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+Toei Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
+Eisei Gekijo,https://naori-test.netgenx.site/pxx.php?shk_cid=cs22
+Neco Channel,http://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+The Cinema,http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+Movie Plus,https://naori-test.netgenx.site/pxx.php?shk_cid=cs14
+Nihon Eiga Senmon,https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
+Jidaigeki Senmon,https://naori-test.netgenx.site/pxx.php?shk_cid=cs04
+Family Gekijyo,https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
+Home Drama Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs05
+TBS Channel 1,http://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+TBS Channel 2,http://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+TV Asahi Channel 1,http://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+TV Asahi Channel 2,http://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+Nittele Plus,http://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+Channel Ginga,https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
+Fuji TV ONE,http://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+Fuji TV TWO,http://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+Fuji TV NEXT,https://naori-test.netgenx.site/pxx.php?shk_cid=cs26
+Action Channel (AXN),http://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mode=hls
+Dlife,http://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
+LaLa TV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs19
+Mystery Channel,http://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+ムビドラTV,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
+時代劇TV (FAST),https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+LeminoTV (FAST),https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+エンタメ・アジア (FAST),https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+Animax,https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
+Disney Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=bs24
+Kids Staton,https://naori-test.netgenx.site/pxx.php?shk_cid=cs07
+Cartoon Network,https://naori-test.netgenx.site/pxx.php?shk_cid=cs25
+AT-X,http://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
+Disney Junior,https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
+手塚プロダクションTV,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+しまじろうチャンネル,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
+キッズ,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+アニマックス FREE (FAST),https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+Takarazuka Sky Stage,https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
+Space Shower TV (HD),http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
+MTV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
+Music Air,http://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
+Music ON TV,http://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+Kayo Pops,https://naori-test.netgenx.site/pxx.php?shk_cid=cs13
+Music Japan TV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs06
+that’s 70s,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+that’s 80s,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+that’s 90s00s,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+that’s Rock,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
+Fishing Vision,https://naori-test.netgenx.site/pxx.php?shk_cid=bs25
+Discovery Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs08
+Animal Planet,https://naori-test.netgenx.site/pxx.php?shk_cid=cs24
+History,https://naori-test.netgenx.site/pxx.php?shk_cid=cs09
+National Geographic Japan,https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
+Tabi Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs12
+Tetsudo Channel,http://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+ペットTV (FAST),https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+キャンプ・アウトドア (FAST),https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+今日のごはんなに? (FAST),https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+観るたび (FAST),https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+Mondo TV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs21
+Me-Tele Next,http://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+Shogi Channel,http://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+囲碁・将棋ライト (R),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
+麻雀,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
+パチンコ・パチスロ,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
+ぷれいば！,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
+ワンニャンチャンネル,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+九州・沖縄　街ネタ,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8
+丸ごと九州 (FAST),https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+ぴあ落語ざんまい (FAST),https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+FASHIONPLUS (FAST),https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+囲碁・将棋ライト (FAST),https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+丸ごと北海道 (FAST),https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+東海ロキポ (FAST),https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+エンタメ～テレDEEP,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+Mnet,http://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
+KBS World,http://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+KNTV,http://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
+NEW KPOP,https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165
+韓流チャンネル (FAST),https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+ショップチャンネル,https://stream3.shopch.jp/HLS/master.m3u8
+QVC,https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+GSTV,https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+Weather News,http://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
+CH.635,http://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+rch_41,http://haru.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+rch_98,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+rch_40,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+rch_42,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
