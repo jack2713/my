@@ -502,6 +502,8 @@ CGTN (1080p),https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENG
 CGTN Documentary (1080p),https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 CGTN (720p),https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 Chuxiong News Channel [Not 24/7],http://hwapi.yntv.net/ew265l/848y54.m3u8
+CGTN Spanish (576p),http://45.186.106.147:8880/play/a06f/index.m3u8
+Chaozhou Public Channel,http://113.64.146.48:1688/hls/4/index.m3u8
 1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
 1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
 1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
