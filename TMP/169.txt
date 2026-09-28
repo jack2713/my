@@ -6876,7 +6876,6 @@ TVS Hi Tops,https://bozztv.com/gusa/gusa-hitops/index.m3u8
 TVS Pinball Network,https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 Zhejiang Children's Channel,https://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-BabyTV Spain (1080p),http://181.78.12.119:16123/play/ch01/index.m3u8
 Bob Esponja (720p),https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",KinoKazka (1080p),http://stream.mcquack.net/167/index.m3u8
 Pluto TV Kids Classics (720p),https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
@@ -11395,7 +11394,7 @@ Television Canaria (1080p),https://rtvclive.flumotion.cloud/rtvc1live/smil:chann
 Tito TV (720p),https://cloud.tvomix.com/TITOTV/index.m3u8
 TV3 (Spain) (1080p) [Geo-blocked],https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 TV3CAT (1080p) [Geo-blocked],https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
-TVE Internacional Europe (576p) [Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
+like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Undefined",TVE Internacional Europe,http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0
 TVE Internacional Europe HD (1080p) [Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 TVO Jesus (720p),https://cloud.tvomix.com/TVOJESUS/index.m3u8
 Unidad de investigacion,https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8
