@@ -169,6 +169,7 @@ def main():
     urls = [
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp.txt', 
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/mytemp01.txt',
+        'https://raw.githubusercontent.com/WangMCweijia/m3u-auto/refs/heads/main/out/live.txt',
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/my2.txt',
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/my3.txt',
         'https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/my1.txt',
