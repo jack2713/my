@@ -6672,6 +6672,7 @@ TVS Pinball Network,https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 Zhejiang Children's Channel,https://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 Bob Esponja (720p),https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+Boing (Spain),http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",KinoKazka (1080p),http://stream.mcquack.net/167/index.m3u8
 Pluto TV Kids Classics (720p),https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 Pluto TV Teen (720p),https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
@@ -10224,7 +10225,6 @@ Zainabia Channel,https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 ZOE Vision TV,https://live.zoevisiontv.com:3475/live/zoevisiontvlive.m3u8
 Angel TV Spanish (720p),https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
 EWTN Espana,https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
-KTO (504p),http://145.239.5.177/354/index.m3u8
 Trece (Spain) (576p),https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 Kuriakos Kids,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
