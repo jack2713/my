@@ -9547,7 +9547,7 @@ Zoy TV Sports 5,https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
 Barca TV,https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 Olympic Channel (1080p) [Geo-blocked],https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
 Real Madrid TV (726p),https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-Real Madrid TV English,http://88.212.15.17/live/real_madrid_tv/index.m3u8
+Real Madrid TV English,http://88.212.15.50/live/real_madrid_tv/index.m3u8
 Teledeporte,https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 30A Investment Pitch,https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 Agenda Minera TV,https://srv.panelcast.net/amitel/amitel/playlist.m3u8
@@ -11237,7 +11237,6 @@ Canal Sur Noticias,https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playl
 3Cat Plats bruts (1080p),https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 A Punt (720p),https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 Bon Dia TV (1080p),https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
-Canal Sur,https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
 Canal Sur Andalucia (1080p),https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 CMM TV HD (1080p),https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
 ETB 1 (1080p) [Geo-blocked],https://cdn1.etbon.eus/etb1/index.m3u8
