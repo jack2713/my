@@ -9493,6 +9493,8 @@ Zoy TV Sports 3,https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
 Zoy TV Sports 4,https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
 Zoy TV Sports 5,https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
 Barca TV,https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+Eurosport 1 Spain (576p),http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+Eurosport 2 Spain (1080p),http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 Olympic Channel (1080p) [Geo-blocked],https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
 Real Madrid TV (726p),https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 Real Madrid TV English,http://88.212.15.50/live/real_madrid_tv/index.m3u8
