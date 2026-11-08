@@ -5557,7 +5557,6 @@ Movistar + ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17"),http://o
 Movistar Acción ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17"),http://oha.to/play/3697992438/index.m3u8
 Movistar SeriesMania ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17"),http://oha.to/play/1344073831/index.m3u8
 Movistar Drama ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17"),http://oha.to/play/2748019555/index.m3u8
-like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Entertainment",AXN White (United States),https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
 En el punto de mira,https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
 ETB2 On (1080p),https://cdn1.etbon.eus/etb2on/index.m3u8
 Historia (1080p),https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
@@ -6546,6 +6545,7 @@ TV Kesehatan,https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playli
 Wapp,https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 Weihai Ocean Channel,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
 Zhivi!,http://31.148.48.15/Zhivi/index.m3u8
+like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Lifestyle",DMAX (Spain),http://90.163.85.113:8093/stream/51/index.m3u8
 El Mueble (720p),https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 Pluto TV Diseno,https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 13T,https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
@@ -9257,7 +9257,7 @@ Barca TV,https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 Eurosport 1 Spain (576p),http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 Eurosport 2 Spain (1080p),http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 Olympic Channel (1080p) [Geo-blocked],https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
-Real Madrid TV (726p),https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Real Madrid TV (1080p),http://90.163.85.113:8093/stream/26/index.m3u8
 Real Madrid TV English,http://88.212.15.50/live/real_madrid_tv/index.m3u8
 Teledeporte,https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 30A Investment Pitch,https://30a-tv.com/feeds/xodglobal/30atv.m3u8
