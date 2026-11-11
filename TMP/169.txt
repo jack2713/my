@@ -4373,7 +4373,6 @@ Canal Sur Andalucía,https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f
 like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",101tv Antequera (720p) [Geo-blocked],https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
 101tv Sevilla,https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
 Antena 3,https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
-Antena 3 Internacional (1080p),http://38.252.238.18:8000/play/a04a/index.m3u8
 Arabi TV (1080p),https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 BCN Gospel TV HD (720p),https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 La 8 Mediterraneo (1080p),https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
@@ -6958,7 +6957,7 @@ Pluto TV Telenovelas Clasicas,https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 Sin tetas no hay paraiso,https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 Todo Novelas (1080p),https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 TVE Star (576p),https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
-TVE Star HD (1080p),http://38.252.238.18:8000/play/a01h/index.m3u8
+TVE Star HD (1080p),https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 1KZN TV,https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 Tshwane TV,https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 1+2,http://89.254.128.5:22280/1_2/mono.m3u8
