@@ -6466,6 +6466,7 @@ TVS Comedy Network,https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 viju+ Comedy,http://77.235.1.17/vip_comedy/index.m3u8
 ViX Jajaja,https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
 Comedia a lo bestia de Pluto TV,https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+Comedy Central (Spain) (1080p),http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8
 Pluto TV Comedia made in Spain,https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
 Vaya semanita,https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
 13 Kids,https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -6654,8 +6655,9 @@ TVS Pinball Network,https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 Zhejiang Children's Channel,https://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 Bob Esponja (720p),https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
-Boing (Spain),http://digisat.ddns.net:4022/udp/239.0.5.177:8208
+Boing (Spain) (1080p),http://90.170.214.40:9700/stream/avatel/boing/master.m3u8
 like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",KinoKazka (1080p),http://stream.mcquack.net/167/index.m3u8
+Nickelodeon (Spain) HD,http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
 Pluto TV Kids Classics (720p),https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 Pluto TV Teen (720p),https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
 Rugrats (Germany),https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
@@ -9134,7 +9136,9 @@ Xtrema Series,https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u
 Xtrema Suspenso,https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 Xtrema Terror,https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 AXN (Spain),http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+AXN (Spain) HD,http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
 AXN Movies (Spain),http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
+Bom Cine (576p),https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
 Cine Friki (1080p),https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 Cine Western (Spain) (1080p),https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 Pluto TV Catastrofes,https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
@@ -10762,6 +10766,7 @@ Paramount Network East,http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 Star Channel Central America,https://streamer1.nexgen.bz/STAR/index.m3u8
 Medium (Germany),https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 Pluto TV Zombies,https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+Squirrel (576p),https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
 Star Trek: Voyager (Germany),https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 America's Test Kitchen,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268074-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=29e05466-9808-43c4-9894-00b77be27051
 BBC Food,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
