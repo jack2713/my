@@ -4294,12 +4294,10 @@ Canal Sur Andalucía,https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f
 12tv (1080p),https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 28 kanala,https://streaming.28kanala.eus/hls/z.m3u8
 like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",101tv Antequera (720p) [Geo-blocked],https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
-101tv Sevilla,https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
-Antena 3 (1080p),https://ignac16.github.io/voxel-tv-streams/a3.mpd
 Arabi TV (1080p),https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 BCN Gospel TV HD (720p),https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
+Canal Luz Television (720p),https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 La 8 Mediterraneo (1080p),https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
-Pirineus TV (1080p),https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8
 RNE para todos (720p),https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 TV BRICS Spanish (1080p),https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 TVG2 (720p) [Geo-blocked],https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
@@ -5147,7 +5145,6 @@ Zoom News,https://live.zoomnews.info/live/Zoom_playlist.m3u8
 Canal 24h,https://ztnr.rtve.es/ztnr/1694255.m3u8
 CNN International,http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 BBC World News,https://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
-101tv Malaga,https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 Actualidad 360,https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 France 24 Spanish (1080p),https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 RT en Espanol (1080p),http://15.204.246.24:8080/RTHD/index.m3u8
@@ -5694,9 +5691,6 @@ ETB2 On (1080p),https://cdn1.etbon.eus/etb2on/index.m3u8
 Historia (1080p),https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 Historia HD (1080p),https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
 HOLA! Play (1080p),https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-Kidz (1080p) [Geo-blocked],https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8
-La Sexta (1080p),https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
-La Sexta HD (1080p),https://ignac16.github.io/voxel-tv-streams/la6.mpd
 Mega (Spain) (1080p),https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd
 Mega (Spain) HD (1080p),https://ignac16.github.io/voxel-tv-streams/mega.mpd
 MTV Embarazada a los 16,https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
@@ -5704,8 +5698,6 @@ MTV Geordies,https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
 MTV Jerseys,https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
 MTV Originals,https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 MTV Verguenza ajena (720p),https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
-Neox (1080p),https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
-Neox HD (1080p),https://ignac16.github.io/voxel-tv-streams/neox.mpd
 Pluto TV Gasolina,https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
 Pluto TV Gore & Slasher,https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
 Pluto TV Impacto,https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
@@ -9400,14 +9392,13 @@ Zoy TV Sports 2,https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
 Zoy TV Sports 3,https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
 Zoy TV Sports 4,https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
 Zoy TV Sports 5,https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
-Barca TV,https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 DAZN F1,https://tvorb.net/ZTV/6918-live.m3u8
 Eurosport 1 Spain (576p),http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 Eurosport 2 Spain (1080p),http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 Olympic Channel (1080p) [Geo-blocked],https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
 like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",Real Madrid TV (1080p),http://90.163.85.113:8093/stream/26/index.m3u8
 Real Madrid TV English,http://88.212.15.50/live/real_madrid_tv/index.m3u8
-Teledeporte,https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+Teledeporte (720p) [Geo-blocked],https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 30A Investment Pitch,https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 Agenda Minera TV,https://srv.panelcast.net/amitel/amitel/playlist.m3u8
 Al Arabiya Business,https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
@@ -11054,7 +11045,6 @@ The Nest,https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u
 Top Gear,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 TV A7 Plus,https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 tvN,http://210.210.155.37/dr9445/h/h20/index.m3u8
-Rakuten Viki (1080p),https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 TVR Sport,https://tvr-tvrsport.cdn.zitec.com/live/tvrsport/main.m3u8
 Woman TV,https://embedlp.becdn.net/womantv.m3u8
 Xtrema Comedy,https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
@@ -11114,8 +11104,8 @@ La 2 Catalunya (720p),https://ztnr.rtve.es/ztnr/3987218.m3u8
 Canal 10 Emporda (360p) [Not 24/7],https://ventdelnord.tv:8080/escala/directe.m3u8
 Canal 25 TV (1080p),https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8
 Canal 33 Madrid (720p),https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+La Septima (1080p),https://cache2.zapitv.com/live/eds_c2/la_septima/dash_live_ez/la_septima.mpd
 Pluto TV Melrose Place,https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
-Tac12,https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8
 Telemadrid HD (1080p),https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
 Television Canaria (1080p),https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 Tito TV (720p),https://cloud.tvomix.com/TITOTV/index.m3u8
