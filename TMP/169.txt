@@ -4309,10 +4309,12 @@ like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",101tv Antequer
 Arabi TV (1080p),https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 BCN Gospel TV HD (720p),https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 Canal Luz Television (720p),https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
+Fuengirola TV (720p),https://streaming004.gestec-video.com/hls/FTV.m3u8
 La 8 Mediterraneo (1080p),https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 RNE para todos (720p),https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 TV BRICS Spanish (1080p),https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 TVG2 (720p) [Geo-blocked],https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
+TVG Mira Radio Galega,https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8
 1001 Noites,https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 1-2-3.tv,https://123tv-mx1.flex-cdn.net/index.m3u8
 30A The Beach Show,https://30a-tv.com/beachy.m3u8
@@ -6609,6 +6611,9 @@ Nickelodeon (Spain),http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m
 Nickelodeon (Spain) HD (1080p),http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
 Pluto TV Kids Classics (720p),https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 Pluto TV Teen (720p),https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+TVG Cativos,https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8
+TVG Mocinos,https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
+TVG Pequerrechos,https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
 13P,https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 30A Luxe Life Discovered,https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 9Life Sydney,https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
@@ -11123,6 +11128,7 @@ Television Canaria (1080p),https://rtvclive.flumotion.cloud/rtvc1live/smil:chann
 Tito TV (720p),https://cloud.tvomix.com/TITOTV/index.m3u8
 TV3 (Spain) (1080p) [Geo-blocked],https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 TV3CAT (1080p) [Geo-blocked],https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
+TV4 La Vall (1080p),https://valldeuxo.gestec-video.com/hls/lavall.m3u8
 TVE Internacional Europe (576p),https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
 TVE Internacional Europe HD (1080p) [Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 TVO Jesus (720p),https://cloud.tvomix.com/TVOJESUS/index.m3u8
