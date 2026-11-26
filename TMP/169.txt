@@ -4292,6 +4292,8 @@ Canal Sur Andalucía,https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f
 12tv (1080p),https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 28 kanala,https://streaming.28kanala.eus/hls/z.m3u8
 like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",101tv Antequera (720p) [Geo-blocked],https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
+like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",101tv Cadiz (720p) [Geo-blocked],https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8
+like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",101tv Sevilla (720p) [Geo-blocked],https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8
 Arabi TV (1080p),https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 BCN Gospel TV HD (720p),https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 Canal Luz Television (720p),https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
@@ -5145,6 +5147,7 @@ Zoom News,https://live.zoomnews.info/live/Zoom_playlist.m3u8
 Canal 24h,https://ztnr.rtve.es/ztnr/1694255.m3u8
 CNN International,http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 BBC World News,https://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
+like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="News",101tv Malaga (720p) [Geo-blocked],https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8
 Actualidad 360,https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 France 24 Spanish (1080p),https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 RT en Espanol (1080p),http://15.204.246.24:8080/RTHD/index.m3u8
